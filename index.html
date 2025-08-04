@@ -238,7 +238,7 @@
         if (filterEnabled && treeType) {
           // Escape single quotes in treeType
           const safeTreeType = treeType.replace(/'/g, "''");
-          whereClause = `SPSC_NM = '${safeTreeType}'`;
+          whereClause = `SPSC_NM LIKE '%${safeTreeType}%'`;
           //definitionExpression = `SPSC_NM = '${safeTreeType}'`;
         }
         //treesLayer.definitionExpression = definitionExpression;
@@ -357,3 +357,4 @@
 </body>
 
 </html>
+
