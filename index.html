@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OneMap Basemap Example</title>
+  <link rel="stylesheet" href="https://js.arcgis.com/4.29/esri/themes/light/main.css">
+  <script src="https://js.arcgis.com/4.29/"></script>
+  <style>
+    html, body, #viewDiv {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+    }
+        #filterBar {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+      background: rgba(255,255,255,0.97);
+      padding: 24px 32px;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+      font-size: 2rem;
+    }
+
+    #filterBar label {
+      font-size: 2rem;
+    }
+
+    #filterToggle {
+      width: 2rem;
+      height: 2rem;
+      margin-right: 12px;
+      vertical-align: middle;
+    }
+
+    #treeTypeSelect {
+      font-size: 1.5rem;
+      padding: 8px 12px;
+      margin-left: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div id="filterBar">
+    <label>
+      <input type="checkbox" id="filterToggle" checked>
+      Enable Filter
+    </label>
+    <select id="treeTypeSelect">
+      <option value="">-- Select Tree Type --</option>
+      <option>Garcinia cowa</option>
+      <option>Rubroshorea leprosula (Miq.) P.S.Ashton & J.Heck.</option>
+      <option>Macaranga bancana (Miq.) Müll.Arg.</option>
+      <option>Sterculia parvifolia</option>
+      <option>Lagerstroemia speciosa (L.) Pers.</option>
+      <option>Syzygium pachyphyllum (Kurz) Merr. & L.M.Perry</option>
+      <option>Amesiodendron chinense (Merrill) Hu</option>
+      <option>Gardenia sootepensis</option>
+      <option>Lanonia dasyantha</option>
+      <option>Garcinia nigrolineata Planch. ex T. Anderson</option>
+      <option>Byrsonima crassifolia</option>
+      <option>Dipterocarpus rotundifolius Foxw.</option>
+      <option>Shorea symingtonii G.H.S.Wood</option>
+      <option>Aglaia odorata Lour.</option>
+      <option>Shorea multiflora (Burck) Symington</option>
+      <option>Dracontomelon duperreanum</option>
+      <option>Phaleria macrocarpa Boerl.</option>
+      <option>Syzygium buettnerianum</option>
+      <option>Leptospermum 'cv.' Pacific Beauty|(descriptor) dwarf</option>
+      <option>Garcinia hombroniana</option>
+      <option>Knema corticosa</option>
+      <option>Chrysalidocarpus tsaravoasira (Beentje) Eiserhardt & W.J.Baker</option>
+      <option>Tabernaemontana aurantiaca</option>
+      <option>Endocomia canarioides</option>
+      <option>Gluta wallichi</option>
+      <option>Maniltoa browneoides</option>
+      <option>Filicium decipiens</option>
+      <option>Leptospermum Species</option>
+      <option>Moringa oleifera Lamk</option>
+      <option>Nephelium costatum</option>
+      <option>Anisoptera laevis Ridl.</option>
+      <option>Livistona endauensis</option>
+      <option>Xylocarpus moluccensis</option>
+      <option>Bhesa paniculata Arn.</option>
+      <option>Calophyllum teysmannii var. inophylloide</option>
+      <option>Castanopsis javanica</option>
+      <option>Garcinia macrophylla Mart.</option>
+      <option>Pouteria sapota</option>
+      <option>Pterocarpus rohrii Vahl.</option>
+      <option>Shorea atrinervosa</option>
+      <option>Clerodendrum laevifolium (variegated) Blume</option>
+      <option>Plumeria rubra 'cv.' Rosy Dawn</option>
+      <option>Pouteria gardneriana (A.DC.) Radlk.</option>
+      <option>Chrysalidocarpus plumosa (Hodel, Marcus & J.Dransf.) Eiserhardt & W.J.Baker</option>
+      <option>Dracaena cochinchinensis (Loureiro) S. C. Chen in F. T. Wang & Tang</option>
+      <option>Jatropha curcas L.</option>
+      <option>Tristaniopsis obovata</option>
+      <option>Lepisanthes amoena</option>
+      <option>Thespesia populnea</option>
+      <option>Diospyros hasseltti</option>
+    </select>
+  </div>
+  <div id="viewDiv"></div>
+  <script>
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/layers/WebTileLayer",
+      "esri/Graphic",
+      "esri/layers/FeatureLayer",
+      "esri/widgets/Home",
+      "esri/widgets/Zoom"
+    ], function(Map, MapView, WebTileLayer, Graphic, FeatureLayer, Home, Zoom) {
+
+      // OneMap Singapore Grey_HD tile URL template
+      const oneMapLayer = new WebTileLayer({
+        urlTemplate: "https://www.onemap.gov.sg/maps/tiles/Grey_HD/{level}/{col}/{row}.png",
+        copyright: "OneMap Singapore"
+      });
+
+      // TreesSG Feature Layer (set to not visible initially)
+      const treesLayer = new FeatureLayer({
+        url: "https://services6.arcgis.com/s5gdswleLl0QthYa/arcgis/rest/services/TreesSG_UAT_TreeInformation_All/FeatureServer",
+        visible: false
+      });
+
+      const map = new Map({
+        basemap: {
+          baseLayers: [oneMapLayer]
+        }
+      });
+
+      const singaporeExtent = {
+        type: "extent",
+        xmin: 103.67,
+        ymin: 1.19,
+        xmax: 103.9,
+        ymax: 1.47,
+        spatialReference: { wkid: 4326 }
+      };
+
+      const view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [103.851959, 1.290270], // Singapore
+        zoom:13,
+        constraints: {
+          minZoom: 13, // Prevent zooming out beyond this level
+          maxZoom: 22,
+          rotationEnabled: false // Disables map rotation
+          //geometry: singaporeExtent // Constrain pan/zoom to Singapore
+        }
+      });
+
+      // Add Home button widget
+      const homeWidget = new Home({
+        view: view
+      });
+      view.ui.add(homeWidget, "bottom-left");
+
+      // Add Zoom button widget
+      const zoomWidget = new Zoom({
+        view: view
+      });
+      view.ui.add(zoomWidget, "bottom-right");
+
+      // Limit to 9 query requests per zoom/pan change to achieve consistency
+      // Returns an array of 9 rectangle geometries covering the current view extent
+      function getGridRectangles(view) {
+        const extent = view.extent;
+        const xmin = extent.xmin;
+        const xmax = extent.xmax;
+        const ymin = extent.ymin;
+        const ymax = extent.ymax;
+        const xStep = (xmax - xmin) / 3;
+        const yStep = (ymax - ymin) / 3;
+        const rectangles = [];
+        for (let i = 0; i < 3; i++) {
+          for (let j = 0; j < 3; j++) {
+            rectangles.push({
+              type: "extent",
+              xmin: xmin + i * xStep,
+              xmax: xmin + (i + 1) * xStep,
+              ymin: ymin + j * yStep,
+              ymax: ymin + (j + 1) * yStep,
+              spatialReference: extent.spatialReference
+            });
+          }
+        }
+        return rectangles;
+      }
+
+      // Helper to show/hide tree features based on zoom
+      function updateTreeDisplay(view, treesLayer) {
+        const zoom = view.zoom;
+        if (zoom >= 20) {
+          // Show individual tree features, hide grid counts
+          treesLayer.visible = true;
+          view.graphics.removeAll();
+          map.add(treesLayer);
+          // Optionally, you can query and display individual tree features here
+          treesLayer.queryFeatures({
+            where: "1=1", // Get all features
+            outFields: ["*"],
+            returnGeometry: true
+          }).then(function(results) {
+            results.features.forEach(feature => {
+              view.graphics.add(new Graphic({
+                geometry: feature.geometry,
+                attributes: feature.attributes
+              }));
+            });
+          });
+        } else {
+          // Hide individual tree features, show grid counts
+          treesLayer.visible = false;
+          map.remove(treesLayer);
+          showTreeCountsInGrid(view, treesLayer);
+        }
+      }
+
+      // Show tree counts in each grid rectangle
+      function showTreeCountsInGrid(view, treesLayer) {
+        // Get filter UI elements and their values
+        const filterToggle = document.getElementById("filterToggle");
+        const treeTypeSelect = document.getElementById("treeTypeSelect");
+        const filterEnabled = filterToggle.checked;
+        const treeType = treeTypeSelect.value;
+
+        const rectangles = getGridRectangles(view);
+        // Build whereClause and definitionExpression for server-side filtering
+        let definitionExpression = "";
+        let whereClause = "1=1";
+
+        if (filterEnabled && treeType) {
+          // Escape single quotes in treeType
+          const safeTreeType = treeType.replace(/'/g, "''");
+          whereClause = `SPSC_NM = '${safeTreeType}'`;
+          //definitionExpression = `SPSC_NM = '${safeTreeType}'`;
+        }
+        //treesLayer.definitionExpression = definitionExpression;
+
+        // Define 7 font sizes (smallest to largest)
+        const FONT_SIZES = [20, 24, 28, 36, 48, 54, 64];
+
+        // Helper to get font size bracket for a count
+        function getFontSizeForCount(count, min, max) {
+          if (min === max) return FONT_SIZES[3]; // All counts equal, use middle size
+          // Spread count into 7 brackets
+          const bracket = Math.floor(((count - min) / (max - min)) * (FONT_SIZES.length - 1));
+          return FONT_SIZES[bracket];
+        }
+
+        
+
+        // Helper: get random shifted center as a percentage of grid size
+        function getRandomShiftedCenter(rect, percentX, percentY) {
+          const centerX = (rect.xmin + rect.xmax) / 2;
+          const centerY = (rect.ymin + rect.ymax) / 2;
+          const width = rect.xmax - rect.xmin;
+          const height = rect.ymax - rect.ymin;
+          // percentX and percentY are in [0, 1], e.g. 0.3 for 30%
+          const maxShiftX = width * percentX / 2;
+          const maxShiftY = height * percentY / 2;
+          const shiftX = (Math.random() * 2 - 1) * maxShiftX;
+          const shiftY = (Math.random() * 2 - 1) * maxShiftY;
+          return {
+            type: "point",
+            x: centerX + shiftX,
+            y: centerY + shiftY,
+            spatialReference: rect.spatialReference
+          };
+        }
+
+        // Collect all promises for the counts
+        const countPromises = rectangles.map(rect =>
+          treesLayer.queryFeatureCount({
+            geometry: rect,
+            spatialRelationship: "intersects",
+            where: whereClause
+          })
+        );
+
+        // When all counts are ready, remove previous and add new labels
+        Promise.all(countPromises).then(counts => {
+          const min = Math.min(...counts);
+          const max = Math.max(...counts);
+          view.graphics.removeAll();
+          rectangles.forEach((rect, idx) => {
+            const count = counts[idx];
+            if (count === 0) return; // Do not show label if count is zero
+            // e.g. 0.3 means up to ±15% of grid width/height
+            const center = getRandomShiftedCenter(rect, 0.5, 0.5);
+            view.graphics.add(new Graphic({
+              geometry: center,
+              symbol: {
+                type: "text",
+                color: "green",
+                haloColor: "yellow",
+                haloSize: "4px",
+                text: count.toString(),
+                font: {
+                  size: getFontSizeForCount(count, min, max),
+                  weight: "bold"
+                }
+              }
+            }));
+          });
+        });
+      }
+
+      // Debounce utility to wait until pan/zoom is finished
+      function debounce(func, delay) {
+        let timeout;
+        return function(...args) {
+          clearTimeout(timeout);
+          timeout = setTimeout(() => func.apply(this, args), delay);
+        };
+      }
+      
+      // Get filter UI elements
+      const filterToggle = document.getElementById("filterToggle");
+      const treeTypeSelect = document.getElementById("treeTypeSelect");
+
+      // Show grid counts when view is ready and after pan/zoom is completed
+      view.when(() => {
+        // Initial draw
+        //showTreeCountsInGrid(view, treesLayer);
+        updateTreeDisplay(view, treesLayer);
+
+        // Debounced handler for navigation changes from either zoom or pan
+        const debouncedNavChange = debounce(() => {
+          //console.log("Current zoom level:", view.zoom, "Current scale:", view.scale);
+          updateTreeDisplay(view, treesLayer);
+        }, 800);
+
+        view.watch("stationary", function(isStationary) {
+          if (isStationary) {
+            debouncedNavChange();
+          }
+        });
+
+
+         // Add these event listeners to update counts when filter changes
+        filterToggle.addEventListener("change", () => {
+          showTreeCountsInGrid(view, treesLayer);
+        });
+        treeTypeSelect.addEventListener("change", () => {
+          showTreeCountsInGrid(view, treesLayer);
+        });
+      });
+    });
+  </script>
+</body>
+</html>
