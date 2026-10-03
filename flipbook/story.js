@@ -1674,6 +1674,362 @@ window.BOOK = {
           "art": "art/c5-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 6,
+      "title": "Arrival and the Sorting",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The lake"
+        },
+        {
+          "n": 2,
+          "title": "The Hat’s rules"
+        },
+        {
+          "n": 3,
+          "title": "Names"
+        },
+        {
+          "n": 4,
+          "title": "The choice"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "Night on a steep muddy path. A chain of lanterns winds down through the trees. Hagrid’s lamp leads. Harry and Ron are near the front. Neville slips. Draco picks his way as if the mud is an insult.",
+          "expressions": "Hagrid looks ahead, cheerful. Harry looks up, excited. Neville looks at the ground, worried. Draco sneers at Hagrid’s back.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Mind the path. It gets steep, and the forest isn't friendly."
+            }
+          ],
+          "art": "art/c6-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The path opens on the lake. A fleet of little wooden boats rocks on black water with nobody rowing. Each holds four. Lanterns double in the still water. Hagrid waves them in.",
+          "expressions": "Harry looks at the boats, full of wonder. Hermione is already curious how they move. Ron grins a let’s-go. Neville looks at the water, pale.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "No more than four to a boat. In you get."
+            }
+          ],
+          "art": "art/c6-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Inside one boat on black water. Neville’s knuckles are white on the gunwale. Hermione sits straight, a hand on his sleeve. Ron’s knee bumps Harry’s. A toad makes a lump in Neville’s pocket.",
+          "expressions": "Neville looks at the water, terrified. Hermione looks at him, steady and kind. Harry looks ahead, calm for someone else. Ron copies that calm.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "I've never been in a boat. I can't swim."
+            },
+            {
+              "who": "Hermione",
+              "line": "Then hold the side, Neville, and don't look down."
+            }
+          ],
+          "art": "art/c6-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "From high above, the fleet slides by itself across the open lake, four by four, leaving clean lines. No splashing. Hagrid’s boat holds only him, lantern between his boots. Harry’s boat is near the front.",
+          "expressions": "Too far for detail. The feeling is hush. A few pale faces are turned forward.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Nobody's rowing."
+            },
+            {
+              "who": "Harry",
+              "line": "They're moving anyway."
+            }
+          ],
+          "art": "art/c6-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Hogwarts rises on the cliff, windows lit, doubled so perfectly in the lake that the boats seem to float between two castles. Harry stands in his boat. Ron grabs his robe so he will not fall.",
+          "expressions": "Harry looks at the castle, undone by it. Ron grins. Hermione memorizes the towers. Neville looks up, fear forgotten.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "That's Hogwarts."
+            }
+          ],
+          "art": "art/c6-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Quiet on the water. Only Harry’s chin and hands show at the top of the panel. The lake holds his face among the lit windows, scar and glasses and all, and Ron’s red hair beside him.",
+          "expressions": "The reflection looks wonderstruck and a little scared of wanting this. Both of them are silent.",
+          "dialogue": [],
+          "art": "art/c6-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "They enter the Great Hall and it explodes upward. Four long tables, hundreds of students, candles hanging in the air, and a ceiling that is the night sky. House banners: red, yellow, blue, and green. McGonagall leads in emerald robes.",
+          "expressions": "Harry looks at the ceiling, awed. McGonagall looks ahead, brisk. She has seen this sky for years.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "The ceiling. It's the sky."
+            },
+            {
+              "who": "Ron",
+              "line": "Enchanted. Fred told me. He might even have been right."
+            }
+          ],
+          "art": "art/c6-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "A pearly ghost in a ruff and tights rises through a bench. Plates do not move. Neville jumps. Hermione steadies her books. Harry and Ron flank them.",
+          "expressions": "The ghost looks apologetic and pleased to be noticed. Neville yelps, eyes round. Harry is delighted and afraid. Ron grins.",
+          "dialogue": [
+            {
+              "who": "Nearly Headless Nick",
+              "line": "Pardon me. New students. How charming."
+            },
+            {
+              "who": "Neville",
+              "line": "It went through the table!"
+            }
+          ],
+          "art": "art/c6-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "McGonagall stands before the first years with a scroll, indicating the banners. Behind her a stool and an old patched hat wait, not yet alive. The four house colors frame her.",
+          "expressions": "She looks along the line, fair and severe. Hermione stares at the hat. Draco is already home in the green banner. Harry does not know which color is his.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "You will be Sorted into Gryffindor, Hufflepuff, Ravenclaw, or Slytherin. The Sorting Hat decides. Not you."
+            }
+          ],
+          "art": "art/c6-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Close on the Sorting Hat. The brim ripples. A tear near the brim opens like a mouth. The stool creaks. McGonagall’s hand has just left it.",
+          "expressions": "The rip shapes a sly, knowing almost-smile. A first year flinches.",
+          "dialogue": [],
+          "art": "art/c6-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The Hat sings from the stool. In the candle smoke, four shapes appear: a lion, a badger, an eagle, and a snake. McGonagall waits beside it. Dumbledore watches from the high table. The hall leans in.",
+          "expressions": "The Hat looks proud of its song. Dumbledore twinkles, kind. Harry looks from the lion to the snake, unsettled. Draco looks at the snake, satisfied.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "I look for courage, and for a loyal heart. For a keen mind, and for ambition. Put me on, and I shall Sort you."
+            }
+          ],
+          "art": "art/c6-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "A small student who is not one of them crosses a huge empty stretch of floor. The hat waits. Hundreds of faces are a blur of eyes. Harry, Ron, Hermione, Neville, and Draco watch the walk they will all have to make.",
+          "expressions": "The walking child swallows, looking at the hat. McGonagall looks at her scroll, neutral. Harry measures the empty floor. Ron looks at his own shoes.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Abbott, Hannah."
+            }
+          ],
+          "art": "art/c6-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The Hat is only just on Hermione’s bushy hair and already finished. She lifts it off herself, smiling, and the red table erupts. McGonagall nods once.",
+          "expressions": "Hermione looks toward Gryffindor, relieved, a true smile, then back at Harry and Ron. Draco looks bored.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "Gryffindor!"
+            }
+          ],
+          "art": "art/c6-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Draco sits on the stool as if it were a throne. The Hat touches his platinum hair and agrees at once. Green and silver banners brighten. Crabbe and Goyle wait. Snape, at the high table, gives the smallest approval.",
+          "expressions": "Draco looks past the Hat at Harry, a cool smile. Snape looks satisfied. Harry looks back, unimpressed.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Slytherin. Make it Slytherin."
+            },
+            {
+              "who": "Sorting Hat",
+              "line": "Slytherin."
+            }
+          ],
+          "art": "art/c6-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Draco is seated among the Slytherins, a goblet in his hand, turned fully around. The unsorted line is far off. Harry is the one in focus between Ron and Neville.",
+          "expressions": "Draco’s smile is thin, a challenge and an invitation. Harry looks forward at the hat and will not look back. Ron scowls.",
+          "dialogue": [],
+          "art": "art/c6-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Neville is on his hands and knees halfway to the stool, robes tangled, Trevor in a pocket. A moment later the same boy is under the Hat, and the Gryffindor table is ready to cheer. Hermione is already standing to make room.",
+          "expressions": "On the floor he is mortified, ears red. Under the Hat he beams, disbelieving. Hermione welcomes him. Harry is glad.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "Gryffindor!"
+            },
+            {
+              "who": "Neville",
+              "line": "I did it. I actually did it."
+            }
+          ],
+          "art": "art/c6-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Ron’s hem is twisted into a rope, his ears as red as his hair. The Hat comes off in his hands as he sprints for the red table. Hermione and Neville make room. Harry is still in the unsorted line.",
+          "expressions": "On the walk Ron is scared of being last, or of Slytherin. When the Hat shouts, the worry breaks into a grin. Harry’s small smile says he is scared too, and glad.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Not last. And not Slytherin. Please."
+            },
+            {
+              "who": "Sorting Hat",
+              "line": "Gryffindor!"
+            }
+          ],
+          "art": "art/c6-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "McGonagall’s mouth is open on the name. The entire hall has turned. Even the candles seem to lean. Harry is a small figure at the start of that huge attention. The stool waits. Ron is half-risen on the red bench. Dumbledore and Snape watch from the high table.",
+          "expressions": "Harry’s throat is tight. Ron wills him over. Snape is unreadable and intense. Dumbledore is gentle. McGonagall has a flicker of warmth.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Potter, Harry."
+            }
+          ],
+          "art": "art/c6-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Inside the Hat it is almost black. Only a rim of candlelight shows at the bottom. The brim covers Harry’s eyes. His scar and his tense mouth sit below the leather. His hands grip the stool.",
+          "expressions": "His eyes are hidden. He looks into the dark of the brim as if someone is standing there.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "Hmm. Difficult. Plenty of courage. And a thirst to prove yourself. Interesting."
+            }
+          ],
+          "art": "art/c6-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "A split feeling. In the dark, a colder Harry wears finer robes with a green lining and does not look kind. On the stool, the real Harry shakes his head under the Hat. The red table, where Ron and Hermione sit, is the color he wants.",
+          "expressions": "His jaw is set. The vision looks proud and alone. He refuses it.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "Slytherin would suit you, you know. Ambition. A certain disregard for rules."
+            },
+            {
+              "who": "Harry",
+              "line": "No. Not that house. Anywhere but Slytherin."
+            }
+          ],
+          "art": "art/c6-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "A pause, then the Hat’s brim flies wide. Harry flinches at his own result. A red banner hangs behind him. McGonagall is a step away.",
+          "expressions": "His eyes show again as the brim lifts: shock, then relief. He looks toward Gryffindor. McGonagall allows a brief warmth.",
+          "dialogue": [
+            {
+              "who": "Sorting Hat",
+              "line": "Very well. Gryffindor!"
+            }
+          ],
+          "art": "art/c6-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "The red table explodes. Hands pull Harry onto the bench. Fred and George stand on it, yelling. Ron pounds the wood hard enough to jump the plates. Hermione claps. Neville beams further down. Pumpkin juice spills.",
+          "expressions": "Ron’s worry is gone, pure joy. Harry grins, belonging. The twins are loud and welcoming. Hermione looks happy and right.",
+          "dialogue": [
+            {
+              "who": "Fred",
+              "line": "We've got Potter!"
+            },
+            {
+              "who": "George",
+              "line": "About time, Ron, shove up!"
+            }
+          ],
+          "art": "art/c6-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The feast has appeared: roast, pies, piles of plates. Dumbledore stands at the high table, arms open, then one finger raised. In the foreground Ron’s laugh is caught and dropped, a goblet paused at his mouth. Snape watches Harry, not the food. Quirrell, in a purple turban, claps a beat late.",
+          "expressions": "Dumbledore is kind, and his eyes are not joking. Ron’s laugh dies into a question. Harry snags on the warning. Hermione is already filing it away.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Welcome to a new year at Hogwarts. Before the feast, one warning. The third-floor corridor, on the right-hand side, is out of bounds to all who do not wish to die a most painful death."
+            },
+            {
+              "who": "Ron",
+              "line": "He's joking. Tell me he's joking."
+            }
+          ],
+          "art": "art/c6-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Across the feast, through steam and candles, Snape’s face is locked on Harry. Harry has a fork halfway up, a roast potato on it, and has gone still. Everyone else is eating and blurred.",
+          "expressions": "Snape does not blink. The dislike feels personal. Harry looks back, the belonging of the last moment punctured. He does not look away first.",
+          "dialogue": [],
+          "art": "art/c6-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };

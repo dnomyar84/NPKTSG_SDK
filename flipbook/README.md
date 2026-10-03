@@ -9,6 +9,7 @@ Chapters in the book so far:
 3. Hagrid tells Harry he is a wizard
 4. Diagon Alley
 5. The train to Hogwarts
+6. Arrival and the Sorting
 
 - [Flip book](index.html) — click the right page to turn forward and the left page to turn back. Each row is two panels: half and half, or a 2:1 or 1:2 split. The long frame is kept for wide views of the street, the sky, and the house.
 - Storyboard: [Chapter 1 in the panel layout](../reference/harry-potter-philosophers-stone-panels.md).
