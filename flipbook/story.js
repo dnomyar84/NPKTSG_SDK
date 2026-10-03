@@ -959,6 +959,363 @@ window.BOOK = {
           "art": "art/c3-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 4,
+      "title": "Diagon Alley",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The pub and the wall"
+        },
+        {
+          "n": 2,
+          "title": "Gringotts"
+        },
+        {
+          "n": 3,
+          "title": "Supplies"
+        },
+        {
+          "n": 4,
+          "title": "Wand and rival"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "A cramped London back street in daylight. Bins, pigeons, and a pub squeezed between two shops, painted a little sharper than the street. Muggle pedestrians pass with bags and briefcases.",
+          "expressions": "A woman with a pram looks through Hagrid as if he were a lamppost. Harry looks at her, confused. Hagrid looks at the door, fond.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Leaky Cauldron. Don't mind that the Muggles walk straight past it."
+            }
+          ],
+          "art": "art/c4-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Inside the Leaky Cauldron. Low beams, a fire, copper pans, smoke. The crowded room freezes mid-drink. Daylight only at the door.",
+          "expressions": "The room looks at Harry with awe. Harry's shoulders are up, overwhelmed. Hagrid looks proud. An old wizard stares at the scar.",
+          "dialogue": [
+            {
+              "who": "Old wizard",
+              "line": "Bless my soul. Harry Potter. In our pub."
+            }
+          ],
+          "art": "art/c4-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "The pub crowd presses close. Many hands reach in from all sides. One hand is about to touch Harry's hair near the scar. Hagrid's arm is a barrier.",
+          "expressions": "They look at Harry as a story. Harry looks at the floor, shy. Hagrid is polite and ready to move them on.",
+          "dialogue": [
+            {
+              "who": "Witch",
+              "line": "May I shake your hand? The boy who lived."
+            },
+            {
+              "who": "Harry",
+              "line": "Please. I don't really know what to say."
+            }
+          ],
+          "art": "art/c4-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "A grimy courtyard behind the pub. A plain brick wall, bins, damp stone, and an ordinary gray cat. Hagrid taps a brick with the tip of his umbrella.",
+          "expressions": "Hagrid looks at the bricks, concentrating, tongue slightly out. Harry looks at the wall, skeptical and curious. The cat looks at neither.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Three up, two across. Watch the bricks."
+            }
+          ],
+          "art": "art/c4-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The brick wall folds open like a puzzle. A hole widens into light, with a hint of cauldrons, an owl, and a striped awning.",
+          "expressions": "Harry's eyes are huge, fear gone for a second. Hagrid looks at Harry's face, not at the street.",
+          "dialogue": [],
+          "art": "art/c4-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Diagon Alley spills out: cobbles, leaning shops, cauldrons, broomsticks, owl cages, and color after the gray street. Harry and Hagrid step through at the bottom.",
+          "expressions": "Harry looks up and around, mouth open, delighted. Hagrid looks ahead, at home. A witch glances at Harry's jeans, amused.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "What is this place?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Diagon Alley. Where wizards do their shopping."
+            }
+          ],
+          "art": "art/c4-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Gringotts entrance hall. White marble, chandeliers, long counters, goblins in crimson, wizards queueing. A goblin teller leans over the high counter.",
+          "expressions": "The goblin looks at Harry, sharp and unimpressed. Harry looks up, polite and nervous. Hagrid looks at the goblin, respectful, a key in his palm.",
+          "dialogue": [
+            {
+              "who": "Goblin",
+              "line": "Key."
+            },
+            {
+              "who": "Hagrid",
+              "line": "Vault for Harry Potter. And one more, on the headmaster's order."
+            }
+          ],
+          "art": "art/c4-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "A corridor of bronze vault doors. Cart rails drop into a dark tunnel. A goblin with a lantern walks ahead and does not look back.",
+          "expressions": "Hagrid looks ahead, casual about danger. Harry looks at the dark tunnel, swallowing. The goblin does not look back.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Goblins are the least of what guards the deep vaults at Gringotts. Dragons, some of them."
+            }
+          ],
+          "art": "art/c4-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "A cart plunges on rails through the caverns. Stalactites, an underground lake, torch brackets. Harry's hair is straight up. Hagrid's beard streams.",
+          "expressions": "Harry looks forward, terrified and thrilled. Hagrid looks at Harry, laughing. The goblin looks at the track, bored.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Does the cart have to go this fast?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Best bit of Gringotts, this is."
+            }
+          ],
+          "art": "art/c4-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A small round vault, door open. Gold, silver, and bronze coins in a heap. The cart waits outside. Harry stands at the edge and does not step in.",
+          "expressions": "Harry looks at the coins, stunned, then at Hagrid for permission. Hagrid nods, soft. The goblin glances at a pocket watch.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "This is mine? All of these coins?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Your mum and dad left them. Galleons, Sickles, Knuts. Take a handful."
+            }
+          ],
+          "art": "art/c4-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "A colder high-security vault. On a stone table, one small parcel wrapped in dirty paper and string. Hagrid's hand closes around it. Harry stays near the door with a pouch of coins.",
+          "expressions": "Hagrid looks at the package, respectful and nervous. Harry looks at it, questions forming. The goblin watches the package.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "That's the parcel. Hogwarts business. Don't you touch it."
+            }
+          ],
+          "art": "art/c4-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The cart climbs toward distant daylight. Hagrid's hand rests over the pocket. The package makes a square shape under the coat. Gold sparks of other vaults far below.",
+          "expressions": "Harry looks at Hagrid, curious, not pushy. Hagrid looks ahead, kind but closed. Harry accepts it with a small frown.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "What's in it?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Can't say. Dumbledore's orders."
+            }
+          ],
+          "art": "art/c4-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Madam Malkin's. Mirrors, bolts of black cloth, a window onto the alley. Harry stands on a stool, arms out. A tape measure zips around him with no one holding it. Pins float.",
+          "expressions": "Harry looks down at the tape, delighted and ticklish, a real grin.",
+          "dialogue": [
+            {
+              "who": "Madam Malkin",
+              "line": "Hold still, dear. Hogwarts robes, is it? Arms out."
+            }
+          ],
+          "art": "art/c4-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Flourish and Blotts, crowded, ladders, dust in sunbeams. Harry's hand rests on a heavy book in a stack up to his chin. The cover has a dark, unsmiling face. He does not open it.",
+          "expressions": "Harry looks at the dark cover, uneasy, then looks away on purpose. The clerk looks bored. Hagrid waves from outside, too big for the shop.",
+          "dialogue": [],
+          "art": "art/c4-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "The owl shop. Cages wall to wall, feathers on the floor, late light. In the center a large snowy owl, white and gold-eyed, looks only at Harry.",
+          "expressions": "The owl looks at Harry, calm, choosing him. Harry looks back, already attached. Hagrid winces at the price, then gives in.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "That one. The snowy owl. She's looking at me."
+            }
+          ],
+          "art": "art/c4-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The shop doorway, alley busy behind them. The cage is in Harry's arms, almost as big as his torso. Hedwig's white face shows at the door. Hagrid pays with a sheepish pile of coins.",
+          "expressions": "Harry looks into the cage, tender. Hedwig looks back. Hagrid looks away, embarrassed by his own kindness.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Birthday present. From me."
+            },
+            {
+              "who": "Harry",
+              "line": "I'll call her Hedwig."
+            }
+          ],
+          "art": "art/c4-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Diagon Alley at golden hour. Harry stands in black school robes over his shirt and jeans, the robe a bit long, cage in both arms. Hagrid carries the trunk, books, and a cauldron.",
+          "expressions": "Harry looks up at Hagrid with shy pride. Hagrid looks at him, beaming, eyes wet.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "There. You look a proper wizard now."
+            }
+          ],
+          "art": "art/c4-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "A shop window of brass telescopes. The glass shows a wizard boy with an owl. Harry, outside the glass, touches his own chest. The taped glasses give him away.",
+          "expressions": "He looks at the reflection, wondering, a little frightened of how much he wants this. The reflection looks braver than he feels.",
+          "dialogue": [],
+          "art": "art/c4-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Ollivander's. Thousands of thin boxes, one lamp, dust. Harry turns and Ollivander is inches from his face, pale eyes huge. A measuring tape hangs in the air.",
+          "expressions": "Ollivander looks at the scar, fascinated, not unkind. Harry looks at him, unnerved, polite.",
+          "dialogue": [
+            {
+              "who": "Ollivander",
+              "line": "Good afternoon, Mr Potter. I wondered when I should be seeing you."
+            }
+          ],
+          "art": "art/c4-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "The lamp, the boxes, silence. Ollivander's finger hovers near the scar and does not touch. He holds a slim wand that is not Harry's.",
+          "expressions": "Ollivander looks at the scar, remembering. Harry looks past him, still. He does not blink.",
+          "dialogue": [
+            {
+              "who": "Ollivander",
+              "line": "I remember every wand I ever sold. I remember the wand that gave you that scar."
+            }
+          ],
+          "art": "art/c4-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The shop in disorder. Harry holds a trial wand at arm's length. A vase has shattered. Smoke curls. Boxes tumble. Hagrid's eye is at the window.",
+          "expressions": "Harry looks at the broken vase, guilty. Ollivander looks delighted by the mess. The wand looks wrong in Harry's grip.",
+          "dialogue": [
+            {
+              "who": "Ollivander",
+              "line": "No. Not maple. Not ebony. The wand is particular. Try again."
+            }
+          ],
+          "art": "art/c4-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "The narrow shop turns beautiful. Gold-white light pours from the wand in Harry's hand. Dust becomes sparks. The lamp is dull beside it.",
+          "expressions": "Harry looks at the wand, wonder, a small smile. Ollivander looks at the pair of them, satisfied and troubled.",
+          "dialogue": [
+            {
+              "who": "Ollivander",
+              "line": "Ah. Holly and phoenix feather. Eleven inches. Curious indeed."
+            }
+          ],
+          "art": "art/c4-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Quiet shop. The glow has faded to a thread. The wand lies between their hands. Ollivander holds the box in his other hand.",
+          "expressions": "Ollivander looks at Harry, curious and grave. Harry looks at the wand, the smile gone. He understands he is tied to the person who gave him the scar.",
+          "dialogue": [
+            {
+              "who": "Ollivander",
+              "line": "The phoenix gave one other feather, Mr Potter. It sits in the wand that scarred you. You do not choose the wand. The wand does the choosing."
+            }
+          ],
+          "art": "art/c4-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Outside the shop, late light. Packages, Hedwig's cage, the wand box under Harry's arm. Draco stands with his chin up, a hand extended. Hagrid is behind Harry with the trunk.",
+          "expressions": "Draco smiles with no warmth and glances at Hagrid's coat with contempt. Harry looks at him, polite and already decided against him, and stays in Hagrid's shadow. Hagrid looks mild, a little sad, not angry.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "That's Hagrid, isn't it. A servant, by the look of the coat."
+            },
+            {
+              "who": "Harry",
+              "line": "He's a friend."
+            },
+            {
+              "who": "Draco",
+              "line": "You'll find better company at Hogwarts, if you are the right sort."
+            }
+          ],
+          "art": "art/c4-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
