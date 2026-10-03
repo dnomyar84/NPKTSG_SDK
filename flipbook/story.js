@@ -2030,6 +2030,396 @@ window.BOOK = {
           "art": "art/c6-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 7,
+      "title": "First classes, and Snape’s hostility",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The castle wakes"
+        },
+        {
+          "n": 2,
+          "title": "Ordinary magic"
+        },
+        {
+          "n": 3,
+          "title": "The dungeon"
+        },
+        {
+          "n": 4,
+          "title": "Points"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "A tall Hogwarts stairwell in the morning. Harry and Ron step, and the staircase swings away from the landing they wanted. Their robes fly. A suit of armor watches with a spear. Other students ride different flights calmly.",
+          "expressions": "Harry looks at the departing landing, alarmed. Ron looks at Harry, a wild grin that is also panic. The armor looks unimpressed.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "That was our landing!"
+            },
+            {
+              "who": "Harry",
+              "line": "It moved. The whole staircase moved."
+            }
+          ],
+          "art": "art/c7-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "A corridor of portraits, high above the grounds. A painted wizard in a ruff leans out of his frame, cut off at the waist, finger wagging. Harry and Ron have stopped on the wrong landing, books clutched, ties crooked.",
+          "expressions": "The portrait looks down his nose, scolding. Harry looks up, polite and lost. Ron looks offended at being told off by paint.",
+          "dialogue": [
+            {
+              "who": "Portrait",
+              "line": "Lost, are you? First years always are. The castle does not rearrange itself for your convenience. Except when it does."
+            }
+          ],
+          "art": "art/c7-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "A junction of corridors under a chandelier. Peeves, in orange and purple motley and a belled hat, hangs upside down and lets go of a metal bin. Trash cascades onto Harry and Ron, who duck too late. Books hit the floor.",
+          "expressions": "Peeves looks down, gleeful. Harry looks up through his arms, annoyed. Ron splutters. Neither is hurt. Both are humiliated.",
+          "dialogue": [
+            {
+              "who": "Peeves",
+              "line": "New blood, new blood! Peeves has a present for the ickle firsties!"
+            }
+          ],
+          "art": "art/c7-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The Transfiguration classroom door bangs. Harry and Ron fall in dusty, the wastebasket still on Ron’s head. McGonagall is already teaching in emerald robes, square spectacles, and a pointed hat, wand in hand. Sunlight, desks, a cat and a teapot. Hermione winces in the front row. Neville hides a smile. Draco, at the back, is delighted.",
+          "expressions": "McGonagall looks at them with cold disappointment, not surprise. Hermione is embarrassed for them. Draco is smug. Harry is apologetic. Ron is muffled inside the bin.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "You are late. Sit. And remove the wastebasket, Mr Weasley."
+            }
+          ],
+          "art": "art/c7-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "On the teacher’s desk, McGonagall is halfway from tabby cat to woman: spectacles, emerald robes and hat settling, one leg and one arm still cat. The sunlit class is one inhale. Harry’s hands are flat on his desk.",
+          "expressions": "Harry looks amazed, the lateness forgotten. Ron’s mouth is open. Hermione is already hungry to learn it. McGonagall challenges them to consider it ordinary. Draco hides that he is impressed.",
+          "dialogue": [
+            {
+              "who": "Student",
+              "line": "She was a cat."
+            },
+            {
+              "who": "McGonagall",
+              "line": "Transfiguration, Potter. Do try to keep your mouth closed while you are astonished."
+            }
+          ],
+          "art": "art/c7-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "The blackboard shows a cat becoming a teapot, with no writing. Hermione’s hand is the tallest thing in the front row, her other hand pinning a book open. McGonagall gives a small approving glance. Harry and Ron sit behind with idle quills.",
+          "expressions": "Hermione looks eager, not showing off on purpose. McGonagall’s sternness thaws a degree. Ron groans with his eyes. Harry is impressed.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "The spectacle markings match, Professor. It's the same cat."
+            }
+          ],
+          "art": "art/c7-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "The Charms classroom in the afternoon. Two desks. A classmate’s feather hops. Harry’s feather is a dead shape on the wood, his wand hand too tight. Ron’s feather smokes. Professor Flitwick, tiny and cheerful, stands on a pile of books.",
+          "expressions": "Harry looks at his feather, frustrated, then at the hopping one. Ron looks at his own smoke, worried. Flitwick encourages the class and has not yet seen Harry’s failure.",
+          "dialogue": [
+            {
+              "who": "Flitwick",
+              "line": "Swish and flick. The charm is Wingardium Leviosa."
+            },
+            {
+              "who": "Harry",
+              "line": "Nothing. Not even a twitch."
+            }
+          ],
+          "art": "art/c7-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Hermione’s feather hangs at eye level. Her wand lies beside her book and her hands are folded, as if it were easy. Harry’s feather is still flat. Ron’s hair is singed at one tip. Flitwick claps from his stack of books. Other feathers are disasters.",
+          "expressions": "Hermione looks proud, then bites the smile. Flitwick beams. Harry looks at her feather, not unkind, just left behind.",
+          "dialogue": [
+            {
+              "who": "Flitwick",
+              "line": "Oh, well done, Miss Granger! Ten points to Gryffindor."
+            },
+            {
+              "who": "Hermione",
+              "line": "Thank you, Professor."
+            }
+          ],
+          "art": "art/c7-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Greenhouse Three. Wet glass, fogged panes, dripping plants, green afternoon light. Neville, sleeves rolled and earmuffs at his neck, holds a pot steady and smiles at a seedling that leans toward him. Harry stands beside him with a worse pot, glasses fogged, mud on his cheek. Professor Sprout, a stout witch in a patched hat, approves from behind.",
+          "expressions": "Neville looks calm, happy, and competent. Harry is glad for him. Sprout approves.",
+          "dialogue": [
+            {
+              "who": "Sprout",
+              "line": "That's it, Mr Longbottom. Firm hands. The Mandrake trusts you."
+            }
+          ],
+          "art": "art/c7-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "The greenhouse table is a mess of soil. A toothy green pod snaps at Ron’s finger and he yelps, wand dropped. Harry reaches to help, but the smile is for Neville, who stands dirt-handed with a plant that is behaving and earmuffs around his neck.",
+          "expressions": "Ron looks at his finger, offended. Harry looks at Neville, warm. Neville looks back, shy pleasure. He is not used to being the one who can.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "It bit me!"
+            },
+            {
+              "who": "Harry",
+              "line": "Neville's plant is behaving. Look at him."
+            }
+          ],
+          "art": "art/c7-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "A crowded stone corridor between classes, suits of armor and a window. Draco taps his own forehead and smirks. Crabbe and Goyle laugh on cue. Harry has stopped with his bag. Ron is at his shoulder. Hermione stands a step behind, arms full of books.",
+          "expressions": "Draco looks at Harry’s scar, performing for the corridor. Harry looks tired of it and quiet. Ron is furious. Hermione looks at Draco with her chin up.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Nice scar, Potter. Lightning suits a boy raised by Muggles."
+            },
+            {
+              "who": "Ron",
+              "line": "Say that again, Malfoy."
+            }
+          ],
+          "art": "art/c7-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "Dungeon steps. The light changes from windows to greenish torches. Breath shows. Harry goes first, one hand on the cold wall. Ron and Hermione follow with books. Farther down, Draco’s pale hair is already at home in the dark.",
+          "expressions": "Harry looks down into the cold, uneasy. Ron watches Harry’s back. Hermione is practical. Draco looks up at them, already smiling.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Potions next. The dungeons. Try not to be late twice in one morning."
+            }
+          ],
+          "art": "art/c7-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The Potions dungeon. Long tables, a cauldron, shelves of glass jars, torchlight, a blank blackboard, no windows. Snape sweeps in on a billow of black, sallow, hooked nose, greasy hair, clean-shaven. His first gesture takes in the jars. Harry, Ron, and Hermione sit at one table. Draco watches from the other.",
+          "expressions": "Snape looks over them, soft-voiced and dangerous, then his eyes snag on Harry. Harry is alert. Hermione is ready to answer. Draco admires Snape.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "Wands are a crude instrument, and you will not wave them in my dungeon. Potions is quieter work. A reputation can be sealed in glass. Even death can be delayed, if you are not complete duffers."
+            }
+          ],
+          "art": "art/c7-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "The dungeon is still. Hermione’s hand is up, alone, the other hand on a closed book. Snape has not called on anyone. Harry sits with a quill and empty parchment. Ron sinks in his seat.",
+          "expressions": "Hermione looks hopeful and sure. Snape looks past her hand as if it is not there. Harry wills him to take it. Ron is already miserable.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Professor Snape."
+            }
+          ],
+          "art": "art/c7-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Snape’s head turns with a snap toward the Gryffindor table. He leans in, one hand on the desk, hair shadowing one eye. A jar behind him holds something like an eye. Hermione’s hand is finally lowering. Harry’s shoulders rise. Draco’s mouth curls.",
+          "expressions": "Snape looks at Harry, soft and mean. Harry looks back, wary. Hermione flushes at her own lowering hand. Draco enjoys it.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "Mr Potter. Fame has walked into my classroom. Do stand, if you can spare us the attention."
+            }
+          ],
+          "art": "art/c7-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Close on their table: a cauldron, herbs they have not touched, and the torch shadow of Snape’s nose across the wood. Snape looms with both hands on the table. Harry’s hands are empty and turned up. The parchment is blank. Hermione’s hand twitches and stays down. Ron stares at his quill.",
+          "expressions": "Snape looks at Harry with contempt. Harry is not defiant yet, simply without the answer, embarrassed. Hermione is frustrated. Ron is sympathetic and useless.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "Asphodel root, powdered, in an infusion of wormwood. Name the draught, Mr Potter."
+            },
+            {
+              "who": "Harry",
+              "line": "I don't know, sir."
+            },
+            {
+              "who": "Snape",
+              "line": "A bezoar, then. Where does one find it?"
+            },
+            {
+              "who": "Harry",
+              "line": "I don't know, sir."
+            }
+          ],
+          "art": "art/c7-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Two tables, torches, the class a held breath. Hermione is half out of her seat, arm aching upward, a book bouncing in her other hand. Draco is a pale profile of amusement, quill tapping. Snape will not turn his head one degree toward her. Harry stares at blank parchment.",
+          "expressions": "Hermione is desperate to be fair to the answer. Draco is smug. Snape looks only at Harry. Harry’s jaw is tight.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Sir, asphodel and wormwood make the Draught of Living Death. A bezoar comes from the stomach of a goat. It cures most poisons."
+            },
+            {
+              "who": "Draco",
+              "line": "Famous, and he can't read a label."
+            }
+          ],
+          "art": "art/c7-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "Extreme close in torchlight. Snape’s face fills one side, greasy hair, hooked nose, black eyes, no blink. Harry’s scar prickles. Sweat sits at his hairline. His fingers find the scar where Snape cannot quite see.",
+          "expressions": "Snape looks at the scar itself, not only the boy. Harry looks into those eyes and does not understand the hatred. The pain is small and private.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "Monkshood and wolfsbane, Mr Potter. The difference, if you please."
+            },
+            {
+              "who": "Harry",
+              "line": "I don't know, sir."
+            },
+            {
+              "who": "Snape",
+              "line": "There is none. They are the same plant. Also called aconite. How disappointing."
+            }
+          ],
+          "art": "art/c7-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The dungeon table. Harry half-stands and indicates Hermione, giving her the answer. Snape’s fingers flick as if removing something from the air. Hermione’s hand is down. Ron is silent beside them. Torches, bottles, a steaming cauldron.",
+          "expressions": "Harry looks at Hermione, apologetic, then at Snape, confused. Snape looks satisfied, calling it arrogance. Hermione is grateful and dismayed. Ron hates him.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hermione knows the answer, sir. Ask her."
+            },
+            {
+              "who": "Snape",
+              "line": "Arrogance, Mr Potter. Five points from Gryffindor, for hiding behind a classmate."
+            }
+          ],
+          "art": "art/c7-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Snape turns his back, robes flaring, chalk in one hand, a second flick of his fingers, done with them. The blackboard is blank. Draco and the bulky boys at the Slytherin table are pleased. Harry sits down hard, fists under the table. Ron and Hermione flank him.",
+          "expressions": "Snape does not really look back. Draco looks victorious. Harry is angry now, not just embarrassed. Hermione blinks hard at the board.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "And five more, because you knew nothing at all. Sit down, Mr Potter."
+            }
+          ],
+          "art": "art/c7-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "A close profile of Snape at the board. The chalk is only a scribble, not words. His eye has slid sideways. Harry is a soft shape in the direction of that look, out of focus, among the jars and torch shadow.",
+          "expressions": "Snape’s mouth is neutral. His eye is not. He looks at Harry with an old grievance Harry has not earned this week.",
+          "dialogue": [],
+          "art": "art/c7-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "After class they climb the dungeon stairs from torch-dark into a window’s afternoon light. Other students pass and glance. Ron talks with both hands. Hermione still has a book and is still arguing. Harry is quiet between them, bag on his shoulder.",
+          "expressions": "Ron looks at Harry with loyal outrage. Hermione agrees and corrects him at the same time. Harry looks ahead, not at them, trying to find what he did.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "He hates you. Proper hates you."
+            },
+            {
+              "who": "Hermione",
+              "line": "It was unfair. And it was obvious. That still isn't a reason."
+            }
+          ],
+          "art": "art/c7-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "They stop at a corridor window. Lawns, the lake, and a distant willow are green below. Harry’s question hangs. Ron scratches his neck. Hermione closes her book against her chest, which means she does not know.",
+          "expressions": "Harry looks from Ron to Hermione, genuinely asking, a little small. Ron looks at his shoes, frustrated. Hermione looks at Harry, sorry, intelligent and useless. None of them look at the view.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "What did I do to him?"
+            },
+            {
+              "who": "Ron",
+              "line": "Be Harry Potter?"
+            },
+            {
+              "who": "Hermione",
+              "line": "I haven't an answer. I hate that."
+            }
+          ],
+          "art": "art/c7-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "A long corridor, light at their end and dark at his, torches between. From behind, Snape is a black shape in the doorway, hands hidden, head turned toward Harry. The three friends are small in the window light, walking away in their robes, not seeing him. Ron’s red hair is the only warm color.",
+          "expressions": "A slice of Snape’s face is cold, watching Harry’s back. He does not blink. The three look toward the day. Harry’s profile is troubled.",
+          "dialogue": [],
+          "art": "art/c7-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
