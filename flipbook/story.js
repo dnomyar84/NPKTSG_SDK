@@ -2420,6 +2420,359 @@ window.BOOK = {
           "art": "art/c7-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 8,
+      "title": "Flying class and the Seeker",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Brooms"
+        },
+        {
+          "n": 2,
+          "title": "The theft"
+        },
+        {
+          "n": 3,
+          "title": "The catch"
+        },
+        {
+          "n": 4,
+          "title": "Seeker"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The Hogwarts lawn at dawn. Mist, dew, and a pink castle. Two rows of first years stand behind wooden brooms that lie flat on the grass. Madam Hooch, short silver hair and yellow hawk eyes, looks along the lines in a dark flying cloak. Harry studies his twiggy broom. Neville is already afraid of his. Draco, in green-lined robes, watches Neville.",
+          "expressions": "Hooch is sharp. Harry is curious, a pull in his hands. Neville is afraid. Draco scents weakness. Hermione looks determined.",
+          "dialogue": [
+            {
+              "who": "Madam Hooch",
+              "line": "Brooms on the grass. Stand beside them. Good morning."
+            }
+          ],
+          "art": "art/c8-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Close on the dew. Hooch holds one hand flat and a whistle near her lips. The students' hands hover over brooms that still lie on the grass. Neville's fingers twitch downward too early. Harry's hand stays correctly raised. Draco watches Neville, not the teacher.",
+          "expressions": "Hooch is stern and careful. Neville wants the mistake over with. Draco's smile is starting. Harry listens.",
+          "dialogue": [
+            {
+              "who": "Madam Hooch",
+              "line": "Right hand over the broom, and say up. Nobody kicks off until I give the word."
+            }
+          ],
+          "art": "art/c8-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Neville is yanked off the grass. His broom stands like a pole and hauls him, sandy hair blown, both hands locked on the handle, no glasses and no scar. Dew scatters. Hooch's whistle is a second late. Harry steps forward and stops. Draco laughs.",
+          "expressions": "Neville looks down in terror. Hooch is alarmed and professional. Harry is worried. Draco is delighted.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "Up!"
+            },
+            {
+              "who": "Madam Hooch",
+              "line": "Mr Longbottom, I did not say go!"
+            }
+          ],
+          "art": "art/c8-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "From the ground, Neville is a struggling shape against the morning sky, circling because he cannot steer. One shoe has come loose. A tower stands at the edge of the sky. Below, Hooch shouts and Harry looks up, too small to help.",
+          "expressions": "Neville's mouth is open, no pride left. He looks at the ground. Harry looks up, helpless. Hooch looks up, urgent.",
+          "dialogue": [
+            {
+              "who": "Madam Hooch",
+              "line": "Come down! Lean forward, Mr Longbottom, and come down this instant!"
+            }
+          ],
+          "art": "art/c8-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Neville has hit the grass on his back, robes tangled, one wrist clutched. The broom lies beside him. A small glass ball with white smoke inside rolls from his pocket. Hooch kneels. Harry and Hermione are close. Ron is pale. Draco looks at the ball, not at Neville.",
+          "expressions": "Neville is crying and ashamed as well as hurt. Hooch is competent and concerned. Hermione is worried. Draco is interested only in the glass.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "My wrist. I think it's broken."
+            }
+          ],
+          "art": "art/c8-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Hooch supports Neville and points a strict finger at the class: stay down. Her yellow eyes promise consequences. The others stand frozen beside brooms on the grass, the castle doors behind her. The glass ball has stopped near Draco's shoe. Harry nods that he will stay.",
+          "expressions": "Hooch is severe. Neville looks back, distressed. Draco looks at the ball, thoughtful. Harry means to obey.",
+          "dialogue": [
+            {
+              "who": "Madam Hooch",
+              "line": "Hospital wing for you. The rest of you, feet on the grass. One broom in the air and you are out of Hogwarts before you can sneeze."
+            }
+          ],
+          "art": "art/c8-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Draco crouches on the dew and pinches the glass ball between two fingers, white smoke turning inside it. Bulky boys shadow him. Harry is a few steps away. Hermione stands with her arms folded. Ron glares at Draco's hand. Brooms lie abandoned. The castle has swallowed Hooch and Neville.",
+          "expressions": "Draco looks at the ball, then at Harry, a game beginning. Harry knows it is not Draco's. Hermione warns. Ron is angry.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "What's this bit of glass Longbottom dropped?"
+            }
+          ],
+          "art": "art/c8-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Hermione steps in, chin up, both feet planted, smaller than Draco and clearer. He holds the glass ball just out of easy reach. Harry moves closer. Ron is at Harry's shoulder. The other students watch and do not take a side.",
+          "expressions": "Hermione is stern and in the right. Draco is amused, not threatened, and checks whether Harry is watching. Harry is deciding.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It's a Remembrall. His grandmother sent it. Give it back, Malfoy."
+            }
+          ],
+          "art": "art/c8-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Draco is astride a broom a foot off the grass, the Remembrall dangling, one finger crooked. Harry's own broom lies by his shoe. Hermione reaches for Harry's sleeve. Ron looks at the sky, torn. The class steps back from the forbidden air.",
+          "expressions": "Draco looks down, baiting, smile sharp. The decision is already in Harry's shoulders. Hermione is alarmed and looks toward the castle.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Come and take it, Potter. If you can fly."
+            }
+          ],
+          "art": "art/c8-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Harry swings a leg over the broom and it stirs under him before he kicks off. Hermione's hand catches empty air. Ron steps back to give him room. Draco waits above, delighted, the glass ball in his hand. Long dawn shadows cross the lawn.",
+          "expressions": "Hermione pleads. Harry looks at the ball, not at her, sorry and already gone. Ron nods. Draco is delighted.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Harry, no. Madam Hooch will have you expelled."
+            }
+          ],
+          "art": "art/c8-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Harry rises. The lawn falls away. His body knows the broom. Hair and robes stream, and his face changes from stubborn to astonished joy. Tiny Draco is ahead with the glint of the ball. Tiny Hermione stands below with her hands on her head.",
+          "expressions": "Harry looks forward with a wild gladness, like someone who has just found the sky. There is no fear in him.",
+          "dialogue": [],
+          "art": "art/c8-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "Two boys level above the towers. The lake is a dark coin below, a bird under them, morning gold on the battlements. Harry's broom is an extension of his arms. Draco's platinum hair is finally disturbed. The Remembrall is clenched in Draco's fist between them.",
+          "expressions": "Harry is calm, the joy banked into focus. Draco's smile is slipping. He is surprised to be matched.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Not bad, Potter. For a boy brought up by Muggles."
+            }
+          ],
+          "art": "art/c8-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Above a stone courtyard, Draco's hand is open from the throw. The glass ball drops past Harry's knee toward the flagstones, small and getting smaller. Harry's head snaps down. Towers rise on either side. Tiny people are specks on the stone.",
+          "expressions": "Draco expects Harry to freeze. Harry looks only at the ball. His mouth is set. Fear is there, and it is not in charge.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Fetch, Potter."
+            }
+          ],
+          "art": "art/c8-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Harry arrows down. Wind tears at him. His glasses slide and he jams them back with one finger without losing the line. The ball is the target below. Stone, a tower window, and a gargoyle rush up. Draco is only a speck above.",
+          "expressions": "Harry's eyes water from the wind. The look is concentration, not a pose for an audience.",
+          "dialogue": [],
+          "art": "art/c8-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "From the courtyard floor, Hermione covers her mouth and Ron cranes his neck, white under his freckles. Other students scatter. Harry is a blur at the top of the frame, hand outstretched. The Remembrall is inches from the flagstones. It looks too late.",
+          "expressions": "Hermione is terrified. Ron cannot blink. Harry's distant face is all focus.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Harry!"
+            },
+            {
+              "who": "Ron",
+              "line": "Pull up! Pull up!"
+            }
+          ],
+          "art": "art/c8-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Extreme low on the flagstones. Harry's fingers close around the intact glass ball inches above the stone. White smoke swirls inside it. The broom's bristles skim a flagstone and spark. His knee almost hits. A slice of his face shows the scar, the glasses, and gritted teeth.",
+          "expressions": "He looks at the ball in his fist, shocked that it is there. Not triumph yet. Disbelief and grip.",
+          "dialogue": [],
+          "art": "art/c8-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Harry levels out so low that dust and a leaf blast sideways, then hovers, shaking, the grin arriving late. He holds the Remembrall up a little. Ron runs in whooping. Hermione is furious and relieved, hands still near her face. High above, Draco is a small angry shape.",
+          "expressions": "Harry's grin is shaky. Ron is ecstatic. Hermione is angry because she was frightened. Draco's smile is gone.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "You caught it!"
+            },
+            {
+              "who": "Harry",
+              "line": "I've got Neville's Remembrall."
+            }
+          ],
+          "art": "art/c8-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "McGonagall stands on the castle steps in emerald robes and a pointed hat, one finger pointing at Harry. The courtyard goes quiet. Harry drifts in, dusty, the glass ball in his fist, the sky-joy gone. Ron and Hermione freeze. Draco lands apart, suddenly innocent, empty hands.",
+          "expressions": "McGonagall is icy and unreadable. She does not look at the ball. Harry waits to be finished and holds it out as if it explains him.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Potter. With me. Now."
+            }
+          ],
+          "art": "art/c8-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "A long castle gallery, morning light, armor, and a red banner. McGonagall's heels are precise and she does not look back. Harry trots behind with the Remembrall still in his hand, hair wrecked by the dive. A portrait of a knight stares out at him.",
+          "expressions": "Her back is straight, no comfort in it. Harry looks at that back, resigned. The portrait is curious.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Professor, it was Neville's Remembrall. I was only..."
+            },
+            {
+              "who": "McGonagall",
+              "line": "Silence, Potter."
+            }
+          ],
+          "art": "art/c8-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "A small team room. A chalkboard is a mess of arrows, with no writing. A broom leans in the corner beside red-and-gold pads and a red ball. Oliver Wood, brown-haired, in practice robes and a leather arm guard, looks up from the diagram with chalk in his hand. McGonagall is in the door with a dusty first year.",
+          "expressions": "Wood is puzzled and already measuring. McGonagall's ice is becoming purpose. Harry looks at the diagram, lost, still expecting detention.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Mr Wood. A moment of your tactics."
+            },
+            {
+              "who": "Wood",
+              "line": "Professor McGonagall?"
+            }
+          ],
+          "art": "art/c8-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "McGonagall's hand rests on Harry's shoulder, the first gentle touch from her. She is almost smiling. Wood's chalk has stopped. Harry blinks, the glass ball absurd in a strategy room, the arrows of a future behind them.",
+          "expressions": "McGonagall is proud of her find, brisk and warm. Wood looks at Harry's hands, then his size. Harry's mouth is open. The word Seeker has not landed yet.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "I have found you a Seeker."
+            },
+            {
+              "who": "Wood",
+              "line": "A first year?"
+            }
+          ],
+          "art": "art/c8-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Wood crouches to Harry's height and takes in the skinny shoulders, then the hand that caught the ball. A red banner and a red ball sit in the team room. Harry stands still for inspection, the Remembrall in his other fist. McGonagall waits by the door, arms folded.",
+          "expressions": "Wood's grin is a captain seeing a season. Hope arrives in Harry carefully. McGonagall is satisfied. The icy steps are rewritten.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "Small. Light on a broom. And look at that catching hand. You'll do, Potter."
+            }
+          ],
+          "art": "art/c8-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "They walk an open cloister, lawns through the arches. Wood draws the sport in the air with one finger: a tiny gold ball, hoops, a dot. Harry trots beside him, nodding too fast, still holding Neville's glass ball. Older students stare at a first year walking with the captain.",
+          "expressions": "Wood is passionate, looking at the air where the diagram is. Harry is excited and half a step behind, afraid to drop what he has been given.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "The Golden Snitch is worth one hundred and fifty points. Catch it, and the match is nearly always yours. A Seeker lives for that glint, and nothing else."
+            }
+          ],
+          "art": "art/c8-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Around a sunny corridor corner, Ron and Hermione are braced for expulsion. Harry holds up the glass ball like a trophy, dusty and grinning. Ron's fists go up. Hermione has her books, one hand over a laugh she did not schedule, the other tapping Harry's arm for scaring her. Armor and a window end the morning.",
+          "expressions": "Harry is proud and disbelieving, the sky still in his eyes. Ron is joy. Hermione is fond and exasperated. The fear of expulsion is leaving.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I'm on the Gryffindor Quidditch team."
+            },
+            {
+              "who": "Ron",
+              "line": "You're what?"
+            },
+            {
+              "who": "Hermione",
+              "line": "You were supposed to be expelled."
+            }
+          ],
+          "art": "art/c8-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
