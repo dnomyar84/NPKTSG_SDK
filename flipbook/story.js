@@ -3781,6 +3781,325 @@ window.BOOK = {
           "art": "art/c11-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 12,
+      "title": "Nicolas Flamel and the Stone",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The search"
+        },
+        {
+          "n": 2,
+          "title": "The book"
+        },
+        {
+          "n": 3,
+          "title": "What the Stone does"
+        },
+        {
+          "n": 4,
+          "title": "Watching"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The Hogwarts library at night. Shelves tower into the dark around a long table and green-shaded lamps. Harry, Ron, and Hermione sit small among a fortress of open books. A rope closes off a darker aisle. A ladder and a globe wait in the quiet.",
+          "expressions": "Hermione looks at a page, tireless. Harry looks at a book, hopeful and fading. Ron looks at Harry, a silent how-long. The shelves look down, indifferent.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "If Nicolas Flamel is in Hogwarts: A History, I will find him."
+            }
+          ],
+          "art": "art/c12-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Close on the polished library table under a green lamp. Hermione's ink-smudged finger taps an open book whose pages are empty. Harry's disappointed face shows in the shine of the wood, glasses and scar and a tight mouth.",
+          "expressions": "Her finger is the expression: precise, then a small defeated tap. Harry looks at the empty page, mouth tight.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Nothing under Flamel. Nothing under Stone."
+            }
+          ],
+          "art": "art/c12-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Madam Pince is suddenly there, thin and tall, dark dress, bun, a ring of keys. One ink-stained finger is on her lips. The other hand closes the book they were too loud over. Harry, Ron, and Hermione shrink in their chairs.",
+          "expressions": "Pince looks at them, suspicious. Hermione looks up, apologetic. Ron yanks his elbow off a book. Harry looks at the closed book, mourning it.",
+          "dialogue": [
+            {
+              "who": "Madam Pince",
+              "line": "This is a library, not a Quidditch stand. Whisper, or leave."
+            }
+          ],
+          "art": "art/c12-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The same table, much later. A moon shows in the window. Ron is asleep on a blank page, red hair spilled, a little drool. Harry pokes his ear with a quill and smiles. Hermione keeps reading, a tiny smile she will not admit.",
+          "expressions": "Ron's face is slack and peaceful. Harry looks at him, fond. Hermione looks at her page, the smile hidden.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Ron. Wake up. You've drooled on a book of alchemy."
+            }
+          ],
+          "art": "art/c12-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Three slices of empty days. Left: the Great Hall, Harry staring toward Snape at the high table while Ron eats. Middle: Charms, a feather in the air, Hermione's hand up, Harry's mind elsewhere. Right: the library again, the same three, more books, heavier eyes.",
+          "expressions": "Harry looks more tired and more fixed. Ron looks loyal and sick of books. Hermione looks undefeated. Snape looks at his plate.",
+          "dialogue": [],
+          "art": "art/c12-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "A Potions dungeon, torches, steam, a cauldron actually bubbling. Harry's hand goes to his scar. Snape stands over the table in black, still, eyes on him. Hermione notices the wince. Ron notices Snape.",
+          "expressions": "Harry meets Snape's eyes, the pain private. Snape looks at him, unreadable. Hermione looks at the scar, worried. Ron looks at Snape, the theory hardening.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "My scar. It just burned."
+            }
+          ],
+          "art": "art/c12-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "The Gryffindor common room, evening, fire, red curtains. Hermione slams down a book the size of a hearthstone. Dust jumps. Harry leans in. Ron is on the floor, a wooden chess knight at his foot, looking up at her face.",
+          "expressions": "Hermione looks at them, a blaze of I-found-it. Harry looks at the book, hope surging. Ron forgets the knight.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "I had it out for light reading weeks ago. Move the chess pieces."
+            }
+          ],
+          "art": "art/c12-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "The page, firelight. An engraved portrait of a very old man sits on otherwise blank paper. Hermione's ink-stained finger points at it. Harry's hand rests at the margin. Ron's freckled finger arrives a second late.",
+          "expressions": "Hermione's mouth is a satisfied line. Harry's eyes are wide behind his glasses. They all look at the portrait.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "There. Nicolas Flamel."
+            }
+          ],
+          "art": "art/c12-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Three heads in a triangle over the book. Black hair, red hair, brown hair. Firelight turns the page gold. The portrait of the old man is the only picture. The rest of the common room does not exist.",
+          "expressions": "They look down, breathless, together. Harry looks hungry for the answer. Hermione looks like a guide. Ron looks like he might finally enjoy a book.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Go on, then. Read it out."
+            }
+          ],
+          "art": "art/c12-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "The common room widens. Other students laugh far from the fire, ordinary. At the table Hermione points at the old engraved face. A small deep-red stone sits on the facing page. Harry is very still. Ron's eyebrows are up.",
+          "expressions": "Hermione looks at the page, awed. Harry looks at the old face, thinking of someone who does not want to die. Ron's joke fades into seriousness.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "He is hundreds of years old. The only reason he is still alive is one object."
+            }
+          ],
+          "art": "art/c12-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The engraving fills the panel. A small, irregular, deep-red stone glows on blank paper. Three thumbs hold the page. It is not large. It does not look like it should hold a war.",
+          "expressions": "No faces. The stone is the face of the chapter. It looks inert and priceless.",
+          "dialogue": [],
+          "art": "art/c12-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The common room returns. Harry sits back in a red chair, one hand on the picture of the red stone, the book open on his knees. Hermione watches the conclusion land. Ron looks up, a chess piece tugging his sock.",
+          "expressions": "Harry looks certain and uneasy. Hermione nods slowly, connecting dog, package, and stone. Ron looks toward the floors above, a silent oh.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "That's what Fluffy is standing on. The Philosopher's Stone."
+            }
+          ],
+          "art": "art/c12-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Closer to the fire. Hermione holds the closed book and raises two fingers, the fire painting a red glow on her hand. Harry and Ron sit on the hearthrug with mugs and listen. Other children play cards, out of focus.",
+          "expressions": "Hermione looks at them, grave. Harry looks at her fingers. Ron looks at her, a flicker of endless gold, then shame at thinking it.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "The Philosopher's Stone turns metal to gold, and it makes the Elixir of Life. Drink that, and you do not die."
+            }
+          ],
+          "art": "art/c12-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "On the hearthrug. Ron says it simply, one hand open and empty, a hole in his sock. Harry looks at that empty hand. Hermione holds the closed book and does not joke.",
+          "expressions": "Ron looks at the fire, matter-of-fact, a little sad. Harry looks at Ron, affection. Hermione looks at Ron, soft.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Gold, and not dying. If you had that, you'd never be poor, and you'd never be gone."
+            }
+          ],
+          "art": "art/c12-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Harry is small in the chair, knees up, a forgotten mug. He looks into the fire. In the flames only, a woman with long hair and a man with glasses are warm light, not quite people. Ron and Hermione stay behind him, out of focus, and do not poke.",
+          "expressions": "Harry looks into the fire, grief he is only learning the shape of. Ron looks at him and does not poke. Hermione gives him the silence.",
+          "dialogue": [],
+          "art": "art/c12-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The common room is thinning out. Hermione draws on a blank sheet: a three-headed dog, a trapdoor, an arrow pointing inward. Harry and Ron flank her. Students leave through the arch behind them.",
+          "expressions": "Hermione looks at the arrow, certain. Harry looks at it, the Halloween blood returning to his mind. Ron looks at the ink dog and remembers the teeth.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "The Stone is inside Hogwarts. And somebody in this castle wants it."
+            }
+          ],
+          "art": "art/c12-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Late, just the three, embers. Harry counts the case on three raised fingers. Ron grins, all in. Hermione holds the closed book and the quill and studies the third finger.",
+          "expressions": "Harry looks convinced, a little angry. Ron looks at Harry, nodding. Hermione looks thoughtful. She wants one more proof.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Snape. His leg was bleeding the night of the troll. He had been up on the third floor, with the dog."
+            }
+          ],
+          "art": "art/c12-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The fire is dying. Ron's hand slaps the table. Hermione's hand settles on the book, wait. Harry stands between them, looking at the embers. In a frame above the hearth, a painted woman dozes.",
+          "expressions": "Ron looks at Hermione, impatient loyalty. Hermione looks at Harry, careful. Harry looks at the embers. He is not angry at her. He is decided.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Then it's Snape."
+            },
+            {
+              "who": "Hermione",
+              "line": "We need proof, Ron. Not a guess we like."
+            }
+          ],
+          "art": "art/c12-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "A daytime corridor, high windows. Three children hide badly around one suit of armor that is not wide enough. Heads and feet stick out. Ron is against the spear. Snape walks ahead, black, blank papers in his hand, and has not turned.",
+          "expressions": "Snape looks ahead, bored with his errand. Harry looks at Snape's back. Hermione hisses at Ron. Ron looks at the spear he bumped.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "If he turns round, we are statues. Bad statues."
+            }
+          ],
+          "art": "art/c12-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Snape half-turns in the sun, cloak swinging, blank papers in his hand, eyes sliding toward the armor. The three are frozen in the arch beside it. A bead of sweat on Ron. Snape chooses to walk on.",
+          "expressions": "Snape looks at the armor, a flicker of contempt, then away. Harry does not breathe. Hermione sees the glint of his glasses too late. Ron sags only after the cloak has passed.",
+          "dialogue": [],
+          "art": "art/c12-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The same corridor. Quirrell comes the other way in a purple turban and purple robes, a plain book clutched to his chest, his whole body flinching. Snape does not slow. Harry peeks from behind the armor and files the fear under Snape-is-scary.",
+          "expressions": "Quirrell looks at Snape, fear and sweat. Snape looks through him, cold. Harry looks satisfied, which is the mistake.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "S-sorry, Professor Snape. I was just p-passing."
+            }
+          ],
+          "art": "art/c12-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Afternoon, the corridor emptying. Hermione's eyes follow the purple turban one way. Harry's eyes follow the black robes the other way. Ron stands between them, not knowing who to follow. The armor is behind the three.",
+          "expressions": "Hermione looks at Quirrell, uneasy, a small frown. Harry looks toward Snape, jaw set. Ron looks from one to the other, loyal to Harry, a little lost.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Did you see Professor Quirrell flinch?"
+            },
+            {
+              "who": "Harry",
+              "line": "Everyone flinches at Snape."
+            }
+          ],
+          "art": "art/c12-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The boys' dormitory after lights out. Moonlight, four-posters, one candle. Harry kneels in gray pajamas and puts a blank scrap into the flame. Ash curls. Hedwig watches from the window perch, gold eyes open. Ron sleeps, mouth open. A toad sits on the bedpost.",
+          "expressions": "Harry looks at the burning scrap, serious, protective of the secret. Hedwig looks at him, calm. Ron trusts him to still be there in the morning.",
+          "dialogue": [],
+          "art": "art/c12-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The ash has lifted. Harry stands by the dying candle, a smudge of ash on one thumb, face lit from the side. Hedwig's eyes are the witness. Beyond the window the castle is quiet. Friends sleep in the beds behind him.",
+          "expressions": "Harry looks toward the window and the castle, resolved. Young, stubborn, a little afraid. Hedwig looks at him, steady. The decision sits on his face.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "We keep the Philosopher's Stone where it is. Whatever that takes."
+            }
+          ],
+          "art": "art/c12-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
