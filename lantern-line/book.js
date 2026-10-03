@@ -124,7 +124,7 @@
       return;
     }
     const stage = document.querySelector(".stage");
-    const scale = Math.min((stage.clientWidth - 8) / 1100, (stage.clientHeight - 8) / 760);
+    const scale = Math.min((stage.clientWidth - 4) / wrap.offsetWidth, (stage.clientHeight - 4) / wrap.offsetHeight);
     wrap.style.transform = `scale(${Math.max(scale, 0.2)})`;
   }
 
