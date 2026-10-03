@@ -1316,6 +1316,364 @@ window.BOOK = {
           "art": "art/c4-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 5,
+      "title": "The train to Hogwarts",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The barrier"
+        },
+        {
+          "n": 2,
+          "title": "Ron"
+        },
+        {
+          "n": 3,
+          "title": "Hermione and Draco"
+        },
+        {
+          "n": 4,
+          "title": "The journey's end"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "Daylight outside the station. A beige car is already pulling away. Harry stands on the pavement with a trolley, a heavy trunk, and a covered cage. A pigeon watches.",
+          "expressions": "Harry looks after the car, hollow, not surprised. Vernon stares ahead and does not wave. Petunia's eyes flick away. Dudley looks at his food.",
+          "dialogue": [
+            {
+              "who": "Vernon",
+              "line": "Platform nine and three-quarters. Load of rubbish. Out you get."
+            }
+          ],
+          "art": "art/c5-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Under the station roof, Harry stands between platforms nine and ten. A solid brick barrier fills the gap. Commuters flow around him. A pigeon sits on the bricks.",
+          "expressions": "Harry looks from sign to sign, lost, the hope from Diagon Alley thinning. The commuters do not look at him.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Excuse me. Which way is platform nine and three-quarters?"
+            }
+          ],
+          "art": "art/c5-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Beside the barrier, a station guard laughs, one hand on his belt, the other waving Harry off. Hedwig's gold eye shows at the edge of the cloth.",
+          "expressions": "The guard is amused, not cruel, and useless. Harry's ears are red. He looks at the bricks, jaw tight. He will not ask again.",
+          "dialogue": [
+            {
+              "who": "Guard",
+              "line": "Platforms nine and ten, lad. There is no nine and three-quarters. Move along."
+            }
+          ],
+          "art": "art/c5-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "A red-haired family cuts through the crowd. Molly turns, already kind. The twins grin at each other. Percy is tidy. Ron pushes a trolley with a rat cage. Ginny holds her mother's coat.",
+          "expressions": "Molly looks at Harry with immediate kindness. Ron sees the scar and goes shy. Harry looks at the family, and hope comes back.",
+          "dialogue": [
+            {
+              "who": "Molly",
+              "line": "Muggles, bless them. First time to Hogwarts? You want the barrier between nine and ten."
+            }
+          ],
+          "art": "art/c5-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The twins hit the brick at a run and vanish into it, grinning back. Percy follows, neat even while disappearing. The wall looks solid again. Ron hesitates with the rat cage.",
+          "expressions": "The twins are delighted with themselves. Ron looks at the wall, nervous. Molly's hand stays on his back. Harry's mouth is open.",
+          "dialogue": [
+            {
+              "who": "Molly",
+              "line": "Fred, George, Percy, straight at the wall, and don't stop. Ron, don't dawdle."
+            }
+          ],
+          "art": "art/c5-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Harry shuts his eyes and runs. The trolley charges. The brick swallows the front of the trunk. His jacket flaps. Hedwig's cage rocks, and her eye stays calm.",
+          "expressions": "His eyes are shut, so the feeling is in his mouth: braced, brave, a little sick. Molly's hand lifts behind him, out of focus.",
+          "dialogue": [],
+          "art": "art/c5-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Platform nine and three-quarters. The Hogwarts Express is scarlet and huge, steam blooming under the iron roof. Students in robes say goodbye. Cats slip under trolleys. Owls hoot.",
+          "expressions": "Harry looks up at the train, relief and awe. He looks for the red-haired family and finds too many redheads to be sure.",
+          "dialogue": [
+            {
+              "who": "Conductor",
+              "line": "Hogwarts Express! All aboard for Hogwarts!"
+            }
+          ],
+          "art": "art/c5-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "An empty compartment. The train lurches and Hedwig's cage slides. Harry catches it. Robes and trunks pass in the corridor. The platform slides away outside.",
+          "expressions": "He looks at the empty seat opposite, lonely and proud he managed the trolley. A small smile for Hedwig. She looks back, unruffled.",
+          "dialogue": [],
+          "art": "art/c5-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Ron stands in the doorway with a trunk that has a broken corner and a cage holding a fat gray rat. Dirt on his nose. His robes are a bit short.",
+          "expressions": "Ron looks at the empty seat, not quite at Harry, shy. Harry looks at Ron, relieved, and nods.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Mind if I sit? Everywhere else is full of owls."
+            },
+            {
+              "who": "Harry",
+              "line": "It's free."
+            }
+          ],
+          "art": "art/c5-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "On the compartment table, Ron's sandwich is a sad curl of corned beef. Harry holds out a box of bright wizard sweets. The trolley witch is just leaving. Countryside smears past the window.",
+          "expressions": "Ron leans in, delighted and a little ashamed of being delighted. Harry is glad to have something to give. This is the first easy smile between them.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Mum's sandwiches. Always dry."
+            },
+            {
+              "who": "Harry",
+              "line": "Have a Chocolate Frog. And a Bertie Bott's bean, if you're feeling brave."
+            }
+          ],
+          "art": "art/c5-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Ron talks with his hands, a sweet half in his mouth. Harry has gone still around an unopened box. The scar shows where his hair parts. Scabbers sits on a wrapper. Green fields rush by.",
+          "expressions": "Ron looks at Harry with the shine of someone meeting a story. Harry looks back, uncomfortable, honestly confused. He does not enjoy the fame.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Everyone in my family's been on about you. Harry Potter."
+            },
+            {
+              "who": "Harry",
+              "line": "I don't know why they would."
+            }
+          ],
+          "art": "art/c5-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The train enters a tunnel. The window goes dark and their reflections appear. Ron's mouth is open, one hand raised, the explanation stuck. The chocolate box sits unopened between them.",
+          "expressions": "Ron looks kind, and suddenly aware that this is too big for a train game. Harry waits, patient, a little afraid of the answer.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "You-Know-Who killed your parents. And when he tried it on you, he... sorry. That's too big for a train."
+            }
+          ],
+          "art": "art/c5-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The door slides. Hermione stands there with bushy hair, a thick book, and the face of someone on a mission. Neville panics farther down the corridor, empty-handed.",
+          "expressions": "Hermione looks past them, searching the seats, businesslike. Ron is already overwhelmed. Harry is polite. Neville is near tears.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Has anyone seen a toad? A boy called Neville has lost one."
+            }
+          ],
+          "art": "art/c5-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Hermione's eyes drop to Harry's forehead. Her mission pauses. She leans in, a book under her arm. Ron is a grimace in the background.",
+          "expressions": "Hermione looks at the scar, bright and impressed, no malice. Harry leans back, weary of it already. Ron looks wary.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "You're Harry Potter. I've read about you. In Rise and Fall of the Dark Arts, and in A History of Magic."
+            }
+          ],
+          "art": "art/c5-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Hermione walks off down the corridor, one finger raised with the correction, Neville trotting after her. The compartment door stays open.",
+          "expressions": "Hermione looks ahead, satisfied she was right. Ron has both hands over his face. Harry covers his mouth, amused and a little impressed.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It's Wingardium Leviosa, not Leviosar. And you've dirt on your nose, by the way."
+            },
+            {
+              "who": "Ron",
+              "line": "She has got to be joking."
+            }
+          ],
+          "art": "art/c5-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The doorway goes dark. Draco stands in front, sleek, hands behind his back, green lining flashing. Crabbe and Goyle fill the frame behind him so there is no leaving.",
+          "expressions": "Draco looks at Harry, assessing, then at Ron's sweater. The big boys look dull. Harry recognizes him from the alley. Ron looks at the blocked door.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Potter. Is this compartment taken by Weasleys, or may a decent wizard sit?"
+            }
+          ],
+          "art": "art/c5-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Tight in the compartment. Draco's finger flicks Ron's maroon sleeve. Scabbers is on the floor. Hedwig watches from the rack. Crabbe and Goyle are a wall.",
+          "expressions": "Draco looks at Harry while insulting Ron, recruiting. Ron's ears go red, humiliated and angry. Harry's friendliness is gone.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Red hair, second-hand robes, and a rat called Scabbers, I shouldn't wonder. You'll regret the company you keep."
+            }
+          ],
+          "art": "art/c5-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "Harry is on his feet, shorter than Draco and square to him. Ron is half-risen. The big boys have shifted, unsure.",
+          "expressions": "Harry looks Draco in the eye, calm, final. Draco's smile is dead, a flicker of insulted surprise. Ron looks at Harry, loyal already.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I think I can spot the wrong sort for myself."
+            },
+            {
+              "who": "Draco",
+              "line": "Have it your way, Potter."
+            }
+          ],
+          "art": "art/c5-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Dusk in the compartment. Lamps on. They sit with their shoes up, empty wrappers on the table, hours passed. Scabbers sleeps on Ron's knee. Hedwig dozes.",
+          "expressions": "They look at each other, easier now. Harry looks grateful. Ron looks indignant on Harry's behalf, which matters more than fame.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "They make you sleep in a cupboard?"
+            },
+            {
+              "who": "Harry",
+              "line": "Under the stairs. Your mum sounds better."
+            },
+            {
+              "who": "Ron",
+              "line": "She's loud. But she knits."
+            }
+          ],
+          "art": "art/c5-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "A small quiet panel. The fat gray rat is curled on a bright wrapper, tiny paws, snoring. Ron's finger strokes his back. Crumbs. Night at the window.",
+          "expressions": "Ron looks at his rat, fond. Harry looks down kindly, thinking of Hedwig, and does not touch.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "That's Scabbers. Useless, mostly. But he's mine."
+            }
+          ],
+          "art": "art/c5-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The train is slowing. Students pull on robes. Harry has a sleeve inside out and a crooked tie. Ron, already dressed, fixes it. In the corridor Hermione holds a toad, and Neville weeps with relief.",
+          "expressions": "Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at the embarrassment. Hermione is pleased. Neville is sobbing happily.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Other sleeve. There. You'll pass for a wizard."
+            },
+            {
+              "who": "Hermione",
+              "line": "Trevor! Neville, I've got your toad."
+            }
+          ],
+          "art": "art/c5-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Through the window, a forest platform at night. No station building, only lanterns in the trees and a crowd. The scarlet train is huge beside the wood.",
+          "expressions": "Harry looks out, nervous excitement. Ron looks out, grinning. Both faces are reflected over the forest.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Those lights. In the trees."
+            }
+          ],
+          "art": "art/c5-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "On the platform, Hagrid holds a lantern like a small moon and calls the first years. Steam. The scarlet train. Older students head somewhere else. Harry and Ron step down.",
+          "expressions": "Hagrid's face opens when he sees Harry. Harry looks up, the hollow from King's Cross gone. Ron is impressed. Draco looks at the dark, disdainful.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "First years! First years over here! Come on, now."
+            }
+          ],
+          "art": "art/c5-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Low angle on the night platform. Hagrid's grin fills the top of the panel, lantern beside his cheek. Harry is small at the bottom, school robes finally worn properly, Hedwig's cage at his feet. Steam wraps them. The train is a red wall.",
+          "expressions": "Hagrid looks proud, a little emotional, grinning. His hand hovers and does not quite ruffle Harry's hair. Harry looks up, safe, smiling true.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "All right, Harry? Welcome to Hogwarts."
+            }
+          ],
+          "art": "art/c5-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
