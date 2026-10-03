@@ -135,6 +135,9 @@ button:disabled {
   display: flex;
   flex-direction: column;
   min-width: 0;
+  position: relative;
+  cursor: pointer;
+  user-select: none;
 }
 
 .page-inner {
@@ -174,20 +177,35 @@ button:disabled {
   font-weight: 560;
 }
 
-.grid {
+.rows {
   flex: 1;
   min-height: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  display: flex;
+  flex-direction: column;
   gap: 7px;
 }
+
+.row {
+  min-height: 0;
+  min-width: 0;
+  display: grid;
+  gap: 7px;
+}
+
+.row.grow-short { flex: 0.82 1 0; }
+.row.grow-mid { flex: 1 1 0; }
+.row.grow-tall { flex: 1.28 1 0; }
+
+.row.split-1-1 { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.row.split-2-1 { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
+.row.split-1-2 { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); }
 
 .panel {
   position: relative;
   display: flex;
   flex-direction: column;
   min-height: 0;
+  min-width: 0;
   background: #fffdf8;
   border: 1px solid rgba(70, 48, 24, 0.16);
   border-radius: 4px;
@@ -199,9 +217,10 @@ button:disabled {
   flex: 1 1 auto;
   min-height: 0;
   object-fit: cover;
-  object-position: center 28%;
+  object-position: center 32%;
   display: block;
   background: #e7dcc8;
+  pointer-events: none;
 }
 
 .panel .missing {

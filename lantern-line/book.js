@@ -26,18 +26,45 @@
     return data.panels.filter((p) => p.page === page);
   }
 
+  function textWeight(panel) {
+    return panel.dialogue.reduce((sum, line) => sum + line.line.length, 0);
+  }
+
+  function rowPlan(items) {
+    const rows = [];
+    for (let i = 0; i < items.length; i += 2) {
+      const pair = items.slice(i, i + 2);
+      const left = textWeight(pair[0]);
+      const right = pair[1] ? textWeight(pair[1]) : 0;
+      const diff = Math.abs(left - right);
+      const max = Math.max(left, right, 1);
+      let split = "split-1-1";
+      if (pair[1] && diff / max >= 0.22) split = left > right ? "split-2-1" : "split-1-2";
+      const total = left + right;
+      let grow = "grow-mid";
+      if (split !== "split-1-1" || total > 110) grow = "grow-tall";
+      else if (total < 70) grow = "grow-short";
+      rows.push({ split, grow, panels: pair });
+    }
+    return rows;
+  }
+
+  function panelHtml(panel) {
+    const picture = panel.art
+      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
+      : `<div class="missing">Art not drawn yet</div>`;
+    const lines = panel.dialogue.map((d) =>
+      `<p><span class="who">${escapeHtml(d.who)}</span>${escapeHtml(d.line)}</p>`
+    ).join("");
+    return `<figure class="panel"><span class="num">${panel.n}</span>${picture}<figcaption class="lines">${lines}</figcaption></figure>`;
+  }
+
   function pageHtml(page) {
     const items = panelsFor(page);
-    const cells = items.map((panel) => {
-      const picture = panel.art
-        ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
-        : `<div class="missing">Art not drawn yet</div>`;
-      const lines = panel.dialogue.map((d) =>
-        `<p><span class="who">${escapeHtml(d.who)}</span>${escapeHtml(d.line)}</p>`
-      ).join("");
-      return `<figure class="panel"><span class="num">${panel.n}</span>${picture}<figcaption class="lines">${lines}</figcaption></figure>`;
-    }).join("");
-    return `<div class="page-inner"><header><span>Page ${page} of ${data.pageCount}</span><strong>${escapeHtml(titles[page] || "")}</strong></header><div class="grid">${cells}</div></div>`;
+    const rows = rowPlan(items).map((row) =>
+      `<div class="row ${row.split} ${row.grow}">${row.panels.map(panelHtml).join("")}</div>`
+    ).join("");
+    return `<div class="page-inner"><header><span>Page ${page} of ${data.pageCount}</span><strong>${escapeHtml(titles[page] || "")}</strong></header><div class="rows">${rows}</div></div>`;
   }
 
   function escapeHtml(value) {
@@ -56,12 +83,16 @@
     if (mobile()) {
       const showingRight = document.body.classList.contains("mobile-right");
       const current = showingRight ? rightPage : leftPage;
-      status.textContent = `Page ${current} of ${pageCount} drawn`;
+      status.textContent = `Page ${current} of ${pageCount} drawn. Tap the page to turn it.`;
+      leftEl.title = "Turn page";
+      rightEl.title = "Turn page";
       prevBtn.disabled = current <= 1;
       nextBtn.disabled = current >= pageCount;
     } else {
       const rightLabel = rightPage <= pageCount ? `–${rightPage}` : "";
-      status.textContent = `Pages ${leftPage}${rightLabel} of ${pageCount} drawn`;
+      status.textContent = `Pages ${leftPage}${rightLabel} of ${pageCount} drawn. Click the right page to turn forward, the left page to turn back.`;
+      leftEl.title = "Turn back";
+      rightEl.title = "Turn page";
       prevBtn.disabled = spread === 0;
       nextBtn.disabled = spread >= spreadCount - 1;
     }
@@ -195,14 +226,11 @@
     if (event.key === "ArrowRight") turnForward();
     if (event.key === "ArrowLeft") turnBack();
   });
-  leftEl.addEventListener("click", (event) => {
-    if (event.target.closest(".panel")) return;
-    turnBack();
+  leftEl.addEventListener("click", () => {
+    if (mobile()) turnForward();
+    else turnBack();
   });
-  rightEl.addEventListener("click", (event) => {
-    if (event.target.closest(".panel")) return;
-    turnForward();
-  });
+  rightEl.addEventListener("click", () => turnForward());
   window.addEventListener("resize", fit);
 
   renderStatic();
