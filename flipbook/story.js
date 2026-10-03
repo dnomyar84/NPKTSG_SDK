@@ -625,6 +625,340 @@ window.BOOK = {
           "art": "art/c2-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 3,
+      "title": "Hagrid tells Harry he is a wizard",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The door"
+        },
+        {
+          "n": 2,
+          "title": "Denial"
+        },
+        {
+          "n": 3,
+          "title": "The story"
+        },
+        {
+          "n": 4,
+          "title": "Leaving"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The shack door is off its hinges and falling inward. Hagrid fills the doorway, so large the night sea is only a strip around his shoulders. The bulb swings. Spray blows in.",
+          "expressions": "Hagrid's fierceness cracks when he finds Harry. Vernon looks up, mustache shaking. Harry looks up, stunned.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Sorry about the door."
+            }
+          ],
+          "art": "art/c3-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Hagrid kneels and hugs Harry off his feet. Only sneakers and one arm show. A squashed cake tin is still in Hagrid's other hand. The Dursleys press against the far wall.",
+          "expressions": "Hagrid's eyes are shut, crying and smiling. Harry's visible eye is wide, looking sideways, not sure he is allowed to be held.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Happy birthday, Harry."
+            }
+          ],
+          "art": "art/c3-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "The rifle barrel is a knot. Vernon's hands are still on the stock. Hagrid uses two fingers.",
+          "expressions": "Vernon stares at the knot, belief breaking. Hagrid looks mildly annoyed. Harry watches with a startled almost-smile.",
+          "dialogue": [
+            {
+              "who": "Vernon",
+              "line": "I demand that you leave this instant!"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Mind the rifle, Mr Dursley. It bends."
+            }
+          ],
+          "art": "art/c3-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "A thick damp envelope with a wax seal sits on Hagrid's open palm, bigger than Harry's hand. The cake tin is on the table. The knotted rifle lies on the floor.",
+          "expressions": "Hagrid looks encouraging. Harry looks hungry and afraid to hope. Vernon looks at the letter with hate.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "This letter's yours. Hogwarts has been trying to reach you for days."
+            }
+          ],
+          "art": "art/c3-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Over Harry's shoulder. The letter is open, a crest at the top. His finger rests under a line. The bulb lights the parchment. Water drips into a pan.",
+          "expressions": "Harry's brow is tight with confusion and want. Hagrid watches his face, waiting for the smile.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hogwarts School of Witchcraft and Wizardry."
+            }
+          ],
+          "art": "art/c3-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Harry lowers the letter and looks up. He holds it against his chest. Hagrid is a warm blur behind him.",
+          "expressions": "Harry looks lost. His eyes are wet from the weather and from being seen.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "A wizard? I don't even know what that means."
+            }
+          ],
+          "art": "art/c3-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Vernon jabs a finger up at Hagrid's chest. Harry keeps the letter behind him. Dudley hides by Petunia, chocolate on his chin.",
+          "expressions": "Vernon shouts. Hagrid looks down, insulted. Harry is afraid the letter will be taken. Dudley stares at the boots.",
+          "dialogue": [
+            {
+              "who": "Vernon",
+              "line": "There is no such thing as magic. And you are not going to any school of freaks."
+            }
+          ],
+          "art": "art/c3-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Hagrid draws himself up under the low ceiling and points the pink umbrella, scolding, not firing it. The bulb swings away from his head.",
+          "expressions": "Hagrid is genuinely offended and glances down to be sure Harry hears. Vernon looks at the umbrella, nerves showing.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Watch your mouth. Hogwarts is the finest school of witchcraft in the world, and Harry's got a place in it."
+            }
+          ],
+          "art": "art/c3-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Dudley's hands are in the cake tin, frosting on his fingers. The lid is on the floor. Hagrid's back is to the table.",
+          "expressions": "Dudley looks at Harry, mocking. Harry looks hurt. Petunia looks away and does not stop her son.",
+          "dialogue": [
+            {
+              "who": "Dudley",
+              "line": "Ha! His cake's squashed. I'm having it."
+            }
+          ],
+          "art": "art/c3-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A small pink spark leaps from the umbrella tip. Cake crumbs hang in the air. The spark lights every face.",
+          "expressions": "Hagrid looks annoyed, not cruel. Dudley's laugh dies. Harry flinches, and wonder breaks through.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "That's enough out of you."
+            }
+          ],
+          "art": "art/c3-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Dudley sprints for the broken door, both hands on his backside. A curly pink tail sticks out through his trousers. Cake is still in his mouth.",
+          "expressions": "Dudley howls. Petunia's mind breaks. Harry's real smile starts. Hagrid looks satisfied and a bit guilty.",
+          "dialogue": [
+            {
+              "who": "Dudley",
+              "line": "Mum! There's a tail! I've got a tail!"
+            }
+          ],
+          "art": "art/c3-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The hut is in uproar. Petunia's hands are in her hair. Harry covers a small smile with the letter. Vernon sits down hard. Dudley runs into the rain.",
+          "expressions": "Petunia shrieks. Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated.",
+          "dialogue": [
+            {
+              "who": "Petunia",
+              "line": "What have you done to my Dudley?"
+            }
+          ],
+          "art": "art/c3-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Hagrid sits on the floor so he can speak quietly. The cake tin is between them. A blanket is around Harry's shoulders. He holds a mug too big for him. The Dursleys huddle far behind.",
+          "expressions": "Hagrid looks gentle and grave. Harry looks guarded, because good news in this house usually is not.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "That story they told you, about a car crash. It's a lie, Harry."
+            }
+          ],
+          "art": "art/c3-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Harry's hands tighten on the mug. Tea jumps. Hagrid's big hands are open. The Dursleys are out of the frame.",
+          "expressions": "Hagrid does not look away. Shock replaces the car-crash story on Harry's face. No tears yet.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Your mum and dad were a witch and a wizard. And they were murdered."
+            }
+          ],
+          "art": "art/c3-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Hagrid leans in. The bulb seems dimmer. His hand half-covers his mouth after the name.",
+          "expressions": "Hagrid flinches, afraid of the name, then looks back to be brave. Harry catches the fear before the meaning.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "It was Voldemort. Most folk won't say it. They call him You-Know-Who."
+            }
+          ],
+          "art": "art/c3-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Hagrid points gently toward Harry's forehead, not touching. The scar is in the light. Petunia is a listening silhouette far behind.",
+          "expressions": "Hagrid looks at the scar with reverence and grief. Harry touches it. Petunia is not sneering.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "He tried the Killing Curse on you, and it didn't take. That's why you've got the lightning scar."
+            }
+          ],
+          "art": "art/c3-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Close on Harry's fingers on the lightning scar. Glasses, hair, the edge of the blanket.",
+          "expressions": "He looks through the moment, remembering a pain he was told was a car crash. Confusion, anger, and the start of grief.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "This? They told me the crash did it."
+            }
+          ],
+          "art": "art/c3-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The door is open a crack on a calmer sea. Harry is small in the blanket, the letter in his lap. A mug sits forgotten. The Dursleys are silent shadows.",
+          "expressions": "Hagrid's smile does not quite work. He is proud and sorry. Harry looks at the letter, overwhelmed, not proud.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Every witch and wizard alive knows the name Harry Potter. You're the boy who lived."
+            }
+          ],
+          "art": "art/c3-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Dawn is a gray line at the window. Petunia stands, years of spite in her posture. Dudley sleeps on the cot. The knotted rifle is on the floor.",
+          "expressions": "Petunia looks at Harry and sees Lily, ugly with envy. Harry turns as if slapped. Hagrid is angry on Lily's behalf. Vernon looks at the floor.",
+          "dialogue": [
+            {
+              "who": "Petunia",
+              "line": "I knew. My sister Lily was a witch. She got the magic, and I got nothing. I hated her for being special."
+            }
+          ],
+          "art": "art/c3-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Aunt and nephew, nobody between them. Gray dawn light. The blanket sits on Harry's shoulders. The letter is in his fist.",
+          "expressions": "Harry really looks at her, hurt and curious. Petunia looks just past him. Her mouth is hard.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "You knew what I was. All this time, and you let me sleep in a cupboard."
+            }
+          ],
+          "art": "art/c3-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The door is open on wet rock and a calmer sea. A motorcycle waits outside. Hagrid's hand is offered. The Dursleys stay small in the dark room.",
+          "expressions": "Hagrid looks sure and kind. Harry looks at the hand, then past it at the sky. Petunia looks at his back.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Come on. We've school things to buy. Robes, books, a wand."
+            }
+          ],
+          "art": "art/c3-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "They stand in the doorway. Inside is brown and small. Outside is silver water and cloud breaking. Hagrid's hand rests on Harry's shoulder.",
+          "expressions": "Hope is naked on Harry's face. Hagrid laughs as if the question is silly and lovely.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Can I really be a wizard?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Course you can. You are one."
+            }
+          ],
+          "art": "art/c3-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "From inside the hut, looking out. Harry and Hagrid walk onto the rock in the rain. The motorcycle shines. The doorway frames them.",
+          "expressions": "Harry looks back, not waving, not forgiving. Petunia watches, unreadable. Hagrid does not look back.",
+          "dialogue": [],
+          "art": "art/c3-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The shack is tiny behind them. Ahead, a dirty gold glow of the city under the clouds. A giant and a boy walk the coastal path. Gulls. Puddles.",
+          "expressions": "Seen mostly from the path. Harry looks up at Hagrid, hope still there. Hagrid looks ahead, at ease.",
+          "dialogue": [],
+          "art": "art/c3-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
