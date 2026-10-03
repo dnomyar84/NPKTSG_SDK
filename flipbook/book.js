@@ -1,9 +1,26 @@
 (function () {
   const data = window.BOOK;
-  const drawn = data.panels.filter((p) => p.art);
-  const perPage = data.panelsPerPage;
-  const pageCount = Math.max(...drawn.map((p) => p.page));
-  const titles = Object.fromEntries(data.pageTitles.map((p) => [p.n, p.title]));
+  const chapters = data.chapters || [{
+    n: 1,
+    title: String(data.title || "").replace(/^Chapter \d+ — /, ""),
+    pageTitles: data.pageTitles,
+    panels: data.panels
+  }];
+  const catalog = [null];
+  chapters.forEach((chapter) => {
+    const maxPage = Math.max(...chapter.pageTitles.map((p) => p.n));
+    for (let local = 1; local <= maxPage; local += 1) {
+      const found = chapter.pageTitles.find((p) => p.n === local);
+      catalog.push({
+        chapter,
+        local,
+        chapterPages: maxPage,
+        title: found ? found.title : "",
+        panels: chapter.panels.filter((p) => p.page === local)
+      });
+    }
+  });
+  const pageCount = catalog.length - 1;
 
   const leftEl = document.getElementById("leftPage");
   const rightEl = document.getElementById("rightPage");
@@ -23,7 +40,22 @@
   const mobile = () => window.matchMedia("(max-width: 800px)").matches;
 
   function panelsFor(page) {
-    return data.panels.filter((p) => p.page === page);
+    return (catalog[page] && catalog[page].panels) || [];
+  }
+
+  function showChapter(page) {
+    const info = catalog[page];
+    if (!info) return;
+    const strong = document.querySelector(".brand strong");
+    const sub = document.querySelector(".brand span");
+    if (strong) {
+      strong.textContent = `Chapter ${info.chapter.n} — ${info.chapter.title}`;
+      document.title = strong.textContent;
+    }
+    if (sub) {
+      const word = chapters.length === 1 ? "chapter" : "chapters";
+      sub.textContent = `${data.book} · ${chapters.length} ${word} in the book`;
+    }
   }
 
   // Place and wide-view panels. A row stays half and half unless one of these
@@ -58,11 +90,15 @@
   }
 
   function pageHtml(page) {
-    const items = panelsFor(page);
+    const info = catalog[page];
+    if (!info) {
+      return `<div class="page-inner"><header><span>End of sample</span><strong>Script continues</strong></header></div>`;
+    }
+    const items = info.panels;
     const rows = rowPlan(items).map((row) =>
       `<div class="row ${row.split} ${row.grow}">${row.panels.map(panelHtml).join("")}</div>`
     ).join("");
-    return `<div class="page-inner"><header><span>Page ${page} of ${data.pageCount}</span><strong>${escapeHtml(titles[page] || "")}</strong></header><div class="rows">${rows}</div></div>`;
+    return `<div class="page-inner"><header><span>Chapter ${info.chapter.n} · Page ${info.local} of ${info.chapterPages}</span><strong>${escapeHtml(info.title)}</strong></header><div class="rows">${rows}</div></div>`;
   }
 
   function escapeHtml(value) {
@@ -77,18 +113,29 @@
     const leftPage = spread * 2 + 1;
     const rightPage = leftPage + 1;
     leftEl.innerHTML = pageHtml(leftPage);
-    rightEl.innerHTML = rightPage <= pageCount ? pageHtml(rightPage) : `<div class="page-inner"><header><span>End of sample</span><strong>Script continues</strong></header></div>`;
+    rightEl.innerHTML = rightPage <= pageCount ? pageHtml(rightPage) : pageHtml(rightPage);
+    showChapter(mobile() && document.body.classList.contains("mobile-right") ? rightPage : leftPage);
     if (mobile()) {
       const showingRight = document.body.classList.contains("mobile-right");
       const current = showingRight ? rightPage : leftPage;
-      status.textContent = `Page ${current} of ${pageCount} drawn. Tap the page to turn it.`;
+      const info = catalog[current];
+      status.textContent = info
+        ? `Chapter ${info.chapter.n}, page ${info.local} of ${info.chapterPages}. Tap the page to turn it.`
+        : "End of the book.";
       leftEl.title = "Turn page";
       rightEl.title = "Turn page";
       prevBtn.disabled = current <= 1;
       nextBtn.disabled = current >= pageCount;
     } else {
-      const rightLabel = rightPage <= pageCount ? `–${rightPage}` : "";
-      status.textContent = `Pages ${leftPage}${rightLabel} of ${pageCount} drawn. Click the right page to turn forward, the left page to turn back.`;
+      const leftInfo = catalog[leftPage];
+      const rightInfo = catalog[rightPage];
+      let label = `Chapter ${leftInfo.chapter.n}, page ${leftInfo.local} of ${leftInfo.chapterPages}`;
+      if (rightInfo && rightInfo.chapter.n === leftInfo.chapter.n) {
+        label = `Chapter ${leftInfo.chapter.n}, pages ${leftInfo.local}–${rightInfo.local} of ${leftInfo.chapterPages}`;
+      } else if (rightInfo) {
+        label = `Chapter ${leftInfo.chapter.n} page ${leftInfo.local}, then Chapter ${rightInfo.chapter.n} page ${rightInfo.local}`;
+      }
+      status.textContent = `${label}. Click the right page to turn forward, the left page to turn back.`;
       leftEl.title = "Turn back";
       rightEl.title = "Turn page";
       prevBtn.disabled = spread === 0;
@@ -113,7 +160,8 @@
         <p><span class="k">Expressions.</span> ${escapeHtml(panel.expressions)}</p>
         <p><span class="k">Dialogue.</span> ${panel.dialogue.length ? panel.dialogue.map((d) => `${escapeHtml(d.who)}: “${escapeHtml(d.line)}”`).join(" ") : "None."}</p>
       </article>`).join("");
-    return `<section class="note-card"><h3>Page ${page} · ${escapeHtml(titles[page] || "")}</h3>${body}</section>`;
+    const info = catalog[page];
+    return `<section class="note-card"><h3>Chapter ${info.chapter.n} · Page ${info.local} · ${escapeHtml(info.title)}</h3>${body}</section>`;
   }
 
   function fit() {
