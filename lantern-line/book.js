@@ -1,5 +1,5 @@
 (function () {
-  const data = window.LANTERN;
+  const data = window.BOOK;
   const drawn = data.panels.filter((p) => p.art);
   const perPage = data.panelsPerPage;
   const pageCount = Math.max(...drawn.map((p) => p.page));
@@ -28,11 +28,7 @@
 
   // Place and wide-view panels. A row stays half and half unless one of these
   // needs the long frame (2:1 or 1:2). Close-ups and conversations stay even.
-  const SCENERY = new Set([
-    5, 7, 13, 19, 20, 21, 23, 25, 31, 33, 36, 37, 42, 43, 47, 48,
-    49, 50, 67, 69, 70, 73, 85, 86, 87, 91, 103, 120, 123, 127, 129, 131,
-    137, 138, 139, 144
-  ]);
+  const SCENERY = new Set([1, 10, 11, 14, 22, 23]);
 
   function isScenery(panel) {
     return SCENERY.has(panel.n);
