@@ -3445,6 +3445,342 @@ window.BOOK = {
           "art": "art/c10-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 11,
+      "title": "The first Quidditch match",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Before the whistle"
+        },
+        {
+          "n": 2,
+          "title": "The jinx"
+        },
+        {
+          "n": 3,
+          "title": "Fire and the Snitch"
+        },
+        {
+          "n": 4,
+          "title": "The name"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "A cramped stone changing room, red cloth and benches, a high window, the crowd already roaring outside. Harry stands in scarlet Quidditch robes that pool at his shoes, gloves too big, a plain fast broom beside him. Oliver Wood kneels and draws the plan on the bench with a wet finger. The older team fills the room: the red-haired twins with bats, and three taller girls.",
+          "expressions": "Wood looks up at Harry, intense, trying to pour a whole game into him. Harry looks at the finger-plan, swallowing, brave and new. The twins look at each other, a reassuring joke, and at Harry, friendly.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "Chasers mind the Quaffle. Beaters mind the Bludgers. You, Potter, watch the sky for the Snitch and nothing else."
+            }
+          ],
+          "art": "art/c11-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Close in the changing room. Wood's hands steady the too-big robes on Harry's shoulders. The broom is in Harry's grip. A whistle sounds somewhere nearer the door.",
+          "expressions": "Wood looks at Harry, willing him to be taller, the doubt badly hidden. Harry looks back, he heard the doubt, and nods anyway with a tight brave smile.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "Catch the Golden Snitch and they cannot catch our score. I am trusting a first year, and a Nimbus Two Thousand. Do not make me regret either."
+            }
+          ],
+          "art": "art/c11-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "The tunnel mouth. Dark stone, then a blast of daylight. Harry steps out small in too-long scarlet robes, broom in hand. Wood is ahead of him on the grass. Packed wooden stands, banners of plain color, goal hoops, the castle beyond, a bright cold sky.",
+          "expressions": "Harry looks up at the roar, eyes wide, one step hitching then landing. He looks at the sky, which he trusts more than the crowd. Wood looks back with a nod.",
+          "dialogue": [],
+          "art": "art/c11-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The pitch and the Slytherin stand. Players in green sit their brooms, expensive and mean, a larger Seeker sneering. In the stands Draco is on his feet, platinum hair, arm out, pointing at Harry so the people around him will laugh. Crabbe and Goyle bellow beside him. Harry is small on the grass.",
+          "expressions": "Draco looks at Harry, mocking. The Slytherin Seeker looks at Harry and dismisses him. Harry looks at Draco for one second, then away, at his broom.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Look at the scarf on legs! Gryffindor's Seeker still needs a growth charm!"
+            }
+          ],
+          "art": "art/c11-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The center circle, bright grass, the sky opening. Madam Hooch, yellow eyes and a whistle in her teeth, flings the red Quaffle. Two black Bludgers and a tiny gold Snitch blast upward. Harry kicks off in the same instant, a clean rise. Wood shouts. The twins rise with bats.",
+          "expressions": "Hooch looks at the balls, fierce and fair. Harry looks up, the fear burned off, focus arriving, mouth slightly open. Joy under the job.",
+          "dialogue": [
+            {
+              "who": "Madam Hooch",
+              "line": "Mount your brooms. Three, two, one, brooms up!"
+            }
+          ],
+          "art": "art/c11-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Bird's eye. The daytime stadium is Wood's diagram come alive: an oval pitch, hoops, a ring of crowd, tiny players in a knot. Harry is one scarlet figure on a broom, circling higher than the game. Castle, lake, and the dark edge of the forest beyond. Banners lean in the wind.",
+          "expressions": "Faces are not readable. The picture is scale. Harry is small and the sky is his.",
+          "dialogue": [],
+          "art": "art/c11-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Mid-air. Harry banks low over his broom, scarlet robes streaming. A black iron Bludger tears past his ear. He does not chase it. His eyes search the air. A goal hoop and a color-smear of crowd below. A red-haired Beater swings a bat far beneath him.",
+          "expressions": "Harry looks past the Bludger, not at it, hunting. Concentration, and a flicker of thrill. The Beater looks up at him, protective.",
+          "dialogue": [],
+          "art": "art/c11-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Open air above the center. The broom jerks like a living thing bitten. Harry's knees lock. One hand stays on the handle. The other flies up. His glasses slip. The game continues tiny below and has not seen him yet.",
+          "expressions": "Harry looks at the broom, startled, then at his own hands. The joy is gone. Confusion first, then the start of fear.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Steady. What are you doing? Steady!"
+            }
+          ],
+          "art": "art/c11-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "High above the pitch. The broom rolls and Harry hangs half off it, one glove locked, the other grabbing air, robes whipping. The ground is a green threat. Below, the crowd has seen: faces tilt up. Wood looks up, the game forgotten. Hooch's whistle is frozen at her lips.",
+          "expressions": "Harry looks at the ground, real fear, teeth set, not screaming. Wood looks up, horrified, wanting a stop.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "Potter's in trouble! The broom's fighting him!"
+            }
+          ],
+          "art": "art/c11-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A wide view of the Gryffindor stand, wind and scarves. Hermione stands on the bench, hair whipped, binoculars unused in one hand, eyes following an invisible line from the air toward the staff seats. Ron pulls her sleeve at the rail. Hagrid is a few seats away, huge, fists clenched. Far off, Harry is a tumbling scarlet speck.",
+          "expressions": "Hermione looks toward the staff, detective-sharp and scared. Ron looks only at Harry, begging the air. Hagrid looks at Harry, helpless, eyes wet.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It's a jinx. Someone is jinxing his broom."
+            },
+            {
+              "who": "Ron",
+              "line": "Then find them, don't explain them!"
+            }
+          ],
+          "art": "art/c11-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The teachers' box, still amid the noise, a railing and the pitch beyond. Snape sits rigid in black, eyes locked upward, lips moving, one hand hidden. McGonagall is on her feet in emerald and her pointed hat, shouting for the sky to behave. Quirrell is at the end in his purple turban, also looking up, also mouthing, a bead of sweat, easy to miss.",
+          "expressions": "Snape looks at Harry, intense, no blink. It reads as an attack. McGonagall looks at the sky, afraid for the boy. Quirrell looks up, and his stare is the true one if anyone were looking at him. No one is.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "Hold fast. Contra the jinx. Do not throw him."
+            }
+          ],
+          "art": "art/c11-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The packed outdoor stand, stairs and house colors, the staff box getting closer. Hermione is a determined wedge through scarves and elbows, wand already in her fist. Ron stumbles after her, still looking back at the sky. Hagrid shifts his bulk to let her pass.",
+          "expressions": "Hermione looks toward Snape's box, fierce. Ron looks at her, lost, then up at Harry, torn. A spectator looks at her wand, alarmed. Hagrid looks at her, hopeful.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It's Snape. He's staring at Harry and his mouth hasn't stopped. Come on."
+            }
+          ],
+          "art": "art/c11-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The edge of the staff seats, daylight, a wooden rail. Hermione leans over and a tiny precise blue flame bites the hem of Snape's black robe. His concentration snaps. Ron gasps behind her. Quirrell flinches at the edge, a sweat drop, not noticed.",
+          "expressions": "Hermione looks at the flame, not gloating, urgent. Snape looks down, shock and fury. Ron looks at the fire, horrified and impressed.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Lacarnum inflamari."
+            }
+          ],
+          "art": "art/c11-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "One wide panel with a clear distance. In the staff box Snape stands smacking his scorched hem with both hands, black hair falling, furious. McGonagall looks at the hem. Hermione ducks below the rail. Far across the sky, Harry's broom levels so suddenly he almost floats, one hand on, body unfolding back onto the stick.",
+          "expressions": "Snape looks at his robe, then snaps toward the stands, rage. Harry looks at the broom, relief that is not quite a smile. McGonagall's eyes narrow at the place Hermione was.",
+          "dialogue": [
+            {
+              "who": "Snape",
+              "line": "My robes! Who set fire to my robes?"
+            }
+          ],
+          "art": "art/c11-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Open air, sun, the pitch a miniature far below. Harry is still recovering on the broom when the Snitch, tiny and gold with silver wings, flicks against his mouth as if choosing him. No one else is near.",
+          "expressions": "Harry looks at the Snitch, astonishment, mouth opening on instinct. The Snitch is all wings and will.",
+          "dialogue": [],
+          "art": "art/c11-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The pitch, center, bright day. Harry is a thud of scarlet on the grass, broom beside him, robes muddy, both hands at his mouth. Dust. The stands are on their feet in the wrong kind of silence. Wood runs. Hooch approaches. The Slytherin Seeker circles, confused.",
+          "expressions": "The crowd looks down, afraid. Wood looks at Harry, panicked. Harry's eyes are open, looking up, and there is a secret in his cheeks. He has not shown it.",
+          "dialogue": [
+            {
+              "who": "Lee Jordan",
+              "line": "Potter's down! Gryffindor's Seeker is down!"
+            }
+          ],
+          "art": "art/c11-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Close on grass and sky. Mud, a grin, and the golden Snitch held up between two fingers, wings beating against his pinch. Sun on gold. Harry's lip is nicked. Grass is stuck in his hair.",
+          "expressions": "He looks at the Snitch, then past it at the stands, a dazed laugh. Triumph, disbelief, a child's joy. The Snitch looks caught and furious.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I've got it. I've got the Snitch!"
+            }
+          ],
+          "art": "art/c11-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The pitch and the Gryffindor stand at once. Wood hoists Harry. The twins crash in with their bats. Hermione and Ron scream in the stand. Hagrid roars with happiness. The Snitch is still in Harry's fist above the tangle. Far off, Snape sits again, hem singed, not cheering. Draco stands, not cheering.",
+          "expressions": "Harry looks toward Ron and Hermione, laughing. Wood looks at Harry, the doubt gone, delighted. Snape looks cold, mouth tight. Draco looks at the Snitch, sour.",
+          "dialogue": [
+            {
+              "who": "Wood",
+              "line": "Seeker! You mad, beautiful Seeker!"
+            },
+            {
+              "who": "Ron",
+              "line": "He caught it in his mouth!"
+            }
+          ],
+          "art": "art/c11-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Hagrid's hut at night, one warm room against the dark grounds. A fire, enormous mugs, a kettle like a cauldron, herbs, a crossbow on the wall, a window onto the black lawn. Hagrid, coat off and a huge knit vest, pours tea. Harry, Ron, and Hermione are small in big chairs. Fang the boarhound sleeps, huge and harmless.",
+          "expressions": "Hagrid looks at Harry, proud and misty. Harry looks at the tea, happy and tired. Ron looks at the rock cake, wary. Hermione looks at Hagrid, fond, already steering toward a question.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Tea. And don't ask for seconds of the rock cakes. They're a weapon."
+            }
+          ],
+          "art": "art/c11-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "The hut table, firelight, Fang's ear in the foreground. Harry leans forward and retells the match with his hands. Hagrid's big hand waves the idea off, tea in the other. Hermione watches Hagrid's face. Ron nods with Harry.",
+          "expressions": "Harry looks at Hagrid, sure, a little hurt that he is not believed. Hagrid looks troubled but firm. Ron looks at Hagrid, disagreeing. Hermione looks at Hagrid, noticing what he will not say.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Snape tried to kill me. He was jinxing the broom."
+            },
+            {
+              "who": "Hagrid",
+              "line": "Professor Snape? He wouldn't. Not to a student. Not to you."
+            }
+          ],
+          "art": "art/c11-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The hut. Hermione, precise, imitates a still man moving his mouth. Hagrid's eyes flick to the window, where the castle is lit and one band of floor is dark, then he shuts down and turns toward a kettle he does not need. Ron is mid-bite of a rock cake and regretting it. Harry watches the window because Hagrid did.",
+          "expressions": "Hermione looks at Hagrid, not accusing, exact. Hagrid looks away, avoiding, beard hiding his mouth. Harry looks at the castle, the dog and the package waking up. Ron looks at the cake, betrayed by it.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "He never looked away, and he was muttering the whole match."
+            },
+            {
+              "who": "Hagrid",
+              "line": "I am not talking about the third floor. Drop it."
+            }
+          ],
+          "art": "art/c11-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "The hut, fire flaring, mugs jumped. Harry's words land. Hagrid spins, tea flying, both hands up as if he could push the sentence back. Fang sits up. The cozy room tilts into alarm.",
+          "expressions": "Hagrid looks at Harry, panic, affection, and fear of having given it away by reacting. Harry looks at him, gentle and relentless. Hermione looks at Hagrid, kind, waiting. Ron freezes. Fang looks at the door and misses the point.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I saw you take a parcel from a high-security vault at Gringotts. That's what the dog is standing on, isn't it?"
+            },
+            {
+              "who": "Hagrid",
+              "line": "Harry!"
+            }
+          ],
+          "art": "art/c11-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Tight on the table, firelight. Defending the secret, the name escapes. Hagrid's eyes go round and his huge hand slaps over his beard and mouth, too late. Harry, Ron, and Hermione are three statues of attention. Fang is a sleeping heap behind them. Nothing is written down. The name is in their faces.",
+          "expressions": "Hagrid looks at them over his hand, pleading with them to un-hear it. Harry looks at him, the name locked in. Hermione looks at Hagrid, already spelling it in her head, eyes bright. Ron looks at Harry, a silent we-have-it.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "It's Nicolas Flamel's business, that's all, and I should never have... oh, blast my big mouth."
+            }
+          ],
+          "art": "art/c11-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Later, outside the hut. The door is shut and Hagrid's worried face is small in the warm window, hand still near his mouth. On the cold path the three walk, the forest black to one side and the castle ahead. Hermione's finger traces the name on her palm in the dark, invisible ink of memory. Harry and Ron flank her.",
+          "expressions": "Hermione looks at her palm, concentrated, a scholar on a hunt. Harry looks at her hand, trusting her with the name. Ron looks at the castle, eager and scared. Hagrid looks at their backs, regret and love.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Nicolas Flamel. I'm spelling it until it sticks."
+            }
+          ],
+          "art": "art/c11-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
