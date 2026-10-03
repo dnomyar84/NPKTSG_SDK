@@ -26,25 +26,27 @@
     return data.panels.filter((p) => p.page === page);
   }
 
-  function textWeight(panel) {
-    return panel.dialogue.reduce((sum, line) => sum + line.line.length, 0);
+  // Place and wide-view panels. A row stays half and half unless one of these
+  // needs the long frame (2:1 or 1:2). Close-ups and conversations stay even.
+  const SCENERY = new Set([
+    5, 7, 13, 19, 20, 21, 23, 25, 31, 33, 36, 37, 42, 43, 47, 48,
+    49, 50, 67, 69, 70, 73, 85, 86, 87, 91, 103, 120, 123, 127, 129, 131,
+    137, 138, 139, 144
+  ]);
+
+  function isScenery(panel) {
+    return SCENERY.has(panel.n);
   }
 
   function rowPlan(items) {
     const rows = [];
     for (let i = 0; i < items.length; i += 2) {
       const pair = items.slice(i, i + 2);
-      const left = textWeight(pair[0]);
-      const right = pair[1] ? textWeight(pair[1]) : 0;
-      const diff = Math.abs(left - right);
-      const max = Math.max(left, right, 1);
+      const left = isScenery(pair[0]);
+      const right = pair[1] ? isScenery(pair[1]) : false;
       let split = "split-1-1";
-      if (pair[1] && diff / max >= 0.22) split = left > right ? "split-2-1" : "split-1-2";
-      const total = left + right;
-      let grow = "grow-mid";
-      if (split !== "split-1-1" || total > 110) grow = "grow-tall";
-      else if (total < 70) grow = "grow-short";
-      rows.push({ split, grow, panels: pair });
+      if (pair[1] && left !== right) split = left ? "split-2-1" : "split-1-2";
+      rows.push({ split, grow: split === "split-1-1" ? "grow-mid" : "grow-tall", panels: pair });
     }
     return rows;
   }
