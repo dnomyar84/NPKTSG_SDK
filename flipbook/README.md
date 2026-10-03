@@ -12,6 +12,7 @@ Chapters in the book so far:
 6. Arrival and the Sorting
 7. First classes, and Snape’s hostility
 8. Flying class and the Seeker
+9. The midnight duel and the three-headed dog
 
 - [Flip book](index.html) — click the right page to turn forward and the left page to turn back. Each row is two panels: half and half, or a 2:1 or 1:2 split. The long frame is kept for wide views of the street, the sky, and the house.
 - Storyboard: [Chapter 1 in the panel layout](../reference/harry-potter-philosophers-stone-panels.md).

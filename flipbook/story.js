@@ -2773,6 +2773,347 @@ window.BOOK = {
           "art": "art/c8-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 9,
+      "title": "The midnight duel and the three-headed dog",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The challenge"
+        },
+        {
+          "n": 2,
+          "title": "The trap"
+        },
+        {
+          "n": 3,
+          "title": "Fluffy"
+        },
+        {
+          "n": 4,
+          "title": "The package"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "Afternoon in the castle entrance hall, doors open to the sun. A pale boy with slicked platinum hair and a green-lined robe steps into the path, hands behind his back, a polite false smile. Two stocky boys close in behind him. Harry, in a black robe with a satchel, stops. Ron measures the exit. Hermione, a step back, is already suspicious.",
+          "expressions": "The platinum-haired boy looks pleasant and false. Harry is guarded. Ron is measuring the way out. Hermione is not buying the smile.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Potter. A word. Without the Weasley, if you can manage it."
+            }
+          ],
+          "art": "art/c9-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Under a suit of armor, the platinum-haired boy leans in and taps a watch, the challenge delivered like a gift. Harry's bag strap tightens in his fist. Ron leans in, already tempted. Sun and dust fill the quieter side of the hall.",
+          "expressions": "The challenger's smile is small and bright with the trick. Harry weighs pride against sense. Ron is eager, and the decision is tilting the wrong way.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "A wizard's duel. Midnight. The trophy room. Wands only. No teachers, unless you're frightened."
+            }
+          ],
+          "art": "art/c9-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Hermione plants herself with a book to her chest and counts the rules on her fingers. Harry looks past her. Ron looks defensive. Down the corridor, the platinum-haired boy walks away with the two stocky boys and does not look back.",
+          "expressions": "Hermione is urgent, right, and annoyed that she has to be. Harry's pride prickles as he watches the receding back. Ron is defensive. The shoulders walking away look pleased.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It's a trap. And it breaks about fifty school rules, starting with curfew."
+            }
+          ],
+          "art": "art/c9-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "A window alcove in gold afternoon light, armor along the stone, the lawn outside. Ron's hands are open. Harry holds his satchel in both hands. Hermione is a frustrated shape walking ahead, out of the decision.",
+          "expressions": "Ron is loyal and reckless, grinning. Harry is worried, and he nods anyway. The flying-courage is still in him.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "We have to go. If you don't, he'll tell the whole school you ran."
+            },
+            {
+              "who": "Harry",
+              "line": "All right. Midnight."
+            }
+          ],
+          "art": "art/c9-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Night. A gold-framed portrait of a plump woman in a pink dress swings open on its hinges, and the common-room fire is the last warm light. Harry and Ron creep into the moonlit corridor in pajamas, wooden wands in their hands, ridiculous and brave.",
+          "expressions": "Harry looks down the corridor, alert. Ron wears a nervous grin. The woman in the painting is disapproving, mouth pursed.",
+          "dialogue": [
+            {
+              "who": "Fat Lady",
+              "line": "Out at this hour? I shall pretend to be asleep. I am a very poor pretender."
+            }
+          ],
+          "art": "art/c9-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Hermione steps out from beside a suit of armor, still in her day robe and tie, wand in hand, whisper-furious. Harry and Ron, in pajamas, stop short with their wands lowered. A torch and the moon light the empty corridor.",
+          "expressions": "Hermione is furious, and frightened under the fury. Harry looks caught. Ron looks betrayed by her competence.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "You perfect idiots. Turn round before Filch catches you."
+            }
+          ],
+          "art": "art/c9-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Outside the common room at night, Neville stands cold in a long pale nightshirt, one foot bare, a toad in one hand. He catches Ron's sleeve. The passage behind them glows with firelight, and the woman in pink has turned her back.",
+          "expressions": "Neville is pleading and ashamed. Ron groans a yes. Hermione's sympathy wins over the rules. Harry looks down the corridor, time running out.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "The Fat Lady won't let me in. I forgot the password. Let me come with you. Please."
+            }
+          ],
+          "art": "art/c9-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "The trophy room by moonlight. Glass cases of silver cups and shields, a polished floor, and no one waiting. Harry, Ron, Hermione, and Neville stand small among their own reflections. A toad sits on Neville's shoulder. The door they came through is still open.",
+          "expressions": "Suspicion arrives on Harry. Ron looks back at the door, uneasy. Hermione's I-told-you-so is one she does not enjoy. Neville glances at a cup, then looks scared again.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Malfoy's not here."
+            },
+            {
+              "who": "Harry",
+              "line": "Then it was a trick."
+            }
+          ],
+          "art": "art/c9-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "A sick yellow lamp turns the corner. Filch stoops in a shabby brown coat, stringy gray hair, keys in one fist, grim joy on his face. At his ankles a skinny gray cat stares, eyes like lamps. Harry, Ron, Hermione, and Neville are caught at the edge of the light.",
+          "expressions": "Filch is hunting. The cat knows. Harry looks at the cat, alarmed. Hermione is already calculating a side passage.",
+          "dialogue": [
+            {
+              "who": "Filch",
+              "line": "Who's sneaking? Mrs Norris can smell students. Come out."
+            }
+          ],
+          "art": "art/c9-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Four sets of feet run a narrow corridor. Hermione is in front, robe flying, wand lit, half turned to hiss at the boys. Harry hauls Neville, who clutches the toad. Ron looks back at the yellow light chasing their heels. Armor and a flung tapestry blur past.",
+          "expressions": "Hermione is angry and scared. Harry makes sure Neville is still there. Ron is pale, looking back. Neville is trying not to fall.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "I told you. I told you it was a trap."
+            }
+          ],
+          "art": "art/c9-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Harry hits a tall door and it opens. They tumble through in a knot of pajamas, robes, and toad. Behind them the corridor still holds a distant lamp. Ahead is only darkness.",
+          "expressions": "Harry looks into the dark room, not yet afraid of the right thing. Hermione looks back, relieved for one second. Neville's eyes are shut.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "In here. Quiet."
+            }
+          ],
+          "art": "art/c9-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "They press their backs to the inside of the door. A line of lamplight slides under it and moves on. Then all four faces turn into the black, because the growl is in the room with them. Hermione's wand is raised and not yet lit. Neville clutches the toad under his chin.",
+          "expressions": "Relief collapses. Harry's eyes go wide. Hermione looks past him, dread. Ron looks at Harry. Neville is ready to faint before he sees anything.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "He's gone past."
+            },
+            {
+              "who": "Harry",
+              "line": "Then what was that growl?"
+            }
+          ],
+          "art": "art/c9-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Hermione's wand-light flares. One monstrous dog fills the stone room: three heads, three sets of teeth, one huge body, paws the size of doors, drool and leather collars. The four children are a strip of pajamas and one robe at the bottom. The toad leaps from Neville's hands.",
+          "expressions": "All three heads look down, lips back. Harry looks up, awe and terror. Hermione looks at the paws, thinking even now. Ron stares at the middle teeth. Neville's face is going slack.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Lumos."
+            },
+            {
+              "who": "Ron",
+              "line": "That's not a dog. That's three dogs."
+            }
+          ],
+          "art": "art/c9-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Each head snarls on its own: left furious, middle cruel, right barking. Neville's eyes roll and he goes down in a pale heap, the toad landing on his chest. Harry and Ron grab his arms. Hermione's wand-light jolts.",
+          "expressions": "The heads are distracted between the fallen boy and the standing ones. Harry is urgent. Ron watches the head that looked at him. Hermione looks at the floor under the paws.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "I don't feel well."
+            }
+          ],
+          "art": "art/c9-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Between the huge paws, a wooden trapdoor with an iron ring sits in claw-scratched stone. Harry crouches over fainted Neville and sees it. Hermione sees it a half-second later. A string of drool falls from the head above, near the ring. The dog is not loose in a room. It is a lid.",
+          "expressions": "Harry understands, and the fear sharpens into a question. Hermione's mind is racing. The middle head looks down.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Look under the paws. A trapdoor. It's standing guard on something."
+            }
+          ],
+          "art": "art/c9-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "A head snaps and comes away with cloth, not skin. Ron's maroon sleeve tears. He yanks Neville's ankle. Harry, glasses crooked, hauls Neville toward the door, one shoe already lost. Hermione is at the handle with the light in her other hand. The door is not open yet.",
+          "expressions": "Ron is shocked at the teeth and at his sleeve. Harry looks at the door, pulling. The dog looks cheated. Hermione's face says come on.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "My sleeve! Pull, Harry, pull!"
+            }
+          ],
+          "art": "art/c9-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "The door is shut. A huge impact bursts dust from the wood. On the safe side the four of them are a heap against it. Harry's hands stay on the latch. The toad hops clear. Moonlight comes through a high window. Neville is still out of it.",
+          "expressions": "Harry looks at the booming wood, panting, alive. Hermione checks the latch. Ron checks Neville. Neville's face is slack, missing everything.",
+          "dialogue": [],
+          "art": "art/c9-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "Quiet after the noise. They sit on the corridor floor against the still door. Harry holds a lost slipper. Ron's sleeve is torn, hair stuck to his forehead. Hermione's wand is dark. Neville is waking, the toad on his knee. Moonlight through a high window.",
+          "expressions": "They look at the door, then at each other, shaky. Harry has a breath of a laugh that is mostly terror. Hermione is not ready to scold. Neville is confused, about to be told.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Has it stopped?"
+            },
+            {
+              "who": "Harry",
+              "line": "I think so. Don't open it again."
+            }
+          ],
+          "art": "art/c9-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "An alcove on the way back, a tapestry, the moon in a high window. Hermione crouches and draws in the dust: a square and a huge paw print over it. Harry, Ron with his torn sleeve, and Neville with the toad lean in.",
+          "expressions": "Hermione is certain, voice low, and she looks up to make sure they see it. Harry nods at the paw. Ron believes it. Neville is lost, but he is listening.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "That dog isn't guarding the room. It's guarding the trapdoor."
+            }
+          ],
+          "art": "art/c9-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Harry sits back, one hand on his chest, the dusty paw print forgotten. Moonlight sits in his glasses. The others watch him. There is no package here. He is holding the memory of one.",
+          "expressions": "Harry looks through them, remembering, uneasy. Ron waits. Hermione is ready to connect it. Neville looks at the toad, sleepy.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hagrid took a parcel out of a high-security vault at Gringotts. He wouldn't tell me what it was."
+            }
+          ],
+          "art": "art/c9-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "A memory, softer and faded at the edges. Blue lantern light in a deep stone vault. Hagrid's big hands hold a grubby wrapped package at the mouth of his overcoat. Harry, small in a Muggle jacket, stands in the doorway with a coin pouch and watches.",
+          "expressions": "Hagrid looks at the package, serious. Memory-Harry is curious. The feeling of the present is that this is the thing under the dog.",
+          "dialogue": [],
+          "art": "art/c9-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Back in the corridor. Ron stands, wrapping the torn sleeve, and points toward the warm arch that leads to the common room. Harry sits on the floor, still thinking. Hermione stands with her arms folded. Neville sways, half asleep, the toad in both hands.",
+          "expressions": "Ron pleads to be ordinary, scared and covering it with practicality. Harry is not convinced. Hermione wants to agree and does not quite.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Not our problem. We nearly got eaten. Bed."
+            }
+          ],
+          "art": "art/c9-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Moonlight through a high window. Hermione offers Harry her hand, dust still on one finger, her face set. He takes it. Ron's shoulders drop. Neville is already drifting toward the dark with the toad, wanting his bed.",
+          "expressions": "Hermione is grave, a shared responsibility, not thrilled. Harry agrees without a speech. Ron looks loyal and doomed. Neville wants his bed.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "It became our problem the moment we saw it."
+            }
+          ],
+          "art": "art/c9-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "A long night corridor. Hermione, Neville with the toad, and Ron with the torn sleeve walk away toward the light. Harry is last, one slipper, and he has stopped. He looks back toward the dark stair and the floor above, the question staying with him.",
+          "expressions": "The others look ahead, exhausted. Harry looks back, thoughtful, the package and the trapdoor in his eyes. His mouth is closed.",
+          "dialogue": [],
+          "art": "art/c9-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
