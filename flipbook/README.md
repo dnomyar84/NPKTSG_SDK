@@ -6,3 +6,5 @@ Four pages from the storyboard for *Harry Potter and the Philosopher’s Stone*.
 - Storyboard: [Chapter 1 in the panel layout](../reference/harry-potter-philosophers-stone-panels.md).
 
 Character reference sheets live in `art/characters/` so the same people keep the same faces and clothes from panel to panel.
+
+Once this folder is on the `main` branch, GitHub Pages serves the flip book at `/flipbook/`.
