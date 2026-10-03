@@ -3114,6 +3114,337 @@ window.BOOK = {
           "art": "art/c9-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 10,
+      "title": "The troll and the start of the friendship",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The insult"
+        },
+        {
+          "n": 2,
+          "title": "The announcement"
+        },
+        {
+          "n": 3,
+          "title": "The bathroom"
+        },
+        {
+          "n": 4,
+          "title": "The lie"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "Daytime in a castle courtyard, cloisters and sun. Draco, platinum hair and a green-lined robe, flings himself backward on the flagstones in a fake swoon, one hand on his forehead and a ball clutched in the other, making sure Harry sees. Crabbe and Goyle bellow. A circle of students laughs because it is easier than not. Harry stops at the edge with his bag, glasses and scar, tired of it. Ron stands beside him, ears going red.",
+          "expressions": "Draco looks at Harry while he falls. The crowd looks at Draco, laughing. Harry looks at the performance and does not flinch. Ron looks at the crowd, angry on Harry's behalf.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Look at me, I'm Potter, diving for glory and missing the floor!"
+            }
+          ],
+          "art": "art/c10-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The Gryffindor common room, evening, fire and red hangings, a paper bat crooked near the ceiling. Ron sprawls in an armchair, maroon sweater, one leg over the arm, an unopened book on his lap, talking too loudly and waving. He is not looking behind the chair. Harry sits nearby in his school robe, quill in hand, homework in his lap.",
+          "expressions": "Ron looks at Harry, expecting agreement, careless. Harry looks at his parchment, uncomfortable, and does not stop him.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "She's a nightmare. No friends, and she likes it that way."
+            }
+          ],
+          "art": "art/c10-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "The chair back splits the picture. Ron's laughing profile is on one side, freckles, no glasses, mouth still shaped like a joke. On the other side Hermione hugs a book too hard, bushy hair, school robe and tie, the words still hitting.",
+          "expressions": "Hermione looks at the chair, eyes bright with held tears, mouth small and furious. Ron has not taken it back. A hand reaches in too late.",
+          "dialogue": [],
+          "art": "art/c10-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The common-room entrance. A gold portrait frame swings open on its hinges, and the Fat Lady, a painted woman in a pink dress, leans aside. Hermione runs through the portrait hole with her book, not looking back. Ron is half out of the armchair, one hand out. Harry stands with a dropped quill on the rug.",
+          "expressions": "Ron looks at the swinging portrait, sick and guilty. Harry looks at Ron, sorry, not scolding. The painted Fat Lady looks after Hermione.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Hermione, I didn't mean for you to..."
+            }
+          ],
+          "art": "art/c10-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Halloween night in the Great Hall. Pumpkins the size of desks, floating candles, paper bats, plates full. Harry sits at the Gryffindor table with his fork idle. Ron keeps glancing along an empty stretch of bench. Neville eats a pie. Draco watches from the green table. At the staff table Dumbledore sits in purple and stars, Snape in black, and Quirrell in a purple turban.",
+          "expressions": "Harry looks at his plate, guilty. Ron looks miserable. Neville looks at the pie, content. Draco looks toward the staff, then the food.",
+          "dialogue": [],
+          "art": "art/c10-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Harry has turned on the bench, school robe, one hand on the bench back, looking at the tall iron-bound doors. Ron has turned too. A prefect walks past with a pumpkin jug. The feast stays loud behind them. The doors stay shut.",
+          "expressions": "Harry looks at the doors, worried, the feast forgotten. Ron looks at the doors, guilty, wanting to go and not saying it yet.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "She still isn't here."
+            }
+          ],
+          "art": "art/c10-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "The feast breaks. Quirrell staggers in, purple robes, turban slipping, both arms up, a pumpkin flying off a table. Dumbledore rises in his starry hat. McGonagall stands in emerald. Snape stands in black, eyes sharp. Harry and Ron are on their feet.",
+          "expressions": "Quirrell looks terrified, or like a man performing terror. Dumbledore is alert, the twinkle gone. Harry is startled. Snape is already suspicious.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "T-troll! Troll in the dungeons! Thought you ought to know."
+            }
+          ],
+          "art": "art/c10-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Quirrell has dropped in a heap of purple, turban still on, eyes shut. The hall surges. Benches scrape, juice spills, bats overhead. Draco stands calm and annoyed while the two bulky boys bump people. Harry and Ron brace against the flow. Hermione is not here.",
+          "expressions": "Quirrell's face is slack. Draco looks at the chaos, superior. Harry looks over the crowd toward the doors, thinking of the bathroom, not the troll.",
+          "dialogue": [
+            {
+              "who": "Student",
+              "line": "A mountain troll? Inside Hogwarts?"
+            }
+          ],
+          "art": "art/c10-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Dumbledore stands on the staff table, arms wide, purple robes and starry hat, and the panic starts to become lines. Prefects raise their wands. McGonagall directs. Snape is already moving toward a side door. Harry and Ron stand together in the Gryffindor crowd, looking at each other.",
+          "expressions": "Dumbledore looks over the children, steady. Harry looks at Ron, a decision. Ron looks back, agreeing before the words. Snape looks toward the door, grim.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Silence! Prefects, lead your houses to the dormitories at once. Teachers, with me."
+            }
+          ],
+          "art": "art/c10-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A wide crowded corridor. The house streams toward the great door, paper bats and a pumpkin underfoot. Harry's hand locks on Ron's sleeve. He points back into the castle, away from the dormitories. They are already drifting out of the line. Nobody ahead has seen them peel away.",
+          "expressions": "Harry looks urgent, the bathroom in his mind. Ron looks at him with guilty courage and nods.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hermione doesn't know. She's still in the bathroom. She never heard."
+            },
+            {
+              "who": "Ron",
+              "line": "Then we go and get her."
+            }
+          ],
+          "art": "art/c10-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "A long torchlit corridor. The house lines go one way, small in the distance, a prefect's back turned. Harry and Ron run the other way, wands out, their shadows stretching. A painted portrait on the wall watches them pass.",
+          "expressions": "Harry looks ahead, determined. Ron looks at Harry, keeping up, mouth tight. The portrait looks after them, worried.",
+          "dialogue": [],
+          "art": "art/c10-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "They stop in a lower corridor. Harry's sleeve is over his nose. Wavy smell lines hang in the air. At the end of the passage a huge gray-green shape with a club fills a doorway, too big for a student. A plain wooden door stands ajar nearby. Torch flames lean away.",
+          "expressions": "Harry looks from the shape to the bathroom, fear and the reason they came. Ron stares at the shadow, throat working. The creature does not have a clear face yet.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "That smell. Ron, that is not a student."
+            }
+          ],
+          "art": "art/c10-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "A white-tiled bathroom. Hermione is small against the sinks, bushy hair stuck to wet cheeks, both hands on the porcelain, a book dropped in a puddle. The mountain troll is in the room with her: gray, huge belly, small dull eyes, a ragged loincloth, a wooden club like a tree.",
+          "expressions": "Hermione looks up, terrified, the earlier tears still on her face. The troll looks at her, dull, mouth open. It is not personal, and that is worse.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Don't come in. It's in here with me."
+            }
+          ],
+          "art": "art/c10-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "A wide view of the flooded bathroom. Water pours from a tap. Harry and Ron stand in the doorway, wands out, too small. The troll turns in the middle of the room, club in both hands. Hermione is at the sinks and has seen them.",
+          "expressions": "Harry looks committed. Ron looks at the club, swallowing. Hermione looks at Harry, shock and a flash of hope. The troll is slow and annoyed.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hey! Over here. Not her."
+            }
+          ],
+          "art": "art/c10-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Water sprays. Ron's mouth is wide around the only spell he can remember, wand pointed. Pale magic wraps the troll's arm and yanks the great club upward. Harry ducks on the wet floor. Hermione is down by the sinks, crawling clear.",
+          "expressions": "Ron looks at his own wand, astonished it worked, still shouting. Harry looks at the rising club. The troll looks at its arm, stupid and angry. Hermione looks for a way clear.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Wingardium Leviosa!"
+            }
+          ],
+          "art": "art/c10-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The club comes down on the troll's own skull. Water and dust burst. A mirror cracks. Harry is crouched underneath with his arms over his head. Ron still holds the wand out. Hermione has cleared the sinks and watches.",
+          "expressions": "The troll's eyes squeeze shut, knees buckling. Ron looks on with wild hope. Harry looks up through his arms. Hermione looks at Ron, amazed.",
+          "dialogue": [],
+          "art": "art/c10-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "The troll is a fallen hill on the tile, face-down, the club rolled away. Water patters from a broken tap. Harry, Ron, and Hermione stand in a triangle around it, dripping, too surprised to celebrate. Hermione's book lies ruined in the puddle.",
+          "expressions": "They look at the troll, panting. Harry is exhausted. Ron looks as if he might be sick or laugh. Hermione is safe and shaking, tears mixing with tap water.",
+          "dialogue": [],
+          "art": "art/c10-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "A quiet close group in the ruined bathroom. The troll lies huge and pathetic behind them. Water still runs. Hermione's fingers find the torn place on Ron's sleeve. Harry leans nearby, wand loose, a small tired smile. Nobody poses.",
+          "expressions": "Hermione looks at Ron, grateful, the common-room hurt set aside. Ron looks at her hand, ashamed and relieved. Harry looks at both of them. Alive is enough.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "You came back for me."
+            },
+            {
+              "who": "Ron",
+              "line": "Well. Yeah."
+            }
+          ],
+          "art": "art/c10-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The bathroom door fills with three teachers. McGonagall is in front, emerald robes, bun coming loose, spectacles, no hat, one finger out. Snape stands behind her in black, greasy hair, eyes on the room. Quirrell peers past them, turban straight, handkerchief at his nose. The troll lies in the water. Harry, Ron, and Hermione stand dripping in a line.",
+          "expressions": "McGonagall looks at the children, anger born of fear. Snape looks at Harry, searching. Quirrell looks faint. Harry looks at McGonagall, bracing.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "What on earth were you thinking? A fully grown mountain troll. You might have been killed."
+            }
+          ],
+          "art": "art/c10-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "McGonagall's finger is aimed at the boys. Hermione steps in, smaller, chin up, and answers before they can. Ron's mouth is open and then stops. Harry stands stunned beside him. Snape watches, unconvinced. Quirrell hovers at the back. One fallen troll lies on the wet tile behind them.",
+          "expressions": "McGonagall's anger pauses. Hermione looks up at her, determined. Harry looks startled by the step she takes. Ron looks guilty that she is doing this.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Explain yourselves, Potter, Weasley."
+            },
+            {
+              "who": "Hermione",
+              "line": "Professor, wait. Please."
+            }
+          ],
+          "art": "art/c10-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "Close. Water drips from Hermione's hair. Her hands are spread, empty, selling the lie in a steady voice. She does not look at the boys. McGonagall listens, spectacles a little fogged, green hat and robes. Harry and Ron stand like statues behind her.",
+          "expressions": "Hermione looks at McGonagall, earnest, afraid she will not be believed. McGonagall reads it and chooses to allow it. Harry looks ahead, honoring the lie by silence.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "I went looking for the troll. I thought I could manage it. They came to stop me being killed. The fault is mine."
+            }
+          ],
+          "art": "art/c10-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "A wide torchlit corridor outside the bathroom, the door shut, wet footprints on the stone. McGonagall, composed again in emerald and her pointed hat, delivers the points with one open hand. Hermione stands punished and proud. Harry and Ron look uncomfortable at being rewarded. Snape's mouth is a cut. Quirrell claps weakly and looks at the floor.",
+          "expressions": "McGonagall looks stern and fond at once. Hermione accepts the loss of points. Snape does not believe a word of it. Harry looks uneasy with the reward.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "Five points from Gryffindor, Miss Granger, for foolishness. Five points each to Potter and Weasley, for sheer nerve."
+            },
+            {
+              "who": "Snape",
+              "line": "How very convenient a story."
+            }
+          ],
+          "art": "art/c10-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Farther down the torchlit corridor. Snape walks away, black robes swinging, and a dark red stain shows on the cloth at his calf. Harry has stopped in profile, hands at his sides, eyes on that stain. Ahead, Ron and Hermione walk on and do not see. Quirrell's purple turban bobs farthest away.",
+          "expressions": "Harry's suspicion clicks into place, mouth closed. Snape does not look back. The others are already leaving the moment behind.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "His leg. That's blood, not water."
+            }
+          ],
+          "art": "art/c10-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Later. The common room is almost empty, firelight and red hangings. Three chairs are pulled close. Hermione has a towel on her hair and a mug. Ron, maroon sweater, ears still red, holds a mug. Harry has a blanket on his shoulders and a mug in both hands. The group is a triangle that will hold.",
+          "expressions": "Ron looks at Hermione, shy thanks. Hermione looks back, a small smile, the insult forgiven if not forgotten. Harry looks at both of them, content. They look like friends.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Thanks. For the lie."
+            },
+            {
+              "who": "Hermione",
+              "line": "Thanks for the troll. Friends, then."
+            }
+          ],
+          "art": "art/c10-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
