@@ -21,8 +21,8 @@ window.BOOK = {
     {
       "n": 2,
       "page": 1,
-      "scene": "Dumbledore stands at the left edge and puts the streetlamps out in a chain. The nearest lamp is still flaring. The tabby watches from the wall.",
-      "expressions": "He looks along the lamps, calm, almost fond of the dark he is making.",
+      "scene": "Dumbledore stands at the left edge and lifts his wand. The nearest street lamp blooms on, warm light opening over the wet pavement. A thin brown tabby watches from the wall.",
+      "expressions": "He looks along the lamps, calm, as the light catches. He does not look at the houses.",
       "dialogue": [],
       "art": "art/c1-p1-p2.jpg"
     },
@@ -37,9 +37,12 @@ window.BOOK = {
     {
       "n": 4,
       "page": 1,
-      "scene": "Extreme close-up of the silver lighter, a small steady flame, and Dumbledore’s lined fingers. Everything else is black.",
-      "expressions": "No face. The hand is steady, not theatrical.",
-      "dialogue": [],
+      "scene": "Dumbledore has turned toward a low garden wall. A thin brown tabby with no collar sits there, still a cat. One street lamp glows in the fog behind them.",
+      "expressions": "He looks at the cat, recognizing her. The cat looks back, ears forward, perfectly still.",
+      "dialogue": [
+        { "who": "Dumbledore", "line": "I should have known that you would be here, Professor McGonagall." },
+        { "who": "McGonagall", "line": "Good evening, Professor Dumbledore." }
+      ],
       "art": "art/c1-p1-p4.jpg"
     },
     {

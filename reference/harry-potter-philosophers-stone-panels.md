@@ -87,11 +87,11 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 
 #### C1-P1-P2
 
-- **Beat:** Dumbledore puts the streetlamps out, one by one.
-- **Image:** A tall figure at the left edge, arm raised. Down the street, lamps click dark in a chain, the nearest one still flaring.
-- **Setting:** The same wet street. The yellow window is now the only warm light besides the lamps he has not reached. Reflections die in the puddles as each lamp goes.
-- **Who:** Dumbledore, very tall, silver hair and beard, half-moon spectacles, deep purple star-patterned robes, tall hat, plum cloak. In his raised hand, a small silver lighter-shaped device. The cat is a small shape on the wall behind him.
-- **Faces:** He looks along the row of lamps, calm, almost fond of the dark he is making. He does not look at the houses.
+- **Beat:** Dumbledore lights a street lamp with his wand.
+- **Image:** A tall figure at the left edge, wand raised. The nearest street lamp blooms on, warm light opening over the wet pavement. A lamp farther down is just beginning to glow.
+- **Setting:** The same wet street, Privet Drive at night. Fog at knee height, identical brick houses, puddles starting to hold the new light.
+- **Who:** Dumbledore, very tall, silver hair and beard, half-moon spectacles, indigo-purple star-patterned robes, tall plum hat, plum cloak. His wand is raised, the tip bright, as the lamp comes on. The thin brown tabby is a small shape on the wall.
+- **Faces:** He looks along the row of lamps, calm, as the light catches. He does not look at the houses.
 - **Dialogue:** No dialogue.
 
 #### C1-P1-P3
@@ -105,12 +105,12 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 
 #### C1-P1-P4
 
-- **Beat:** One flame is left in the street.
-- **Image:** Extreme close-up of the silver device, a small steady flame, Dumbledore’s lined fingers around it. Everything else is black.
-- **Setting:** No background. The flame lights only skin, silver metal, and the edge of a purple sleeve.
-- **Who:** Dumbledore’s hand only.
-- **Faces:** No face. The hand is steady, not theatrical.
-- **Dialogue:** No dialogue.
+- **Beat:** Dumbledore notices the cat.
+- **Image:** Dumbledore has turned. He looks straight at a thin brown tabby on the garden wall. The cat looks back. This is the moment he recognizes her, not a later conversation.
+- **Setting:** The wet street, one lamp now glowing, fog, dark brick houses. The wall is low. No other people.
+- **Who:** Dumbledore in indigo-purple star robes, plum hat, half-moon spectacles, silver hair and beard, wand lowered. The cat is Professor McGonagall still in cat form: a thin brown tabby, spectacle-like marks around the eyes, no collar.
+- **Faces:** He looks at the cat. The cat looks at him, ears forward, knowing, perfectly still.
+- **Dialogue:** **Dumbledore:** "I should have known that you would be here, Professor McGonagall." **McGonagall:** "Good evening, Professor Dumbledore."
 
 #### C1-P1-P5
 
