@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chapter 1 — Baby Harry is left on a doorstep</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="reader">
+  <header class="topbar">
+    <div class="brand">
+      <strong>Chapter 1 — Baby Harry is left on a doorstep</strong>
+      <span>Harry Potter and the Philosopher’s Stone · four pages</span>
+    </div>
+    <nav class="nav">
+      <button type="button" class="ghost" id="notesBtn">Show script notes</button>
+      <button type="button" id="prevBtn" aria-label="Previous page">Previous</button>
+      <button type="button" class="solid" id="nextBtn" aria-label="Next page">Turn page</button>
+    </nav>
+  </header>
+  <main class="stage" aria-live="polite">
+    <div class="book-wrap">
+      <div class="book" id="book">
+        <article class="page left" id="leftPage"></article>
+        <article class="page right" id="rightPage"></article>
+        <div class="leaf" id="leaf" hidden>
+          <div class="leaf-face leaf-front" id="leafFront"></div>
+          <div class="leaf-face leaf-back" id="leafBack"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <p class="footer-note" id="status"></p>
+  <section class="notes" id="notes"></section>
+  <script src="story.js"></script>
+  <script src="book.js"></script>
+</body>
+</html>
