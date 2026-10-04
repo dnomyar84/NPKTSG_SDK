@@ -2,7 +2,7 @@
 
 Apply these while making a panel. They do not replace the storyboard. They stop the same person, creature, or object looking like a new design from one picture to the next.
 
-The storyboard is [harry-potter-philosophers-stone-panels.md](harry-potter-philosophers-stone-panels.md). Paste a lock from the detail files instead of inventing a new one:
+The storyboard is [harry-potter-philosophers-stone-panels.md](harry-potter-philosophers-stone-panels.md). Scene breaks and extra pages are in [scene-plan.md](scene-plan.md). A scene is one place and one stretch of time, and it is one page or more. A chapter has as many scenes as the story needs. Paste a lock from the detail files instead of inventing a new one:
 
 - Clothes: [wardrobes.md](wardrobes.md)
 - People and creatures: [characters.md](characters.md)

@@ -6,11 +6,11 @@ How people address each other, and which funny, embarrassing, and disgusting bea
 
 Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, a visible link when someone casts a spell, and a moving staircase as one rigid flight hinged at the bottom. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
 
-- **21 chapters**. Where a comic chapter matches a novel chapter, it uses the novel name. First Lessons is our name, because that chapter was split out of the classes.
+- **20 chapters**, the names kept from the chapter pass.
 - **4 pages** in every chapter.
 - **6 panels** on every page.
-- **504 panels** in all.
-- A code such as `C1-P2-P6` names that picture and the file `art/c1-p2-p6.jpg`. Codes stay with the picture. Inserting a chapter does not rename them, so later chapters still contain `C8-` and `C12-` codes. A panel marked not drawn has no file and must not reuse a jpg.
+- **480 panels** in all.
+- A code such as `C1-P2-P6` means Chapter 1, Page 2, Panel 6.
 
 Read each page left to right, top to bottom, in a grid of three columns and two rows. Panel 6 is always the bottom-right page-turn. The last panel of page 4 closes the chapter.
 
@@ -31,21 +31,20 @@ Each panel has:
 4. [Diagon Alley](#chapter-4--diagon-alley)
 5. [The Journey from Platform Nine and Three-Quarters](#chapter-5--the-journey-from-platform-nine-and-three-quarters)
 6. [The Sorting Hat](#chapter-6--the-sorting-hat)
-7. [First Lessons](#chapter-7--first-lessons)
-8. [The Potions Master](#chapter-8--the-potions-master)
-9. [Flying class and the Seeker](#chapter-9--flying-class-and-the-seeker)
-10. [The Midnight Duel](#chapter-10--the-midnight-duel)
-11. [Hallowe’en](#chapter-11--halloween)
-12. [Quidditch](#chapter-12--quidditch)
-13. [Nicolas Flamel](#chapter-13--nicolas-flamel)
-14. [The Mirror of Erised](#chapter-14--the-mirror-of-erised)
-15. [Norbert the Norwegian Ridgeback](#chapter-15--norbert-the-norwegian-ridgeback)
-16. [The Forbidden Forest](#chapter-16--the-forbidden-forest)
-17. [They decide to protect the Stone](#chapter-17--they-decide-to-protect-the-stone)
-18. [Through the Trapdoor](#chapter-18--through-the-trapdoor)
-19. [The Man with Two Faces](#chapter-19--the-man-with-two-faces)
-20. [The hospital wing and the explanation](#chapter-20--the-hospital-wing-and-the-explanation)
-21. [The House Cup](#chapter-21--the-house-cup)
+7. [The Potions Master](#chapter-7--the-potions-master)
+8. [Flying class and the Seeker](#chapter-8--flying-class-and-the-seeker)
+9. [The Midnight Duel](#chapter-9--the-midnight-duel)
+10. [Hallowe’en](#chapter-10--halloween)
+11. [Quidditch](#chapter-11--quidditch)
+12. [Nicolas Flamel](#chapter-12--nicolas-flamel)
+13. [The Mirror of Erised](#chapter-13--the-mirror-of-erised)
+14. [Norbert the Norwegian Ridgeback](#chapter-14--norbert-the-norwegian-ridgeback)
+15. [The Forbidden Forest](#chapter-15--the-forbidden-forest)
+16. [They decide to protect the Stone](#chapter-16--they-decide-to-protect-the-stone)
+17. [Through the Trapdoor](#chapter-17--through-the-trapdoor)
+18. [The Man with Two Faces](#chapter-18--the-man-with-two-faces)
+19. [The hospital wing and the explanation](#chapter-19--the-hospital-wing-and-the-explanation)
+20. [The House Cup](#chapter-20--the-house-cup)
 
 
 ## People and clothes
@@ -1455,11 +1454,11 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 
 ---
 
-## Chapter 7 — First Lessons
+## Chapter 7 — The Potions Master
 
-One place on each page: the moving stairs, then Transfiguration, then Charms, then Herbology. Picture codes such as C7-P1-P1 stay on the old jpg. A panel with no file is not drawn yet.
+Lost in the castle, small magics, the dungeon, and points taken.
 
-### Page 1 — The moving stairs
+### Page 1 — The castle wakes
 
 #### C7-P1-P1
 
@@ -1488,38 +1487,6 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Peeves looks down, gleeful, eyes on their pain. Harry looks up through his arms, annoyed. Ron looks at Peeves, spluttering. Neither is hurt, both are humiliated.
 - **Dialogue:** **Peeves:** "New blood, new blood! Peeves has a present for the ickle firsties!"
 
-#### N7-P1-P4
-
-- **Beat:** Still in that junction. They pick up the books. They are not in class.
-- **Image:** Trash and books on the stone under the chandelier. Harry and Ron crouch, robes dusty, ties crooked. Peeves is only a bell farther along the corridor. No classroom is open.
-- **Setting:** The same morning junction. Chandelier, stone, scattered paper. They have not found a classroom.
-- **Who:** Harry, school robes, tie, glasses, gathering books. Ron, red hair, secondhand robes, maroon sweater, the wastebasket at his feet. Peeves already gone.
-- **Faces:** Harry looks annoyed and late. Ron looks up the corridor, spluttering. Neither is hurt.
-- **Dialogue:** **Harry:** "We're going to be late." **Ron:** "If we can find the room."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P1-P5
-
-- **Beat:** The flight has stopped against the wrong arch. They are on the landing, not in a room.
-- **Image:** One solid flight, hinged at the bottom, now still, resting on the wrong arch. A gap where their landing should be. Harry and Ron stand on the landing they reached. Other flights are still. A suit of armor watches.
-- **Setting:** A Hogwarts stairwell, morning, the same high windows. Camera: three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible. The flight is stopped, not turning. Only this flight moved. They are not on it now.
-- **Who:** Harry and Ron on the landing, robes, books clutched. The armor, empty, spear in its gauntlet. No students on the stopped flight.
-- **Faces:** Harry looks at the wrong arch. Ron looks at the stopped flight, half a grin. The armor does not care.
-- **Dialogue:** **Ron:** "It's stopped. On the wrong floor."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P1-P6
-
-- **Beat:** They see the classroom door from the corridor. They have not gone in.
-- **Image:** A sunlit door at the end of a stone corridor. Students are shapes inside. Harry and Ron are in the corridor, books clutched, Ron still burdened by the bin, feet short of the threshold.
-- **Setting:** The corridor outside Transfiguration, morning. The stairwell is behind them. The room is only a bright doorway, not entered.
-- **Who:** Harry, glasses, robes, looking at the door. Ron, red hair, wastebasket under one arm, grim.
-- **Faces:** Harry looks sure and sorry. Ron looks at the bin.
-- **Dialogue:** **Harry:** "That one. She's already started."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-### Page 2 — Transfiguration
-
 #### C7-P1-P4
 
 - **Beat:** They tumble into class late. McGonagall is already teaching.
@@ -1547,47 +1514,7 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Hermione looks at McGonagall, eager, not showing off on purpose. McGonagall looks at her, the sternness thawing a degree. Ron looks at the hand, a groan in his eyes. Harry looks at Hermione, impressed.
 - **Dialogue:** **Hermione:** "The spectacle markings match, Professor. It's the same cat."
 
-#### N7-P2-P4
-
-- **Beat:** The same classroom. Matchsticks. Not a new class.
-- **Image:** A matchstick on every desk. McGonagall's wand is aimed at her own matchstick, a thin bright thread from the tip to the wood. The blackboard still shows a cat becoming a teapot. Sunlight has not moved.
-- **Setting:** The Transfiguration classroom, same desks, same sun, same chalk cat. Nobody has left.
-- **Who:** McGonagall, emerald robes, square spectacles, bun, wand pointed. Harry, Ron, Hermione, Neville, and Draco seated, school robes. Harry's matchstick is ordinary wood.
-- **Faces:** McGonagall looks precise. Hermione looks ready. Harry concentrates. Ron doubts. Draco looks bored.
-- **Dialogue:** **McGonagall:** "Wands up. A matchstick. You will make a needle."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P2-P5
-
-- **Beat:** Hermione's matchstick is a needle. Same room.
-- **Image:** A slim silver needle where her matchstick was. Her wand is down. The spell-thread is gone. Sun and desks unchanged.
-- **Setting:** The same Transfiguration classroom.
-- **Who:** Hermione, bushy hair, perfect tie, the needle on her desk. McGonagall, a small thaw. Ron and Harry in the row behind, their matchsticks still wood.
-- **Faces:** Hermione is pleased and trying not to be. McGonagall approves. Ron's eyes groan. Harry is impressed.
-- **Dialogue:** **Hermione:** "It's a needle, Professor."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P2-P6
-
-- **Beat:** Harry's matchstick is only a little silver at the tip.
-- **Image:** Close on his desk. The matchstick is still a matchstick, pointed and silver just at the end. Ron's stick beside it is unchanged wood.
-- **Setting:** The same sunlit classroom, tighter on the desk.
-- **Who:** Harry, glasses, school robes, looking down. Ron, red hair, his own useless matchstick. Hermione not gloating.
-- **Faces:** Harry looks hopeful and unfinished. Ron looks resigned.
-- **Dialogue:** **Harry:** "Mine's only gone a bit pointed."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-### Page 3 — Charms
-
-#### N7-P3-P1
-
-- **Beat:** They walk into Charms. Feathers are already on the desks.
-- **Image:** The classroom door, afternoon. Flitwick is tiny on a pile of books. Feathers wait. Harry, Ron, and Hermione are in the doorway, not yet seated.
-- **Setting:** The Charms classroom. Sun stripes. Books under Flitwick. No greenhouse, no dungeon.
-- **Who:** Professor Flitwick, tiny, white hair, cheerful, on the books. Harry, glasses, robes. Ron, red hair, secondhand robes. Hermione, bushy hair, book already open in her mind.
-- **Faces:** Flitwick looks delighted. Harry looks unsure. Ron looks at his wand. Hermione looks ready.
-- **Dialogue:** **Flitwick:** "Good afternoon. Wands out. Feathers on the desk."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
+### Page 2 — Ordinary magic
 
 #### C7-P2-P1
 
@@ -1598,16 +1525,6 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Harry looks at his feather, frustrated, then at the hopping one, envious. Ron looks at his own smoke, worried. Flitwick looks at the class, encouraging, not at Harry’s failure.
 - **Dialogue:** **Flitwick:** "Swish and flick. The charm is Wingardium Leviosa." **Harry:** "Nothing. Not even a twitch."
 
-#### N7-P3-P3
-
-- **Beat:** Seamus's feather explodes in his face.
-- **Image:** A black puff where a feather was. Soot on a sandy-haired boy's nose and fringe. Flitwick startles on the books. Harry's feather is still flat. Ron's still smokes. Same sun stripes.
-- **Setting:** The same Charms classroom. Afternoon. No change of room.
-- **Who:** Seamus Finnigan, sandy hair, Gryffindor school robes, soot, blinking. Flitwick on the books. Harry and Ron at their desks.
-- **Faces:** Seamus looks shocked, then delighted. Flitwick looks alarmed and kind. Harry stares. Ron almost laughs.
-- **Dialogue:** **Seamus:** "I said it right!" **Flitwick:** "A little less force, Mr Finnigan."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
 #### C7-P2-P2
 
 - **Beat:** Hermione’s feather floats. She tries not to look proud.
@@ -1616,38 +1533,6 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Who:** Hermione, neat robes, wand set parallel to her book, feather in the air. Harry watching from the side, his feather flat. Ron’s hair singed at one tip.
 - **Faces:** Hermione looks at the feather, proud, then bites the smile, not wanting to be the nightmare Ron will call her. Flitwick looks at her, beaming. Harry looks at her feather, not unkind, just left behind.
 - **Dialogue:** **Flitwick:** "Oh, well done, Miss Granger! Ten points to Gryffindor." **Hermione:** "Thank you, Professor."
-
-#### N7-P3-P5
-
-- **Beat:** Hermione makes the class hear the middle of the spell. Ron mocks it.
-- **Image:** Hermione turned toward Ron, wand held properly, mouth on the middle of the word. Her feather still hangs. Ron pulls a face and copies it wrong on purpose. Flitwick is busy elsewhere.
-- **Setting:** The same Charms classroom. The sun has not moved.
-- **Who:** Hermione, neat robes, wand correct. Ron, singed hair, mocking. Harry between them, uneasy. Flitwick small in the background.
-- **Faces:** Hermione looks earnest. Ron looks mocking. Harry looks uneasy.
-- **Dialogue:** **Hermione:** "You're saying it wrong. It's Levi-o-sa. Not Levio-sar." **Ron:** "Do you have to say it like that?"
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P3-P6
-
-- **Beat:** He keeps mocking until she is hurt. She does not run yet.
-- **Image:** Ron says it again in a silly voice. Hermione's smile is gone. She looks down at her feather. She stays in her seat. The worse line, the one about friends, is still later, in the common room.
-- **Setting:** The same two desks. Same classroom.
-- **Who:** Ron, performing, then faltering. Hermione, hurt, eyes down, mouth tight. Harry, sorry, no longer amused.
-- **Faces:** Ron sees her face too late. Hermione is hurt and quiet. Harry is sorry.
-- **Dialogue:** **Ron:** "Levi-o-saaa. Like you're singing at it."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-### Page 4 — Herbology
-
-#### N7-P4-P1
-
-- **Beat:** They walk into the greenhouse. Not another classroom.
-- **Image:** The wet glass door. Fogged panes, green light, dripping plants. Harry, Ron, and Hermione step in. Sprout is among the pots. Neville is already there.
-- **Setting:** Greenhouse Three, afternoon. The corridor is behind the door, not the picture.
-- **Who:** Professor Sprout, stout, patched hat, earth on her cuffs. Neville, sleeves rolled, already calm. Harry, glasses, curious. Ron, wary of leaves. Hermione, practical.
-- **Faces:** Sprout looks welcoming. Neville looks at home. Ron looks as if a plant might bite. Harry is curious.
-- **Dialogue:** **Sprout:** "Boots in. And mind the pots, Mr Weasley."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P2-P3
 
@@ -1667,55 +1552,6 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Ron looks at his finger, offended. Harry looks at Neville, warm. Neville looks at Harry, shy pleasure. He is not used to being the one who can.
 - **Dialogue:** **Ron:** "It bit me!" **Harry:** "Neville's plant is behaving. Look at him."
 
-#### N7-P4-P4
-
-- **Beat:** Same greenhouse, same lesson. Earmuffs. A Mandrake pot wriggles for Neville.
-- **Image:** Earmuffs on. Neville's hands firm on a wriggling pot. Sprout's patched hat. Wet glass and green light unchanged. Harry's earmuffs sit crooked.
-- **Setting:** Greenhouse Three. The messy table. They have not gone into the corridor.
-- **Who:** Neville, dirt-handed, earmuffs, calm. Sprout approving. Harry, fogged glasses, crooked earmuffs. Ron watching the pot.
-- **Faces:** Neville looks competent. Sprout approves. Harry is glad and a little deaf.
-- **Dialogue:** **Sprout:** "Earmuffs on. Mandrakes do not whisper."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P4-P5
-
-- **Beat:** Harry's pot slumps. Neville's does not.
-- **Image:** Soil on the table and on Harry's sleeve. His pot has fallen over. Neville's pot beside it is steady. Ron's bitten finger is still Ron's.
-- **Setting:** The same greenhouse bench. Same light.
-- **Who:** Harry, rueful, muddy. Neville, shy about being the good one. Ron, offended finger.
-- **Faces:** Harry is not jealous. Neville is not used to this. Ron is still thinking about the bite.
-- **Dialogue:** **Harry:** "Yours is the only one listening."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N7-P4-P6
-
-- **Beat:** Sprout keeps them inside to wash. The corridor is the next chapter.
-- **Image:** A trough, muddy hands, earmuffs down around necks. The wet glass door is in the background and shut. They are still in the greenhouse.
-- **Setting:** Greenhouse Three, end of the lesson, same green light.
-- **Who:** Sprout, patched hat, practical. Neville proud and muddy. Harry and Ron rinsing.
-- **Faces:** Sprout is finished with the lesson and not finished with their hands. The boys look done and still indoors.
-- **Dialogue:** **Sprout:** "Hands washed before you leave my greenhouse."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-
----
-
-## Chapter 8 — The Potions Master
-
-The same day, after the classrooms. Four scenes, one place each: the way down, the dungeon before the questions, the humiliation, and the corridor after. Old pictures keep their old codes and files.
-
-### Page 1 — The way down
-
-#### N8-P1-P1
-
-- **Beat:** The corridor ends at the dungeon stair. They have not started down.
-- **Image:** Afternoon light behind three first years. Ahead, steps drop into torch-dark. Books, robes, the mouth of the stair.
-- **Setting:** The stone corridor at the top of the dungeon stair. Classrooms are behind them. The door at the bottom is not visible yet.
-- **Who:** Hermione, bushy hair, books, practical. Harry, glasses, uneasy. Ron, red hair, ready to complain and following.
-- **Faces:** Hermione looks at the dark and is already on time. Harry looks uneasy. Ron follows.
-- **Dialogue:** **Hermione:** "Down here. And we are not late."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
 #### C7-P2-P5
 
 - **Beat:** In the corridor, Draco mocks the scar.
@@ -1724,16 +1560,6 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Who:** Draco, platinum hair, expensive robes, green lining, a book he is not reading, one finger on his own brow. Crabbe and Goyle bulky behind him. Harry stopped, robes, glasses, scar, bag in hand. Ron at his shoulder, already angry. Hermione a step behind, arms full of books.
 - **Faces:** Draco looks at Harry’s scar, mocking, performing for the corridor. Harry looks at Draco, tired of it, quiet. Ron looks at Draco, furious. Hermione looks at Draco, disdain, chin up.
 - **Dialogue:** **Draco:** "Nice scar, Potter. Lightning suits a boy raised by Muggles." **Ron:** "Say that again, Malfoy."
-
-#### N8-P1-P3
-
-- **Beat:** They leave Draco and face the stair.
-- **Image:** Draco and the two big boys are behind, still smirking. The wet stair and the first torch are in front. Harry, Ron, and Hermione have turned toward the descent.
-- **Setting:** The same corridor, a few steps on, at the mouth of the stair.
-- **Who:** Ron turning away, still angry. Harry looking at the stair. Hermione looking at the steps. Draco smaller, behind, pleased.
-- **Faces:** Ron wants the last word and does not take it. Harry is done with the corridor. Draco is satisfied.
-- **Dialogue:** **Ron:** "Come on."
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P2-P6
 
@@ -1744,57 +1570,7 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Faces:** Harry looks down into the cold, uneasy. Ron looks at Harry’s back. Hermione looks at the steps, practical. Draco, distant, looks up at them, already smiling.
 - **Dialogue:** **Hermione:** "Potions next. The dungeons. Try not to be late twice in one morning."
 
-#### N8-P1-P5
-
-- **Beat:** Lower on the same stair. Colder. No new room.
-- **Image:** Greenish torches, wet stone, breath. Harry's hand on the wall. Ron and Hermione behind with books. A pale head farther down that is Draco, already near the bottom.
-- **Setting:** The same dungeon stair, lower. Windows gone.
-- **Who:** Harry, glasses, cold, one hand on stone. Ron and Hermione behind. Draco distant.
-- **Faces:** Harry is more uneasy. Ron watches the dark. Hermione is determined.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N8-P1-P6
-
-- **Beat:** The door at the foot of the stair. Shut. He has not started.
-- **Image:** Iron door, torchlight, three children in front of it, not through it. The bright corridor is far above.
-- **Setting:** The bottom of the same stair. The Potions room is on the other side of the door and is not shown.
-- **Who:** Harry, wary, hand not yet on the latch. Hermione ready. Ron unimpressed and loyal.
-- **Faces:** Harry looks at the door. Hermione is ready. Ron looks at Harry.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-### Page 2 — Before he starts
-
-#### N8-P2-P1
-
-- **Beat:** They walk into the dungeon. The teacher is not there.
-- **Image:** The door opens on long tables, cold cauldrons, jars, torches, a blank blackboard, no windows. No black robes at the front.
-- **Setting:** The Potions dungeon, first view, from the doorway. Damp. Torchlight.
-- **Who:** Harry, Ron, and Hermione in the doorway, school robes, bags. The room empty of its teacher. A few students already at tables.
-- **Faces:** Harry is alert. Hermione is respectful and watchful. Ron wrinkles his nose.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N8-P2-P2
-
-- **Beat:** The room itself, before the lesson.
-- **Image:** Jars of pale things, unlit cauldrons, two long tables, damp stone. Students choosing seats. The blackboard blank. No teacher.
-- **Setting:** The same dungeon, wider. Torches. No windows.
-- **Who:** Draco at the Slytherin table, at home. Neville nervous. Harry looking at the jars. Hermione with her book closed.
-- **Faces:** Draco looks smug. Neville looks nervous. Hermione is waiting, not answering.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
-#### N8-P2-P3
-
-- **Beat:** They sit and wait. Class has not started.
-- **Image:** Gryffindor table. Blank parchment. Wands not out. Hermione's book closed. The Slytherin table relaxed. The door shut.
-- **Setting:** The same dungeon. Torches. He is still not in the room.
-- **Who:** Harry, uneasy, seated. Ron sinking. Hermione composed and quiet. Neville glancing at the door.
-- **Faces:** Harry waits. Ron distrusts the quiet. Hermione is saving her answer.
-- **Dialogue:** **Ron:** "Why is it so quiet?"
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
+### Page 3 — The dungeon
 
 #### C7-P3-P1
 
@@ -1823,8 +1599,6 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Faces:** Snape looks at Harry, soft and mean. Harry looks back, wary. Hermione looks at her own lowering hand, flushed. Draco looks at Harry, enjoying it.
 - **Dialogue:** **Snape:** "Mr Potter. Fame has walked into my classroom. Do stand, if you can spare us the attention."
 
-### Page 3 — The humiliation
-
 #### C7-P3-P4
 
 - **Beat:** A potions question. Harry says he does not know.
@@ -1851,6 +1625,8 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Who:** Snape’s face, greasy hair, hooked nose, black eyes, no blink. Harry’s face, glasses, scar, a hand below frame on the scar. No one else.
 - **Faces:** Snape looks at the scar itself, not only the boy, intense. Harry looks at Snape’s eyes and does not understand the hatred. Pain is small and private on his brow.
 - **Dialogue:** **Snape:** "Monkshood and wolfsbane, Mr Potter. The difference, if you please." **Harry:** "I don't know, sir." **Snape:** "There is none. They are the same plant. Also called aconite. How disappointing."
+
+### Page 4 — Points
 
 #### C7-P4-P1
 
@@ -1879,18 +1655,6 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Faces:** Snape’s mouth is neutral. His eye is not. He looks at Harry with an old grievance Harry has not earned this week.
 - **Dialogue:** No dialogue.
 
-### Page 4 — The corridor after
-
-#### N8-P4-P1
-
-- **Beat:** They step out of the dungeon onto the stair. The walk out.
-- **Image:** The iron door behind them, the dark room no longer the picture. The stair goes up toward afternoon light. Three bags, three robes, at the bottom.
-- **Setting:** The foot of the dungeon stair, just outside the room. Torch below, daylight somewhere above.
-- **Who:** Ron already talking with his hands. Hermione indignant, book under her arm. Harry quiet, bag on his shoulder. Snape not in frame.
-- **Faces:** Ron is angry for Harry. Hermione is precise and unfairly treated on his behalf. Harry looks smaller.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
 #### C7-P4-P4
 
 - **Beat:** After class, Ron says Snape hates him. Hermione says it is obvious and unfair.
@@ -1899,16 +1663,6 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Who:** Ron, red hair, freckles, robes, angry hands. Hermione, books, bushy hair, tie still perfect, indignant. Harry, bag, glasses, scar, shoulders down.
 - **Faces:** Ron looks at Harry, loyal outrage. Hermione looks at Ron, agreeing and correcting his wording at the same time. Harry looks ahead, not at them, trying to find what he did.
 - **Dialogue:** **Ron:** "He hates you. Proper hates you." **Hermione:** "It was unfair. And it was obvious. That still isn't a reason."
-
-#### N8-P4-P3
-
-- **Beat:** Higher on the same stair. Other students glance.
-- **Image:** The climb from torch-dark toward a window. A few older students pass and look. Ron still talking. Hermione still holding the book. Harry still between them.
-- **Setting:** The same stair out of the dungeon. Afternoon arriving from above. The dungeon door is below.
-- **Who:** Ron, red hair, both hands. Hermione, book, indignant. Harry, glasses, quiet. Passing students, curious, not stopping.
-- **Faces:** Ron is outraged. Hermione is about to correct his wording. Strangers are curious and gone.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P4-P5
 
@@ -1919,16 +1673,6 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Faces:** Harry looks from Ron to Hermione, genuinely asking, a little small. Ron looks at his shoes, frustrated. Hermione looks at Harry, sorry, intelligent and useless. None of them look at the view.
 - **Dialogue:** **Harry:** "What did I do to him?" **Ron:** "Be Harry Potter?" **Hermione:** "I haven't an answer. I hate that."
 
-#### N8-P4-P5
-
-- **Beat:** They leave the window and take the question with them.
-- **Image:** The bright corridor beyond the window. Lawns still in the glass behind. Three friends walking. They do not see the dark end of the corridor.
-- **Setting:** The corridor after class. Daylight. The window is behind them now.
-- **Who:** Harry, troubled, looking ahead. Ron, frustrated. Hermione, book closed, sorry.
-- **Faces:** Nobody has an answer. None of them look back.
-- **Dialogue:** No dialogue.
-- **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
-
 #### C7-P4-P6
 
 - **Beat:** Down the corridor, Snape watches them go.
@@ -1938,10 +1682,9 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 - **Faces:** We see a slice of Snape’s face, cold, watching Harry’s back. The three look away from him, toward the day. Harry’s profile is troubled. Snape does not blink.
 - **Dialogue:** No dialogue.
 
-
 ---
 
-## Chapter 9 — Flying class and the Seeker
+## Chapter 8 — Flying class and the Seeker
 
 Brooms, the theft, the dive, and a place on the team.
 
@@ -2171,7 +1914,7 @@ Brooms, the theft, the dive, and a place on the team.
 
 ---
 
-## Chapter 10 — The Midnight Duel
+## Chapter 9 — The Midnight Duel
 
 A trap, a chase, Fluffy, and the memory of a package.
 
@@ -2400,7 +2143,7 @@ A trap, a chase, Fluffy, and the memory of a package.
 - **Dialogue:** No dialogue.
 ---
 
-## Chapter 11 — Hallowe’en
+## Chapter 10 — Hallowe’en
 
 An insult, a feast, a troll, a lie, and three friends.
 
@@ -2630,7 +2373,7 @@ An insult, a feast, a troll, a lie, and three friends.
 
 ---
 
-## Chapter 12 — Quidditch
+## Chapter 11 — Quidditch
 
 Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean to say.
 
@@ -2860,7 +2603,7 @@ Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean
 
 ---
 
-## Chapter 13 — Nicolas Flamel
+## Chapter 12 — Nicolas Flamel
 
 Searching, the book, what the Stone does, and the wrong man watched.
 
@@ -3090,7 +2833,7 @@ Searching, the book, what the Stone does, and the wrong man watched.
 
 ---
 
-## Chapter 14 — The Mirror of Erised
+## Chapter 13 — The Mirror of Erised
 
 An empty castle, a father’s cloak, a mirror, and a warning.
 
@@ -3319,7 +3062,7 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Dialogue:** **Dumbledore:** "A dream is a poor place to live, Harry. Stay out here, with the people who can answer when you speak." **Harry:** "Yes, Professor."
 ---
 
-## Chapter 15 — Norbert the Norwegian Ridgeback
+## Chapter 14 — Norbert the Norwegian Ridgeback
 
 An illegal egg, a bite, a spy, a midnight handoff, and detention.
 
@@ -3549,7 +3292,7 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 
 ---
 
-## Chapter 16 — The Forbidden Forest
+## Chapter 15 — The Forbidden Forest
 
 Lanterns, a dead unicorn, a hood, a centaur, and the reason.
 
@@ -3779,7 +3522,7 @@ Lanterns, a dead unicorn, a hood, a centaur, and the reason.
 
 ---
 
-## Chapter 17 — They decide to protect the Stone
+## Chapter 16 — They decide to protect the Stone
 
 Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 
@@ -4008,7 +3751,7 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 - **Dialogue:** **Ron:** "He's awake." **Hermione:** "Then play, Harry. Play now."
 ---
 
-## Chapter 18 — Through the Trapdoor
+## Chapter 17 — Through the Trapdoor
 
 A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a logic problem with only one swallow forward.
 
@@ -4238,7 +3981,7 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 
 ---
 
-## Chapter 19 — The Man with Two Faces
+## Chapter 18 — The Man with Two Faces
 
 The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 
@@ -4470,7 +4213,7 @@ Required insert, not a numbered panel. Do not renumber. Between this confession 
 
 ---
 
-## Chapter 20 — The hospital wing and the explanation
+## Chapter 19 — The hospital wing and the explanation
 
 Bandages, a destroyed Stone, a mother’s protection, an unanswered question, and chocolate.
 
@@ -4700,7 +4443,7 @@ Bandages, a destroyed Stone, a mother’s protection, an unanswered question, an
 
 ---
 
-## Chapter 21 — The House Cup
+## Chapter 20 — The House Cup
 
 Green and silver, a count, Neville, and the train.
 
