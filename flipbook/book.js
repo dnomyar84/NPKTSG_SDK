@@ -39,7 +39,11 @@
   const book = document.getElementById("book");
   const turnSheet = document.getElementById("mobileTurn");
   const FONT_KEY = "flipbook-font-step";
-  const FONT_STEPS = [0.88, 1, 1.14, 1.3];
+  // Previous saves are indexes into this list. Scale 1 stays the unsaved default.
+  const LEGACY_FONT_STEPS = [0.88, 1, 1.14, 1.3];
+  // Two steps under the old 0.88 floor. 0.72 keeps dialogue at 9px (12.5px * scale).
+  const FONT_STEPS = [0.72, 0.8, 0.88, 1, 1.14, 1.3];
+  const DEFAULT_FONT_STEP = FONT_STEPS.indexOf(1);
 
   let spread = 0;
   let busy = false;
@@ -368,13 +372,32 @@
     });
   }
 
-  let fontStep = 1;
+  function fontStepForScale(scale) {
+    let best = DEFAULT_FONT_STEP;
+    let bestDiff = Infinity;
+    FONT_STEPS.forEach((step, index) => {
+      const diff = Math.abs(step - scale);
+      if (diff < bestDiff) {
+        best = index;
+        bestDiff = diff;
+      }
+    });
+    return bestDiff < 0.02 ? best : DEFAULT_FONT_STEP;
+  }
+
+  let fontStep = DEFAULT_FONT_STEP;
   try {
     const raw = localStorage.getItem(FONT_KEY);
-    const saved = raw === null ? NaN : Number(raw);
-    if (Number.isInteger(saved) && saved >= 0 && saved < FONT_STEPS.length) fontStep = saved;
+    const text = raw === null ? "" : String(raw).trim();
+    const saved = text === "" ? NaN : Number(text);
+    if (Number.isFinite(saved)) {
+      // Older readers stored 0..3. "1.00" is the scale, so the old minimum stays put
+      // until minus is pressed. Scale 1 and legacy index 1 are the same size.
+      const legacyIndex = /^(0|1|2|3)$/.test(text);
+      fontStep = fontStepForScale(legacyIndex ? LEGACY_FONT_STEPS[saved] : saved);
+    }
   } catch (error) {
-    fontStep = 1;
+    fontStep = DEFAULT_FONT_STEP;
   }
 
   function applyFont() {
@@ -385,7 +408,7 @@
 
   function storeFont() {
     try {
-      localStorage.setItem(FONT_KEY, String(fontStep));
+      localStorage.setItem(FONT_KEY, FONT_STEPS[fontStep].toFixed(2));
     } catch (error) {
       /* private mode can block storage */
     }
