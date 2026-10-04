@@ -4427,10 +4427,22 @@ window.BOOK = {
       "n": 14,
       "title": "The dragon",
       "pageTitles": [
-        {"n": 1, "title": "The egg"},
-        {"n": 2, "title": "The problem grows"},
-        {"n": 3, "title": "The plan"},
-        {"n": 4, "title": "Caught"}
+        {
+          "n": 1,
+          "title": "The egg"
+        },
+        {
+          "n": 2,
+          "title": "The problem grows"
+        },
+        {
+          "n": 3,
+          "title": "The plan"
+        },
+        {
+          "n": 4,
+          "title": "Caught"
+        }
       ],
       "panels": [
         {
@@ -4439,7 +4451,10 @@ window.BOOK = {
           "scene": "The hut at dusk, forest edge dark, grounds muddy and green. Hagrid fills the doorway, moleskin coat half off, smile too big, one hand behind his back. Fang’s tail thumps. Harry, Ron, and Hermione are on the step with a teapot excuse.",
           "expressions": "Hagrid looks at them, bursting, failing at casual. Harry looks at the hidden hand, a smile starting. Hermione looks at Hagrid’s eyes, wary. Ron looks at Fang, then at Hagrid, curious. Fang looks at everyone, pure dog.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Come in, come in. Don't mind Fang. I've a surprise."}
+            {
+              "who": "Hagrid",
+              "line": "Come in, come in. Don't mind Fang. I've a surprise."
+            }
           ],
           "art": "art/c14-p1-p1.jpg"
         },
@@ -4449,7 +4464,10 @@ window.BOOK = {
           "scene": "The fire is banked high. In the coals sits a large black egg, leathery, bigger than a pumpkin, rocking from the heat. Hagrid’s hands are spread over it. A deck of cards lies on the table, a losing hand still out. The children crowd behind him, faces lit orange. Fang is kept back by a chair.",
           "expressions": "Hagrid looks at the egg, besotted. Harry looks at it, uneasy wonder. Ron looks at it, a grin he knows he should not have. Hermione looks at the cards, then the egg, the legal problem already on her face.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Won it off a stranger, cards, down the pub. A dragon egg. Norwegian Ridgeback, if I'm any judge."}
+            {
+              "who": "Hagrid",
+              "line": "Won it off a stranger, cards, down the pub. A dragon egg. Norwegian Ridgeback, if I'm any judge."
+            }
           ],
           "art": "art/c14-p1-p2.jpg"
         },
@@ -4459,8 +4477,14 @@ window.BOOK = {
           "scene": "The hearth, tight. Hermione has both palms up. Hagrid lifts the egg in a folded blanket, as if its being unhatched is a defense. Ash is on his beard. Harry and Ron stand between them.",
           "expressions": "Hermione looks at Hagrid, firm, worried for him more than for the rule. Hagrid looks at the egg, not at her, defensive and dreamy. Harry looks from one to the other. Ron’s grin is losing to sense.",
           "dialogue": [
-            {"who": "Hermione", "line": "Dragon breeding is against wizard law, Hagrid. The Ministry would send you to Azkaban."},
-            {"who": "Hagrid", "line": "It's only an egg. An egg isn't a dragon yet."}
+            {
+              "who": "Hermione",
+              "line": "Dragon breeding is against wizard law, Hagrid. The Ministry would send you to Azkaban."
+            },
+            {
+              "who": "Hagrid",
+              "line": "It's only an egg. An egg isn't a dragon yet."
+            }
           ],
           "art": "art/c14-p1-p3.jpg"
         },
@@ -4470,7 +4494,10 @@ window.BOOK = {
           "scene": "The hut has gone quiet except the fire. A crack runs the black shell and a chip falls into the coals. All four of them lean in so fast their heads nearly knock. Fang’s ears are up.",
           "expressions": "Hagrid looks at the crack, breathless, joy. Hermione looks at it, dread and awe fighting. Harry looks at it, wonder winning for one second. Ron looks at it, mouth open.",
           "dialogue": [
-            {"who": "Ron", "line": "It's cracking."}
+            {
+              "who": "Ron",
+              "line": "It's cracking."
+            }
           ],
           "art": "art/c14-p1-p4.jpg"
         },
@@ -4480,7 +4507,10 @@ window.BOOK = {
           "scene": "The hearth is a nursery it should not be. A baby dragon’s head pushes from the shell, small, slick, spines crumpled, a thread of smoke from the nostrils. Hagrid’s hands are a cradle. Shell pieces shine in the firelight. The three children stand a step back.",
           "expressions": "Norbert looks at Hagrid, imprinting. Hagrid looks at him, wrecked with love, crying. Harry looks at the dragon, soft despite himself. Hermione sees the love and it complicates her. Ron looks at the claws, delighted and doomed.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Hello, Norbert. Who's a lovely little Ridgeback, then?"}
+            {
+              "who": "Hagrid",
+              "line": "Hello, Norbert. Who's a lovely little Ridgeback, then?"
+            }
           ],
           "art": "art/c14-p1-p5.jpg"
         },
@@ -4490,8 +4520,14 @@ window.BOOK = {
           "scene": "The dragon and Hagrid are a warm blur. In the sharp foreground, three faces turn toward each other. The fire pops. The forest presses the window.",
           "expressions": "They look at one another, the same thought. Harry looks worried. Hermione looks resolute. Ron looks like he wants to laugh and hide.",
           "dialogue": [
-            {"who": "Hermione", "line": "This is a disaster."},
-            {"who": "Harry", "line": "We can't leave him in the hut."}
+            {
+              "who": "Hermione",
+              "line": "This is a disaster."
+            },
+            {
+              "who": "Harry",
+              "line": "We can't leave him in the hut."
+            }
           ],
           "art": "art/c14-p1-p6.jpg"
         },
@@ -4501,8 +4537,14 @@ window.BOOK = {
           "scene": "Days later the hut is cramped, beams scorched, daylight through a window. Norbert is the size of a large dog, black-bronze, pleased, smoke at his nose, beside a tipped bucket of meat. Ron kneels with a bitten hand held up, the skin an angry green. Harry stares. Hermione holds a plain bottle. Hagrid points at the dragon. Fang hides under the bench.",
           "expressions": "Ron looks at his hand, sick. Norbert looks pleased with himself. Hagrid looks guilty and still defends the dragon. Harry looks at the green swelling, alarm. Hermione looks at the bite, clinical and furious.",
           "dialogue": [
-            {"who": "Ron", "line": "He bit me! My hand's going green."},
-            {"who": "Hagrid", "line": "He's teething. Baby dragons do that."}
+            {
+              "who": "Ron",
+              "line": "He bit me! My hand's going green."
+            },
+            {
+              "who": "Hagrid",
+              "line": "He's teething. Baby dragons do that."
+            }
           ],
           "art": "art/c14-p2-p1.jpg"
         },
@@ -4512,8 +4554,14 @@ window.BOOK = {
           "scene": "Daylight in a hut of blankets and bones. Hagrid presses his forehead to Norbert’s snout, crooning. The dragon’s eyes are half-shut, smug. Hermione stands behind him, arms folded, ignored. Harry looks on. Ron holds up a huge plain white bandage.",
           "expressions": "Hagrid looks at Norbert, besotted, unable to hear anyone. Hermione looks at his back, frustrated and caring. Harry looks at the bandage, the fun over. Ron looks at his hand, respect replaced by pain.",
           "dialogue": [
-            {"who": "Hermione", "line": "Norbert has to leave. Tonight, if we can manage it."},
-            {"who": "Hagrid", "line": "He stays. He's family now."}
+            {
+              "who": "Hermione",
+              "line": "Norbert has to leave. Tonight, if we can manage it."
+            },
+            {
+              "who": "Hagrid",
+              "line": "He stays. He's family now."
+            }
           ],
           "art": "art/c14-p2-p2.jpg"
         },
@@ -4531,7 +4579,10 @@ window.BOOK = {
           "scene": "Nightfall on the grounds. Draco runs across the dark lawn toward the lit castle, robes gathered, looking back once. The hut is one orange window behind him. Forest edge. No teachers outside.",
           "expressions": "Draco looks back, pleased and a little breathless, already composing the telling. Cold satisfaction.",
           "dialogue": [
-            {"who": "Draco", "line": "Professor McGonagall is going to love a dragon in a wooden hut."}
+            {
+              "who": "Draco",
+              "line": "Professor McGonagall is going to love a dragon in a wooden hut."
+            }
           ],
           "art": "art/c14-p2-p4.jpg"
         },
@@ -4541,7 +4592,10 @@ window.BOOK = {
           "scene": "The hospital wing at night: stone, white curtains, moonlight, simple beds. Ron lies greenish and sweating, a bandaged hand on the pillow, grabbing Harry’s sleeve. Hermione holds a blank sheet and a quill. A healer in a white apron walks away with a bottle, not hearing them.",
           "expressions": "Ron looks at Harry, fever-bright, serious. Harry looks at the hand, then at Ron, agreeing. Hermione looks determined. The healer trusts the children less than she should, and does not hear the plot.",
           "dialogue": [
-            {"who": "Ron", "line": "Get rid of Norbert tonight. My brother Charlie works with dragons in Romania. Write to him."}
+            {
+              "who": "Ron",
+              "line": "Get rid of Norbert tonight. My brother Charlie works with dragons in Romania. Write to him."
+            }
           ],
           "art": "art/c14-p2-p5.jpg"
         },
@@ -4551,7 +4605,10 @@ window.BOOK = {
           "scene": "A castle window at night, stars, the forest below. Hermione has just let a brown owl go. A small blank note is tied to the owl’s leg as it lifts from the sill. Harry stands beside her in a red-and-gold scarf, watching it leave.",
           "expressions": "Hermione looks at the owl, focused, a little proud of the plan. Harry looks at the departing owl, hope and nerves. The owl looks at the night, businesslike.",
           "dialogue": [
-            {"who": "Hermione", "line": "Charlie Weasley. If his friends can come, the Astronomy Tower at midnight. Go."}
+            {
+              "who": "Hermione",
+              "line": "Charlie Weasley. If his friends can come, the Astronomy Tower at midnight. Go."
+            }
           ],
           "art": "art/c14-p2-p6.jpg"
         },
@@ -4561,7 +4618,10 @@ window.BOOK = {
           "scene": "Gryffindor common room in daytime sun, red curtains, a fire, no crest on the mantel. Hermione sits with a letter that is only a pencil sketch of a stone tower. Ron, pale, a small bandage, leans over her shoulder. Harry stands with a hand near the chair. Other students are blurred and not reading.",
           "expressions": "Hermione looks at the instructions, relieved and already scheduling the risks. Ron looks fond, a weak grin, a bit left out. Harry looks uneasy and ready.",
           "dialogue": [
-            {"who": "Hermione", "line": "Midnight. They'll take the crate. We have to get Norbert up to the Astronomy Tower under the Invisibility Cloak."}
+            {
+              "who": "Hermione",
+              "line": "Midnight. They'll take the crate. We have to get Norbert up to the Astronomy Tower under the Invisibility Cloak."
+            }
           ],
           "art": "art/c14-p3-p1.jpg"
         },
@@ -4571,7 +4631,10 @@ window.BOOK = {
           "scene": "A long moonlit corridor, armor and torches. A silver cloak covers the children and a wooden crate badly. A black-bronze dragon tail smokes out the back, and a gold eye shows at a gap. Ron is at the front, red hair and a bandaged hand, sweating. Harry’s glasses peek under the hem. Hermione’s hair escapes the other side.",
           "expressions": "Harry looks at the tail, grimacing. Hermione looks ahead. Ron looks stubborn through the pain. Norbert’s eye looks furious. They look like children moving a problem.",
           "dialogue": [
-            {"who": "Harry", "line": "The Cloak won't cover the tail. Walk faster."}
+            {
+              "who": "Harry",
+              "line": "The Cloak won't cover the tail. Walk faster."
+            }
           ],
           "art": "art/c14-p3-p2.jpg"
         },
@@ -4581,7 +4644,10 @@ window.BOOK = {
           "scene": "A moonlit corner near tower stairs, a statue. Draco steps out, arms folded, platinum hair, dark robes, looking at a smoking dragon tail in a crate. Harry is half covered by a slipping silver cloak. Hermione glares. Ron, pale, a bandaged hand, holds the crate.",
           "expressions": "Draco looks victorious, the mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco with contempt. Ron looks from the tail to Draco, still determined to finish.",
           "dialogue": [
-            {"who": "Draco", "line": "A dragon. I'm telling Professor McGonagall, Potter. Enjoy being expelled."}
+            {
+              "who": "Draco",
+              "line": "A dragon. I'm telling Professor McGonagall, Potter. Enjoy being expelled."
+            }
           ],
           "art": "art/c14-p3-p3.jpg"
         },
@@ -4591,7 +4657,10 @@ window.BOOK = {
           "scene": "The moving stairwell at night, tall windows, several staircases in motion. Draco is carried away on a swinging stair, robes flaring, one hand still reaching. On the landing, Harry, Hermione, and Ron stumble with the smoking crate. The silver cloak lies on the floor.",
           "expressions": "Draco looks back, victory cracking into rage. Harry looks at the gap, a breath of thanks, not a smile. Hermione looks up the next stairs. Ron looks dizzy and still moving.",
           "dialogue": [
-            {"who": "Draco", "line": "The staircase moved. You cheat, Potter!"}
+            {
+              "who": "Draco",
+              "line": "The staircase moved. You cheat, Potter!"
+            }
           ],
           "art": "art/c14-p3-p4.jpg"
         },
@@ -4601,7 +4670,10 @@ window.BOOK = {
           "scene": "The open top of the Astronomy Tower, stars, a long drop, dark forest below. Two riders on brooms, faces wrapped in scarves and goggles, grab a wooden crate. A gold dragon eye shows at a knothole. On the battlements Harry holds the snapping silver cloak, Hermione helps lift, and Ron sits against the wall with a bandage.",
           "expressions": "The riders look at the crate, professional. Harry looks grateful, wind in his eyes. Hermione checks the lift. Ron watches with a weak proud grin.",
           "dialogue": [
-            {"who": "Rider", "line": "Charlie Weasley sent us. Crate, now, before the Ridgeback sets the tower alight."}
+            {
+              "who": "Rider",
+              "line": "Charlie Weasley sent us. Crate, now, before the Ridgeback sets the tower alight."
+            }
           ],
           "art": "art/c14-p3-p5.jpg"
         },
@@ -4611,7 +4683,10 @@ window.BOOK = {
           "scene": "The tower under a huge moon. The crate lifts away on two broomsticks, small against the sky, one gold eye shining through a slat. Harry, Hermione, and Ron stand on the battlements looking up. The silver cloak is around Harry’s arm. The tower is suddenly empty and windy.",
           "expressions": "Harry looks up, relief and a pang. Hermione’s shoulders drop, the plan completed. Ron smiles, then winces. The night looks large.",
           "dialogue": [
-            {"who": "Harry", "line": "Goodbye, Norbert."}
+            {
+              "who": "Harry",
+              "line": "Goodbye, Norbert."
+            }
           ],
           "art": "art/c14-p3-p6.jpg"
         },
@@ -4621,8 +4696,14 @@ window.BOOK = {
           "scene": "The bottom of a tower stair at night. McGonagall stands like a closed gate, emerald robe, tall green hat, spectacles, a lantern. Draco is at her side, platinum hair, chin up. Harry, Hermione, and Ron stop short. Harry has the silver cloak over his arm.",
           "expressions": "McGonagall looks at them, disappointed more than loud. Draco looks smug, waiting for the explosion. Harry looks at her, the excuse dying. Hermione looks at the floor. Ron looks down, sick and caught.",
           "dialogue": [
-            {"who": "McGonagall", "line": "Out of bed. All of you. Mr Malfoy has been very informative."},
-            {"who": "Draco", "line": "They're smuggling a dragon, Professor."}
+            {
+              "who": "McGonagall",
+              "line": "Out of bed. All of you. Mr Malfoy has been very informative."
+            },
+            {
+              "who": "Draco",
+              "line": "They're smuggling a dragon, Professor."
+            }
           ],
           "art": "art/c14-p4-p1.jpg"
         },
@@ -4632,7 +4713,10 @@ window.BOOK = {
           "scene": "Lamp light on a stone landing. Filch, stringy gray hair, shabby coat, holds up the shimmering silver cloak. A skinny gray cat sits at his boots. Harry in pajamas reaches and then stops. McGonagall sees the cloak. Draco watches, curious.",
           "expressions": "Filch looks triumphant, sour joy. Harry looks at the cloak, stricken, because it was his father’s. McGonagall looks sad under the discipline. The cat looks at Harry, unblinking.",
           "dialogue": [
-            {"who": "Filch", "line": "Dropped this, did we? An Invisibility Cloak. I'll be keeping that."}
+            {
+              "who": "Filch",
+              "line": "Dropped this, did we? An Invisibility Cloak. I'll be keeping that."
+            }
           ],
           "art": "art/c14-p4-p2.jpg"
         },
@@ -4642,7 +4726,10 @@ window.BOOK = {
           "scene": "The same landing, one lamp. McGonagall faces four children in a line: Harry in a plain green sweater, Hermione, Ron with a small bandage and a tiny grim smile, and Draco whose smirk is dying. Filch grins behind them, still holding the silver cloak.",
           "expressions": "McGonagall looks at Draco last, cool and fair. Draco looks offended as the triumph collapses. Harry sees it and does not gloat. Hermione looks straight ahead, accepting. Ron looks ready to faint.",
           "dialogue": [
-            {"who": "McGonagall", "line": "Detention. All four of you. Mr Malfoy, you were out of bed as well. Fair is fair."}
+            {
+              "who": "McGonagall",
+              "line": "Detention. All four of you. Mr Malfoy, you were out of bed as well. Fair is fair."
+            }
           ],
           "art": "art/c14-p4-p3.jpg"
         },
@@ -4652,8 +4739,14 @@ window.BOOK = {
           "scene": "Lamp light, a close wide view. Draco’s smile is gone, mouth open on a protest he swallows, a flush on the pale face, hands empty. McGonagall’s emerald sleeve and spectacles fill the left edge, severe.",
           "expressions": "Draco looks younger, humiliated, and mean. The smugness is dead. McGonagall does not soften.",
           "dialogue": [
-            {"who": "Draco", "line": "Professor, I was helping the school."},
-            {"who": "McGonagall", "line": "You were prowling, Mr Malfoy. Detention."}
+            {
+              "who": "Draco",
+              "line": "Professor, I was helping the school."
+            },
+            {
+              "who": "McGonagall",
+              "line": "You were prowling, Mr Malfoy. Detention."
+            }
           ],
           "art": "art/c14-p4-p4.jpg"
         },
@@ -4663,7 +4756,10 @@ window.BOOK = {
           "scene": "Late at night the common room goes quiet. Harry, Hermione, and Ron step through the portrait hole. Students look up from the fire, some with folded arms. Two red-haired twins are unsmiling. A round-faced boy by the fire looks sad, a toad in his lap. The painted woman in the round frame swings shut behind them.",
           "expressions": "The room looks disappointed. Hermione’s chin is up; she will not cry here. Ron looks ill and ashamed. Harry looks at the floor. Neville looks sympathetic, which helps and hurts.",
           "dialogue": [
-            {"who": "Fred", "line": "Fifty points, was it? Each? Brilliant work, little brother."}
+            {
+              "who": "Fred",
+              "line": "Fifty points, was it? Each? Brilliant work, little brother."
+            }
           ],
           "art": "art/c14-p4-p5.jpg"
         },
@@ -4681,10 +4777,22 @@ window.BOOK = {
       "n": 15,
       "title": "Detention in the Forbidden Forest",
       "pageTitles": [
-        {"n": 1, "title": "Into the trees"},
-        {"n": 2, "title": "The blood"},
-        {"n": 3, "title": "Firenze"},
-        {"n": 4, "title": "The curse"}
+        {
+          "n": 1,
+          "title": "Into the trees"
+        },
+        {
+          "n": 2,
+          "title": "The blood"
+        },
+        {
+          "n": 3,
+          "title": "Firenze"
+        },
+        {
+          "n": 4,
+          "title": "The curse"
+        }
       ],
       "panels": [
         {
@@ -4693,7 +4801,10 @@ window.BOOK = {
           "scene": "Night at the edge of the Forbidden Forest. The trees are a black wall, mist at the roots, and the castle lights are small and far. Hagrid waits with a lantern, a crossbow on his back, and Fang on a rope. Four students arrive in plain cloaks and do not talk to each other.",
           "expressions": "Hagrid looks at them, apologetic and serious. Fang looks at the trees, nervous. Harry looks at the dark, alert. Hermione looks at Hagrid, trusting him and not the forest. Neville looks scared. Draco looks at the mud, disgusted.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Detention starts here. Forbidden Forest. Lanterns. Fang comes, and you stay near the light."}
+            {
+              "who": "Hagrid",
+              "line": "Detention starts here. Forbidden Forest. Lanterns. Fang comes, and you stay near the light."
+            }
           ],
           "art": "art/c15-p1-p1.jpg"
         },
@@ -4703,7 +4814,10 @@ window.BOOK = {
           "scene": "Under the first trees, Hagrid crouches and shows them a bright silver splash on a root. The lantern makes the stain look too beautiful for what it means. Fang sniffs, then backs away.",
           "expressions": "Hagrid looks at the silver, angry and sad. Harry looks at it with a chill. Hermione looks grave. Neville looks away. Draco's disgust cracks. He knows what unicorn blood means.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Something in the trees has been hurting the unicorns. We're to find the wounded one, if she's still alive."}
+            {
+              "who": "Hagrid",
+              "line": "Something in the trees has been hurting the unicorns. We're to find the wounded one, if she's still alive."
+            }
           ],
           "art": "art/c15-p1-p2.jpg"
         },
@@ -4713,8 +4827,14 @@ window.BOOK = {
           "scene": "On the path, Draco starts a slight and does not finish it. Hagrid, lantern and crossbow in his own hands, looks down without shouting. The size of him ends the sentence.",
           "expressions": "Draco looks up, the sneer collapsing. Hagrid looks gentle, immovable, a little disappointed. Harry watches with quiet gratitude. Hermione looks down the path. Neville looks at his feet.",
           "dialogue": [
-            {"who": "Draco", "line": "This is servant's work."},
-            {"who": "Hagrid", "line": "You'll shut it, Malfoy, and you'll do it kindly."}
+            {
+              "who": "Draco",
+              "line": "This is servant's work."
+            },
+            {
+              "who": "Hagrid",
+              "line": "You'll shut it, Malfoy, and you'll do it kindly."
+            }
           ],
           "art": "art/c15-p1-p3.jpg"
         },
@@ -4732,7 +4852,10 @@ window.BOOK = {
           "scene": "A fork in the path, roots like stairs, two darknesses. Hagrid points, sorry about the pairs. Hermione and Neville go left with Fang. Harry and Draco take the right, one lantern between the two boys who hate each other.",
           "expressions": "Hagrid looks at Harry: be careful. Harry accepts the right-hand dark. Draco's contempt covers nerves. Hermione looks back, worried. Neville trusts her. Fang does not want to leave Hagrid.",
           "dialogue": [
-            {"who": "Hagrid", "line": "Harry, you and Malfoy take the right path. Hermione, Neville, you and Fang take the left in a moment. Nobody wanders."}
+            {
+              "who": "Hagrid",
+              "line": "Harry, you and Malfoy take the right path. Hermione, Neville, you and Fang take the left in a moment. Nobody wanders."
+            }
           ],
           "art": "art/c15-p1-p5.jpg"
         },
@@ -4742,8 +4865,14 @@ window.BOOK = {
           "scene": "A narrow path, one lantern, shoulders not touching. An owl watches. A silver fleck sits on a leaf. Both boys see it and neither mentions it yet.",
           "expressions": "Harry looks ahead, the dislike quiet. Draco looks at the dark, the dislike louder, and under it a fear he will not show. They do not look at each other for long.",
           "dialogue": [
-            {"who": "Draco", "line": "If we die, Potter, I am blaming you."},
-            {"who": "Harry", "line": "Then walk, and don't die."}
+            {
+              "who": "Draco",
+              "line": "If we die, Potter, I am blaming you."
+            },
+            {
+              "who": "Harry",
+              "line": "Then walk, and don't die."
+            }
           ],
           "art": "art/c15-p1-p6.jpg"
         },
@@ -4753,7 +4882,10 @@ window.BOOK = {
           "scene": "Ahead, between closed branches, a pale silver glow lies on the ground. Harry lifts the lantern, hoping it is moonlight through a gap. There is no gap. The light comes from the thing itself.",
           "expressions": "Harry looks hopeful for a second, then uncertain. Draco forgets his sneer. He looks at Harry, not for friendship, for confirmation that this is bad.",
           "dialogue": [
-            {"who": "Harry", "line": "It's moonlight. That's all it is."}
+            {
+              "who": "Harry",
+              "line": "It's moonlight. That's all it is."
+            }
           ],
           "art": "art/c15-p2-p1.jpg"
         },
@@ -4763,7 +4895,10 @@ window.BOOK = {
           "scene": "A small clearing. A white unicorn lies on its side, slender and still, the horn dim. Silver light pools across the moss. It is sacred and ruined, not gory. Harry and Draco stand at the edge, the lantern useless against that shine.",
           "expressions": "Harry looks at the unicorn with grief, one hand half raised as if he could still help. Draco is genuinely shaken. The sneer is gone. Fear is clean on him.",
           "dialogue": [
-            {"who": "Harry", "line": "It's a unicorn. It's dead. That shine is unicorn blood."}
+            {
+              "who": "Harry",
+              "line": "It's a unicorn. It's dead. That shine is unicorn blood."
+            }
           ],
           "art": "art/c15-p2-p2.jpg"
         },
@@ -4773,7 +4908,10 @@ window.BOOK = {
           "scene": "Draco backs into a tree, one hand up. Harry does not look at him. Harry looks toward the dark gap on the far side of the clearing. The unicorn lies still in the silver light.",
           "expressions": "Draco looks at the blood, then at the dark, a sound he hates. Harry looks at the gap, focused. The scar is a warning. He looks calm, and he is not.",
           "dialogue": [
-            {"who": "Draco", "line": "I don't like this. Potter, I really don't like this."}
+            {
+              "who": "Draco",
+              "line": "I don't like this. Potter, I really don't like this."
+            }
           ],
           "art": "art/c15-p2-p3.jpg"
         },
@@ -4791,7 +4929,10 @@ window.BOOK = {
           "scene": "Harry drops to one knee, a hand clamped to his forehead, glasses askew, the lantern fallen. The hood straightens and turns toward him. Draco is still standing, barely. The unicorn lies still in the silver light.",
           "expressions": "Harry's eyes are squeezed shut. He looks at the ground, not the figure. Draco looks at Harry, then at the hood, and the calculation is simple: run. The empty hood finds Harry.",
           "dialogue": [
-            {"who": "Harry", "line": "My scar. Draco, my scar is splitting open."}
+            {
+              "who": "Harry",
+              "line": "My scar. Draco, my scar is splitting open."
+            }
           ],
           "art": "art/c15-p2-p5.jpg"
         },
@@ -4801,7 +4942,10 @@ window.BOOK = {
           "scene": "The hood lifts. What is under it is not a readable face: a blur, a paleness, a wrongness. Draco runs back down the path and does not look back. Harry is still on one knee. The unicorn lies behind the figure.",
           "expressions": "Draco's back is the expression: panic. Harry looks up, unable to stand, seeing nothing he can name. The hood looks at Harry, and the scar answers.",
           "dialogue": [
-            {"who": "Draco", "line": "I am not staying for that. I am not."}
+            {
+              "who": "Draco",
+              "line": "I am not staying for that. I am not."
+            }
           ],
           "art": "art/c15-p2-p6.jpg"
         },
@@ -4819,7 +4963,10 @@ window.BOOK = {
           "scene": "Hooves crash into the clearing. Firenze rears between Harry and the hood: palomino body, long blond hair, bow up. The hood recoils from the centaur, not from Harry's wand. Harry is on the ground behind the centaur's legs.",
           "expressions": "Firenze looks at the hood, cold, no fear. The hood retreats, still hungry. Harry looks up at a savior he did not expect. Shock and relief crash together.",
           "dialogue": [
-            {"who": "Firenze", "line": "Back, foul thing. You will not drink and hunt in the same hour."}
+            {
+              "who": "Firenze",
+              "line": "Back, foul thing. You will not drink and hunt in the same hour."
+            }
           ],
           "art": "art/c15-p3-p2.jpg"
         },
@@ -4829,7 +4976,10 @@ window.BOOK = {
           "scene": "Firenze kneels. Harry scrambles onto the broad back, clumsy, fists in the pale mane. The hood waits at the tree line, watching. The unicorn still lies in the clearing.",
           "expressions": "Firenze looks toward the path, urgent and calm. Harry looks at the mane, then at the hood. He does not want to turn his back, and he does. The hood looks like a promise.",
           "dialogue": [
-            {"who": "Firenze", "line": "Harry Potter. Climb on. Now."}
+            {
+              "who": "Firenze",
+              "line": "Harry Potter. Climb on. Now."
+            }
           ],
           "art": "art/c15-p3-p3.jpg"
         },
@@ -4847,7 +4997,10 @@ window.BOOK = {
           "scene": "They have stopped at a moonlit stream. Clean water, no silver blood. Firenze's head is bowed. Harry has slid down, cloak torn, legs unsteady, small beside the centaur.",
           "expressions": "Firenze looks at the water, grieved and angry. Harry looks at him, the question waiting. He looks young, polite, and badly shaken. He does not rush the grief.",
           "dialogue": [
-            {"who": "Firenze", "line": "I have never seen a unicorn slain like that. Their blood is a terrible thing to spill."}
+            {
+              "who": "Firenze",
+              "line": "I have never seen a unicorn slain like that. Their blood is a terrible thing to spill."
+            }
           ],
           "art": "art/c15-p3-p5.jpg"
         },
@@ -4857,7 +5010,10 @@ window.BOOK = {
           "scene": "The stream bank, moon, an owl. Harry's fingers are on the scar again. He looks up the long height of Firenze. The question is the whole panel.",
           "expressions": "Harry looks at Firenze, needing the name and afraid of it. Firenze looks down, kind and severe, measuring whether a child should hear this. He decides to tell.",
           "dialogue": [
-            {"who": "Harry", "line": "What was under that hood? My scar knew it before I did."}
+            {
+              "who": "Harry",
+              "line": "What was under that hood? My scar knew it before I did."
+            }
           ],
           "art": "art/c15-p3-p6.jpg"
         },
@@ -4867,7 +5023,10 @@ window.BOOK = {
           "scene": "Moon on the stream. Firenze speaks, one restrained gesture. Harry listens, cloak wrapped tight, a hand on his scar. Between them is the idea of the hood at the unicorn's throat, and the silver keeping a ruined thing in the world.",
           "expressions": "Firenze looks like an unwilling teacher. Harry looks ill, and angry on the unicorn's behalf. The horror is settling into sense.",
           "dialogue": [
-            {"who": "Firenze", "line": "Unicorn blood will hold you in the world, even an inch from death. That is why the hooded thing was drinking."}
+            {
+              "who": "Firenze",
+              "line": "Unicorn blood will hold you in the world, even an inch from death. That is why the hooded thing was drinking."
+            }
           ],
           "art": "art/c15-p4-p1.jpg"
         },
@@ -4877,7 +5036,10 @@ window.BOOK = {
           "scene": "Close, in moonlight. Firenze's face, the sentence landing. Harry takes a step back, not from the centaur, from the idea. The stream goes on, clean.",
           "expressions": "Firenze looks at Harry with pity and warning. Harry looks at the ground, imagining a half-life, then back up, braver. His eyes ask who would pay that.",
           "dialogue": [
-            {"who": "Firenze", "line": "The price is a half-life. Cursed, from the first swallow. A monster's bargain."}
+            {
+              "who": "Firenze",
+              "line": "The price is a half-life. Cursed, from the first swallow. A monster's bargain."
+            }
           ],
           "art": "art/c15-p4-p2.jpg"
         },
@@ -4887,8 +5049,14 @@ window.BOOK = {
           "scene": "Stillness after a dangerous word. Harry's mouth has just closed. His fists are tight. A leaf falls. Firenze, towering, gives a short nod. The name is accepted.",
           "expressions": "Harry looks at Firenze, hoping to be told he is wrong. Firenze will not give that comfort. The hope closes. Knowledge arrives.",
           "dialogue": [
-            {"who": "Harry", "line": "It was Voldemort."},
-            {"who": "Firenze", "line": "I will not correct you."}
+            {
+              "who": "Harry",
+              "line": "It was Voldemort."
+            },
+            {
+              "who": "Firenze",
+              "line": "I will not correct you."
+            }
           ],
           "art": "art/c15-p4-p3.jpg"
         },
@@ -4898,7 +5066,10 @@ window.BOOK = {
           "scene": "A gap in the trees. Distant castle windows. Firenze turns his head toward Hogwarts. Harry follows the look. The line from the forest to the school is the story. The thing in the hood wants what is hidden there.",
           "expressions": "Firenze looks at the castle, troubled for the world, not only the boy. Harry looks at the lights, pale and certain. The dog, the package, and the book are connecting.",
           "dialogue": [
-            {"who": "Firenze", "line": "He walks these trees because of the Philosopher's Stone. It is hidden in your school."}
+            {
+              "who": "Firenze",
+              "line": "He walks these trees because of the Philosopher's Stone. It is hidden in your school."
+            }
           ],
           "art": "art/c15-p4-p4.jpg"
         },
@@ -4908,8 +5079,14 @@ window.BOOK = {
           "scene": "The stream, the moon. Harry's hands open. He understands the theft. Not gold. A body. A return. Firenze stands at the edge and does not interrupt.",
           "expressions": "Harry looks at his hands, then at the scar: fear, and a fierce no. Firenze looks at him with respect, and with sadness, because understanding is not safety.",
           "dialogue": [
-            {"who": "Harry", "line": "The Stone would give him a body. He would not need the curse of the blood."},
-            {"who": "Firenze", "line": "You understand quickly. I am sorry that you do."}
+            {
+              "who": "Harry",
+              "line": "The Stone would give him a body. He would not need the curse of the blood."
+            },
+            {
+              "who": "Firenze",
+              "line": "You understand quickly. I am sorry that you do."
+            }
           ],
           "art": "art/c15-p4-p5.jpg"
         },
@@ -4919,10 +5096,363 @@ window.BOOK = {
           "scene": "The forest edge, castle windows blazing, safety looking close and false. Hermione and Neville and Hagrid have reached him. Draco stands apart, not meeting eyes. Fang is at Harry's hand. Firenze, half in the trees, looks back once.",
           "expressions": "Harry looks past his friends toward the castle. The theory is locked, and it is the wrong face. Hermione scans him for wounds. Neville cries with relief. Hagrid looks guilty. Draco looks at the ground. Firenze is already leaving.",
           "dialogue": [
-            {"who": "Hermione", "line": "Harry. Are you hurt?"},
-            {"who": "Harry", "line": "I'm all right. It was Voldemort. And Snape is helping him. I know it."}
+            {
+              "who": "Hermione",
+              "line": "Harry. Are you hurt?"
+            },
+            {
+              "who": "Harry",
+              "line": "I'm all right. It was Voldemort. And Snape is helping him. I know it."
+            }
           ],
           "art": "art/c15-p4-p6.jpg"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "They decide to protect the Stone",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Exams and a slip"
+        },
+        {
+          "n": 2,
+          "title": "The stranger"
+        },
+        {
+          "n": 3,
+          "title": "The warning refused"
+        },
+        {
+          "n": 4,
+          "title": "The choice"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The Great Hall as an exam room, morning, summer at the windows. Rows of desks. Harry's quill lies on a blank parchment. Hermione writes two desks away. Ron bites his quill. McGonagall prowls the aisle in emerald.",
+          "expressions": "Harry looks at the parchment and does not see the question. He looks haunted and ordinary. Hermione is focused, with a glance of worry. McGonagall looks at the room, fair and watchful.",
+          "dialogue": [],
+          "art": "art/c16-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The exam hall, summer light. Hermione has set her quill down on a finished page and looks across at Harry's blank lines. She does not pass him an answer. Her foot taps. Ron still bites his quill.",
+          "expressions": "Hermione looks at Harry, soft, then back at her page, discipline. Harry does not look up. His face is still in the forest.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Last line again. Then once more, to be sure."
+            }
+          ],
+          "art": "art/c16-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Ron's desk in the sun. The corner of his parchment holds a small dragon, smoking, quite good. The rest of the page is empty. A pale bite-scar shows on his hand. McGonagall's shadow is about to pass.",
+          "expressions": "Ron looks at the question in despair, then at the dragon with a private grin, then at the shadow with panic. He looks like a boy at the end of a long year.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "What is the difference between monkshood and... oh, forget the question."
+            }
+          ],
+          "art": "art/c16-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "Hagrid's hut, late afternoon, door open, no egg and no dragon. Hagrid sobs into a handkerchief the size of a tablecloth. Tea is poured and ignored. Harry, Ron, and Hermione came to celebrate. Fang rests his head near Harry.",
+          "expressions": "Hagrid looks into the cloth, guilty and wrecked. Harry's alarm replaces the exam haze. Hermione is gentle and ready to ask. Ron looks at the empty hearth.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "I should never have said a word. Great stupid mouth on me."
+            }
+          ],
+          "art": "art/c16-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The hut table, afternoon, sudden stillness. Three teacups have stopped. Fang's tail has stopped. Hagrid looks up, red-eyed, the outside of the secret already said.",
+          "expressions": "Hagrid looks at them with regret. Harry feels the forest and the Stone rising. Hermione is careful and will not pounce. Ron looks at Harry. All of them are very still.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "I told. I told a stranger how to get past Fluffy."
+            }
+          ],
+          "art": "art/c16-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Close across the table. Harry's hands are flat, a boy trying not to spook someone. Hagrid twists the huge handkerchief. Mugs. Fang's eye at the edge. Summer.",
+          "expressions": "Harry looks at Hagrid, kind and relentless. Hagrid looks at the cloth, then at Harry. He wants to be stopped, and he will not be.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Told what, Hagrid? Slowly."
+            }
+          ],
+          "art": "art/c16-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "A memory with softer edges. A grimy wizard pub, smoke, a dark corner. A hooded stranger with a hidden face pushes a mug across the table. Hagrid, flushed, talks with his hands among empty mugs.",
+          "expressions": "Hagrid looks glad of the company and unsuspecting. The stranger looks down, listening too well. There are no eyes to read.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Fluffy's mine. Raised him from a pup. Three heads, and gentle if you know the trick."
+            },
+            {
+              "who": "Stranger",
+              "line": "Another firewhisky. Do tell me about the school."
+            }
+          ],
+          "art": "art/c16-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "The pub table, close, still a memory. A pale hand from the hood taps the wood. Hagrid leans in, proud of the dog he loves. That pride is the trap.",
+          "expressions": "Hagrid looks proud, a little drunk, about to boast. The hood tilts, hungry for the answer. No smile we can trust.",
+          "dialogue": [
+            {
+              "who": "Stranger",
+              "line": "A three-headed dog on a trapdoor. However would a wizard get past a beast like that?"
+            }
+          ],
+          "art": "art/c16-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Back in the hut, tea gone cold. Hagrid's denial has fallen. He admits it into the handkerchief. Hermione's eyes are closed, one hand on her brow. Harry sits very straight. Ron stares.",
+          "expressions": "Hagrid looks at the table, ashamed. Hermione sees the thief's plan behind her eyelids. Harry looks afraid, not angry. Ron looks at the door.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "I never said a useful thing. Well. I said music. Play a tune and Fluffy goes straight off to sleep."
+            }
+          ],
+          "art": "art/c16-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A quiet wide panel in the hut, summer light. Hermione's face, eyes closed, hands clasped. She is not resting. She is seeing the trapdoor, a flute, and a stranger who already knows.",
+          "expressions": "Eyes shut. Mouth tight. Fear managed by thinking. When the lids lift she will be ready to move.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Then the stranger already has the first key."
+            }
+          ],
+          "art": "art/c16-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The hut, late light. Hagrid squints into memory, one hand waving around his own head, unable to land on a hood or a turban. The children watch the hand. Fang sleeps, the only one at peace.",
+          "expressions": "Hagrid looks into the middle distance, trying, failing, guilty. Hermione files both possibilities. Ron looks confused. Harry already wants the memory to be Snape.",
+          "dialogue": [
+            {
+              "who": "Hagrid",
+              "line": "Hood up. Or maybe a turban. I can't hold the face in my head. He kept the drinks coming."
+            }
+          ],
+          "art": "art/c16-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "A vision in the hut's air, split by a shadow. On the left, what Harry imagines: Snape, black hair, hooked nose, sneering over a mug. On the right, unseen by him: Quirrell, purple turban, pale and sweating, pushing a drink. Hermione stands at the edge.",
+          "expressions": "Imagined Snape looks villainous, which is how Harry needs him. Quirrell looks frightened and purposeful. Harry looks only at Snape, convinced. Hermione does not share the certainty.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Snape. It was Snape in that pub. It has to be."
+            }
+          ],
+          "art": "art/c16-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "A sunlit castle corridor, late afternoon. Three children run, robes flying, toward a stern wooden office door. Hermione is fastest. Harry's scarf trails. Other students with trunks stare. Portraits turn.",
+          "expressions": "They look at the door, urgent. Hermione looks resolved. Harry looks angry at the time they have lost. Ron hopes the professor is in.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Professor McGonagall. Please. It's urgent."
+            }
+          ],
+          "art": "art/c16-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "McGonagall's office. Green, a desk, stacked blank exams, a sunbeam, a sleeping cat. Hermione stands in front of the desk, hair escaped, hands moving, the speech tumbling. Harry and Ron flank her.",
+          "expressions": "Hermione looks at McGonagall, a child asking an adult to be the adult. McGonagall listens and is already bracing to refuse. Harry wills her to hear. Ron is nervous in offices.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Someone means to steal the Philosopher's Stone. Hagrid told a stranger in a pub how to get past Fluffy. Music puts the dog to sleep."
+            }
+          ],
+          "art": "art/c16-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "The office, sun. McGonagall sets the exams down in a neat stack and raises a hand, not unkind, final. The three children have stopped talking. The cat flicks an ear. The desk between them is a wall.",
+          "expressions": "McGonagall looks firm, protecting children from a fight she thinks is already guarded. Hermione looks at the hand. Harry's frustration rises. Ron knew this would happen.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "The Stone is guarded by more than a dog, Miss Granger. And you three will stop meddling in matters far above your year."
+            }
+          ],
+          "art": "art/c16-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Tighter in the office. Harry steps beside Hermione and says the name. McGonagall's warmth shuts. Hermione gives a small shake that comes too late. Ron winces.",
+          "expressions": "Harry looks earnest. He thinks the name is proof. McGonagall looks offended and worried about his certainty. The conversation closes in her eyes.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It's Professor Snape. He's after the Stone for Voldemort."
+            },
+            {
+              "who": "McGonagall",
+              "line": "How dare you, Potter."
+            }
+          ],
+          "art": "art/c16-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "McGonagall is at the open door, a hand indicating the bright corridor. Hermione looks back. Harry looks unsatisfied. Ron looks at his shoes. The promise of Dumbledore sounds like safety.",
+          "expressions": "McGonagall means the promise. Harry does not feel safer. Hermione is already thinking ahead. Ron is relieved and not.",
+          "dialogue": [
+            {
+              "who": "McGonagall",
+              "line": "I shall inform Professor Dumbledore myself. Out. All three of you."
+            }
+          ],
+          "art": "art/c16-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The corridor outside the office, afternoon going gold. A portrait of an old witch in a lace cap leans out of her frame, delighted to gossip. The three have stopped in the sun. Their faces fall.",
+          "expressions": "The portrait looks thrilled with her news. Hermione feels the floor drop. Harry looks down the corridor, as if the carriage is already gone. Ron sees the mad plan arriving.",
+          "dialogue": [
+            {
+              "who": "Portrait",
+              "line": "Dumbledore? Oh, he left this afternoon. An urgent owl. The headmaster is not in the castle."
+            }
+          ],
+          "art": "art/c16-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Gryffindor common room, evening, gold firelight. Trunks half packed. Everyone else is laughing. In a corner Ron leans in, whispering, both hands open. Harry listens. Hermione sits with a closed book.",
+          "expressions": "Ron looks scared, honest, and still here. Harry is grateful he said it. Hermione agrees it is mad. None of them look ready to go back to packing.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "This is mad. We're first years. There's a three-headed dog and a dark wizard."
+            }
+          ],
+          "art": "art/c16-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "The common-room corner, evening. Hermione's finger taps the table in a short rhythm, like counting locks. Harry and Ron watch the finger. A trunk gapes nearby, clothes, a reminder of the train.",
+          "expressions": "Hermione looks at her own hand, certain of the logic and hating it. Harry feels the decision settle. Ron looks at the packed trunk, then back. He is not going to the train.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "If the thief knows about the music, the other protections are only a corridor. Fluffy is the front door, and the door is open."
+            }
+          ],
+          "art": "art/c16-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The corner, fire, other children's laughter continuing behind them. Harry says it quietly, one hand on his scar. Ron goes still. Hermione's book is already closed.",
+          "expressions": "Harry looks at them, not dramatic, just clear. Young, and responsible in a way he should not have to be. Hermione's last objection folds. Ron swallows, then nods.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "If Voldemort comes back, it will be because we sat in Gryffindor Tower and did nothing."
+            }
+          ],
+          "art": "art/c16-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Three faces, close, no more talking. A nod each. The portrait hole is behind them. End-of-term trunks. They are going tonight. No wands out yet.",
+          "expressions": "Fear shared, so it is lighter. Harry looks steady. Hermione looks brave, a plan forming. Ron looks terrified and loyal, a crooked almost-smile.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "All right. Tonight."
+            },
+            {
+              "who": "Hermione",
+              "line": "Tonight."
+            }
+          ],
+          "art": "art/c16-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Night. The forbidden third-floor corridor, moonlight, a huge plain door. Three small children. Harry raises a small wooden flute Hagrid gave him, not playing yet. Hermione and Ron have their wands. They look tiny against the door.",
+          "expressions": "Harry looks at the door, the flute a strange gentle weapon. Hermione looks ready. Ron hopes Hagrid was right. All of them are afraid and finished with waiting.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Hagrid gave me this flute. If music works on Fluffy, it will have to do."
+            }
+          ],
+          "art": "art/c16-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Close on the heavy door at night. Dust sifts down. The wood shivers with a low growl. Fluffy is unseen. Harry's fingers are on the flute. Hermione's wand light is starting. Ron's shoulders are up. The corridor is empty of adults.",
+          "expressions": "Harry takes a breath. He will play. Hermione looks at the hinges, calculating. Ron looks at Harry: now. The door trembles back at them.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "He's awake."
+            },
+            {
+              "who": "Hermione",
+              "line": "Then play, Harry. Play now."
+            }
+          ],
+          "art": "art/c16-p4-p6.jpg"
         }
       ]
     }
