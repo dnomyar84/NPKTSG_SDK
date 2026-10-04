@@ -6142,6 +6142,342 @@ window.BOOK = {
           "art": "art/c18-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 19,
+      "title": "The hospital wing and the explanation",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Waking"
+        },
+        {
+          "n": 2,
+          "title": "Why Quirrell burned"
+        },
+        {
+          "n": 3,
+          "title": "The question he is not ready for"
+        },
+        {
+          "n": 4,
+          "title": "The friends"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The hospital wing in summer daylight. White curtains, a high window, empty wooden beds, flowers, a jug of water. Harry wakes in a pale shirt, hair flat on one side, both hands bandaged on a clean blanket. His glasses sit on the side table. The underground is gone.",
+          "expressions": "He looks at his hands, groggy, trying to remember why they hurt. Confused. Alive. His eyes move toward the glasses, wanting them, not reaching yet.",
+          "dialogue": [],
+          "art": "art/c19-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Glasses on, Harry finds Dumbledore in the chair beside the bed. Long silver beard, half-moon spectacles, purple robes, a closed book on his knee. Sun in his hair. He looks as if he has been guarding the sleep.",
+          "expressions": "Dumbledore looks at Harry, relief deep under the calm, a smile that is not a joke. He looks a little tired. Harry looks at him, trusting, a boy checking the world is still there.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Good afternoon, Harry. I have been waiting for you to come back to us."
+            }
+          ],
+          "art": "art/c19-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Harry struggles to sit. A bandaged hand paws the side of the hospital shirt where a pocket is not. Nothing is there. Dumbledore's hand rests on the edge of the blanket, steadying, not pinning.",
+          "expressions": "Harry looks at his own side, frightened, afraid he failed. Dumbledore looks at the empty hand, understanding at once, kind, about to give the answer.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "The Stone. It was in my pocket. Where is it?"
+            }
+          ],
+          "art": "art/c19-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "A white curtain breathes. Harry sinks back, small in the bed. Dumbledore's hands are open and empty. There is nothing to show. The news is the whole picture.",
+          "expressions": "Harry's face does both: relief, then a question. Dumbledore looks gentle and sure, a little sad for the object and not for the choice. He looks at Harry's hands, grateful they are the cost and not a grave.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "The Philosopher's Stone is safe. And it is going to be destroyed."
+            }
+          ],
+          "art": "art/c19-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The bedside, sun, a bowl of grapes ordinary against the size of the question. Harry's bandaged hands rest on the blanket. Dumbledore listens, hat off, silver hair in the light, a long patience.",
+          "expressions": "Harry looks at Dumbledore, earnest, a child who has seen what the Stone costs and still asks. Dumbledore looks at him, tender, the mirror-night remembered. He is not angry at the question.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Destroyed? It makes the Elixir of Life. Nicolas Flamel has lived on it for centuries."
+            }
+          ],
+          "art": "art/c19-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "The hospital window onto summer lawns. Tiny students, far off, drag plain trunks. Ordinary lives. Dumbledore in profile looks out. Harry follows his gaze.",
+          "expressions": "Dumbledore looks at the children outside, protective of a whole world, not only Harry. Harry looks out, then at him, a small nod. His face is tired and older than September.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Endless gold and endless life are not gifts this world ought to keep on a shelf. Nicolas agrees with me. He has had time enough."
+            }
+          ],
+          "art": "art/c19-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "White linen, sun, the wing very quiet. Harry holds up both bandaged hands, the evidence. Dumbledore leans in, spectacles low on his nose.",
+          "expressions": "Harry looks at his hands, uneasy, then at Dumbledore, afraid the answer will be that he is dangerous. Dumbledore looks at the bandages, moved, a shine in the eye he does not hide, ready to give the better truth.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Why did my hands burn Professor Quirrell? I never cast a spell."
+            }
+          ],
+          "art": "art/c19-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "A single white flower in a glass vase. Dumbledore's hands are folded. Harry goes still in the bed, bandages on the blanket, listening with his whole body.",
+          "expressions": "Dumbledore looks at Harry, gentle, choosing words for a child. Harry looks at him, hungry, hope and fear of hearing it wrong. His mouth is closed. He is listening harder than he has listened all year.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Because of your mother, Harry. Lily Potter."
+            }
+          ],
+          "art": "art/c19-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "A dim cottage nursery, memory-soft. A crib. A young woman with long dark-red hair, face turned away, stands between the crib and a spear of green light from a doorway. One hand is raised. The green stops at her. The baby is only a small dark-haired shape, asleep.",
+          "expressions": "Her face is not a portrait. The love is in the stance, the way she will not step aside. The baby's face is calm. No attacker. A person choosing.",
+          "dialogue": [],
+          "art": "art/c19-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Back in the hospital, sun, the flower. Dumbledore's finger, very light, indicates Harry's bandaged hand, not the scar. The protection is in the skin.",
+          "expressions": "Dumbledore looks at the hand, reverent. Harry looks at it, eyes wet, the horror of the burning rewritten. He looks at Dumbledore, a question and a thank-you mixed, though the thank-you is for her.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "When she died to keep you alive, her love left a protection in your very skin. Old magic. Not a charm I could set down in a lesson."
+            }
+          ],
+          "art": "art/c19-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The quiet wing, a white curtain. Harry pulls the blanket a little higher, both hands bandaged. Dumbledore sits beside him. No Quirrell in the frame. The explanation is their faces.",
+          "expressions": "Harry looks overwhelmed, grieving and proud in a private way. Dumbledore looks at him, making sure he hears love and not a weapon. Kind, serious. The shame of the burning eases.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Quirrell was full of hatred, and full of Voldemort. He could not bear to touch that protection. So he burned."
+            }
+          ],
+          "art": "art/c19-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "A quiet close view. Bandaged hands on white linen, a bit of soot at the wrist. The edge of his chin, his glasses, a tear he has not wiped. He does not make fists. He rests them.",
+          "expressions": "His mouth is soft. Wonder. Sorrow. He looks at his hands the way he looked at the cloak. Inheritance.",
+          "dialogue": [],
+          "art": "art/c19-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Afternoon softening. Harry almost touches the scar with a bandaged finger. He says it as a fact he has carried since the forest, the match, the classroom. Dumbledore does not wave it away.",
+          "expressions": "Harry looks at Dumbledore, checking if he is allowed to say the name. He is. Serious. Dumbledore looks at the scar, studying, gentle, and nods.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "My scar hurts whenever Voldemort is close. It has, all year."
+            }
+          ],
+          "art": "art/c19-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "The chair and the bed. Dumbledore nods once. A plate of plain chocolate frogs waits on the table, a child-thing beside a large truth. Harry sits straighter.",
+          "expressions": "Dumbledore looks at Harry, honest. He will not pretend the scar is only a mark. Harry looks back, a little afraid, steadied by being believed. No one smiles. Respect.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Yes. That is so. And it is not a small detail. We shall not pretend that it is."
+            }
+          ],
+          "art": "art/c19-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "The summer window is too bright. Harry's bandaged hands are loose fists. He looks very eleven. Dumbledore's face goes still.",
+          "expressions": "Harry looks at him, pleading, plain. He wants the reason the way he wanted the letter. Dumbledore looks at Harry, love and a gate. He looks older. He looks sorry.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Why did he want to kill a baby? Why me, and not some other child?"
+            }
+          ],
+          "art": "art/c19-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "No speech. The curtain moves. A bird crosses the window. Dumbledore's hands stay folded. Harry waits in the bed. A flower and a plate of chocolates sit by the blanket. The silence is a decision.",
+          "expressions": "Harry looks at Dumbledore, hope thinning into patience. Dumbledore looks at his own hands, then at the boy, choosing. Sad. Certain. Kind.",
+          "dialogue": [],
+          "art": "art/c19-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Close at the bedside. Dumbledore's hand covers Harry's bandaged fist, brief. Beard, spectacles, the promise and the refusal in the same lean.",
+          "expressions": "Dumbledore looks at Harry, loving, immovable. Harry looks at him, disappointed, trusting anyway. A small nod. His eyes are wet and he is not arguing.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "You will know, Harry, when you are older. Not today. I will not lay that answer on a hospital pillow."
+            }
+          ],
+          "art": "art/c19-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "A plain box of chocolate frogs sits on the blanket. Dumbledore stands, hat on, very tall, leaving with a look back. Madam Pomfrey waits in the doorway, apron on, a nod to the headmaster. Sun. The answer stays in the room, unfinished, on purpose.",
+          "expressions": "Dumbledore looks back, a small smile, the twinkle returning carefully. Harry looks at him, a smaller smile, thank you and not yet. Pomfrey looks on with professional tenderness. The unfinished question sits in Harry's eyes after the smile.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Chocolate Frogs. Madam Pomfrey permits them, which is practically a miracle. Rest."
+            }
+          ],
+          "art": "art/c19-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The hospital door. Ron and Hermione burst in, trying to tiptoe and failing. Ron's head is bandaged, maroon sweater, a grin. Hermione has blank cards and a leaning plain cake. Madam Pomfrey raises a finger. White curtains, sun. Harry sits up.",
+          "expressions": "Ron's joy abandons the whisper. Hermione scans Harry for damage, then smiles so hard. Harry's face opens all the way. Pomfrey looks fond and exasperated.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Harry!"
+            },
+            {
+              "who": "Hermione",
+              "line": "You're awake. Madam Pomfrey said we were to whisper."
+            },
+            {
+              "who": "Ron",
+              "line": "That was a whisper."
+            }
+          ],
+          "art": "art/c19-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "The bedside. Cards would be too loud, so there is cake and sun. Ron taps the bandage on his head like a medal, then winces, then grins. Harry laughs. Hermione stands with her arms folded.",
+          "expressions": "Ron looks at Harry, proud, needing him to have seen the move. Harry looks at the bandage, gratitude that hurts, the smile watery. Hermione looks at Ron, fond, a smile she is not hiding well.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Chess piece. Right in the head. Worth it. I was brilliant, in case the queen knocked the memory out of you."
+            }
+          ],
+          "art": "art/c19-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "A quieter panel. Hermione looks at her hands. The cake leans, plain. Ron goes quieter under his bandage. Harry, bandaged, sits between them.",
+          "expressions": "Hermione looks down, guilty, precise about her own limits. Harry shakes his head. She is wrong to hate it. Ron looks at her, kind. He knows what it is to be the one who stays behind.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "I solved Snape's riddle quickly enough. Then I had to send you through the door alone. I hated that part."
+            }
+          ],
+          "art": "art/c19-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Sun in the wing. The three of them talk at once, a happy pile of credit. Harry points at Hermione with a bandaged hand. Ron points at himself and nearly pokes the bandage. Cake and chocolate frogs are threatened. Madam Pomfrey listens from the doorway, pretending not to smile.",
+          "expressions": "Harry looks from one to the other, insisting, bright. Hermione laughs, the guilt loosening. Ron looks fake-offended and delighted. They look like the trio the door tried to split.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "You are why I reached that room. The logic was yours."
+            },
+            {
+              "who": "Ron",
+              "line": "And the chess was mine. We're both why. We can argue it over cake."
+            }
+          ],
+          "art": "art/c19-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The same bedside, the happy noise stopped. Harry says the name. Ron's hand stays in the air. Hermione's mind runs back through the year. They look at Harry's bandaged hands. Sun still. The mood has changed.",
+          "expressions": "Harry looks at them, tired, sure. Hermione looks into the middle distance, rearranging the year, a shiver. Ron's Snape-theory falls off his face. Understanding. No joke.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It was never Snape. It was Professor Quirrell. Voldemort was living on the back of his head, under the turban."
+            },
+            {
+              "who": "Hermione",
+              "line": "All year. The flinch in the corridor. The troll. The broom."
+            }
+          ],
+          "art": "art/c19-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Late afternoon gold. They sit on the bed, a blanket ruined with crumbs. Harry in the middle, bandaged hands out, while Ron puts a chocolate frog into them. Hermione holds a card that is only a painted portrait. Through the window the lake is bright, the castle in summer, a boat small and far.",
+          "expressions": "Harry looks at the frog, then at them, content, the unfinished question set down for now. Ron looks at Harry's hands, careful. Hermione looks at the card, then at the lake, a small peaceful smile. They look like children again.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Chocolate Frog card. Dumbledore again. The man turns up in pockets."
+            },
+            {
+              "who": "Hermione",
+              "line": "Eat. The lake looks like summer. We have earned a quiet hour."
+            }
+          ],
+          "art": "art/c19-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
