@@ -74,7 +74,7 @@ Do not invent lines to demonstrate these rules. Change only the form of address 
 
 Film first, because this storyboard follows the film's shape. Where the book and the film disagree, the note says so, and the picture the user asked to keep stays.
 
-### Chapter 1 — Baby Harry is left on a doorstep
+### Chapter 1 — The Boy Who Lived
 
 Most of this night is grief, not comedy. Keep it solemn. The few human beats that stop it being only a legend:
 
@@ -89,7 +89,7 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 - **Present.** An owl drops a letter onto the eggs. Letters multiply. Vernon nails the mail slot. Letters pour down the chimney and Dudley screams. Vernon boards the fireplace.
 - **Present.** The car in the storm, the hut on the rock, Vernon with the rifle as the door booms. The rifle is ruined in the next chapter.
 
-### Chapter 3 — Hagrid tells Harry he is a wizard
+### Chapter 3 — The Keeper of the Keys
 
 - **Present.** The door blasts in. Hagrid hugs Harry off his feet for a birthday.
 - **Present.** Hagrid bends the rifle into a knot.
@@ -107,7 +107,7 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 - **Present.** Wands misbehave before the right one. A vase shatters, smoke curls, boxes avalanche. Then one wand fills the shop with warm light, and it shares a phoenix feather with the wand that hurt him. The choosing line is already spoken in C4-P4-P5, in the panel after the light of C4-P4-P4. It is not a missing speech. The picture was loose: his eyes were not locked, and the light was not named as the wand’s effect. The precise version, now written into those two panels: after the failed wands, the right wand reacts. The successful wand’s light is the effect, a warm gold-white glow from that wand, not from his eyes. Ollivander is the same man every time: pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. His eyes are on Harry or on the wand. He says the wand chooses the wizard. Do not add a second shopkeeper and do not move the line onto a new panel.
 - **Present.** Draco sneers at Hagrid and offers Harry "better" company. Harry steps back.
 
-### Chapter 5 — The train to Hogwarts
+### Chapter 5 — The Journey from Platform Nine and Three-Quarters
 
 - **Present, and it was only a vague laugh.** C5-P1-P3 already shows a station guard laughing and waving Harry off, with the line that there is no platform nine and three-quarters. C5-P1-P2 had Harry ask the question with no officer in the frame. That pair is this beat, not a different joke, and it is already before the Weasleys in C5-P1-P4. It was not precise enough to draw. The version to keep, now written into those two panels: Harry asks a platform officer where platform 9¾ is. The officer is amused and dismissive. He laughs, points Harry away, and does not walk him to a train. Harry is left looking at the solid brick barrier between platforms 9 and 10. The officer’s mustache is thinner than Vernon’s. He is not Vernon. No new panel. Do not put the Weasleys in the ask or the brush-off.
 - **Present.** Ron arrives with dirt on his nose. Hermione tells him so while she is already correcting him. The storyboard does not show him wiping the wrong cheek. The smudge itself is enough to keep.
@@ -119,7 +119,7 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 
 The pronunciation correction is already on this train, before anyone has failed the spell in class. See chapter 7. Do not lose it, and do not pretend the classroom version is already drawn.
 
-### Chapter 6 — Arrival and the Sorting
+### Chapter 6 — The Sorting Hat
 
 - **Present.** The steep path, the boats, Neville clutching the sides, the castle doubled in the lake.
 - **Present.** A ghost drifts up through the table. Neville yelps. The ghost's head is a bit wobbly, which only hints at the joke.
@@ -138,7 +138,7 @@ The pronunciation correction is already on this train, before anyone has failed 
 
 - **Missing.** Dumbledore's nonsense words before the feast, the four silly words that make the hall think he has lost the plot, and then the real warning. The storyboard goes straight to the third-floor corridor and the painful death. Keep that warning. The silly words are the funny beat in front of it, and they are not here. The house welcome above is a different missing beat. Do not spend one insert on both.
 
-### Chapter 7 — First classes, and Snape’s hostility
+### Chapter 7 — The Potions Master
 
 - **Present.** A staircase moves and they miss the landing. A portrait scolds them. Peeves drops a wastebasket on their heads.
 - **Present.** They tumble into class late. McGonagall changes from cat to woman and the room gasps. Hermione's hand is up before the question ends.
@@ -157,7 +157,7 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** Draco takes the Remembrall, mounts, and tells Harry to come and get it. Hermione says he will be expelled. Harry kicks off, dives, and closes his hand on the ball just above the stone.
 - **Present.** McGonagall, icy, takes Potter inside. It is not an expulsion. She has found Oliver Wood a Seeker.
 
-### Chapter 9 — The midnight duel and the three-headed dog
+### Chapter 9 — The Midnight Duel
 
 - **Present.** Draco offers a wizard's duel at midnight in the trophy room. Hermione says it is a trap. They go anyway. She is already waiting in the corridor.
 - **Present.** Neville is locked out in his nightshirt, toad in hand, because he forgot the password and the portrait will not open. He begs to come.
@@ -165,7 +165,7 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** The trophy room is empty. Filch's lamp, and the cat's eyes. They pile through a door. Fluffy: a dog the size of the room, three heads. Neville faints. They drag him. A head snaps, Ron's sleeve tears, and a head hits the door as it slams.
 - **Present.** Hermione sees that the dog is guarding a trapdoor. Harry remembers the package from Gringotts.
 
-### Chapter 10 — The troll and the start of the friendship
+### Chapter 10 — Hallowe’en
 
 - **Present.** Draco mimics the dive and falls on purpose. People laugh.
 - **Present.** Ron calls Hermione a nightmare with no friends. She is behind the chair, eyes bright with held tears, and she runs. In the bathroom the tears from that insult are still on her face when the troll fills the door. There is no separate panel of her sobbing alone before the boys arrive. The tears are visible. Keep them.
@@ -180,7 +180,7 @@ Keep all three pictures: wand in the nostril, club on the troll's own head, wand
 - **Present.** McGonagall, Snape, and Quirrell burst in. Hermione lies that she went looking for the troll and the boys saved her. Points come off her and go to the boys. Snape looks unconvinced.
 - **Present.** Harry sees blood soaking Snape's trouser leg. Keep it. It is the clue they misread for the rest of the year.
 
-### Chapter 11 — The first Quidditch match
+### Chapter 11 — Quidditch
 
 - **Present.** Robes too big, Wood's plan, the roar, Draco pointing from the stands.
 - **Present.** The broom bucks. Harry clamps his knees, then hangs by one hand. Snape is motionless in the stands, mouth moving. Hermione shoves through to the staff seats. A small blue flame catches Snape's hem. He beats the robe out. The broom goes still.
@@ -190,7 +190,7 @@ Keep all three pictures: wand in the nostril, club on the troll's own head, wand
 
 The muttering is staged so the children, and the reader, think it is a curse. Chapter 18 already reveals it was a counter-curse. Do not spoil that in this chapter.
 
-### Chapter 12 — Nicolas Flamel and the Stone
+### Chapter 12 — Nicolas Flamel
 
 This chapter is mostly the search. The funny beats are small, and they are already here.
 
@@ -200,7 +200,7 @@ This chapter is mostly the search. The funny beats are small, and they are alrea
 
 Nothing disgusting is missing here. Do not invent a gag to fill the chapter.
 
-### Chapter 13 — Christmas and the Mirror of Erised
+### Chapter 13 — The Mirror of Erised
 
 - **Present.** Ron stays so Harry will not be alone. A homemade jumper with his initial on it. Fred and George set off crackers. Smoke, and a terrible smell.
 - **Present.** The unnamed parcel. The cloak. His hand is gone. At night the shoes show under the hem. Filch sniffs and walks past. Those gags stay. The picture must not delete him. The cloak lock in [props.md](props.md) is the one to paste: 90% transparent, only about 10% opacity, a faint but clearly Harry figure, face, hair, scar side, glasses, and the green jumper still readable, with a sheer silver-gray edge. “Only his shoes” and “a vanished hand” are the beats. They are not an empty corridor.
@@ -208,14 +208,14 @@ Nothing disgusting is missing here. Do not invent a gag to fill the chapter.
 
 The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Filch sniffing are the comic beats. All three are present. The hand and the shoes stay readable as gags because the rest of Harry is still a faint figure.
 
-### Chapter 14 — The dragon
+### Chapter 14 — Norbert the Norwegian Ridgeback
 
 - **Present.** A black egg in the fire. Hagrid says he won it at cards. Hermione says dragon breeding is illegal. The egg cracks. A wet, ugly, beautiful head. He names it Norbert.
 - **Present.** Norbert bites Ron. The hand swells, green with poison. The hospital wing. The dragon has to go tonight.
 - **Present.** A crate under the invisibility cloak, and a tail sticking out. Draco steps from a corner. They lose him on a moving staircase. Riders take the crate at the Astronomy Tower.
 - **Present.** On the way down, McGonagall, with Draco smug beside her. Filch holds the cloak Harry dropped. Detention for all four, because Draco was out of bed too. The smugness dies. Points pour off Gryffindor.
 
-### Chapter 15 — Detention in the Forbidden Forest
+### Chapter 15 — The Forbidden Forest
 
 - **Present.** Hagrid, lanterns, Fang. Something in the trees has been hurting unicorns. Draco sneers and is told to shut it.
 - **Present.** They split. Harry with Draco. A silver shape that is not moonlight. A dead unicorn. The silver is its blood.
@@ -228,7 +228,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** Hagrid weeps into a handkerchief the size of a sail. A stranger in a pub kept buying the drinks. Hagrid swore he never said how to get past the dog, then admits he said music puts Fluffy to sleep. He cannot remember the face. A hood, or maybe a turban. Harry hears "Snape." The panel shows Quirrell's turban, and Harry does not see it.
 - **Present.** They run to McGonagall. She says the Stone is well protected and they are to stop meddling. A portrait tells them Dumbledore has already left. The three decide to go. Harry raises a flute. A growl answers.
 
-### Chapter 17 — The underground challenges
+### Chapter 17 — Through the Trapdoor
 
 - **Present.** Harry plays badly. The three heads droop one at a time. They drop through the trapdoor into something soft and laugh, and then the vines tighten. Ron is pulled under.
 - **Present.** Hermione names Devil's Snare, says it hates light, and conjures fire. They crawl free, coughing.
@@ -238,7 +238,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** The next room's troll is already unconscious, tongue out, comic and ignored. They do not stop.
 - **Present.** Seven bottles and a logic riddle. One swallow goes back. One swallow goes forward. She puts the forward bottle in Harry's hand and goes back for Ron. The door shuts on her face.
 
-### Chapter 18 — Quirrell, not Snape
+### Chapter 18 — The Man with Two Faces
 
 - **Present.** Harry calls for Snape. A polite voice says Snape is not here. Quirrell steps out with the turban neat and the stammer gone.
 - **Present.** The muttering at the match was a counter-curse. Snape was trying to keep Harry on the broom. Quirrell was trying to throw him off.

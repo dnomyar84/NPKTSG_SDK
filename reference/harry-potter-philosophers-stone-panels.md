@@ -25,24 +25,24 @@ Each panel has:
 
 ## Contents
 
-1. [Baby Harry is left on a doorstep](#chapter-1--baby-harry-is-left-on-a-doorstep)
+1. [The Boy Who Lived](#chapter-1--the-boy-who-lived)
 2. [Harry’s life with the Dursleys](#chapter-2--harrys-life-with-the-dursleys)
-3. [Hagrid tells Harry he is a wizard](#chapter-3--hagrid-tells-harry-he-is-a-wizard)
+3. [The Keeper of the Keys](#chapter-3--the-keeper-of-the-keys)
 4. [Diagon Alley](#chapter-4--diagon-alley)
-5. [The train to Hogwarts](#chapter-5--the-train-to-hogwarts)
-6. [Arrival and the Sorting](#chapter-6--arrival-and-the-sorting)
-7. [First classes, and Snape’s hostility](#chapter-7--first-classes-and-snapes-hostility)
+5. [The Journey from Platform Nine and Three-Quarters](#chapter-5--the-journey-from-platform-nine-and-three-quarters)
+6. [The Sorting Hat](#chapter-6--the-sorting-hat)
+7. [The Potions Master](#chapter-7--the-potions-master)
 8. [Flying class and the Seeker](#chapter-8--flying-class-and-the-seeker)
-9. [The midnight duel and the three-headed dog](#chapter-9--the-midnight-duel-and-the-three-headed-dog)
-10. [The troll and the start of the friendship](#chapter-10--the-troll-and-the-start-of-the-friendship)
-11. [The first Quidditch match](#chapter-11--the-first-quidditch-match)
-12. [Nicolas Flamel and the Stone](#chapter-12--nicolas-flamel-and-the-stone)
-13. [Christmas and the Mirror of Erised](#chapter-13--christmas-and-the-mirror-of-erised)
-14. [The dragon](#chapter-14--the-dragon)
-15. [Detention in the Forbidden Forest](#chapter-15--detention-in-the-forbidden-forest)
+9. [The Midnight Duel](#chapter-9--the-midnight-duel)
+10. [Hallowe’en](#chapter-10--halloween)
+11. [Quidditch](#chapter-11--quidditch)
+12. [Nicolas Flamel](#chapter-12--nicolas-flamel)
+13. [The Mirror of Erised](#chapter-13--the-mirror-of-erised)
+14. [Norbert the Norwegian Ridgeback](#chapter-14--norbert-the-norwegian-ridgeback)
+15. [The Forbidden Forest](#chapter-15--the-forbidden-forest)
 16. [They decide to protect the Stone](#chapter-16--they-decide-to-protect-the-stone)
-17. [The underground challenges](#chapter-17--the-underground-challenges)
-18. [Quirrell, not Snape](#chapter-18--quirrell-not-snape)
+17. [Through the Trapdoor](#chapter-17--through-the-trapdoor)
+18. [The Man with Two Faces](#chapter-18--the-man-with-two-faces)
 19. [The hospital wing and the explanation](#chapter-19--the-hospital-wing-and-the-explanation)
 20. [The House Cup](#chapter-20--the-house-cup)
 
@@ -74,7 +74,7 @@ Muggle places look like early-1990s Britain. Wizard places are stone, candleligh
 
 ---
 
-## Chapter 1 — Baby Harry is left on a doorstep
+## Chapter 1 — The Boy Who Lived
 
 The street dies, the wrong family is judged, the night Voldemort fell is told, and the baby is left alone when the lamps return.
 
@@ -533,7 +533,7 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 - **Dialogue:** **Vernon:** "Who's there? I've got a rifle!"
 ---
 
-## Chapter 3 — Hagrid tells Harry he is a wizard
+## Chapter 3 — The Keeper of the Keys
 
 The door bursts, Vernon denies magic, the truth about Harry’s parents lands, and Hagrid takes him away.
 
@@ -993,7 +993,7 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 ---
 
-## Chapter 5 — The train to Hogwarts
+## Chapter 5 — The Journey from Platform Nine and Three-Quarters
 
 The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the line. First years have not been Sorted. They wear travel clothes. House colors start at the Sorting. The train is scarlet. That scarlet is the engine, not a robe.
 
@@ -1222,7 +1222,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Dialogue:** **Hagrid:** "All right, Harry? Welcome to Hogwarts."
 ---
 
-## Chapter 6 — Arrival and the Sorting
+## Chapter 6 — The Sorting Hat
 
 Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 
@@ -1454,7 +1454,7 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 
 ---
 
-## Chapter 7 — First classes, and Snape’s hostility
+## Chapter 7 — The Potions Master
 
 Lost in the castle, small magics, the dungeon, and points taken.
 
@@ -1914,7 +1914,7 @@ Brooms, the theft, the dive, and a place on the team.
 
 ---
 
-## Chapter 9 — The midnight duel and the three-headed dog
+## Chapter 9 — The Midnight Duel
 
 A trap, a chase, Fluffy, and the memory of a package.
 
@@ -2143,7 +2143,7 @@ A trap, a chase, Fluffy, and the memory of a package.
 - **Dialogue:** No dialogue.
 ---
 
-## Chapter 10 — The troll and the start of the friendship
+## Chapter 10 — Hallowe’en
 
 An insult, a feast, a troll, a lie, and three friends.
 
@@ -2373,7 +2373,7 @@ An insult, a feast, a troll, a lie, and three friends.
 
 ---
 
-## Chapter 11 — The first Quidditch match
+## Chapter 11 — Quidditch
 
 Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean to say.
 
@@ -2603,7 +2603,7 @@ Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean
 
 ---
 
-## Chapter 12 — Nicolas Flamel and the Stone
+## Chapter 12 — Nicolas Flamel
 
 Searching, the book, what the Stone does, and the wrong man watched.
 
@@ -2833,7 +2833,7 @@ Searching, the book, what the Stone does, and the wrong man watched.
 
 ---
 
-## Chapter 13 — Christmas and the Mirror of Erised
+## Chapter 13 — The Mirror of Erised
 
 An empty castle, a father’s cloak, a mirror, and a warning.
 
@@ -3062,7 +3062,7 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Dialogue:** **Dumbledore:** "A dream is a poor place to live, Harry. Stay out here, with the people who can answer when you speak." **Harry:** "Yes, Professor."
 ---
 
-## Chapter 14 — The dragon
+## Chapter 14 — Norbert the Norwegian Ridgeback
 
 An illegal egg, a bite, a spy, a midnight handoff, and detention.
 
@@ -3292,7 +3292,7 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 
 ---
 
-## Chapter 15 — Detention in the Forbidden Forest
+## Chapter 15 — The Forbidden Forest
 
 Lanterns, a dead unicorn, a hood, a centaur, and the reason.
 
@@ -3751,7 +3751,7 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 - **Dialogue:** **Ron:** "He's awake." **Hermione:** "Then play, Harry. Play now."
 ---
 
-## Chapter 17 — The underground challenges
+## Chapter 17 — Through the Trapdoor
 
 A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a logic problem with only one swallow forward.
 
@@ -3981,7 +3981,7 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 
 ---
 
-## Chapter 18 — Quirrell, not Snape
+## Chapter 18 — The Man with Two Faces
 
 The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 

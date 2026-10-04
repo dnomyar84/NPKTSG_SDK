@@ -4,7 +4,7 @@ window.BOOK = {
   "chapters": [
     {
       "n": 1,
-      "title": "Baby Harry is left on a doorstep",
+      "title": "The Boy Who Lived",
       "pageTitles": [
         {
           "n": 1,
@@ -676,7 +676,7 @@ window.BOOK = {
     },
     {
       "n": 3,
-      "title": "Hagrid tells Harry he is a wizard",
+      "title": "The Keeper of the Keys",
       "pageTitles": [
         {
           "n": 1,
@@ -1415,7 +1415,7 @@ window.BOOK = {
     },
     {
       "n": 5,
-      "title": "The train to Hogwarts",
+      "title": "The Journey from Platform Nine and Three-Quarters",
       "pageTitles": [
         {
           "n": 1,
@@ -1797,7 +1797,7 @@ window.BOOK = {
     },
     {
       "n": 6,
-      "title": "Arrival and the Sorting",
+      "title": "The Sorting Hat",
       "pageTitles": [
         {
           "n": 1,
@@ -2177,7 +2177,7 @@ window.BOOK = {
     },
     {
       "n": 7,
-      "title": "First classes, and Snape’s hostility",
+      "title": "The Potions Master",
       "pageTitles": [
         {
           "n": 1,
@@ -2968,7 +2968,7 @@ window.BOOK = {
     },
     {
       "n": 9,
-      "title": "The midnight duel and the three-headed dog",
+      "title": "The Midnight Duel",
       "pageTitles": [
         {
           "n": 1,
@@ -3333,7 +3333,7 @@ window.BOOK = {
     },
     {
       "n": 10,
-      "title": "The troll and the start of the friendship",
+      "title": "Hallowe’en",
       "pageTitles": [
         {
           "n": 1,
@@ -3688,7 +3688,7 @@ window.BOOK = {
     },
     {
       "n": 11,
-      "title": "The first Quidditch match",
+      "title": "Quidditch",
       "pageTitles": [
         {
           "n": 1,
@@ -4048,7 +4048,7 @@ window.BOOK = {
     },
     {
       "n": 12,
-      "title": "Nicolas Flamel and the Stone",
+      "title": "Nicolas Flamel",
       "pageTitles": [
         {
           "n": 1,
@@ -4391,7 +4391,7 @@ window.BOOK = {
     },
     {
       "n": 13,
-      "title": "Christmas and the Mirror of Erised",
+      "title": "The Mirror of Erised",
       "pageTitles": [
         {
           "n": 1,
@@ -4737,7 +4737,7 @@ window.BOOK = {
     },
     {
       "n": 14,
-      "title": "The dragon",
+      "title": "Norbert the Norwegian Ridgeback",
       "pageTitles": [
         {
           "n": 1,
@@ -5111,7 +5111,7 @@ window.BOOK = {
     },
     {
       "n": 15,
-      "title": "Detention in the Forbidden Forest",
+      "title": "The Forbidden Forest",
       "pageTitles": [
         {
           "n": 1,
@@ -5842,7 +5842,7 @@ window.BOOK = {
     },
     {
       "n": 17,
-      "title": "The underground challenges",
+      "title": "Through the Trapdoor",
       "pageTitles": [
         {
           "n": 1,
@@ -6234,7 +6234,7 @@ window.BOOK = {
     },
     {
       "n": 18,
-      "title": "Quirrell, not Snape",
+      "title": "The Man with Two Faces",
       "pageTitles": [
         {
           "n": 1,
