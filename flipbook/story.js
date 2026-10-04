@@ -5455,6 +5455,374 @@ window.BOOK = {
           "art": "art/c16-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 17,
+      "title": "The underground challenges",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Fluffy and the snare"
+        },
+        {
+          "n": 2,
+          "title": "The keys"
+        },
+        {
+          "n": 3,
+          "title": "The chessboard"
+        },
+        {
+          "n": 4,
+          "title": "Logic and goodbye"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The third-floor room at night. Moonlight from a high slit. A huge brown three-headed dog fills a wooden trapdoor, collars on, drooling. The left head is heavy-eyed, the middle head still suspicious, the right head yawning. Harry plays a small wooden flute, badly. Hermione and Ron press in behind him with lit wands.",
+          "expressions": "Harry looks at the heads, concentrated, a boy who will not stop. The middle head looks at him, then glassy. Hermione watches the paws. Ron looks at the teeth and stays.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It's meant to be a lullaby. Please work."
+            },
+            {
+              "who": "Hermione",
+              "line": "One head is down. Don't stop."
+            }
+          ],
+          "art": "art/c17-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The same stone room. All three heads are asleep, tongues out, ridiculous and lethal. Hermione lifts the trapdoor ring. Ron sits on the edge, legs swinging in. Harry stands with the flute in his belt and one look back. Below them is a dark square and no ladder.",
+          "expressions": "Hermione looks down, swallows, and goes. Ron looks at Harry with a crooked brave grin. Harry looks at the sleeping heads, a flash of thanks, then he jumps. Fluffy looks at nothing.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "No ladder. Brilliant."
+            },
+            {
+              "who": "Harry",
+              "line": "Jump."
+            }
+          ],
+          "art": "art/c17-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "They have landed waist-deep in pale vines under the trapdoor. A small square of moonlight is far above. Wand-light. The plants are soft. For one moment the fall was the danger and the landing feels kind. The flute is still in Harry's belt.",
+          "expressions": "Harry looks at Ron with a breathless laugh, glasses askew. Ron looks at the leaves, pleased. Hermione looks at the vines, and her laugh dies first. She recognizes them.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Soft landing. We are the luckiest idiots in Hogwarts."
+            }
+          ],
+          "art": "art/c17-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The pit wakes. Pale green loops cinch. Ron is yanked down to his chest, a vine near his mouth, one arm up. Harry has both hands on that wrist and is pulled too. Hermione is higher on a thicker stem, wand free. The softness was a mouth.",
+          "expressions": "Ron looks up at Harry, panic, unable to shout. Harry looks at the disappearing shoulder, pulling. Hermione looks at the plant, afraid and angry, thinking hard. The plant has no face. Its grip is the expression.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "It's got me! Harry, it's pulling me under!"
+            }
+          ],
+          "art": "art/c17-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Still the stone pit, dark rock, no sky. Hermione has the answer. Her mouth is open on the name and her wand is already turning, the brightest thing in the dark. Harry strains, still pulling. Ron's fingers slip in his.",
+          "expressions": "Hermione looks at the vines, fierce and certain, a command in her eyes: stop fighting, I am here. Harry looks at her, trusting. Ron's panic pauses half a second.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Devil's Snare! Devil's Snare hates light and warmth. Stop struggling, Ron!"
+            }
+          ],
+          "art": "art/c17-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "The edge of the pit, a stone passage beginning. Fire bursts from Hermione's wand. The vines whip back like burned fingers. Ron surges up onto the lip, coughing, leaves in his red hair. Harry pulls him. Smoke. The plant sulks behind them. The flute is still in Harry's belt.",
+          "expressions": "Hermione looks at the retreating plant, shaken and proud. Ron looks at her, coughing, grateful. Harry looks at Ron to be sure, then at Hermione, a nod that is a thank-you.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Incendio!"
+            },
+            {
+              "who": "Ron",
+              "line": "I hate that plant. I hate it politely."
+            }
+          ],
+          "art": "art/c17-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "The next chamber is tall and full of motion. Hundreds of winged metal keys whirl, gold and silver. The far door is locked, a keyhole in old wood. A slim flying broom leans by the near wall, waiting for a Seeker. Leaves are still in their hair.",
+          "expressions": "Harry looks at the broom, the pitch already in his hands. Ron ducks a key. Hermione looks at the lock, then at Harry. She knows this one is his.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Winged keys. The door is locked. One of them fits the keyhole."
+            }
+          ],
+          "art": "art/c17-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "The near wall. Harry is astride the broom before the plan is spoken. The flock rustles above them, interested. There is nothing for anyone to hand him.",
+          "expressions": "Harry looks at the lock, then at the flock, calm the way he is only in the air. Hermione looks at him, trust, a half-gesture of be careful. Ron leaves a thumbs-up up anyway.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "That's a broom. This room was built for a Seeker."
+            }
+          ],
+          "art": "art/c17-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "He kicks off and the room becomes sky. Keys dive. He banks. The flock turns like a school of fish. Ron and Hermione are two upturned faces below, shouting clues he half hears. Torches. The locked door is small behind the whirl.",
+          "expressions": "Harry looks through the flock, searching, not swatting, Seeker-eyes. Hermione tracks one old key. Ron flinches for him.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Left! No, your other left!"
+            }
+          ],
+          "art": "art/c17-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Mid-air, torchlight on silver. Among the bright new keys, one heavy old silver key with a bent wing circles near the door it belongs to. Harry banks hard toward it. Far below, Hermione's arm is straight. It knows it has been seen and darts.",
+          "expressions": "Harry's focus narrows to the bent wing. The key, if metal can panic, panics. Hermione's face is a teammate's: a fierce go.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "The old one! Silver, with the bent wing. That's the key!"
+            }
+          ],
+          "art": "art/c17-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Close to the far wall. The catch is not clean. The old key rakes his palm, wings beating against his knuckles. He closes his fist anyway. Blood and silver. He pulls up before the stone. Other keys scatter down the torchlit passage.",
+          "expressions": "He looks at his fist, pained and certain he has the right one. The key does not stop fighting. He looks like the boy who caught the Remembrall, older by a year of Saturdays.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Got you. Stop cutting me."
+            }
+          ],
+          "art": "art/c17-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The doorway between rooms. Harry is down with the key, the door swinging. The flock, cheated, dives as one. Hermione yanks them through. Keys ping toward the wood. Ahead is a cold quiet.",
+          "expressions": "Harry looks at his cut hand, then at them, a shaky smile. Hermione looks at the cut and already at the next room. Ron looks at the door, giddy to be unpecked.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Through, before the flock comes back."
+            }
+          ],
+          "art": "art/c17-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "A cold hall. The squares are the floor. The pieces are taller than the children, carved stone, and they turn their heads as the three enter. A king. A queen with a blank, terrible face. The far door is beyond the last rank. Torches. No windows.",
+          "expressions": "Ron looks at the board, and for the first time tonight he looks at home. The fear is still there. The understanding is bigger. Harry sees it. Hermione looks at the queen, wary.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Wizard's chess. Life size. Don't step on a square until I say so."
+            }
+          ],
+          "art": "art/c17-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Mid-board, torches, huge pieces making aisles. Ron steps onto the squares without flinching and points his friends to their places. The fever and the jokes are gone. He is a commander. The pieces allow it.",
+          "expressions": "Ron looks at the whole board, not at his fear. Calm, bright, the best of him. Harry will go where he is told. Hermione understands she is not the clever one in this room.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Harry, you're a bishop. Diagonals only. Hermione, you're the castle, the rook, straight lines. I'll take the knight."
+            }
+          ],
+          "art": "art/c17-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "They are in place among the giants. Harry stands on a bishop's square. Hermione stands by a rook. Ron takes the stone knight, the carved horse stirring, dust at its base. The black pieces wait. The game can start.",
+          "expressions": "Ron looks across at the far side, already moves ahead. Harry waits for the order. Hermione looks along her line, hating not knowing the plan and trusting it anyway.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "White plays. Do exactly as I call it. These pieces do not take prisoners."
+            }
+          ],
+          "art": "art/c17-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The game is violent. A knight and a rook smash each other apart. Dust rolls. Stone chips fly. A carved head cracks. This is not a classroom board. The far door is still shut.",
+          "expressions": "Ron calculates, and winces when a piece dies. He feels it. Hermione is determined, not screaming. Harry looks for the next order. The black queen's blank face is turning toward Ron's knight.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Hermione, two squares straight. Harry, diagonal, now. Don't you flinch."
+            }
+          ],
+          "art": "art/c17-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Quiet inside the noise. Ron rides the white knight into the square where the black queen can take him. Her stone sword is raised. Her face is blank. The far door is close now. Harry and Hermione are squares away, realizing too late.",
+          "expressions": "Ron looks back with a small, serious smile. Love and terror and pride. A go-on is already in it. Harry's mouth is open on no. Hermione understands a second later, horror.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "There's only one win. The queen has to take me. Harry, when she does, you move on the king. Checkmate."
+            },
+            {
+              "who": "Harry",
+              "line": "Ron, no."
+            },
+            {
+              "who": "Ron",
+              "line": "That's an order, bishop."
+            }
+          ],
+          "art": "art/c17-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The board after the strike. Ron lies on the stones, red hair fanned, eyes closed, a hand open toward the far door. He is breathing. He is out. A small white pawn rests near his fingers. Harry stands over him. Hermione runs in and stops, because the game is not over until they move. The wooden door waits.",
+          "expressions": "Ron's face is slack, a ghost of the smile, unconscious. Harry looks at him, wrecked, then at the door, because Ron already told him. Hermione blinks tears away. Grief and obedience.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Go on. Both of you. Checkmate, then the door. I'm all right. Go."
+            }
+          ],
+          "art": "art/c17-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The next room. A mountain troll lies on its back, snoring, club loose, tongue out. It is a solved problem. Hermione steps past its hand without looking twice. Harry follows, chess-dust still on him, one glance back toward the board. A door is beyond. No fight.",
+          "expressions": "Hermione looks at the next door. She will not spend Ron's move on a fainted troll. Harry almost laughs, grim, then follows her back. The troll's face is slack and ignored.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "The troll is already down. We don't stop for a solved room."
+            }
+          ],
+          "art": "art/c17-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "A small cold chamber. A table. Seven bottles, different sizes, stoppers, liquids: clear, amber, gold, black, ruby, pale, and one tiny vial. No labels. Two doors, one back and one forward. No monster. No Ron. A brain.",
+          "expressions": "Hermione looks at the bottles, the world narrowing to logic. Harry looks at her. He knows this is hers the way the keys were his. Relieved, and afraid of that relief.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Seven bottles, and a logic riddle. This is Professor Snape's idea of a welcome."
+            }
+          ],
+          "art": "art/c17-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "Close on the table. Her eyes move. Her lips shape the puzzle. A finger lifts, counting bottles without touching them. Harry does not interrupt. The evening's bruises are on both of them, and she sets them aside to think.",
+          "expressions": "She is utterly concentrated, the eager classroom girl become something quieter and stronger. A flicker of fear she will be slow. Harry's face says take the time. Ron bought it.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Poison, wine, and two that are safe. Don't touch a cork until I say."
+            }
+          ],
+          "art": "art/c17-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Her hands finally move. Of the seven bottles she touches two: one small, for the way back, enough for one swallow, and one smaller and bright, for the way on, enough for one. The other five stay where they are. The puzzle is solved in the placement of her fingers.",
+          "expressions": "Her mouth and eyes are certain, and sad, because the amounts mean a goodbye. Harry has understood. They look at the two bottles.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "This small bottle goes forward. This one goes back. A swallow in each. The other five will kill you."
+            }
+          ],
+          "art": "art/c17-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The chamber, the iron door behind Harry. She presses the tiny forward bottle into his cut palm, careful of the blood. She keeps the other. The flute is still absurd in his belt. Two children at the end of the trio.",
+          "expressions": "Hermione looks at him, fierce love and fear. She hates this part, and she is practical about the cut. Harry wants to argue and does not. Gratitude. His jaw is set. Neither of them calls it a goodbye.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "I am not the one who should walk through that door. You are. I'll take the way back to Ron."
+            },
+            {
+              "who": "Harry",
+              "line": "Hermione."
+            },
+            {
+              "who": "Hermione",
+              "line": "Drink. And don't you dare waste a drop."
+            }
+          ],
+          "art": "art/c17-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The threshold. He drinks the swallow. Cold fire. The iron door is open on black, and it is beginning to close. Through the narrowing gap, Hermione's face, one hand raised, not quite a wave, the other bottle clutched. Bottles and torchlight behind her. Ahead of him, darkness. Then he is alone.",
+          "expressions": "Hermione looks at him, brave, eyes bright: stay alive. Harry looks back, a small nod. When the door shuts, the nod is unfinished. The year of three becomes one.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "We will be behind you as soon as Ron can stand."
+            },
+            {
+              "who": "Harry",
+              "line": "I know."
+            }
+          ],
+          "art": "art/c17-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
