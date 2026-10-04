@@ -4422,6 +4422,260 @@ window.BOOK = {
           "art": "art/c13-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 14,
+      "title": "The dragon",
+      "pageTitles": [
+        {"n": 1, "title": "The egg"},
+        {"n": 2, "title": "The problem grows"},
+        {"n": 3, "title": "The plan"},
+        {"n": 4, "title": "Caught"}
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The hut at dusk, forest edge dark, grounds muddy and green. Hagrid fills the doorway, moleskin coat half off, smile too big, one hand behind his back. Fang’s tail thumps. Harry, Ron, and Hermione are on the step with a teapot excuse.",
+          "expressions": "Hagrid looks at them, bursting, failing at casual. Harry looks at the hidden hand, a smile starting. Hermione looks at Hagrid’s eyes, wary. Ron looks at Fang, then at Hagrid, curious. Fang looks at everyone, pure dog.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Come in, come in. Don't mind Fang. I've a surprise."}
+          ],
+          "art": "art/c14-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The fire is banked high. In the coals sits a large black egg, leathery, bigger than a pumpkin, rocking from the heat. Hagrid’s hands are spread over it. A deck of cards lies on the table, a losing hand still out. The children crowd behind him, faces lit orange. Fang is kept back by a chair.",
+          "expressions": "Hagrid looks at the egg, besotted. Harry looks at it, uneasy wonder. Ron looks at it, a grin he knows he should not have. Hermione looks at the cards, then the egg, the legal problem already on her face.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Won it off a stranger, cards, down the pub. A dragon egg. Norwegian Ridgeback, if I'm any judge."}
+          ],
+          "art": "art/c14-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "The hearth, tight. Hermione has both palms up. Hagrid lifts the egg in a folded blanket, as if its being unhatched is a defense. Ash is on his beard. Harry and Ron stand between them.",
+          "expressions": "Hermione looks at Hagrid, firm, worried for him more than for the rule. Hagrid looks at the egg, not at her, defensive and dreamy. Harry looks from one to the other. Ron’s grin is losing to sense.",
+          "dialogue": [
+            {"who": "Hermione", "line": "Dragon breeding is against wizard law, Hagrid. The Ministry would send you to Azkaban."},
+            {"who": "Hagrid", "line": "It's only an egg. An egg isn't a dragon yet."}
+          ],
+          "art": "art/c14-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The hut has gone quiet except the fire. A crack runs the black shell and a chip falls into the coals. All four of them lean in so fast their heads nearly knock. Fang’s ears are up.",
+          "expressions": "Hagrid looks at the crack, breathless, joy. Hermione looks at it, dread and awe fighting. Harry looks at it, wonder winning for one second. Ron looks at it, mouth open.",
+          "dialogue": [
+            {"who": "Ron", "line": "It's cracking."}
+          ],
+          "art": "art/c14-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The hearth is a nursery it should not be. A baby dragon’s head pushes from the shell, small, slick, spines crumpled, a thread of smoke from the nostrils. Hagrid’s hands are a cradle. Shell pieces shine in the firelight. The three children stand a step back.",
+          "expressions": "Norbert looks at Hagrid, imprinting. Hagrid looks at him, wrecked with love, crying. Harry looks at the dragon, soft despite himself. Hermione sees the love and it complicates her. Ron looks at the claws, delighted and doomed.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Hello, Norbert. Who's a lovely little Ridgeback, then?"}
+          ],
+          "art": "art/c14-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "The dragon and Hagrid are a warm blur. In the sharp foreground, three faces turn toward each other. The fire pops. The forest presses the window.",
+          "expressions": "They look at one another, the same thought. Harry looks worried. Hermione looks resolute. Ron looks like he wants to laugh and hide.",
+          "dialogue": [
+            {"who": "Hermione", "line": "This is a disaster."},
+            {"who": "Harry", "line": "We can't leave him in the hut."}
+          ],
+          "art": "art/c14-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Days later the hut is cramped, beams scorched, daylight through a window. Norbert is the size of a large dog, black-bronze, pleased, smoke at his nose, beside a tipped bucket of meat. Ron kneels with a bitten hand held up, the skin an angry green. Harry stares. Hermione holds a plain bottle. Hagrid points at the dragon. Fang hides under the bench.",
+          "expressions": "Ron looks at his hand, sick. Norbert looks pleased with himself. Hagrid looks guilty and still defends the dragon. Harry looks at the green swelling, alarm. Hermione looks at the bite, clinical and furious.",
+          "dialogue": [
+            {"who": "Ron", "line": "He bit me! My hand's going green."},
+            {"who": "Hagrid", "line": "He's teething. Baby dragons do that."}
+          ],
+          "art": "art/c14-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Daylight in a hut of blankets and bones. Hagrid presses his forehead to Norbert’s snout, crooning. The dragon’s eyes are half-shut, smug. Hermione stands behind him, arms folded, ignored. Harry looks on. Ron holds up a huge plain white bandage.",
+          "expressions": "Hagrid looks at Norbert, besotted, unable to hear anyone. Hermione looks at his back, frustrated and caring. Harry looks at the bandage, the fun over. Ron looks at his hand, respect replaced by pain.",
+          "dialogue": [
+            {"who": "Hermione", "line": "Norbert has to leave. Tonight, if we can manage it."},
+            {"who": "Hagrid", "line": "He stays. He's family now."}
+          ],
+          "art": "art/c14-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Dusk outside the hut. Draco’s pale face is pressed to a small high window, platinum hair, muddy robe hem, a delighted poisonous smile. Inside, soft and out of focus, a dragon’s wing and three children who have not seen him.",
+          "expressions": "Draco looks in, triumph, the smile of a boy who has been waiting for a real rule to break. No one inside looks at the window.",
+          "dialogue": [],
+          "art": "art/c14-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Nightfall on the grounds. Draco runs across the dark lawn toward the lit castle, robes gathered, looking back once. The hut is one orange window behind him. Forest edge. No teachers outside.",
+          "expressions": "Draco looks back, pleased and a little breathless, already composing the telling. Cold satisfaction.",
+          "dialogue": [
+            {"who": "Draco", "line": "Professor McGonagall is going to love a dragon in a wooden hut."}
+          ],
+          "art": "art/c14-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The hospital wing at night: stone, white curtains, moonlight, simple beds. Ron lies greenish and sweating, a bandaged hand on the pillow, grabbing Harry’s sleeve. Hermione holds a blank sheet and a quill. A healer in a white apron walks away with a bottle, not hearing them.",
+          "expressions": "Ron looks at Harry, fever-bright, serious. Harry looks at the hand, then at Ron, agreeing. Hermione looks determined. The healer trusts the children less than she should, and does not hear the plot.",
+          "dialogue": [
+            {"who": "Ron", "line": "Get rid of Norbert tonight. My brother Charlie works with dragons in Romania. Write to him."}
+          ],
+          "art": "art/c14-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "A castle window at night, stars, the forest below. Hermione has just let a brown owl go. A small blank note is tied to the owl’s leg as it lifts from the sill. Harry stands beside her in a red-and-gold scarf, watching it leave.",
+          "expressions": "Hermione looks at the owl, focused, a little proud of the plan. Harry looks at the departing owl, hope and nerves. The owl looks at the night, businesslike.",
+          "dialogue": [
+            {"who": "Hermione", "line": "Charlie Weasley. If his friends can come, the Astronomy Tower at midnight. Go."}
+          ],
+          "art": "art/c14-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Gryffindor common room in daytime sun, red curtains, a fire, no crest on the mantel. Hermione sits with a letter that is only a pencil sketch of a stone tower. Ron, pale, a small bandage, leans over her shoulder. Harry stands with a hand near the chair. Other students are blurred and not reading.",
+          "expressions": "Hermione looks at the instructions, relieved and already scheduling the risks. Ron looks fond, a weak grin, a bit left out. Harry looks uneasy and ready.",
+          "dialogue": [
+            {"who": "Hermione", "line": "Midnight. They'll take the crate. We have to get Norbert up to the Astronomy Tower under the Invisibility Cloak."}
+          ],
+          "art": "art/c14-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "A long moonlit corridor, armor and torches. A silver cloak covers the children and a wooden crate badly. A black-bronze dragon tail smokes out the back, and a gold eye shows at a gap. Ron is at the front, red hair and a bandaged hand, sweating. Harry’s glasses peek under the hem. Hermione’s hair escapes the other side.",
+          "expressions": "Harry looks at the tail, grimacing. Hermione looks ahead. Ron looks stubborn through the pain. Norbert’s eye looks furious. They look like children moving a problem.",
+          "dialogue": [
+            {"who": "Harry", "line": "The Cloak won't cover the tail. Walk faster."}
+          ],
+          "art": "art/c14-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "A moonlit corner near tower stairs, a statue. Draco steps out, arms folded, platinum hair, dark robes, looking at a smoking dragon tail in a crate. Harry is half covered by a slipping silver cloak. Hermione glares. Ron, pale, a bandaged hand, holds the crate.",
+          "expressions": "Draco looks victorious, the mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco with contempt. Ron looks from the tail to Draco, still determined to finish.",
+          "dialogue": [
+            {"who": "Draco", "line": "A dragon. I'm telling Professor McGonagall, Potter. Enjoy being expelled."}
+          ],
+          "art": "art/c14-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The moving stairwell at night, tall windows, several staircases in motion. Draco is carried away on a swinging stair, robes flaring, one hand still reaching. On the landing, Harry, Hermione, and Ron stumble with the smoking crate. The silver cloak lies on the floor.",
+          "expressions": "Draco looks back, victory cracking into rage. Harry looks at the gap, a breath of thanks, not a smile. Hermione looks up the next stairs. Ron looks dizzy and still moving.",
+          "dialogue": [
+            {"who": "Draco", "line": "The staircase moved. You cheat, Potter!"}
+          ],
+          "art": "art/c14-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "The open top of the Astronomy Tower, stars, a long drop, dark forest below. Two riders on brooms, faces wrapped in scarves and goggles, grab a wooden crate. A gold dragon eye shows at a knothole. On the battlements Harry holds the snapping silver cloak, Hermione helps lift, and Ron sits against the wall with a bandage.",
+          "expressions": "The riders look at the crate, professional. Harry looks grateful, wind in his eyes. Hermione checks the lift. Ron watches with a weak proud grin.",
+          "dialogue": [
+            {"who": "Rider", "line": "Charlie Weasley sent us. Crate, now, before the Ridgeback sets the tower alight."}
+          ],
+          "art": "art/c14-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The tower under a huge moon. The crate lifts away on two broomsticks, small against the sky, one gold eye shining through a slat. Harry, Hermione, and Ron stand on the battlements looking up. The silver cloak is around Harry’s arm. The tower is suddenly empty and windy.",
+          "expressions": "Harry looks up, relief and a pang. Hermione’s shoulders drop, the plan completed. Ron smiles, then winces. The night looks large.",
+          "dialogue": [
+            {"who": "Harry", "line": "Goodbye, Norbert."}
+          ],
+          "art": "art/c14-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The bottom of a tower stair at night. McGonagall stands like a closed gate, emerald robe, tall green hat, spectacles, a lantern. Draco is at her side, platinum hair, chin up. Harry, Hermione, and Ron stop short. Harry has the silver cloak over his arm.",
+          "expressions": "McGonagall looks at them, disappointed more than loud. Draco looks smug, waiting for the explosion. Harry looks at her, the excuse dying. Hermione looks at the floor. Ron looks down, sick and caught.",
+          "dialogue": [
+            {"who": "McGonagall", "line": "Out of bed. All of you. Mr Malfoy has been very informative."},
+            {"who": "Draco", "line": "They're smuggling a dragon, Professor."}
+          ],
+          "art": "art/c14-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Lamp light on a stone landing. Filch, stringy gray hair, shabby coat, holds up the shimmering silver cloak. A skinny gray cat sits at his boots. Harry in pajamas reaches and then stops. McGonagall sees the cloak. Draco watches, curious.",
+          "expressions": "Filch looks triumphant, sour joy. Harry looks at the cloak, stricken, because it was his father’s. McGonagall looks sad under the discipline. The cat looks at Harry, unblinking.",
+          "dialogue": [
+            {"who": "Filch", "line": "Dropped this, did we? An Invisibility Cloak. I'll be keeping that."}
+          ],
+          "art": "art/c14-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "The same landing, one lamp. McGonagall faces four children in a line: Harry in a plain green sweater, Hermione, Ron with a small bandage and a tiny grim smile, and Draco whose smirk is dying. Filch grins behind them, still holding the silver cloak.",
+          "expressions": "McGonagall looks at Draco last, cool and fair. Draco looks offended as the triumph collapses. Harry sees it and does not gloat. Hermione looks straight ahead, accepting. Ron looks ready to faint.",
+          "dialogue": [
+            {"who": "McGonagall", "line": "Detention. All four of you. Mr Malfoy, you were out of bed as well. Fair is fair."}
+          ],
+          "art": "art/c14-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Lamp light, a close wide view. Draco’s smile is gone, mouth open on a protest he swallows, a flush on the pale face, hands empty. McGonagall’s emerald sleeve and spectacles fill the left edge, severe.",
+          "expressions": "Draco looks younger, humiliated, and mean. The smugness is dead. McGonagall does not soften.",
+          "dialogue": [
+            {"who": "Draco", "line": "Professor, I was helping the school."},
+            {"who": "McGonagall", "line": "You were prowling, Mr Malfoy. Detention."}
+          ],
+          "art": "art/c14-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Late at night the common room goes quiet. Harry, Hermione, and Ron step through the portrait hole. Students look up from the fire, some with folded arms. Two red-haired twins are unsmiling. A round-faced boy by the fire looks sad, a toad in his lap. The painted woman in the round frame swings shut behind them.",
+          "expressions": "The room looks disappointed. Hermione’s chin is up; she will not cry here. Ron looks ill and ashamed. Harry looks at the floor. Neville looks sympathetic, which helps and hurts.",
+          "dialogue": [
+            {"who": "Fred", "line": "Fifty points, was it? Each? Brilliant work, little brother."}
+          ],
+          "art": "art/c14-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The boys’ dormitory, moonlight, four-posters. Harry lies on his back, eyes open, glasses on the nightstand, one hand on the empty blanket where the cloak used to be folded. Ron sleeps in the next bed, red hair, a bandaged hand. A white owl sits awake at the window. Another boy sleeps farther back.",
+          "expressions": "Harry looks at the ceiling, hollow and guilty. Hedwig looks at him, steady. Ron’s face is slack with sleep, not available. The room is quiet on purpose.",
+          "dialogue": [],
+          "art": "art/c14-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
