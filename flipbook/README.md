@@ -1,6 +1,6 @@
 # Harry Potter and the Philosopher’s Stone
 
-A flip book of the panel script. Each scene takes the pages it needs. Every page has 6 panels.
+A flip book of the panel script. Twenty-one chapters, 88 scenes, and 165 pages. Every page has 6 panels. A scene is one place and one stretch of time, and it takes more than one page when the walk-in and the action need the room. Pictures may be missing or wrong until each chapter's art is added.
 
 Chapters in the book:
 
