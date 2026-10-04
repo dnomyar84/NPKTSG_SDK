@@ -4,15 +4,15 @@ Reference storyboard for the first film, told in original wording. It is a readi
 
 How people address each other, and which funny, embarrassing, and disgusting beats must be kept, is in [address-and-famous-beats.md](address-and-famous-beats.md). Later dialogue should follow that note. This storyboard is not rewritten there.
 
-Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, a visible link when someone casts a spell, and a moving staircase as one rigid flight hinged at the bottom. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
+Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, a visible link when someone casts a spell, a sequence of panels whenever magic is the point, and a moving staircase as one rigid flight hinged at the bottom. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
 
 - **21 chapters**. Where a comic chapter matches a novel chapter, it uses the novel name. First Lessons is our name, because that chapter was split out of the classes.
-- **4 pages** in every chapter.
-- **6 panels** on every page.
-- **504 panels** in all.
+- A full page holds **6 panels**. When a page is full, the chapter adds another page. The last page of a chapter may be short.
+- **135 pages** and **762 panels** in the flipbook. 121 of the new panels are magic sequences. 137 are walk-ins: exterior, interior, then what people were doing before anyone speaks.
+- New panels use an `M` code, are marked not drawn, and sit in reading order beside the picture they extend. The paginated page titles live in `flipbook/story.js`.
 - A code such as `C1-P2-P6` names that picture and the file `art/c1-p2-p6.jpg`. Codes stay with the picture. Inserting a chapter does not rename them, so later chapters still contain `C8-` and `C12-` codes. A panel marked not drawn has no file and must not reuse a jpg.
 
-Read each page left to right, top to bottom, in a grid of three columns and two rows. Panel 6 is always the bottom-right page-turn. The last panel of page 4 closes the chapter.
+Read a full page left to right, top to bottom, in a grid of three columns and two rows. A full page has 6 panels. Magic is a sequence of panels, not one picture of the result. A new place is walked into before the first line of dialogue.
 
 Each panel has:
 
@@ -90,6 +90,16 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Faces:** The cat stares down the street, ears forward, perfectly still, waiting.
 - **Dialogue:** No dialogue.
 
+#### M1-001 — not drawn
+
+- **Beat:** Dumbledore aims the Deluminator.
+- **Image:** Privet Drive at night, wet pavement, fog at knee height. Dumbledore stands at the left edge. The silver lighter-shaped Deluminator is in his hand, aimed at the nearest street lamp. No ribbon yet. That lamp is still lit. Lamps ahead are lit. His wand stays unused. A thin brown tabby watches from the wall.
+- **Setting:** Privet Drive at night, wet pavement, fog at knee height. Dumbledore stands at the left edge. The silver lighter-shaped Deluminator is in his hand, aimed at the nearest street lamp. No ribbon yet. That lamp is still lit. Lamps ahead are lit. His wand stays unused. A thin brown tabby watches from the wall.
+- **Who:** Privet Drive at night, wet pavement, fog at knee height. Dumbledore stands at the left edge. The silver lighter-shaped Deluminator is in his hand, aimed at the nearest street lamp. No ribbon yet. That lamp is still lit. Lamps ahead are lit. His wand stays unused. A thin brown tabby watches from the wall.
+- **Faces:** His eyes and his hand are on the lamp. He does not look at the houses. The cat's eyes are on him.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C1-P1-P2
 
 - **Beat:** Dumbledore puts out a street lamp with the Deluminator.
@@ -98,6 +108,16 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Who:** Dumbledore, very tall, silver hair and beard, half-moon spectacles, indigo-purple star-patterned robes, tall plum hat, plum cloak. The Deluminator is in his hand. His wand stays unused. The thin brown tabby is a small shape on the wall.
 - **Faces:** His eyes and his hand are on the lamp he is clicking. He does not look at the houses. The cat may watch.
 - **Dialogue:** No dialogue.
+
+#### M1-002 — not drawn
+
+- **Beat:** That lamp goes dark.
+- **Image:** The same wet street. The lamp he clicked is dark. The thin ribbon has finished and is gone. He turns the Deluminator toward the next lamp, which may still be lit. Lamps behind him are out. No flood of glow. The tabby is still on the wall.
+- **Setting:** The same wet street. The lamp he clicked is dark. The thin ribbon has finished and is gone. He turns the Deluminator toward the next lamp, which may still be lit. Lamps behind him are out. No flood of glow. The tabby is still on the wall.
+- **Who:** The same wet street. The lamp he clicked is dark. The thin ribbon has finished and is gone. He turns the Deluminator toward the next lamp, which may still be lit. Lamps behind him are out. No flood of glow. The tabby is still on the wall.
+- **Faces:** His eyes are already on the next globe. The cat watches the dark lamp.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C1-P1-P3
 
@@ -116,6 +136,26 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Who:** Dumbledore in indigo-purple star robes, plum hat, half-moon spectacles, silver hair and beard. The Deluminator is lowered. His wand is not in use. The cat is Professor McGonagall still in cat form: a thin brown tabby, spectacle-like marks around the eyes, no collar.
 - **Faces:** He looks at the cat. The cat looks at him, ears forward, knowing, perfectly still.
 - **Dialogue:** **Dumbledore:** "I should have known that you would be here, Professor McGonagall." **McGonagall:** "Good evening, Professor Dumbledore."
+
+#### M1-003 — not drawn
+
+- **Beat:** The cat rises. There is no wand.
+- **Image:** The garden wall. The thin brown tabby rises, spectacle-like marks around the eyes, no collar. No wand and no device. The body is only starting to lengthen. Dumbledore watches from the pavement. The street lamps are already out.
+- **Setting:** The garden wall. The thin brown tabby rises, spectacle-like marks around the eyes, no collar. No wand and no device. The body is only starting to lengthen. Dumbledore watches from the pavement. The street lamps are already out.
+- **Who:** The garden wall. The thin brown tabby rises, spectacle-like marks around the eyes, no collar. No wand and no device. The body is only starting to lengthen. Dumbledore watches from the pavement. The street lamps are already out.
+- **Faces:** The cat's eyes lock upward, the same watchful eyes. The mouth is not a human word yet. Dumbledore's eyes are on the cat.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M1-004 — not drawn
+
+- **Beat:** Mid-change. The same eyes.
+- **Image:** The pavement in front of number four. Mid-transformation. The spectacle marks are becoming square glasses. Tabby mist at the hem. Limbs between cat and woman. No wand line and no glow flood. The wall she left is emptying.
+- **Setting:** The pavement in front of number four. Mid-transformation. The spectacle marks are becoming square glasses. Tabby mist at the hem. Limbs between cat and woman. No wand line and no glow flood. The wall she left is emptying.
+- **Who:** The pavement in front of number four. Mid-transformation. The spectacle marks are becoming square glasses. Tabby mist at the hem. Limbs between cat and woman. No wand line and no glow flood. The wall she left is emptying.
+- **Faces:** The eyes stay the cat's eyes, stern and knowing. Dumbledore does not look away.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C1-P1-P5
 
@@ -173,6 +213,16 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Faces:** McGonagall looks alarmed, eyes up. Dumbledore looks up with recognition, almost relief.
 - **Dialogue:** **McGonagall:** "What in Merlin's name is that?" **Dumbledore:** "Hagrid. I asked him to bring the child."
 
+#### M1-005 — not drawn
+
+- **Beat:** The motorcycle is still in the air.
+- **Image:** Above the Privet Drive roofs, clear of the cloud. A huge motorcycle flies level, headlamp on, a faint spark at the engine, not a flood. Hagrid cradles a green bundle. He has not touched down. Dumbledore and McGonagall are small on the pavement below.
+- **Setting:** Above the Privet Drive roofs, clear of the cloud. A huge motorcycle flies level, headlamp on, a faint spark at the engine, not a flood. Hagrid cradles a green bundle. He has not touched down. Dumbledore and McGonagall are small on the pavement below.
+- **Who:** Above the Privet Drive roofs, clear of the cloud. A huge motorcycle flies level, headlamp on, a faint spark at the engine, not a flood. Hagrid cradles a green bundle. He has not touched down. Dumbledore and McGonagall are small on the pavement below.
+- **Faces:** Hagrid looks down at the doorstep, wrecked, eyes red. He is not looking at the two wizards.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C1-P2-P5
 
 - **Beat:** A flying motorcycle drops out of the sky.
@@ -201,6 +251,26 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Who:** Hagrid, coat collar up, a leaf caught in his beard. He holds the baby against his chest. One huge thumb rests near the blanket fold, not on the scar.
 - **Faces:** He looks down at Harry, mouth crumpled, trying to speak and failing. Eyes shining.
 - **Dialogue:** **Hagrid:** "I got him out of the house. I got him out, but James and Lily..."
+
+#### M1-006 — not drawn
+
+- **Beat:** A wand in the cottage doorway.
+- **Image:** A memory. A stone cottage at night. A wand in the doorway is pointed at the crib. Lily is between the wand and the crib, one arm out, eyes on the wand. The caster's face is not a portrait and is not the point. No green flood yet. James is further back in the room.
+- **Setting:** A memory. A stone cottage at night. A wand in the doorway is pointed at the crib. Lily is between the wand and the crib, one arm out, eyes on the wand. The caster's face is not a portrait and is not the point. No green flood yet. James is further back in the room.
+- **Who:** A memory. A stone cottage at night. A wand in the doorway is pointed at the crib. Lily is between the wand and the crib, one arm out, eyes on the wand. The caster's face is not a portrait and is not the point. No green flood yet. James is further back in the room.
+- **Faces:** Lily's eyes are locked on the wand. Her mouth is open. The baby is behind her and is not the target she will allow.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M1-007 — not drawn
+
+- **Beat:** A thin green thread.
+- **Image:** The same doorway. A thin green thread leaves that wand tip and runs toward Lily. She stays between the thread and the crib. The thread is readable and thin. It does not fill the cottage with glow. The roof is not yet blown open.
+- **Setting:** The same doorway. A thin green thread leaves that wand tip and runs toward Lily. She stays between the thread and the crib. The thread is readable and thin. It does not fill the cottage with glow. The roof is not yet blown open.
+- **Who:** The same doorway. A thin green thread leaves that wand tip and runs toward Lily. She stays between the thread and the crib. The thread is readable and thin. It does not fill the cottage with glow. The roof is not yet blown open.
+- **Faces:** Lily's eyes stay on the thread. She does not step aside.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C1-P3-P2
 
@@ -294,6 +364,26 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Faces:** Small in the frame. Hagrid’s back is all we see. The cat’s eyes flash once. Dumbledore’s face is hidden by hat brim and dark.
 - **Dialogue:** No dialogue.
 
+#### M1-008 — not drawn
+
+- **Beat:** He aims the Deluminator up.
+- **Image:** The corner of Privet Drive. The lamps are still out. Dumbledore holds the same silver Deluminator, aimed up at one dark lamp. His eyes are on that globe. The baby is on the step, small. No ribbon yet.
+- **Setting:** The corner of Privet Drive. The lamps are still out. Dumbledore holds the same silver Deluminator, aimed up at one dark lamp. His eyes are on that globe. The baby is on the step, small. No ribbon yet.
+- **Who:** The corner of Privet Drive. The lamps are still out. Dumbledore holds the same silver Deluminator, aimed up at one dark lamp. His eyes are on that globe. The baby is on the step, small. No ribbon yet.
+- **Faces:** His eyes are on the dark lamp. He is already leaving in his posture, but the hand has not finished.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M1-009 — not drawn
+
+- **Beat:** A thin ribbon runs back into the lamp.
+- **Image:** The same corner. A thin ribbon of warm yellow runs from the Deluminator up into the lamp. The lamp is only just waking. A few sparks along the ribbon. Not a flood. Other lamps are still dark. Harry is on the step.
+- **Setting:** The same corner. A thin ribbon of warm yellow runs from the Deluminator up into the lamp. The lamp is only just waking. A few sparks along the ribbon. Not a flood. Other lamps are still dark. Harry is on the step.
+- **Who:** The same corner. A thin ribbon of warm yellow runs from the Deluminator up into the lamp. The lamp is only just waking. A few sparks along the ribbon. Not a flood. Other lamps are still dark. Harry is on the step.
+- **Faces:** Dumbledore's eyes are on the globe he is filling. Harry's eyes are open toward the street.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C1-P4-P6
 
 - **Beat:** The stored light returns from the Deluminator. The lamps flare on. The baby lies alone.
@@ -310,6 +400,36 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 
 ### Page 1 — The cupboard
+
+#### M2-001 — not drawn
+
+- **Beat:** Number four, in the morning.
+- **Image:** Privet Drive in daylight. Number four, neat hedge, brass number, a milk bottle. Harry is not in the picture. The street is ordinary.
+- **Setting:** Privet Drive in daylight. Number four, neat hedge, brass number, a milk bottle. Harry is not in the picture. The street is ordinary.
+- **Who:** Privet Drive in daylight. Number four, neat hedge, brass number, a milk bottle. Harry is not in the picture. The street is ordinary.
+- **Faces:** No one is at the window.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-002 — not drawn
+
+- **Beat:** The cupboard door is shut.
+- **Image:** The hall of number four. The cupboard door under the stairs is shut. Dudley's wrapping paper is already on the floor. Stairs, a floral runner, too many baby photos.
+- **Setting:** The hall of number four. The cupboard door under the stairs is shut. Dudley's wrapping paper is already on the floor. Stairs, a floral runner, too many baby photos.
+- **Who:** The hall of number four. The cupboard door under the stairs is shut. Dudley's wrapping paper is already on the floor. Stairs, a floral runner, too many baby photos.
+- **Faces:** The house looks pleased with itself. No face is toward the cupboard.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-003 — not drawn
+
+- **Beat:** They are already celebrating.
+- **Image:** The dining room. Petunia sets a feast on the table. Vernon smiles at Dudley, who is counting presents that are not Harry's. Harry has not come out. No one is speaking yet.
+- **Setting:** The dining room. Petunia sets a feast on the table. Vernon smiles at Dudley, who is counting presents that are not Harry's. Harry has not come out. No one is speaking yet.
+- **Who:** The dining room. Petunia sets a feast on the table. Vernon smiles at Dudley, who is counting presents that are not Harry's. Harry has not come out. No one is speaking yet.
+- **Faces:** Vernon looks at Dudley, proud. Petunia looks at the plates. Dudley looks at the pile.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C2-P1-P1
 
@@ -367,6 +487,36 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 
 ### Page 2 — The zoo
 
+#### M2-004 — not drawn
+
+- **Beat:** The zoo gates.
+- **Image:** The zoo gates on a bright day. The Dursley car. Dudley in a bright jacket, heavier than Harry, blond. Harry is small behind them in Dudley's faded castoffs. They have not gone in.
+- **Setting:** The zoo gates on a bright day. The Dursley car. Dudley in a bright jacket, heavier than Harry, blond. Harry is small behind them in Dudley's faded castoffs. They have not gone in.
+- **Who:** The zoo gates on a bright day. The Dursley car. Dudley in a bright jacket, heavier than Harry, blond. Harry is small behind them in Dudley's faded castoffs. They have not gone in.
+- **Faces:** Dudley looks bored already. Vernon looks impatient. Harry looks at the gates.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-005 — not drawn
+
+- **Beat:** One snake. The same snake.
+- **Image:** The reptile house. One large enclosure. A green-brown boa with darker saddles, thick enough to fill the floor, longer than a child is tall, one pale gold eye, coiled. The same snake as every zoo picture. The glass is still there.
+- **Setting:** The reptile house. One large enclosure. A green-brown boa with darker saddles, thick enough to fill the floor, longer than a child is tall, one pale gold eye, coiled. The same snake as every zoo picture. The glass is still there.
+- **Who:** The reptile house. One large enclosure. A green-brown boa with darker saddles, thick enough to fill the floor, longer than a child is tall, one pale gold eye, coiled. The same snake as every zoo picture. The glass is still there.
+- **Faces:** The snake's eye is half shut. It is not looking at anyone yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-006 — not drawn
+
+- **Beat:** Dudley is bored, and still.
+- **Image:** The same enclosure. Dudley stands at the glass and has not banged it. Harry is a step behind. The snake is still coiled. Petunia is a sharp shape at the edge, not speaking yet.
+- **Setting:** The same enclosure. Dudley stands at the glass and has not banged it. Harry is a step behind. The snake is still coiled. Petunia is a sharp shape at the edge, not speaking yet.
+- **Who:** The same enclosure. Dudley stands at the glass and has not banged it. Harry is a step behind. The snake is still coiled. Petunia is a sharp shape at the edge, not speaking yet.
+- **Faces:** Dudley frowns at the still snake. Harry looks at the snake, already sorry for it.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C2-P2-P1
 
 - **Beat:** Dudley bangs on the snake’s glass.
@@ -393,6 +543,26 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 - **Who:** Harry, windcheater unzipped, gray shirt, taped glasses, hair messy from the day. Palm on the glass. He holds nothing else. The same zoo snake, green-brown with darker saddles, coiled up to meet him, head the same shape, pale gold eye, body still longer than he is tall. Not a pet-shop snake. Dudley is gone from this panel, off to complain.
 - **Faces:** Harry looks into the snake’s eye, earnest, as if talking to someone who has also been stuck in a small room. The snake looks back, steady. No fear on either side.
 - **Dialogue:** **Harry:** "Sorry about him. You get tired of being stuck behind glass, don't you."
+
+#### M2-007 — not drawn
+
+- **Beat:** Harry looks at the glass. No wand.
+- **Image:** The reptile house. The glass is still whole. Harry's eyes lock on it. He has no wand. His mouth is just opening. The same boa, pale gold eye, looks back at him. Dudley is beside him and has not fallen.
+- **Setting:** The reptile house. The glass is still whole. Harry's eyes lock on it. He has no wand. His mouth is just opening. The same boa, pale gold eye, looks back at him. Dudley is beside him and has not fallen.
+- **Who:** The reptile house. The glass is still whole. Harry's eyes lock on it. He has no wand. His mouth is just opening. The same boa, pale gold eye, looks back at him. Dudley is beside him and has not fallen.
+- **Faces:** Harry's eyes are on the glass. The snake's eye is on Harry. Dudley's eyes are on the snake and he does not understand.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-008 — not drawn
+
+- **Beat:** The glass thins.
+- **Image:** The same glass. It thins. A faint ripple, no glow flood, no wand thread. Dudley is mid-shove. The snake has not slid out. Harry's eyes stay on the glass.
+- **Setting:** The same glass. It thins. A faint ripple, no glow flood, no wand thread. Dudley is mid-shove. The snake has not slid out. Harry's eyes stay on the glass.
+- **Who:** The same glass. It thins. A faint ripple, no glow flood, no wand thread. Dudley is mid-shove. The snake has not slid out. Harry's eyes stay on the glass.
+- **Faces:** Harry looks startled at what the glass is doing. Dudley is angry and has not noticed the ripple.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C2-P2-P4
 
@@ -422,6 +592,56 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 - **Dialogue:** **Vernon:** "You did that on purpose. You and that snake. Walk."
 
 ### Page 3 — The letters
+
+#### M2-009 — not drawn
+
+- **Beat:** The kitchen window.
+- **Image:** The back of number four, morning. The kitchen window from the garden. No owl yet. Ordinary brick.
+- **Setting:** The back of number four, morning. The kitchen window from the garden. No owl yet. Ordinary brick.
+- **Who:** The back of number four, morning. The kitchen window from the garden. No owl yet. Ordinary brick.
+- **Faces:** No one looks out.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-010 — not drawn
+
+- **Beat:** Eggs, and no letter.
+- **Image:** The kitchen. Eggs in a pan. Petunia at the stove. The table is set. The window is empty. No owl, no letter.
+- **Setting:** The kitchen. Eggs in a pan. Petunia at the stove. The table is set. The window is empty. No owl, no letter.
+- **Who:** The kitchen. Eggs in a pan. Petunia at the stove. The table is set. The window is empty. No owl, no letter.
+- **Faces:** Petunia looks at the pan, tight and ordinary.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-011 — not drawn
+
+- **Beat:** Breakfast, before the owl.
+- **Image:** The same kitchen. Vernon reads the paper. Dudley eats. Harry sits at the edge of the table in clothes that do not fit. No one has spoken. The eggs are still just eggs.
+- **Setting:** The same kitchen. Vernon reads the paper. Dudley eats. Harry sits at the edge of the table in clothes that do not fit. No one has spoken. The eggs are still just eggs.
+- **Who:** The same kitchen. Vernon reads the paper. Dudley eats. Harry sits at the edge of the table in clothes that do not fit. No one has spoken. The eggs are still just eggs.
+- **Faces:** Vernon looks at the paper. Harry looks at the eggs. Dudley looks at his plate.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-012 — not drawn
+
+- **Beat:** An owl over the chimney.
+- **Image:** Above the roof of number four. An owl in the morning sky, letter in its beak, wings spread, coming toward the kitchen chimney. No other letters yet.
+- **Setting:** Above the roof of number four. An owl in the morning sky, letter in its beak, wings spread, coming toward the kitchen chimney. No other letters yet.
+- **Who:** Above the roof of number four. An owl in the morning sky, letter in its beak, wings spread, coming toward the kitchen chimney. No other letters yet.
+- **Faces:** The owl's eyes are on the house.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-013 — not drawn
+
+- **Beat:** The owl at the window.
+- **Image:** The kitchen window. The owl is on the sill, letter still in its beak, eyes on the eggs. It has not dropped the letter. Vernon has not seen it yet.
+- **Setting:** The kitchen window. The owl is on the sill, letter still in its beak, eyes on the eggs. It has not dropped the letter. Vernon has not seen it yet.
+- **Who:** The kitchen window. The owl is on the sill, letter still in its beak, eyes on the eggs. It has not dropped the letter. Vernon has not seen it yet.
+- **Faces:** The owl looks in. Harry is the one who is about to look up.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C2-P3-P1
 
@@ -459,6 +679,26 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 - **Faces:** Vernon looks at the slot with hatred, as if the door is betraying him. Harry looks at the letters, longing. Petunia looks at Harry, guilty and angry. Dudley looks at his father, starting to be scared of him.
 - **Dialogue:** **Vernon:** "No more letters. Not through this door. Not to any cupboard in my house."
 
+#### M2-014 — not drawn
+
+- **Beat:** Letters packed in the chimney.
+- **Image:** The nailed mail slot is in the door behind them. Inside the dark flue, letters are packed edge to edge, addresses outward. No wand. The room below does not know yet.
+- **Setting:** The nailed mail slot is in the door behind them. Inside the dark flue, letters are packed edge to edge, addresses outward. No wand. The room below does not know yet.
+- **Who:** The nailed mail slot is in the door behind them. Inside the dark flue, letters are packed edge to edge, addresses outward. No wand. The room below does not know yet.
+- **Faces:** No faces. The paper is the pressure.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-015 — not drawn
+
+- **Beat:** The letters break into the room.
+- **Image:** The kitchen or the sitting room. Letters burst from the chimney mouth in a stream, still in the air, not yet covering Dudley. Vernon is turning. No glow flood. It is paper, not a spell-light.
+- **Setting:** The kitchen or the sitting room. Letters burst from the chimney mouth in a stream, still in the air, not yet covering Dudley. Vernon is turning. No glow flood. It is paper, not a spell-light.
+- **Who:** The kitchen or the sitting room. Letters burst from the chimney mouth in a stream, still in the air, not yet covering Dudley. Vernon is turning. No glow flood. It is paper, not a spell-light.
+- **Faces:** Vernon's eyes go to the chimney, furious. Dudley's mouth is opening. Harry looks at the letters, longing.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C2-P3-P5
 
 - **Beat:** Letters pour down the chimney. Dudley screams.
@@ -478,6 +718,36 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 - **Dialogue:** **Vernon:** "I will not have magic in this house. Do you hear me, boy?"
 
 ### Page 4 — The hut
+
+#### M2-016 — not drawn
+
+- **Beat:** The car in the storm.
+- **Image:** A wet road at night. Their car is small in the rain. Letters are not the point of this picture yet. The rock and the hut are not in frame.
+- **Setting:** A wet road at night. Their car is small in the rain. Letters are not the point of this picture yet. The rock and the hut are not in frame.
+- **Who:** A wet road at night. Their car is small in the rain. Letters are not the point of this picture yet. The rock and the hut are not in frame.
+- **Faces:** No faces, only the headlights.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-017 — not drawn
+
+- **Beat:** Four of them, and the glass.
+- **Image:** Inside the car. Vernon driving, Petunia thin in a belted coat, Dudley round, Harry small in the back. One letter is already stuck to the glass. The wipers fight the rain.
+- **Setting:** Inside the car. Vernon driving, Petunia thin in a belted coat, Dudley round, Harry small in the back. One letter is already stuck to the glass. The wipers fight the rain.
+- **Who:** Inside the car. Vernon driving, Petunia thin in a belted coat, Dudley round, Harry small in the back. One letter is already stuck to the glass. The wipers fight the rain.
+- **Faces:** Vernon stares through the rain. Harry looks at the letter on the glass.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M2-018 — not drawn
+
+- **Beat:** He drives, and has not spoken.
+- **Image:** The same car. Vernon's jaw is set. His hands are tight on the wheel. Petunia sees the letter and has not said so yet. Dudley is frightened and quiet. Harry counts nothing yet.
+- **Setting:** The same car. Vernon's jaw is set. His hands are tight on the wheel. Petunia sees the letter and has not said so yet. Dudley is frightened and quiet. Harry counts nothing yet.
+- **Who:** The same car. Vernon's jaw is set. His hands are tight on the wheel. Petunia sees the letter and has not said so yet. Dudley is frightened and quiet. Harry counts nothing yet.
+- **Faces:** Vernon's small angry eyes stay on the road. Petunia's mouth is shut.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C2-P4-P1
 
@@ -539,6 +809,36 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 The door bursts, Vernon denies magic, the truth about Harry’s parents lands, and Hagrid takes him away.
 
 ### Page 1 — The door
+
+#### M3-001 — not drawn
+
+- **Beat:** The shack on the rock.
+- **Image:** Night, a storm, a shack on a rock. The door bows inward. Waves hit the walls. No one has come through.
+- **Setting:** Night, a storm, a shack on a rock. The door bows inward. Waves hit the walls. No one has come through.
+- **Who:** Night, a storm, a shack on a rock. The door bows inward. Waves hit the walls. No one has come through.
+- **Faces:** The door is the face of the picture.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M3-002 — not drawn
+
+- **Beat:** One room, and a rifle.
+- **Image:** Inside the shack. One room. A rifle in Vernon's hands. Harry on the floor. Wind at the window. The door is still shut and booming.
+- **Setting:** Inside the shack. One room. A rifle in Vernon's hands. Harry on the floor. Wind at the window. The door is still shut and booming.
+- **Who:** Inside the shack. One room. A rifle in Vernon's hands. Harry on the floor. Wind at the window. The door is still shut and booming.
+- **Faces:** Vernon stares at the door. Harry looks at the door, not at the rifle.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M3-003 — not drawn
+
+- **Beat:** They wait for the next boom.
+- **Image:** The same room. Vernon is braced at the door. Petunia holds Dudley. Harry is still. Nobody has spoken. The rifle is raised and not yet bent.
+- **Setting:** The same room. Vernon is braced at the door. Petunia holds Dudley. Harry is still. Nobody has spoken. The rifle is raised and not yet bent.
+- **Who:** The same room. Vernon is braced at the door. Petunia holds Dudley. Harry is still. Nobody has spoken. The rifle is raised and not yet bent.
+- **Faces:** Vernon's face is going purple. Petunia's eyes are wide. Dudley hides in her coat. Harry is awake and small.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C3-P1-P1
 
@@ -632,6 +932,16 @@ The door bursts, Vernon denies magic, the truth about Harry’s parents lands, a
 - **Faces:** Hagrid looks at Dudley, annoyed, not cruel. Dudley looks at the spark, the laugh dying. Harry looks at the spark, wonder breaking through.
 - **Dialogue:** **Hagrid:** "That's enough out of you."
 
+#### M3-004 — not drawn
+
+- **Beat:** A thin spark leaves the umbrella.
+- **Image:** The shack. Hagrid's pink umbrella is pointed at Dudley. A thin spark runs from the umbrella tip to the seat of Dudley's trousers. Hagrid's mouth is mid-word. His eyes stay on Dudley. Not a flood. The tail is not there yet. Cake is still in Dudley's mouth.
+- **Setting:** The shack. Hagrid's pink umbrella is pointed at Dudley. A thin spark runs from the umbrella tip to the seat of Dudley's trousers. Hagrid's mouth is mid-word. His eyes stay on Dudley. Not a flood. The tail is not there yet. Cake is still in Dudley's mouth.
+- **Who:** The shack. Hagrid's pink umbrella is pointed at Dudley. A thin spark runs from the umbrella tip to the seat of Dudley's trousers. Hagrid's mouth is mid-word. His eyes stay on Dudley. Not a flood. The tail is not there yet. Cake is still in Dudley's mouth.
+- **Faces:** Hagrid looks satisfied and a bit guilty. Dudley has not understood. Harry's eyes are on the spark. Petunia has not shrieked yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C3-P2-P5
 
 - **Beat:** Dudley runs with a curly tail poking through his trousers.
@@ -640,6 +950,16 @@ The door bursts, Vernon denies magic, the truth about Harry’s parents lands, a
 - **Who:** Dudley, coat flapping, striped shirt, tail unmistakable. Petunia lunging after him, coat, hairpins falling. Vernon frozen. Harry and Hagrid in the midground, Harry’s letter safe.
 - **Faces:** Dudley looks back over his shoulder, howling, eyes huge. Petunia looks at the tail, mind breaking. Harry looks at the tail, a real smile starting. Hagrid looks satisfied and a bit guilty.
 - **Dialogue:** **Dudley:** "Mum! There's a tail! I've got a tail!"
+
+#### M3-005 — not drawn
+
+- **Beat:** Dudley runs into the rain.
+- **Image:** The shack door, open to the rain. Dudley runs. A curly pig tail sticks through his trousers. Cake is still in his mouth. The umbrella is lowered. Petunia is reaching and has not caught him.
+- **Setting:** The shack door, open to the rain. Dudley runs. A curly pig tail sticks through his trousers. Cake is still in his mouth. The umbrella is lowered. Petunia is reaching and has not caught him.
+- **Who:** The shack door, open to the rain. Dudley runs. A curly pig tail sticks through his trousers. Cake is still in his mouth. The umbrella is lowered. Petunia is reaching and has not caught him.
+- **Faces:** Dudley howls, looking back at his own trousers. Harry's real smile is starting. Hagrid looks at the tail, not proud and not sorry enough.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C3-P2-P6
 
@@ -770,6 +1090,36 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 ### Page 1 — The pub and the wall
 
+#### M4-001 — not drawn
+
+- **Beat:** Muggles walk past the pub.
+- **Image:** A London street, daytime. Muggles walk past a crooked pub they do not see. Hagrid and Harry are still down the pavement, not at the door. Harry is in Dudley's old clothes.
+- **Setting:** A London street, daytime. Muggles walk past a crooked pub they do not see. Hagrid and Harry are still down the pavement, not at the door. Harry is in Dudley's old clothes.
+- **Who:** A London street, daytime. Muggles walk past a crooked pub they do not see. Hagrid and Harry are still down the pavement, not at the door. Harry is in Dudley's old clothes.
+- **Faces:** The Muggles look through the pub. Harry looks where Hagrid is looking.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-002 — not drawn
+
+- **Beat:** The Leaky Cauldron door.
+- **Image:** The pub door, old and crooked, on that same street. The sign is easy for a wizard to read and easy for a Muggle to miss. They have not gone in.
+- **Setting:** The pub door, old and crooked, on that same street. The sign is easy for a wizard to read and easy for a Muggle to miss. They have not gone in.
+- **Who:** The pub door, old and crooked, on that same street. The sign is easy for a wizard to read and easy for a Muggle to miss. They have not gone in.
+- **Faces:** Hagrid looks at the door, at home. Harry looks unsure.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-003 — not drawn
+
+- **Beat:** Inside, before anyone looks up.
+- **Image:** The Leaky Cauldron. Low beams, a few wizards already drinking, tankards. Hagrid is only in the doorway. The room has not gone quiet yet. No one has reached for Harry's hand.
+- **Setting:** The Leaky Cauldron. Low beams, a few wizards already drinking, tankards. Hagrid is only in the doorway. The room has not gone quiet yet. No one has reached for Harry's hand.
+- **Who:** The Leaky Cauldron. Low beams, a few wizards already drinking, tankards. Hagrid is only in the doorway. The room has not gone quiet yet. No one has reached for Harry's hand.
+- **Faces:** The drinkers look at their cups. Harry looks small in the door.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C4-P1-P1
 
 - **Beat:** Ordinary people walk past the Leaky Cauldron and do not see it.
@@ -806,6 +1156,16 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 - **Faces:** Hagrid looks at the bricks, concentrating, cheerful. Harry looks at the wall, skeptical and curious. The cat looks at neither.
 - **Dialogue:** **Hagrid:** "Three up, two across. Watch the bricks."
 
+#### M4-004 — not drawn
+
+- **Beat:** A thin seam opens in the wall.
+- **Image:** The grimy courtyard behind the pub. Hagrid's umbrella tip is still on the brick. The bricks grind. A thin seam of alley-light opens in the mortar. Not a flood. The wall is not open yet. Harry's eyes are on the seam.
+- **Setting:** The grimy courtyard behind the pub. Hagrid's umbrella tip is still on the brick. The bricks grind. A thin seam of alley-light opens in the mortar. Not a flood. The wall is not open yet. Harry's eyes are on the seam.
+- **Who:** The grimy courtyard behind the pub. Hagrid's umbrella tip is still on the brick. The bricks grind. A thin seam of alley-light opens in the mortar. Not a flood. The wall is not open yet. Harry's eyes are on the seam.
+- **Faces:** Hagrid looks at the bricks, tongue slightly out. Harry looks skeptical and then caught.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C4-P1-P5
 
 - **Beat:** The wall folds open.
@@ -825,6 +1185,36 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 - **Dialogue:** **Harry:** "What is this place?" **Hagrid:** "Diagon Alley. Where wizards do their shopping."
 
 ### Page 2 — Gringotts
+
+#### M4-005 — not drawn
+
+- **Beat:** The white steps.
+- **Image:** Diagon Alley. The white marble steps of Gringotts. The bronze doors. Harry and Hagrid are at the bottom and have not climbed.
+- **Setting:** Diagon Alley. The white marble steps of Gringotts. The bronze doors. Harry and Hagrid are at the bottom and have not climbed.
+- **Who:** Diagon Alley. The white marble steps of Gringotts. The bronze doors. Harry and Hagrid are at the bottom and have not climbed.
+- **Faces:** Harry looks up, overwhelmed. Hagrid looks practical.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-006 — not drawn
+
+- **Beat:** Goblins at the desks.
+- **Image:** The marble hall. Goblins at high desks. One goblin weighs coins and does not look at the door. Harry and Hagrid are still just inside.
+- **Setting:** The marble hall. Goblins at high desks. One goblin weighs coins and does not look at the door. Harry and Hagrid are still just inside.
+- **Who:** The marble hall. Goblins at high desks. One goblin weighs coins and does not look at the door. Harry and Hagrid are still just inside.
+- **Faces:** The goblin looks at the coins, not at the boy.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-007 — not drawn
+
+- **Beat:** They cross the hall, not at the counter yet.
+- **Image:** The same hall. They walk the marble. The key is still in Hagrid's hand and has not been asked for. No cart yet.
+- **Setting:** The same hall. They walk the marble. The key is still in Hagrid's hand and has not been asked for. No cart yet.
+- **Who:** The same hall. They walk the marble. The key is still in Hagrid's hand and has not been asked for. No cart yet.
+- **Faces:** Harry looks at the goblins, wary. Hagrid looks ahead, familiar with the place.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C4-P2-P1
 
@@ -882,6 +1272,56 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 ### Page 3 — Supplies
 
+#### M4-008 — not drawn
+
+- **Beat:** The robe shop, from the alley.
+- **Image:** Diagon Alley, busy. The sign for Madam Malkin's robe shop. Cauldrons and an owl shop further down. Harry and Hagrid are outside.
+- **Setting:** Diagon Alley, busy. The sign for Madam Malkin's robe shop. Cauldrons and an owl shop further down. Harry and Hagrid are outside.
+- **Who:** Diagon Alley, busy. The sign for Madam Malkin's robe shop. Cauldrons and an owl shop further down. Harry and Hagrid are outside.
+- **Faces:** Harry looks at the windows, eyes wide. Hagrid looks at the robe shop.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-009 — not drawn
+
+- **Beat:** The tape is still in her hand.
+- **Image:** Inside Madam Malkin's. Mirrors, bolts of black cloth, a stool. The measuring tape is still in her hand. It has not moved by itself. Harry is not on the stool yet.
+- **Setting:** Inside Madam Malkin's. Mirrors, bolts of black cloth, a stool. The measuring tape is still in her hand. It has not moved by itself. Harry is not on the stool yet.
+- **Who:** Inside Madam Malkin's. Mirrors, bolts of black cloth, a stool. The measuring tape is still in her hand. It has not moved by itself. Harry is not on the stool yet.
+- **Faces:** She looks at the cloth, busy. The shop is quiet of magic.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-010 — not drawn
+
+- **Beat:** He steps onto the stool.
+- **Image:** The same shop. Harry steps onto the stool in his old clothes, arms not out yet. Madam Malkin has not spoken. Pins are still in the cushion.
+- **Setting:** The same shop. Harry steps onto the stool in his old clothes, arms not out yet. Madam Malkin has not spoken. Pins are still in the cushion.
+- **Who:** The same shop. Harry steps onto the stool in his old clothes, arms not out yet. Madam Malkin has not spoken. Pins are still in the cushion.
+- **Faces:** Harry looks at himself in the mirror and does not know the boy. She looks at his sleeves.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-011 — not drawn
+
+- **Beat:** The tape leaves her fingers.
+- **Image:** Madam Malkin's. Her eyes are on Harry. The tape leaves her fingers. Her mouth is mid-word. Harry's arms are out. No glow flood. The tape is only just in the air.
+- **Setting:** Madam Malkin's. Her eyes are on Harry. The tape leaves her fingers. Her mouth is mid-word. Harry's arms are out. No glow flood. The tape is only just in the air.
+- **Who:** Madam Malkin's. Her eyes are on Harry. The tape leaves her fingers. Her mouth is mid-word. Harry's arms are out. No glow flood. The tape is only just in the air.
+- **Faces:** She looks at his shoulders, professional. Harry looks at the tape, delighted and nervous.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-012 — not drawn
+
+- **Beat:** The tape wraps his arm.
+- **Image:** The same stool. The tape is in the air, a faint thin motion, wrapping his arm. A few pins have not floated yet. No one holds the tape. Not a flood of light.
+- **Setting:** The same stool. The tape is in the air, a faint thin motion, wrapping his arm. A few pins have not floated yet. No one holds the tape. Not a flood of light.
+- **Who:** The same stool. The tape is in the air, a faint thin motion, wrapping his arm. A few pins have not floated yet. No one holds the tape. Not a flood of light.
+- **Faces:** Harry looks down at the tape, a real grin starting. His eyes follow the tape, not a spell from his own hand.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C4-P3-P1
 
 - **Beat:** A measuring tape moves by itself.
@@ -938,6 +1378,36 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 ### Page 4 — Wand and rival
 
+#### M4-013 — not drawn
+
+- **Beat:** The narrow shop front.
+- **Image:** Diagon Alley. Ollivander's narrow shop front. Harry is outside with the owl cage or the packages. He has not gone in. Hagrid waits.
+- **Setting:** Diagon Alley. Ollivander's narrow shop front. Harry is outside with the owl cage or the packages. He has not gone in. Hagrid waits.
+- **Who:** Diagon Alley. Ollivander's narrow shop front. Harry is outside with the owl cage or the packages. He has not gone in. Hagrid waits.
+- **Faces:** Harry looks at the dark window. He does not know this shop yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-014 — not drawn
+
+- **Beat:** Boxes to the ceiling.
+- **Image:** Inside. Thin wand boxes stacked to the ceiling. Dust. One chair. No shopkeeper in the foreground yet.
+- **Setting:** Inside. Thin wand boxes stacked to the ceiling. Dust. One chair. No shopkeeper in the foreground yet.
+- **Who:** Inside. Thin wand boxes stacked to the ceiling. Dust. One chair. No shopkeeper in the foreground yet.
+- **Faces:** The room feels like it has been waiting.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-015 — not drawn
+
+- **Beat:** He is among the shelves, not close yet.
+- **Image:** The same shop. Ollivander is among the shelves, back partly turned. Pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. He has not appeared at Harry's shoulder. Harry is just inside.
+- **Setting:** The same shop. Ollivander is among the shelves, back partly turned. Pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. He has not appeared at Harry's shoulder. Harry is just inside.
+- **Who:** The same shop. Ollivander is among the shelves, back partly turned. Pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. He has not appeared at Harry's shoulder. Harry is just inside.
+- **Faces:** Ollivander's eyes are on the boxes. Harry looks into the shop and has not been startled yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C4-P4-P1
 
 - **Beat:** Ollivander is suddenly too close.
@@ -956,6 +1426,46 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 - **Faces:** Ollivander looks at the scar, remembering, voice gone soft. Harry looks past him, still, the zoo and the cupboard and the green light all far under this moment. He does not blink.
 - **Dialogue:** **Ollivander:** "I remember every wand I ever sold. I remember the wand that gave you that scar."
 
+#### M4-016 — not drawn
+
+- **Beat:** Maple, aimed at a vase.
+- **Image:** Ollivander's shop. A maple wand is in Harry's hand, tip toward a vase. Harry's eyes are on the vase. Ollivander's pale silvery eyes are on the wand. The vase is whole. Hagrid's eye is at the window.
+- **Setting:** Ollivander's shop. A maple wand is in Harry's hand, tip toward a vase. Harry's eyes are on the vase. Ollivander's pale silvery eyes are on the wand. The vase is whole. Hagrid's eye is at the window.
+- **Who:** Ollivander's shop. A maple wand is in Harry's hand, tip toward a vase. Harry's eyes are on the vase. Ollivander's pale silvery eyes are on the wand. The vase is whole. Hagrid's eye is at the window.
+- **Faces:** Harry looks uneasy. Ollivander looks hungry for the result. The wand looks wrong in the hand.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-017 — not drawn
+
+- **Beat:** A thin spark. The vase cracks.
+- **Image:** The same shop. A thin spark leaves that maple wand's tip and hits the vase. The vase cracks. Not a flood. Boxes are still stacked. Ollivander is already reaching to take the wand back.
+- **Setting:** The same shop. A thin spark leaves that maple wand's tip and hits the vase. The vase cracks. Not a flood. Boxes are still stacked. Ollivander is already reaching to take the wand back.
+- **Who:** The same shop. A thin spark leaves that maple wand's tip and hits the vase. The vase cracks. Not a flood. Boxes are still stacked. Ollivander is already reaching to take the wand back.
+- **Faces:** Harry looks guilty at the crack. Ollivander looks delighted.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-018 — not drawn
+
+- **Beat:** Ebony, aimed at the boxes.
+- **Image:** Ollivander sets the maple aside and puts an ebony wand in Harry's hand. The tip points at a stack of boxes. Harry's eyes are on the stack. Ollivander's eyes are on this wand. No smoke yet.
+- **Setting:** Ollivander sets the maple aside and puts an ebony wand in Harry's hand. The tip points at a stack of boxes. Harry's eyes are on the stack. Ollivander's eyes are on this wand. No smoke yet.
+- **Who:** Ollivander sets the maple aside and puts an ebony wand in Harry's hand. The tip points at a stack of boxes. Harry's eyes are on the stack. Ollivander's eyes are on this wand. No smoke yet.
+- **Faces:** Harry looks tired of being wrong. Ollivander looks pleased to try again.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-019 — not drawn
+
+- **Beat:** A thin line of smoke. Boxes slide.
+- **Image:** A thin line of smoke leaves the ebony tip. The first boxes slide. Not an avalanche yet, and not a glow. Harry holds the wand at arm's length.
+- **Setting:** A thin line of smoke leaves the ebony tip. The first boxes slide. Not an avalanche yet, and not a glow. Harry holds the wand at arm's length.
+- **Who:** A thin line of smoke leaves the ebony tip. The first boxes slide. Not an avalanche yet, and not a glow. Harry holds the wand at arm's length.
+- **Faces:** Harry's eyes are on the sliding boxes. Ollivander's eyes are on the smoke, delighted by the mess starting.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C4-P4-P3
 
 - **Beat:** Wands reject him. Sparks, smoke, boxes flying.
@@ -964,6 +1474,26 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 - **Who:** Harry, robes dusty, hair worse, a trial wand in his right hand, the other hand protecting his glasses. Ollivander darting, another box already open, unbothered, silver eyes bright.
 - **Faces:** Harry looks at the broken vase, guilty. Ollivander looks at Harry, delighted by the mess. The wand looks wrong in Harry’s grip, awkward.
 - **Dialogue:** **Ollivander:** "No. Not maple. Not ebony. The wand is particular. Try again."
+
+#### M4-020 — not drawn
+
+- **Beat:** Holly and phoenix feather, not lit yet.
+- **Image:** The shop is disordered from the failed wands, but this picture is quiet at the center. The holly wand is in Harry's hand, tip up. His eyes are on the wand. Ollivander's pale eyes are on the wand. The room is not filled with light yet. The light will come from the wand, not from Harry's eyes.
+- **Setting:** The shop is disordered from the failed wands, but this picture is quiet at the center. The holly wand is in Harry's hand, tip up. His eyes are on the wand. Ollivander's pale eyes are on the wand. The room is not filled with light yet. The light will come from the wand, not from Harry's eyes.
+- **Who:** The shop is disordered from the failed wands, but this picture is quiet at the center. The holly wand is in Harry's hand, tip up. His eyes are on the wand. Ollivander's pale eyes are on the wand. The room is not filled with light yet. The light will come from the wand, not from Harry's eyes.
+- **Faces:** Harry looks at the wand, suddenly still. Ollivander looks at the wand, recognizing it.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M4-021 — not drawn
+
+- **Beat:** A thin gold-white thread from that wand.
+- **Image:** A thin warm gold-white thread leaves that wand tip, with a few sparks. It does not flood the shop. It is not from his eyes and not from Ollivander's hand. Ollivander's eyes stay on the wand. Harry's eyes stay on the wand.
+- **Setting:** A thin warm gold-white thread leaves that wand tip, with a few sparks. It does not flood the shop. It is not from his eyes and not from Ollivander's hand. Ollivander's eyes stay on the wand. Harry's eyes stay on the wand.
+- **Who:** A thin warm gold-white thread leaves that wand tip, with a few sparks. It does not flood the shop. It is not from his eyes and not from Ollivander's hand. Ollivander's eyes stay on the wand. Harry's eyes stay on the wand.
+- **Faces:** Both of them look at the thread. Ollivander's mouth is opening on the recognition. He has not said the choosing line yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C4-P4-P4
 
@@ -1009,6 +1539,36 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Faces:** Harry looks after the car, not surprised, a little hollow. Vernon does not look. Petunia’s eyes flick to the mirror and away. Dudley looks at his food.
 - **Dialogue:** **Vernon:** "Platform nine and three-quarters. Load of rubbish. Out you get."
 
+#### M5-001 — not drawn
+
+- **Beat:** King's Cross.
+- **Image:** King's Cross station, morning. The clock, taxis, the ordinary crowd. Harry is not at the barrier yet. No Weasleys.
+- **Setting:** King's Cross station, morning. The clock, taxis, the ordinary crowd. Harry is not at the barrier yet. No Weasleys.
+- **Who:** King's Cross station, morning. The clock, taxis, the ordinary crowd. Harry is not at the barrier yet. No Weasleys.
+- **Faces:** Travelers look at their own trains.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-002 — not drawn
+
+- **Beat:** Platforms nine and ten.
+- **Image:** The concourse between platforms nine and ten. The brick barrier is solid. There is no platform nine and three-quarters sign. Hedwig's cage is not through anything.
+- **Setting:** The concourse between platforms nine and ten. The brick barrier is solid. There is no platform nine and three-quarters sign. Hedwig's cage is not through anything.
+- **Who:** The concourse between platforms nine and ten. The brick barrier is solid. There is no platform nine and three-quarters sign. Hedwig's cage is not through anything.
+- **Faces:** The bricks look like bricks.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-003 — not drawn
+
+- **Beat:** Harry looks at the bricks.
+- **Image:** Harry stands with the trolley and Hedwig's cage, in Dudley's old clothes, taped glasses, looking at the solid barrier. He has not asked anyone. There is no officer in the frame and no Weasley.
+- **Setting:** Harry stands with the trolley and Hedwig's cage, in Dudley's old clothes, taped glasses, looking at the solid barrier. He has not asked anyone. There is no officer in the frame and no Weasley.
+- **Who:** Harry stands with the trolley and Hedwig's cage, in Dudley's old clothes, taped glasses, looking at the solid barrier. He has not asked anyone. There is no officer in the frame and no Weasley.
+- **Faces:** He looks lost and determined. Hedwig looks out of the cage.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C5-P1-P2
 
 - **Beat:** He asks a platform officer where platform 9¾ is. He is standing between 9 and 10. There is no 9¾. This is before the Weasleys.
@@ -1036,6 +1596,26 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Faces:** Molly looks at Harry, immediate kindness. Ron looks at Harry’s scar, recognition dawning, shy. The twins look at each other, about to show off. Harry looks at the family, hope returning.
 - **Dialogue:** **Molly:** "Muggles, bless them. First time to Hogwarts? You want the barrier between nine and ten."
 
+#### M5-004 — not drawn
+
+- **Beat:** They run at the wall.
+- **Image:** The brick barrier between platforms nine and ten. Fred and George run, eyes on the brick, a trolley aimed at it. No wand. Molly is behind them and is not the picture. The bricks are still solid.
+- **Setting:** The brick barrier between platforms nine and ten. Fred and George run, eyes on the brick, a trolley aimed at it. No wand. Molly is behind them and is not the picture. The bricks are still solid.
+- **Who:** The brick barrier between platforms nine and ten. Fred and George run, eyes on the brick, a trolley aimed at it. No wand. Molly is behind them and is not the picture. The bricks are still solid.
+- **Faces:** The twins look sure. Their eyes are on the wall, not on Harry.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-005 — not drawn
+
+- **Beat:** A thin seam of steam.
+- **Image:** The trolley is half in the brick. A thin seam of steam and scarlet light shows in the mortar. No glow flood. No wand thread. The boys are vanishing into the seam and are not gone yet.
+- **Setting:** The trolley is half in the brick. A thin seam of steam and scarlet light shows in the mortar. No glow flood. No wand thread. The boys are vanishing into the seam and are not gone yet.
+- **Who:** The trolley is half in the brick. A thin seam of steam and scarlet light shows in the mortar. No glow flood. No wand thread. The boys are vanishing into the seam and are not gone yet.
+- **Faces:** Their faces are set forward. The bricks are the magic, and they are ordinary bricks giving way.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C5-P1-P5
 
 - **Beat:** She tells them to run at the barrier. They vanish.
@@ -1044,6 +1624,26 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Who:** The twins, matching travel jackets over jeans, no house colors, identical grins, mid-vanish. Percy, travel clothes, prefect badge, no house colors, serious. Ron hesitating, worn maroon hand-knit with a gold R, hand-me-down jacket, rat cage on the trolley. Molly encouraging. Ginny watching, envious. Harry staring, still in the faded castoffs.
 - **Faces:** The twins look back at Harry, delighted with themselves. Ron looks at the wall, nervous. Molly looks at Ron, patient love. Harry looks at the vanishing, mouth open.
 - **Dialogue:** **Molly:** "Fred, George, Percy, straight at the wall, and don't stop. Ron, don't dawdle."
+
+#### M5-006 — not drawn
+
+- **Beat:** Eyes shut. Trolley straight.
+- **Image:** Harry runs at the same barrier. Eyes shut. The trolley is straight at the brick. Hedwig's cage is on it. The wall is still solid in front of his knees. No Weasleys in this picture.
+- **Setting:** Harry runs at the same barrier. Eyes shut. The trolley is straight at the brick. Hedwig's cage is on it. The wall is still solid in front of his knees. No Weasleys in this picture.
+- **Who:** Harry runs at the same barrier. Eyes shut. The trolley is straight at the brick. Hedwig's cage is on it. The wall is still solid in front of his knees. No Weasleys in this picture.
+- **Faces:** His eyes are shut. His mouth is tight. He is trusting a wall.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-007 — not drawn
+
+- **Beat:** The bricks take the trolley.
+- **Image:** The bricks take the front of the trolley. A thin seam of platform light. Hedwig's cage is half through. Harry's eyes are still shut. No flood.
+- **Setting:** The bricks take the front of the trolley. A thin seam of platform light. Hedwig's cage is half through. Harry's eyes are still shut. No flood.
+- **Who:** The bricks take the front of the trolley. A thin seam of platform light. Hedwig's cage is half through. Harry's eyes are still shut. No flood.
+- **Faces:** He cannot see it. The cage is the proof the wall is taking him.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C5-P1-P6
 
@@ -1055,6 +1655,46 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Dialogue:** No dialogue.
 
 ### Page 2 — Ron
+
+#### M5-008 — not drawn
+
+- **Beat:** He is through.
+- **Image:** Platform nine and three-quarters. Harry opens his eyes. The barrier is solid brick behind him. The scarlet Hogwarts Express is ahead under the iron roof. Steam. He is in travel clothes, no house robe. The trolley is with him.
+- **Setting:** Platform nine and three-quarters. Harry opens his eyes. The barrier is solid brick behind him. The scarlet Hogwarts Express is ahead under the iron roof. Steam. He is in travel clothes, no house robe. The trolley is with him.
+- **Who:** Platform nine and three-quarters. Harry opens his eyes. The barrier is solid brick behind him. The scarlet Hogwarts Express is ahead under the iron roof. Steam. He is in travel clothes, no house robe. The trolley is with him.
+- **Faces:** His eyes are huge. Relief and fright together. He looks at the train, not back at the brick.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-009 — not drawn
+
+- **Beat:** The Hogwarts Express.
+- **Image:** The scarlet steam train fills the arch. Steam under the iron roof. The scarlet is the train, not a house color. Harry is small on the platform.
+- **Setting:** The scarlet steam train fills the arch. Steam under the iron roof. The scarlet is the train, not a house color. Harry is small on the platform.
+- **Who:** The scarlet steam train fills the arch. Steam under the iron roof. The scarlet is the train, not a house color. Harry is small on the platform.
+- **Faces:** He looks up at the engine.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-010 — not drawn
+
+- **Beat:** Owls, cats, and travel clothes.
+- **Image:** The platform. Owls, cats, trunks. Students in the clothes they traveled in. No house robes, no house ties, no crests, no scarves in house colors. They have not been Sorted.
+- **Setting:** The platform. Owls, cats, trunks. Students in the clothes they traveled in. No house robes, no house ties, no crests, no scarves in house colors. They have not been Sorted.
+- **Who:** The platform. Owls, cats, trunks. Students in the clothes they traveled in. No house robes, no house ties, no crests, no scarves in house colors. They have not been Sorted.
+- **Faces:** Families look at children. Children look at the train.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M5-011 — not drawn
+
+- **Beat:** They load the trunks.
+- **Image:** The same platform. A family loads a trunk. The conductor has not shouted. Harry looks for a door and has not boarded. Ron is not in this picture yet.
+- **Setting:** The same platform. A family loads a trunk. The conductor has not shouted. Harry looks for a door and has not boarded. Ron is not in this picture yet.
+- **Who:** The same platform. A family loads a trunk. The conductor has not shouted. Harry looks for a door and has not boarded. Ron is not in this picture yet.
+- **Faces:** A mother looks at a suitcase. Harry looks along the carriages.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C5-P2-P1
 
@@ -1229,6 +1869,36 @@ Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 
 ### Page 1 — The lake
 
+#### M6-001 — not drawn
+
+- **Beat:** Lanterns on the grounds.
+- **Image:** The Hogwarts grounds at night, after the train. Lanterns. The black lake is below a steep path. The castle is a distant shape. First years are a line of small figures.
+- **Setting:** The Hogwarts grounds at night, after the train. Lanterns. The black lake is below a steep path. The castle is a distant shape. First years are a line of small figures.
+- **Who:** The Hogwarts grounds at night, after the train. Lanterns. The black lake is below a steep path. The castle is a distant shape. First years are a line of small figures.
+- **Faces:** They look up toward the dark.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-002 — not drawn
+
+- **Beat:** The steep path.
+- **Image:** The path itself. Rock and roots. No boats yet. Hagrid's lamp is a moon ahead of the line. Trunks and cages bump.
+- **Setting:** The path itself. Rock and roots. No boats yet. Hagrid's lamp is a moon ahead of the line. Trunks and cages bump.
+- **Who:** The path itself. Rock and roots. No boats yet. Hagrid's lamp is a moon ahead of the line. Trunks and cages bump.
+- **Faces:** Hagrid looks at the path, not at a single child.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-003 — not drawn
+
+- **Beat:** They walk, and nobody has spoken.
+- **Image:** First years on the path in travel clothes and a few plain black robes with no ties and no crests. Neville is already nervous. Hermione holds her books. Harry and Ron are in the line. Hagrid has not warned them yet.
+- **Setting:** First years on the path in travel clothes and a few plain black robes with no ties and no crests. Neville is already nervous. Hermione holds her books. Harry and Ron are in the line. Hagrid has not warned them yet.
+- **Who:** First years on the path in travel clothes and a few plain black robes with no ties and no crests. Neville is already nervous. Hermione holds her books. Harry and Ron are in the line. Hagrid has not warned them yet.
+- **Faces:** Neville looks at his feet. Hermione looks ahead. Harry looks at the lamp.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C6-P1-P1
 
 - **Beat:** First years follow Hagrid down a steep path.
@@ -1255,6 +1925,26 @@ Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 - **Who:** Harry, robes, glasses, hands on his knees, scar, looking forward. Ron, freckles, red hair, one hand trailing near the water and then thinking better of it. Hermione, bushy hair, tie perfect, a hand on Neville’s sleeve without making a fuss. Neville, sandy hair, robes crooked, both hands locked on the wood. No Trevor; he is in a pocket, a lump.
 - **Faces:** Neville looks at the water, terrified. Hermione looks at Neville, steady, kind. Harry looks ahead, calm for someone else for the first time. Ron looks at Harry, copying the calm.
 - **Dialogue:** **Neville:** "I've never been in a boat. I can't swim." **Hermione:** "Then hold the side, Neville, and don't look down."
+
+#### M6-004 — not drawn
+
+- **Beat:** Nobody is rowing.
+- **Image:** Black water. Four to a boat, including Harry, Ron, Hermione, and Neville. Oars still. Neville's hands clutch the side. The boats have not moved. No wand.
+- **Setting:** Black water. Four to a boat, including Harry, Ron, Hermione, and Neville. Oars still. Neville's hands clutch the side. The boats have not moved. No wand.
+- **Who:** Black water. Four to a boat, including Harry, Ron, Hermione, and Neville. Oars still. Neville's hands clutch the side. The boats have not moved. No wand.
+- **Faces:** Neville looks at the water, afraid. Hermione looks at the side she told him to hold. Harry looks at the still oars.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-005 — not drawn
+
+- **Beat:** The water takes the hull.
+- **Image:** The same boat. The water takes the hull. A thin ripple along the wood, no wand, no flood of light. The boat just starts. Nobody rows. Neville's knuckles stay white.
+- **Setting:** The same boat. The water takes the hull. A thin ripple along the wood, no wand, no flood of light. The boat just starts. Nobody rows. Neville's knuckles stay white.
+- **Who:** The same boat. The water takes the hull. A thin ripple along the wood, no wand, no flood of light. The boat just starts. Nobody rows. Neville's knuckles stay white.
+- **Faces:** Ron looks at the water, startled. Harry's eyes are on the moving hull. Neville does not look down.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C6-P1-P4
 
@@ -1285,6 +1975,56 @@ Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 
 ### Page 2 — The Hat’s rules
 
+#### M6-006 — not drawn
+
+- **Beat:** The oak doors.
+- **Image:** Night. The huge oak doors of the castle. First years are small on the steps, muddy hems, travel clothes or plain robes, no house colors. The doors are opening.
+- **Setting:** Night. The huge oak doors of the castle. First years are small on the steps, muddy hems, travel clothes or plain robes, no house colors. The doors are opening.
+- **Who:** Night. The huge oak doors of the castle. First years are small on the steps, muddy hems, travel clothes or plain robes, no house colors. The doors are opening.
+- **Faces:** Harry looks up at the doors. McGonagall is a tall emerald shape ahead.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-007 — not drawn
+
+- **Beat:** The hall, before the sky.
+- **Image:** The Great Hall from the entrance. Four long tables. Candles. The ceiling is still stone and hammer-beams in this picture. The staff table is at the far end. Banners: Gryffindor red and gold, Hufflepuff yellow and black, Ravenclaw blue and bronze, Slytherin green and silver. Older students are seated.
+- **Setting:** The Great Hall from the entrance. Four long tables. Candles. The ceiling is still stone and hammer-beams in this picture. The staff table is at the far end. Banners: Gryffindor red and gold, Hufflepuff yellow and black, Ravenclaw blue and bronze, Slytherin green and silver. Older students are seated.
+- **Who:** The Great Hall from the entrance. Four long tables. Candles. The ceiling is still stone and hammer-beams in this picture. The staff table is at the far end. Banners: Gryffindor red and gold, Hufflepuff yellow and black, Ravenclaw blue and bronze, Slytherin green and silver. Older students are seated.
+- **Faces:** The first years look in. They have not spoken.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-008 — not drawn
+
+- **Beat:** A knot of first years.
+- **Image:** Just inside the doors. Harry, Ron, Hermione, Neville, and Draco in a knot, listening as a group, not walking to a stool. The Hat is not on anyone. No one has been named.
+- **Setting:** Just inside the doors. Harry, Ron, Hermione, Neville, and Draco in a knot, listening as a group, not walking to a stool. The Hat is not on anyone. No one has been named.
+- **Who:** Just inside the doors. Harry, Ron, Hermione, Neville, and Draco in a knot, listening as a group, not walking to a stool. The Hat is not on anyone. No one has been named.
+- **Faces:** Harry looks at the four colors and does not know his. Ron looks toward the red table. Draco looks toward the green. Hermione looks ahead.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-009 — not drawn
+
+- **Beat:** Harry looks up at stone.
+- **Image:** Inside the Great Hall. Harry's eyes go up. The ceiling is stone and beams. Candles hang. The enchanted sky has not started. Ron is beside him and has not explained it.
+- **Setting:** Inside the Great Hall. Harry's eyes go up. The ceiling is stone and beams. Candles hang. The enchanted sky has not started. Ron is beside him and has not explained it.
+- **Who:** Inside the Great Hall. Harry's eyes go up. The ceiling is stone and beams. Candles hang. The enchanted sky has not started. Ron is beside him and has not explained it.
+- **Faces:** Harry looks up, frowning, not awed yet. McGonagall looks ahead.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-010 — not drawn
+
+- **Beat:** The stone thins into night.
+- **Image:** The same ceiling. The stone thins into night. Stars come through in a thin change. Candles stay. Not a flood of glow. No wand. Harry's face is at the bottom of the frame, eyes up.
+- **Setting:** The same ceiling. The stone thins into night. Stars come through in a thin change. Candles stay. Not a flood of glow. No wand. Harry's face is at the bottom of the frame, eyes up.
+- **Who:** The same ceiling. The stone thins into night. Stars come through in a thin change. Candles stay. Not a flood of glow. No wand. Harry's face is at the bottom of the frame, eyes up.
+- **Faces:** His eyes widen. The ceiling is doing it. He has not spoken.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C6-P2-P1
 
 - **Beat:** The Great Hall. Floating candles. A night-sky ceiling.
@@ -1293,6 +2033,26 @@ Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 - **Who:** First years clustered at the door, muddy hems, faces tipped up. Harry, Ron, Hermione, Neville among them. Older students turning to look. McGonagall ahead in emerald robes, leading. Dumbledore a small tall shape at the staff table. Snape a black shape. Quirrell a purple turban.
 - **Faces:** Harry looks at the ceiling, awed. A Ravenclaw student looks at the first years, mild. McGonagall looks ahead, brisk, not looking at the ceiling she has seen for years.
 - **Dialogue:** **Harry:** "The ceiling. It's the sky." **Ron:** "Enchanted. Fred told me. He might even have been right."
+
+#### M6-011 — not drawn
+
+- **Beat:** Feet still in the table.
+- **Image:** The Gryffindor table, or the nearest table. A pearly bluish-white shape rises through the wood. Fading feet are still in the table. Plates do not move. Neville has not jumped yet.
+- **Setting:** The Gryffindor table, or the nearest table. A pearly bluish-white shape rises through the wood. Fading feet are still in the table. Plates do not move. Neville has not jumped yet.
+- **Who:** The Gryffindor table, or the nearest table. A pearly bluish-white shape rises through the wood. Fading feet are still in the table. Plates do not move. Neville has not jumped yet.
+- **Faces:** The ghost looks mild. Neville's eyes have just found the feet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-012 — not drawn
+
+- **Beat:** The head clears the plates.
+- **Image:** The ghost's head and ruff clear the plates. Pearly, bluish-white, transparent. Neville's eyes lock on it. His mouth is opening. He has not yelped. Hermione's books are still steady.
+- **Setting:** The ghost's head and ruff clear the plates. Pearly, bluish-white, transparent. Neville's eyes lock on it. His mouth is opening. He has not yelped. Hermione's books are still steady.
+- **Who:** The ghost's head and ruff clear the plates. Pearly, bluish-white, transparent. Neville's eyes lock on it. His mouth is opening. He has not yelped. Hermione's books are still steady.
+- **Faces:** The ghost looks pleased to be noticed. Neville is one second from the yelp. Harry is delighted and afraid.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C6-P2-P2
 
@@ -1313,6 +2073,16 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 - **Who:** McGonagall, bun, square spectacles, emerald robes and hat, scroll. The Sorting Hat, patched, leather, brim slumped, on a three-legged stool. First years in a nervous knot: Harry, Ron twisting his hands, Hermione mouthing facts, Draco smooth, Neville pale.
 - **Faces:** McGonagall looks along the line of children, fair and severe. Hermione looks at the hat, intent. Draco looks at the green banner, already home in his head. Harry looks at the four colors, not knowing which one is his.
 - **Dialogue:** **McGonagall:** "You will be Sorted into Gryffindor, Hufflepuff, Ravenclaw, or Slytherin. The Sorting Hat decides. Not you."
+
+#### M6-013 — not drawn
+
+- **Beat:** The Hat is set down, and it is still.
+- **Image:** McGonagall sets the patched Sorting Hat on a four-legged stool. Her hand is just leaving. The brim has not rippled. The tear that will be a mouth is shut. The hall watches. No one is wearing it.
+- **Setting:** McGonagall sets the patched Sorting Hat on a four-legged stool. Her hand is just leaving. The brim has not rippled. The tear that will be a mouth is shut. The hall watches. No one is wearing it.
+- **Who:** McGonagall sets the patched Sorting Hat on a four-legged stool. Her hand is just leaving. The brim has not rippled. The tear that will be a mouth is shut. The hall watches. No one is wearing it.
+- **Faces:** McGonagall looks at the hat, formal. A first year flinches at nothing yet. The hat has no expression.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C6-P2-P4
 
@@ -1343,6 +2113,26 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 
 ### Page 3 — Names
 
+#### M6-014 — not drawn
+
+- **Beat:** The Hat is on her head.
+- **Image:** The stool in the Great Hall. The Sorting Hat is on Hermione's head, brim over her eyes, her bushy hair under it. It has not spoken. She sits straight. The red table is waiting and has not erupted.
+- **Setting:** The stool in the Great Hall. The Sorting Hat is on Hermione's head, brim over her eyes, her bushy hair under it. It has not spoken. She sits straight. The red table is waiting and has not erupted.
+- **Who:** The stool in the Great Hall. The Sorting Hat is on Hermione's head, brim over her eyes, her bushy hair under it. It has not spoken. She sits straight. The red table is waiting and has not erupted.
+- **Faces:** Her mouth is shut. She listens. McGonagall watches the hat, not the girl.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-015 — not drawn
+
+- **Beat:** The Hat speaks.
+- **Image:** The brim moves like a mouth. The Hat is speaking and has not shouted a house. Hermione's mouth stays shut. Her eyes are hidden. The hall leans in.
+- **Setting:** The brim moves like a mouth. The Hat is speaking and has not shouted a house. Hermione's mouth stays shut. Her eyes are hidden. The hall leans in.
+- **Who:** The brim moves like a mouth. The Hat is speaking and has not shouted a house. Hermione's mouth stays shut. Her eyes are hidden. The hall leans in.
+- **Faces:** The brim looks as if it is deciding quickly. Hermione is still, attentive, not smiling yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C6-P3-P1
 
 - **Beat:** Hermione. The Hat barely touches her and calls Gryffindor.
@@ -1351,6 +2141,26 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 - **Who:** Hermione, new robes, tie perfect, the Hat in her hands, bookless for once. McGonagall nodding once. Harry and Ron still in line. Gryffindor students cheering, including the twins.
 - **Faces:** Hermione looks toward the red table, relieved, a bright true smile. She glances back at Harry and Ron, encouraging. The Hat, in her hands, looks spent for a second. Draco looks bored.
 - **Dialogue:** **Sorting Hat:** "Gryffindor!"
+
+#### M6-016 — not drawn
+
+- **Beat:** The Hat is on Draco.
+- **Image:** Draco sits on the stool. The Hat is on his platinum hair. His mouth is mid-word, asking. His eyes look forward. The Hat has not answered. Green and silver are bright behind him. Snape watches from the high table.
+- **Setting:** Draco sits on the stool. The Hat is on his platinum hair. His mouth is mid-word, asking. His eyes look forward. The Hat has not answered. Green and silver are bright behind him. Snape watches from the high table.
+- **Who:** Draco sits on the stool. The Hat is on his platinum hair. His mouth is mid-word, asking. His eyes look forward. The Hat has not answered. Green and silver are bright behind him. Snape watches from the high table.
+- **Faces:** Draco looks cool and sure. The Hat's brim has not agreed yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-017 — not drawn
+
+- **Beat:** The brim answers.
+- **Image:** The brim works. A thin pause. The Hat is speaking and has not shouted. Draco's mouth has closed. The green table is waiting to cheer.
+- **Setting:** The brim works. A thin pause. The Hat is speaking and has not shouted. Draco's mouth has closed. The green table is waiting to cheer.
+- **Who:** The brim works. A thin pause. The Hat is speaking and has not shouted. Draco's mouth has closed. The green table is waiting to cheer.
+- **Faces:** Draco's eyes stay forward, a cool smile starting. Snape's face does not move yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C6-P3-P2
 
@@ -1370,6 +2180,36 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 - **Faces:** Draco looks at Harry, a challenge and an invitation mixed, smile thin. Harry looks forward at the hat, refusing to look back. Ron looks at Draco, scowling.
 - **Dialogue:** No dialogue.
 
+#### M6-018 — not drawn
+
+- **Beat:** Neville's foot catches.
+- **Image:** The open floor of the Great Hall. Neville's foot catches. He is going down toward the stool. The Hat is still on the stool, not on his head. Trevor is a lump in a pocket. The hall is about to laugh. He has not been Sorted.
+- **Setting:** The open floor of the Great Hall. Neville's foot catches. He is going down toward the stool. The Hat is still on the stool, not on his head. Trevor is a lump in a pocket. The hall is about to laugh. He has not been Sorted.
+- **Who:** The open floor of the Great Hall. Neville's foot catches. He is going down toward the stool. The Hat is still on the stool, not on his head. Trevor is a lump in a pocket. The hall is about to laugh. He has not been Sorted.
+- **Faces:** His face is already mortified, ears red. His eyes are on the floor.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-019 — not drawn
+
+- **Beat:** The Hat is on Neville.
+- **Image:** Neville is on the stool. The Hat is on his head. His ears are red. The hall watches. The brim has not shouted. Hermione is at the red table, not standing yet.
+- **Setting:** Neville is on the stool. The Hat is on his head. His ears are red. The hall watches. The brim has not shouted. Hermione is at the red table, not standing yet.
+- **Who:** Neville is on the stool. The Hat is on his head. His ears are red. The hall watches. The brim has not shouted. Hermione is at the red table, not standing yet.
+- **Faces:** His eyes are hidden. He looks as if he expects the wrong house.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-020 — not drawn
+
+- **Beat:** The Hat speaks over Neville.
+- **Image:** The brim speaks. Neville's eyes stay hidden. He is not smiling yet. The shout has not come. The red table is holding its breath.
+- **Setting:** The brim speaks. Neville's eyes stay hidden. He is not smiling yet. The shout has not come. The red table is holding its breath.
+- **Who:** The brim speaks. Neville's eyes stay hidden. He is not smiling yet. The shout has not come. The red table is holding its breath.
+- **Faces:** The brim looks busy. Neville's mouth is a worried line under the hat.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C6-P3-P4
 
 - **Beat:** Neville trips. The hall laughs, then the Hat shouts Gryffindor.
@@ -1378,6 +2218,26 @@ Required insert, not a numbered panel. Do not renumber. Before any name is calle
 - **Who:** Neville, sandy hair, robes tangled, Trevor visible in a pocket, first on the floor, then under the Hat. McGonagall’s mouth tight against a smile. Hermione at the red table, already standing to make room.
 - **Faces:** On the floor, Neville looks at the flagstones, mortified, ears red. Under the Hat, he looks out, beaming, disbelief. Hermione looks at him, welcoming. A few Slytherins look cruel. Harry looks at Neville, glad for him.
 - **Dialogue:** **Sorting Hat:** "Gryffindor!" **Neville:** "I did it. I actually did it."
+
+#### M6-021 — not drawn
+
+- **Beat:** The Hat goes onto Ron.
+- **Image:** The stool. The Hat goes onto Ron's red hair. His eyes are tight. He is afraid of the green table and of being last. The brim has not spoken. Harry is still in the unsorted line.
+- **Setting:** The stool. The Hat goes onto Ron's red hair. His eyes are tight. He is afraid of the green table and of being last. The brim has not spoken. Harry is still in the unsorted line.
+- **Who:** The stool. The Hat goes onto Ron's red hair. His eyes are tight. He is afraid of the green table and of being last. The brim has not spoken. Harry is still in the unsorted line.
+- **Faces:** Ron looks scared. His eyes are almost shut. He does not look at Slytherin.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M6-022 — not drawn
+
+- **Beat:** The Hat hesitates.
+- **Image:** The brim hesitates, speaking slowly. Ron's mouth is mid-plea and the shout has not come. His ears are as red as his hair. The red table waits.
+- **Setting:** The brim hesitates, speaking slowly. Ron's mouth is mid-plea and the shout has not come. His ears are as red as his hair. The red table waits.
+- **Who:** The brim hesitates, speaking slowly. Ron's mouth is mid-plea and the shout has not come. His ears are as red as his hair. The red table waits.
+- **Faces:** He looks afraid of the pause. The brim looks unhurried.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C6-P3-P5
 
@@ -1461,6 +2321,56 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 
 ### Page 1 — The moving stairs
 
+#### M7-001 — not drawn
+
+- **Beat:** A door onto the stairwell.
+- **Image:** Morning in Hogwarts. A corridor door looking into a tall stairwell. Armor, torches, stone. The flight inside is not moving yet.
+- **Setting:** Morning in Hogwarts. A corridor door looking into a tall stairwell. Armor, torches, stone. The flight inside is not moving yet.
+- **Who:** Morning in Hogwarts. A corridor door looking into a tall stairwell. Armor, torches, stone. The flight inside is not moving yet.
+- **Faces:** Harry and Ron are small in the doorway, not late yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-002 — not drawn
+
+- **Beat:** One flight, still, hinged at the bottom.
+- **Image:** The stairwell. One entire flight rests on its landing. The bottom stays put, the hinge quiet. Every step is fixed to the other steps. Both railings are part of the flight. Other flights are still. No one is off balance.
+- **Setting:** The stairwell. One entire flight rests on its landing. The bottom stays put, the hinge quiet. Every step is fixed to the other steps. Both railings are part of the flight. Other flights are still. No one is off balance.
+- **Who:** The stairwell. One entire flight rests on its landing. The bottom stays put, the hinge quiet. Every step is fixed to the other steps. Both railings are part of the flight. Other flights are still. No one is off balance.
+- **Faces:** The stairs look ordinary. That is the trick.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-003 — not drawn
+
+- **Beat:** They walk it while it is still.
+- **Image:** Harry and Ron walk on a landing, books in hand, robes and ties from after the Sorting. Their feet are steady. The flight has not turned. Other students walk normally. No one is staring.
+- **Setting:** Harry and Ron walk on a landing, books in hand, robes and ties from after the Sorting. Their feet are steady. The flight has not turned. Other students walk normally. No one is staring.
+- **Who:** Harry and Ron walk on a landing, books in hand, robes and ties from after the Sorting. Their feet are steady. The flight has not turned. Other students walk normally. No one is staring.
+- **Faces:** Harry looks for a classroom. Ron looks at a map that is not helping. They are not afraid yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-004 — not drawn
+
+- **Beat:** The flight pivots at the bottom.
+- **Image:** Three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible. One entire flight turns as a single solid object, pivoting at the bottom like a door hinged at the floor. Every step stays fixed. Both railings turn with it. The upper end swings away from the landing and a gap opens. No one is calmly walking. Do not crop out the hinge. Not a flat head-on view.
+- **Setting:** Three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible. One entire flight turns as a single solid object, pivoting at the bottom like a door hinged at the floor. Every step stays fixed. Both railings turn with it. The upper end swings away from the landing and a gap opens. No one is calmly walking. Do not crop out the hinge. Not a flat head-on view.
+- **Who:** Three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible. One entire flight turns as a single solid object, pivoting at the bottom like a door hinged at the floor. Every step stays fixed. Both railings turn with it. The upper end swings away from the landing and a gap opens. No one is calmly walking. Do not crop out the hinge. Not a flat head-on view.
+- **Faces:** The flight is the subject. Faces on the landings are only starting to turn.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-005 — not drawn
+
+- **Beat:** Students on the landings stare.
+- **Image:** The same stairwell. Students stand on the landings, feet still, faces turned toward the moving flight. Nobody is on the flight in this frame. A suit of armor watches. Other flights stay still.
+- **Setting:** The same stairwell. Students stand on the landings, feet still, faces turned toward the moving flight. Nobody is on the flight in this frame. A suit of armor watches. Other flights stay still.
+- **Who:** The same stairwell. Students stand on the landings, feet still, faces turned toward the moving flight. Nobody is on the flight in this frame. A suit of armor watches. Other flights stay still.
+- **Faces:** They stare. Mouths open. They are not walking.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C7-P1-P1
 
 - **Beat:** A staircase moves. Harry and Ron miss their landing.
@@ -1470,6 +2380,16 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Harry looks at the departing landing, alarmed, almost falling. Ron looks at Harry, a wild grin that is also panic, off balance. The students on the landings stare at the turning flight. The armor looks, somehow, unimpressed.
 - **Dialogue:** **Ron:** "That was our landing!" **Harry:** "It moved. The whole staircase moved."
 
+#### M7-006 — not drawn
+
+- **Beat:** The painting is still inside the frame.
+- **Image:** A Hogwarts landing. A painting in its frame. The painted wizard is still, not leaning out. Harry and Ron look at the frame. The staircase behind them has stopped on the wrong arch, or is still wrong. The portrait has not scolded them.
+- **Setting:** A Hogwarts landing. A painting in its frame. The painted wizard is still, not leaning out. Harry and Ron look at the frame. The staircase behind them has stopped on the wrong arch, or is still wrong. The portrait has not scolded them.
+- **Who:** A Hogwarts landing. A painting in its frame. The painted wizard is still, not leaning out. Harry and Ron look at the frame. The staircase behind them has stopped on the wrong arch, or is still wrong. The portrait has not scolded them.
+- **Faces:** The painted face is blank and formal. Harry looks at it, hoping it is a sign.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C7-P1-P2
 
 - **Beat:** A portrait scolds them for being lost.
@@ -1478,6 +2398,26 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Who:** The portrait, an old wizard, painted robes, angry little beard, leaning out so far his frame cuts him at the waist. Harry and Ron, books clutched, out of breath, ties crooked.
 - **Faces:** The portrait looks down his nose at them, scolding. Harry looks up, polite, lost. Ron looks at the portrait, offended at being told off by paint.
 - **Dialogue:** **Portrait:** "Lost, are you? First years always are. The castle does not rearrange itself for your convenience. Except when it does."
+
+#### M7-007 — not drawn
+
+- **Beat:** Peeves has the basket.
+- **Image:** Under a chandelier in the corridor. Peeves hangs there, solid, not a ghost, not pearly. Orange and purple jester motley, a belled hat, tongue in, a cruel grin starting. A wastebasket is in his hands. His eyes are on Harry and Ron. He has not dropped it.
+- **Setting:** Under a chandelier in the corridor. Peeves hangs there, solid, not a ghost, not pearly. Orange and purple jester motley, a belled hat, tongue in, a cruel grin starting. A wastebasket is in his hands. His eyes are on Harry and Ron. He has not dropped it.
+- **Who:** Under a chandelier in the corridor. Peeves hangs there, solid, not a ghost, not pearly. Orange and purple jester motley, a belled hat, tongue in, a cruel grin starting. A wastebasket is in his hands. His eyes are on Harry and Ron. He has not dropped it.
+- **Faces:** Peeves looks down, delighted. The boys have not looked up.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-008 — not drawn
+
+- **Beat:** The basket falls.
+- **Image:** The wastebasket is in the air between Peeves and the boys. A thin messy trail, not a spell thread. It has not hit them. Peeves is already laughing. Harry and Ron are looking up too late.
+- **Setting:** The wastebasket is in the air between Peeves and the boys. A thin messy trail, not a spell thread. It has not hit them. Peeves is already laughing. Harry and Ron are looking up too late.
+- **Who:** The wastebasket is in the air between Peeves and the boys. A thin messy trail, not a spell thread. It has not hit them. Peeves is already laughing. Harry and Ron are looking up too late.
+- **Faces:** Their eyes go up. Peeves's grin is the whole face.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P1-P3
 
@@ -1520,6 +2460,36 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 
 ### Page 2 — Transfiguration
 
+#### M7-009 — not drawn
+
+- **Beat:** They are outside the door.
+- **Image:** A Hogwarts corridor, morning. The Transfiguration door. Harry and Ron are dusty, ties crooked, a bit of rubbish on a sleeve. The door is shut. They are late and not inside.
+- **Setting:** A Hogwarts corridor, morning. The Transfiguration door. Harry and Ron are dusty, ties crooked, a bit of rubbish on a sleeve. The door is shut. They are late and not inside.
+- **Who:** A Hogwarts corridor, morning. The Transfiguration door. Harry and Ron are dusty, ties crooked, a bit of rubbish on a sleeve. The door is shut. They are late and not inside.
+- **Faces:** Harry looks at the door, worried. Ron looks at the mess on himself.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-010 — not drawn
+
+- **Beat:** A tabby on the desk.
+- **Image:** Inside the classroom. Desks. A thin tabby with spectacle marks around the eyes sits on the teacher's desk. Students are seated. McGonagall is not a woman yet. No wand in the cat's paw.
+- **Setting:** Inside the classroom. Desks. A thin tabby with spectacle marks around the eyes sits on the teacher's desk. Students are seated. McGonagall is not a woman yet. No wand in the cat's paw.
+- **Who:** Inside the classroom. Desks. A thin tabby with spectacle marks around the eyes sits on the teacher's desk. Students are seated. McGonagall is not a woman yet. No wand in the cat's paw.
+- **Faces:** The cat's eyes are on the door. The class looks bored and does not know.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-011 — not drawn
+
+- **Beat:** The class waits.
+- **Image:** The same room. Quills down. Matchsticks are not out yet. Students wait. The cat is still a cat. Harry and Ron are not in the room. No one has spoken.
+- **Setting:** The same room. Quills down. Matchsticks are not out yet. Students wait. The cat is still a cat. Harry and Ron are not in the room. No one has spoken.
+- **Who:** The same room. Quills down. Matchsticks are not out yet. Students wait. The cat is still a cat. Harry and Ron are not in the room. No one has spoken.
+- **Faces:** The front row looks at the cat and thinks it is a pet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C7-P1-P4
 
 - **Beat:** They tumble into class late. McGonagall is already teaching.
@@ -1528,6 +2498,26 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Who:** Harry and Ron in the doorway, robes dusty, Ron with a bin on his head, red hair sticking out. McGonagall at the front, emerald robes, bun, spectacles, a desk wand in hand. Hermione in the front row, already perfect, wincing for them. Neville hiding a smile. Draco, in this class, smug at the back.
 - **Faces:** McGonagall looks at them, cold disappointment, not surprise. Hermione looks at them, secondhand embarrassment. Draco looks at them, delighted. Harry looks at McGonagall, apologetic. Ron looks from inside the bin, muffled.
 - **Dialogue:** **McGonagall:** "You are late. Sit. And remove the wastebasket, Mr Weasley."
+
+#### M7-012 — not drawn
+
+- **Beat:** The cat's eyes lock on the class.
+- **Image:** The teacher's desk. The tabby, spectacle marks, eyes locked on the class. No wand. The body is starting to rise off the desk. Students are only beginning to notice. Harry and Ron are in the doorway, mouths not open yet.
+- **Setting:** The teacher's desk. The tabby, spectacle marks, eyes locked on the class. No wand. The body is starting to rise off the desk. Students are only beginning to notice. Harry and Ron are in the doorway, mouths not open yet.
+- **Who:** The teacher's desk. The tabby, spectacle marks, eyes locked on the class. No wand. The body is starting to rise off the desk. Students are only beginning to notice. Harry and Ron are in the doorway, mouths not open yet.
+- **Faces:** The cat's eyes are the same eyes McGonagall will have. The class looks confused.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-013 — not drawn
+
+- **Beat:** Mid-change. No wand line.
+- **Image:** Mid-transformation on the desk. Same eyes. The spectacle marks become square glasses. Emerald robes form out of tabby mist. No wand line and no glow flood. The class is gasping and the change is not finished.
+- **Setting:** Mid-transformation on the desk. Same eyes. The spectacle marks become square glasses. Emerald robes form out of tabby mist. No wand line and no glow flood. The class is gasping and the change is not finished.
+- **Who:** Mid-transformation on the desk. Same eyes. The spectacle marks become square glasses. Emerald robes form out of tabby mist. No wand line and no glow flood. The class is gasping and the change is not finished.
+- **Faces:** Her eyes stay stern. A student's mouth is open. Harry's eyes are locked on the change.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P1-P5
 
@@ -1557,6 +2547,26 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Dialogue:** **McGonagall:** "Wands up. A matchstick. You will make a needle."
 - **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
 
+#### M7-014 — not drawn
+
+- **Beat:** Hermione's wand is on the match.
+- **Image:** The Transfiguration classroom. Hermione's wand is pointed at a matchstick on her desk. Her eyes are on the match. Her mouth is mid-word. McGonagall watches. The match is still a match. No thread yet.
+- **Setting:** The Transfiguration classroom. Hermione's wand is pointed at a matchstick on her desk. Her eyes are on the match. Her mouth is mid-word. McGonagall watches. The match is still a match. No thread yet.
+- **Who:** The Transfiguration classroom. Hermione's wand is pointed at a matchstick on her desk. Her eyes are on the match. Her mouth is mid-word. McGonagall watches. The match is still a match. No thread yet.
+- **Faces:** Hermione looks concentrated, trying not to be proud. McGonagall's eyes are on the wand tip.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-015 — not drawn
+
+- **Beat:** A thin thread to the match.
+- **Image:** A thin thread from Hermione's wand tip to the matchstick. A few sparks. Not a flood. The match is changing and is not a needle yet. Her eyes stay on it.
+- **Setting:** A thin thread from Hermione's wand tip to the matchstick. A few sparks. Not a flood. The match is changing and is not a needle yet. Her eyes stay on it.
+- **Who:** A thin thread from Hermione's wand tip to the matchstick. A few sparks. Not a flood. The match is changing and is not a needle yet. Her eyes stay on it.
+- **Faces:** She does not look at the class. McGonagall looks almost approving.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### N7-P2-P5
 
 - **Beat:** Hermione's matchstick is a needle. Same room.
@@ -1566,6 +2576,16 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Hermione is pleased and trying not to be. McGonagall approves. Ron's eyes groan. Harry is impressed.
 - **Dialogue:** **Hermione:** "It's a needle, Professor."
 - **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
+
+#### M7-016 — not drawn
+
+- **Beat:** A small fizzle, and it dies.
+- **Image:** Harry's wand is pointed at his matchstick. His eyes are on it. His mouth is mid-word. A faint fizzle at the tip dies. The thread is thin and short and does not reach as a proper line. The match only starts to look pointed. A small failure, not a glow.
+- **Setting:** Harry's wand is pointed at his matchstick. His eyes are on it. His mouth is mid-word. A faint fizzle at the tip dies. The thread is thin and short and does not reach as a proper line. The match only starts to look pointed. A small failure, not a glow.
+- **Who:** Harry's wand is pointed at his matchstick. His eyes are on it. His mouth is mid-word. A faint fizzle at the tip dies. The thread is thin and short and does not reach as a proper line. The match only starts to look pointed. A small failure, not a glow.
+- **Faces:** Harry looks disappointed. Ron, nearby, looks as if his own match is no better.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### N7-P2-P6
 
@@ -1578,6 +2598,36 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
 
 ### Page 3 — Charms
+
+#### M7-017 — not drawn
+
+- **Beat:** The Charms door.
+- **Image:** A corridor. The door to Charms. Harry, Ron, and Hermione outside it, wands not out yet. They are on time enough to walk in properly.
+- **Setting:** A corridor. The door to Charms. Harry, Ron, and Hermione outside it, wands not out yet. They are on time enough to walk in properly.
+- **Who:** A corridor. The door to Charms. Harry, Ron, and Hermione outside it, wands not out yet. They are on time enough to walk in properly.
+- **Faces:** Hermione looks ready. Ron looks unready.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-018 — not drawn
+
+- **Beat:** Feathers on the desks.
+- **Image:** The Charms classroom. A feather on each desk. Professor Flitwick is small beside a stack of books. He has not spoken. The feathers are still.
+- **Setting:** The Charms classroom. A feather on each desk. Professor Flitwick is small beside a stack of books. He has not spoken. The feathers are still.
+- **Who:** The Charms classroom. A feather on each desk. Professor Flitwick is small beside a stack of books. He has not spoken. The feathers are still.
+- **Faces:** Flitwick looks bright and has not started. The feathers look harmless.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-019 — not drawn
+
+- **Beat:** Wands down.
+- **Image:** Students sit with wands down, looking at the feathers. Harry's feather lies still. Seamus looks too eager and has not cast. Hermione's hand is correct on the wand and she has not swished.
+- **Setting:** Students sit with wands down, looking at the feathers. Harry's feather lies still. Seamus looks too eager and has not cast. Hermione's hand is correct on the wand and she has not swished.
+- **Who:** Students sit with wands down, looking at the feathers. Harry's feather lies still. Seamus looks too eager and has not cast. Hermione's hand is correct on the wand and she has not swished.
+- **Faces:** Harry looks at his feather, unsure. Seamus looks at his, delighted in advance. Hermione looks at Flitwick, waiting.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### N7-P3-P1
 
@@ -1598,6 +2648,26 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Harry looks at his feather, frustrated, then at the hopping one, envious. Ron looks at his own smoke, worried. Flitwick looks at the class, encouraging, not at Harry’s failure.
 - **Dialogue:** **Flitwick:** "Swish and flick. The charm is Wingardium Leviosa." **Harry:** "Nothing. Not even a twitch."
 
+#### M7-020 — not drawn
+
+- **Beat:** Seamus aims at the feather.
+- **Image:** Charms. Seamus Finnigan's wand is pointed at his own feather. His eyes are on it. His mouth is mid-word. He is too eager. The feather is whole. No explosion yet.
+- **Setting:** Charms. Seamus Finnigan's wand is pointed at his own feather. His eyes are on it. His mouth is mid-word. He is too eager. The feather is whole. No explosion yet.
+- **Who:** Charms. Seamus Finnigan's wand is pointed at his own feather. His eyes are on it. His mouth is mid-word. He is too eager. The feather is whole. No explosion yet.
+- **Faces:** Seamus looks sure he said it right. Flitwick's eyes are already worried.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-021 — not drawn
+
+- **Beat:** A thin wild thread.
+- **Image:** A thin wild thread leaves Seamus's wand tip and hits the feather. The feather shakes. The thread is still a thread, not a flood of fire. The explosion has not happened.
+- **Setting:** A thin wild thread leaves Seamus's wand tip and hits the feather. The feather shakes. The thread is still a thread, not a flood of fire. The explosion has not happened.
+- **Who:** A thin wild thread leaves Seamus's wand tip and hits the feather. The feather shakes. The thread is still a thread, not a flood of fire. The explosion has not happened.
+- **Faces:** Seamus leans in. His eyes are on the shaking feather.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### N7-P3-P3
 
 - **Beat:** Seamus's feather explodes in his face.
@@ -1607,6 +2677,36 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Faces:** Seamus looks shocked, then delighted. Flitwick looks alarmed and kind. Harry stares. Ron almost laughs.
 - **Dialogue:** **Seamus:** "I said it right!" **Flitwick:** "A little less force, Mr Finnigan."
 - **Art:** Not drawn yet. No picture file. Do not reuse another panel's jpg.
+
+#### M7-022 — not drawn
+
+- **Beat:** Soot on his face.
+- **Image:** The feather is gone. Soot is on Seamus's face. He blinks. Bits of feather drift. Flitwick's eyes are on him. The desk is scorched in a small mark. Follow-through, not a second explosion.
+- **Setting:** The feather is gone. Soot is on Seamus's face. He blinks. Bits of feather drift. Flitwick's eyes are on him. The desk is scorched in a small mark. Follow-through, not a second explosion.
+- **Who:** The feather is gone. Soot is on Seamus's face. He blinks. Bits of feather drift. Flitwick's eyes are on him. The desk is scorched in a small mark. Follow-through, not a second explosion.
+- **Faces:** Seamus looks offended and sooty. Flitwick looks kind and firm. Ron is trying not to laugh.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-023 — not drawn
+
+- **Beat:** She shapes the middle of the word.
+- **Image:** Hermione's wand is pointed at her feather. Her mouth shapes the middle of the word, clear, eyes on the feather. The feather is still on the desk. Ron is in the background and has not mocked her yet.
+- **Setting:** Hermione's wand is pointed at her feather. Her mouth shapes the middle of the word, clear, eyes on the feather. The feather is still on the desk. Ron is in the background and has not mocked her yet.
+- **Who:** Hermione's wand is pointed at her feather. Her mouth shapes the middle of the word, clear, eyes on the feather. The feather is still on the desk. Ron is in the background and has not mocked her yet.
+- **Faces:** She looks precise. Her eyes do not leave the feather.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-024 — not drawn
+
+- **Beat:** A thin even thread.
+- **Image:** A thin even thread from her wand tip to the feather. The feather just leaves the desk. Not a flood. The thread is readable. Her mouth is still on the word.
+- **Setting:** A thin even thread from her wand tip to the feather. The feather just leaves the desk. Not a flood. The thread is readable. Her mouth is still on the word.
+- **Who:** A thin even thread from her wand tip to the feather. The feather just leaves the desk. Not a flood. The thread is readable. Her mouth is still on the word.
+- **Faces:** She looks calm. Flitwick's eyes light up. He has not given the points yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P2-P2
 
@@ -1639,6 +2739,36 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 
 ### Page 4 — Herbology
 
+#### M7-025 — not drawn
+
+- **Beat:** Greenhouse Three.
+- **Image:** The wet path outside Greenhouse Three. Glass, morning, damp. Harry, Ron, Hermione, and Neville are at the door and not inside. Boots not yet in.
+- **Setting:** The wet path outside Greenhouse Three. Glass, morning, damp. Harry, Ron, Hermione, and Neville are at the door and not inside. Boots not yet in.
+- **Who:** The wet path outside Greenhouse Three. Glass, morning, damp. Harry, Ron, Hermione, and Neville are at the door and not inside. Boots not yet in.
+- **Faces:** Neville looks sure for the first time. Ron looks suspicious of plants.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-026 — not drawn
+
+- **Beat:** Pots, and a patched hat.
+- **Image:** Inside the greenhouse. Pots, soil, warm damp air. Professor Sprout's patched hat is among the plants. She has not spoken. Earmuffs are on a bench, not on ears.
+- **Setting:** Inside the greenhouse. Pots, soil, warm damp air. Professor Sprout's patched hat is among the plants. She has not spoken. Earmuffs are on a bench, not on ears.
+- **Who:** Inside the greenhouse. Pots, soil, warm damp air. Professor Sprout's patched hat is among the plants. She has not spoken. Earmuffs are on a bench, not on ears.
+- **Faces:** Sprout looks at a pot, busy, pleased.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-027 — not drawn
+
+- **Beat:** Neville's hands are already sure.
+- **Image:** The bench. Neville's hands are firm on a pot. Ron is reaching toward the wrong plant. Harry stands back. Sprout has not praised anyone. No bite yet.
+- **Setting:** The bench. Neville's hands are firm on a pot. Ron is reaching toward the wrong plant. Harry stands back. Sprout has not praised anyone. No bite yet.
+- **Who:** The bench. Neville's hands are firm on a pot. Ron is reaching toward the wrong plant. Harry stands back. Sprout has not praised anyone. No bite yet.
+- **Faces:** Neville looks at the plant, calm. Ron looks careless. Harry watches Neville.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### N7-P4-P1
 
 - **Beat:** They walk into the greenhouse. Not another classroom.
@@ -1657,6 +2787,26 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 - **Who:** Neville, robes with the sleeves rolled, dirt on his hands, sandy hair, a pot in both hands, earmuffs around his neck. A seedling with little grabbing arms. Harry beside him with a worse pot, glasses fogged. Sprout’s hat in the background.
 - **Faces:** Neville looks at the plant, calm, happy, competent. The plant leans toward him. Harry looks at Neville, glad for him, a little mud on his cheek. Sprout looks at Neville, approving.
 - **Dialogue:** **Sprout:** "That's it, Mr Longbottom. Firm hands. The Mandrake trusts you."
+
+#### M7-028 — not drawn
+
+- **Beat:** The plant turns toward Ron.
+- **Image:** The greenhouse bench. A plant's leaves turn toward Ron's hand. Neville's eyes are proud of his own pot, which is behaving. Ron is not looking at the leaves. The bite has not landed.
+- **Setting:** The greenhouse bench. A plant's leaves turn toward Ron's hand. Neville's eyes are proud of his own pot, which is behaving. Ron is not looking at the leaves. The bite has not landed.
+- **Who:** The greenhouse bench. A plant's leaves turn toward Ron's hand. Neville's eyes are proud of his own pot, which is behaving. Ron is not looking at the leaves. The bite has not landed.
+- **Faces:** The plant has no face. Its turn is the intent. Ron looks at Neville, about to joke.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M7-029 — not drawn
+
+- **Beat:** It takes the finger.
+- **Image:** The plant strikes. It has Ron's finger. His mouth is opening and the yell has not finished. Neville's plant stays still. No wand. The bite is the magic acting.
+- **Setting:** The plant strikes. It has Ron's finger. His mouth is opening and the yell has not finished. Neville's plant stays still. No wand. The bite is the magic acting.
+- **Who:** The plant strikes. It has Ron's finger. His mouth is opening and the yell has not finished. Neville's plant stays still. No wand. The bite is the magic acting.
+- **Faces:** Ron's eyes are wide, offended. Neville looks horrified that it was not his plant. Harry looks at the bite.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C7-P2-P4
 
@@ -1705,6 +2855,36 @@ One place on each page: the moving stairs, then Transfiguration, then Charms, th
 The same day, after the classrooms. Four scenes, one place each: the way down, the dungeon before the questions, the humiliation, and the corridor after. Old pictures keep their old codes and files.
 
 ### Page 1 — The way down
+
+#### M8-001 — not drawn
+
+- **Beat:** The dark mouth of the stair.
+- **Image:** A Hogwarts corridor, daytime, stone. The dungeon stair is a dark mouth at the end. Torches show further down. Harry, Ron, and Hermione are not on the stair yet.
+- **Setting:** A Hogwarts corridor, daytime, stone. The dungeon stair is a dark mouth at the end. Torches show further down. Harry, Ron, and Hermione are not on the stair yet.
+- **Who:** A Hogwarts corridor, daytime, stone. The dungeon stair is a dark mouth at the end. Torches show further down. Harry, Ron, and Hermione are not on the stair yet.
+- **Faces:** Hermione looks at the stair, on time. Ron looks less sure.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M8-002 — not drawn
+
+- **Beat:** Cold air comes up.
+- **Image:** The top of the stair. Cold air. Torch brackets below. The steps keep going and the classroom door is not in frame. No jars yet.
+- **Setting:** The top of the stair. Cold air. Torch brackets below. The steps keep going and the classroom door is not in frame. No jars yet.
+- **Who:** The top of the stair. Cold air. Torch brackets below. The steps keep going and the classroom door is not in frame. No jars yet.
+- **Faces:** They look down. The cold is the welcome.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M8-003 — not drawn
+
+- **Beat:** She checks the timetable.
+- **Image:** The same landing. Hermione looks at a timetable. Harry and Ron wait beside her. They have not started down. Draco is not here. No one has spoken.
+- **Setting:** The same landing. Hermione looks at a timetable. Harry and Ron wait beside her. They have not started down. Draco is not here. No one has spoken.
+- **Who:** The same landing. Hermione looks at a timetable. Harry and Ron wait beside her. They have not started down. Draco is not here. No one has spoken.
+- **Faces:** Hermione's eyes are on the page. Harry looks at the dark. Ron looks at her, waiting.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### N8-P1-P1
 
@@ -1881,6 +3061,46 @@ The same day, after the classrooms. Four scenes, one place each: the way down, t
 
 ### Page 4 — The corridor after
 
+#### M8-004 — not drawn
+
+- **Beat:** Neville's potion climbs.
+- **Image:** The potions dungeon. Neville's eyes are on his own cauldron. The potion climbs the iron. His hands are off it. Harry is at another desk. Snape has not looked over yet. No wand flood.
+- **Setting:** The potions dungeon. Neville's eyes are on his own cauldron. The potion climbs the iron. His hands are off it. Harry is at another desk. Snape has not looked over yet. No wand flood.
+- **Who:** The potions dungeon. Neville's eyes are on his own cauldron. The potion climbs the iron. His hands are off it. Harry is at another desk. Snape has not looked over yet. No wand flood.
+- **Faces:** Neville looks worried. His eyes stay on the climbing potion.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M8-005 — not drawn
+
+- **Beat:** The iron softens.
+- **Image:** The cauldron softens. A thin skin of metal runs. Smoke. Not a glow. Neville leans back. The potion is the thing going wrong.
+- **Setting:** The cauldron softens. A thin skin of metal runs. Smoke. Not a glow. Neville leans back. The potion is the thing going wrong.
+- **Who:** The cauldron softens. A thin skin of metal runs. Smoke. Not a glow. Neville leans back. The potion is the thing going wrong.
+- **Faces:** Neville's mouth opens. He cannot believe the metal is moving.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M8-006 — not drawn
+
+- **Beat:** The cauldron melts.
+- **Image:** The cauldron melts onto the desk. Neville is horrified. Smoke crosses the dungeon. Other students pull their sleeves back. The mess is his.
+- **Setting:** The cauldron melts onto the desk. Neville is horrified. Smoke crosses the dungeon. Other students pull their sleeves back. The mess is his.
+- **Who:** The cauldron melts onto the desk. Neville is horrified. Smoke crosses the dungeon. Other students pull their sleeves back. The mess is his.
+- **Faces:** Neville looks at his own desk, appalled. Seamus, if nearby, leans away.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M8-007 — not drawn
+
+- **Beat:** Snape looks at the wrong boy.
+- **Image:** Smoke between the desks. Snape's black eyes cut to Harry, as if the smoke belonged to him. Neville is still beside the melted cauldron, looking at Snape, wanting to be seen. No new speech about points. The questions already happened.
+- **Setting:** Smoke between the desks. Snape's black eyes cut to Harry, as if the smoke belonged to him. Neville is still beside the melted cauldron, looking at Snape, wanting to be seen. No new speech about points. The questions already happened.
+- **Who:** Smoke between the desks. Snape's black eyes cut to Harry, as if the smoke belonged to him. Neville is still beside the melted cauldron, looking at Snape, wanting to be seen. No new speech about points. The questions already happened.
+- **Faces:** Snape does not blink. Harry looks back, lost. Neville looks guilty and ignored.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### N8-P4-P1
 
 - **Beat:** They step out of the dungeon onto the stair. The walk out.
@@ -1947,6 +3167,36 @@ Brooms, the theft, the dive, and a place on the team.
 
 ### Page 1 — Brooms
 
+#### M9-001 — not drawn
+
+- **Beat:** Brooms on the grass.
+- **Image:** Dawn. The castle lawn from a high window. Two lines of brooms already on the grass. No one is mounted. The castle is behind.
+- **Setting:** Dawn. The castle lawn from a high window. Two lines of brooms already on the grass. No one is mounted. The castle is behind.
+- **Who:** Dawn. The castle lawn from a high window. Two lines of brooms already on the grass. No one is mounted. The castle is behind.
+- **Faces:** The lawn is empty of faces.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-002 — not drawn
+
+- **Beat:** Dew, and the brooms still.
+- **Image:** The grass. Dew. Brooms lying still. Madam Hooch is a tall shape with a whistle and has not spoken. Her yellow eyes are on the lines.
+- **Setting:** The grass. Dew. Brooms lying still. Madam Hooch is a tall shape with a whistle and has not spoken. Her yellow eyes are on the lines.
+- **Who:** The grass. Dew. Brooms lying still. Madam Hooch is a tall shape with a whistle and has not spoken. Her yellow eyes are on the lines.
+- **Faces:** Hooch looks strict and careful. The brooms look asleep.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-003 — not drawn
+
+- **Beat:** Two lines, hands at their sides.
+- **Image:** Students in two lines beside the brooms. Hands at their sides, not over the brooms yet. Neville looks nervous. Draco looks lazy. Harry stands correctly. No one has said Up.
+- **Setting:** Students in two lines beside the brooms. Hands at their sides, not over the brooms yet. Neville looks nervous. Draco looks lazy. Harry stands correctly. No one has said Up.
+- **Who:** Students in two lines beside the brooms. Hands at their sides, not over the brooms yet. Neville looks nervous. Draco looks lazy. Harry stands correctly. No one has said Up.
+- **Faces:** Neville looks at his broom as if it might bite. Harry listens for the teacher. Draco watches Neville.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C8-P1-P1
 
 - **Beat:** Dawn lawn. Two lines of students. Brooms on the grass.
@@ -1964,6 +3214,56 @@ Brooms, the theft, the dive, and a place on the team.
 - **Who:** Hooch, yellow eyes, cloak, whistle at her lips almost. Neville, sandy hair, robes, hand drifting down too early. Harry, glasses, hand correctly hovering. Draco, platinum hair, relaxed, watching Neville not Hooch.
 - **Faces:** Hooch looks at all of them, stern care. Neville looks at his broom, anxious to get it wrong over with. Draco looks at Neville, a smile starting. Harry looks at Hooch, listening.
 - **Dialogue:** **Madam Hooch:** "Right hand over the broom, and say up. Nobody kicks off until I give the word."
+
+#### M9-004 — not drawn
+
+- **Beat:** Mouths open on the word.
+- **Image:** The lawn. Right hands over the brooms. Mouths open together on the word Up. Eyes on their own brooms. Madam Hooch's hand is still up. She has not said go. The brooms are still on the grass.
+- **Setting:** The lawn. Right hands over the brooms. Mouths open together on the word Up. Eyes on their own brooms. Madam Hooch's hand is still up. She has not said go. The brooms are still on the grass.
+- **Who:** The lawn. Right hands over the brooms. Mouths open together on the word Up. Eyes on their own brooms. Madam Hooch's hand is still up. She has not said go. The brooms are still on the grass.
+- **Faces:** The class looks eager. Hooch looks like she has not given permission. Neville's mouth is already too wide.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-005 — not drawn
+
+- **Beat:** The brooms shiver off the grass.
+- **Image:** The brooms shiver off the grass. A thin lift, not a glow. Hands reach. Most brooms rise toward palms. One broom is already too fast and is not Neville's.
+- **Setting:** The brooms shiver off the grass. A thin lift, not a glow. Hands reach. Most brooms rise toward palms. One broom is already too fast and is not Neville's.
+- **Who:** The brooms shiver off the grass. A thin lift, not a glow. Hands reach. Most brooms rise toward palms. One broom is already too fast and is not Neville's.
+- **Faces:** Hooch's eyes cut sideways. A student who is not Neville looks surprised at their own broom.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-006 — not drawn
+
+- **Beat:** A broom hits a face.
+- **Image:** One broom shoots straight up off the grass into a student's face. Not Neville. The handle meets the nose. No blood as a joke bigger than a smack. The rest of the class is still on the ground. Harry is not the one hit.
+- **Setting:** One broom shoots straight up off the grass into a student's face. Not Neville. The handle meets the nose. No blood as a joke bigger than a smack. The rest of the class is still on the ground. Harry is not the one hit.
+- **Who:** One broom shoots straight up off the grass into a student's face. Not Neville. The handle meets the nose. No blood as a joke bigger than a smack. The rest of the class is still on the ground. Harry is not the one hit.
+- **Faces:** That student's eyes cross at the impact. The mouth was still on the word Up.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-007 — not drawn
+
+- **Beat:** A hand on the nose.
+- **Image:** Follow-through. That same student clutches their nose. The broom hangs above them, guilty. The class flinches. Madam Hooch has turned toward them and has not reached Neville yet. Neville's broom is a separate trouble about to start.
+- **Setting:** Follow-through. That same student clutches their nose. The broom hangs above them, guilty. The class flinches. Madam Hooch has turned toward them and has not reached Neville yet. Neville's broom is a separate trouble about to start.
+- **Who:** Follow-through. That same student clutches their nose. The broom hangs above them, guilty. The class flinches. Madam Hooch has turned toward them and has not reached Neville yet. Neville's broom is a separate trouble about to start.
+- **Faces:** The student looks offended and hurt. Draco is delighted and looking the wrong way, toward Neville.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M9-008 — not drawn
+
+- **Beat:** Neville says it too soon.
+- **Image:** Neville's mouth is still open on Up. His hand locks his broom. His feet are just leaving the grass. Hooch's hand goes out to stop him and is too late. His eyes are on the broom, terrified already. Sandy hair, no scar, no glasses.
+- **Setting:** Neville's mouth is still open on Up. His hand locks his broom. His feet are just leaving the grass. Hooch's hand goes out to stop him and is too late. His eyes are on the broom, terrified already. Sandy hair, no scar, no glasses.
+- **Who:** Neville's mouth is still open on Up. His hand locks his broom. His feet are just leaving the grass. Hooch's hand goes out to stop him and is too late. His eyes are on the broom, terrified already. Sandy hair, no scar, no glasses.
+- **Faces:** Neville looks like he wants the word back. Hooch looks alarmed.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C8-P1-P3
 
@@ -2068,6 +3368,16 @@ Brooms, the theft, the dive, and a place on the team.
 - **Faces:** Draco looks at Harry, expecting him to freeze. Harry looks only at the ball, the world narrowed. His mouth is set. Fear is there and it is not in charge.
 - **Dialogue:** **Draco:** "Fetch, Potter."
 
+#### M9-009 — not drawn
+
+- **Beat:** Flat on the broom, eyes on the ball.
+- **Image:** High over the courtyard. Harry is flat along the broom. His eyes are on the falling Remembrall, a small glass ball. The stone is far below. He has not started the steepest dive. Wind is in his hair. Scar on the viewer-left brow if he faces us, the right brow on him.
+- **Setting:** High over the courtyard. Harry is flat along the broom. His eyes are on the falling Remembrall, a small glass ball. The stone is far below. He has not started the steepest dive. Wind is in his hair. Scar on the viewer-left brow if he faces us, the right brow on him.
+- **Who:** High over the courtyard. Harry is flat along the broom. His eyes are on the falling Remembrall, a small glass ball. The stone is far below. He has not started the steepest dive. Wind is in his hair. Scar on the viewer-left brow if he faces us, the right brow on him.
+- **Faces:** His eyes water and stay on the ball. Concentration, not a pose.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C8-P3-P2
 
 - **Beat:** Harry dives. Wind tears at his glasses.
@@ -2085,6 +3395,16 @@ Brooms, the theft, the dive, and a place on the team.
 - **Who:** Hermione, hands over her mouth, bushy hair. Ron, white under his freckles, neck craned. Other students scattering. Harry large at the top of the panel, hand outstretched. The Remembrall at the bottom, about to break.
 - **Faces:** Hermione looks up, terrified. Ron looks up, unable to blink. A student looks away. Harry’s face, distant, is all focus.
 - **Dialogue:** **Hermione:** "Harry!" **Ron:** "Pull up! Pull up!"
+
+#### M9-010 — not drawn
+
+- **Beat:** The glass is just beyond his fingers.
+- **Image:** Extreme low, flagstones. Harry's hand is out. The Remembrall is just beyond his fingers, white smoke inside, inches above the stone. He has not closed his hand. The broom's bristles are about to skim. A slice of his face shows the scar, the glasses, gritted teeth.
+- **Setting:** Extreme low, flagstones. Harry's hand is out. The Remembrall is just beyond his fingers, white smoke inside, inches above the stone. He has not closed his hand. The broom's bristles are about to skim. A slice of his face shows the scar, the glasses, gritted teeth.
+- **Who:** Extreme low, flagstones. Harry's hand is out. The Remembrall is just beyond his fingers, white smoke inside, inches above the stone. He has not closed his hand. The broom's bristles are about to skim. A slice of his face shows the scar, the glasses, gritted teeth.
+- **Faces:** He looks at the ball, not at the ground. Disbelief has not happened yet. This is the reach.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C8-P3-P4
 
@@ -2177,6 +3497,36 @@ A trap, a chase, Fluffy, and the memory of a package.
 
 ### Page 1 — The challenge
 
+#### M10-001 — not drawn
+
+- **Beat:** The hall from the doors.
+- **Image:** The Hogwarts entrance hall from the main doors. Daylight. Marble stairs. Students crossing between classes. Armor.
+- **Setting:** The Hogwarts entrance hall from the main doors. Daylight. Marble stairs. Students crossing between classes. Armor.
+- **Who:** The Hogwarts entrance hall from the main doors. Daylight. Marble stairs. Students crossing between classes. Armor.
+- **Faces:** The crowd looks ordinary. No duel has been offered.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-002 — not drawn
+
+- **Beat:** Armor and the stair.
+- **Image:** Inside the hall. A suit of armor. The stair Draco will use is empty for a second. Harry is not in frame.
+- **Setting:** Inside the hall. A suit of armor. The stair Draco will use is empty for a second. Harry is not in frame.
+- **Who:** Inside the hall. A suit of armor. The stair Draco will use is empty for a second. Harry is not in frame.
+- **Faces:** The armor looks unimpressed, as armor does.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-003 — not drawn
+
+- **Beat:** Draco waits.
+- **Image:** Draco stands with empty hands, slicked pale hair, expensive robes with a green lining, watching the stair. Crabbe and Goyle are a wall behind him. Harry has not arrived. Draco has not spoken.
+- **Setting:** Draco stands with empty hands, slicked pale hair, expensive robes with a green lining, watching the stair. Crabbe and Goyle are a wall behind him. Harry has not arrived. Draco has not spoken.
+- **Who:** Draco stands with empty hands, slicked pale hair, expensive robes with a green lining, watching the stair. Crabbe and Goyle are a wall behind him. Harry has not arrived. Draco has not spoken.
+- **Faces:** Draco looks pleased with a plan. His eyes are on the place Harry will be.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C9-P1-P1
 
 - **Beat:** Draco stops Harry in the entrance hall, Crabbe and Goyle behind him.
@@ -2242,6 +3592,36 @@ A trap, a chase, Fluffy, and the memory of a package.
 - **Faces:** Neville looks at them, pleading, ashamed, he forgot the password. Ron looks at the toad, then at Neville, groaning a yes. Hermione looks at Neville, sympathy winning over rules. Harry looks down the corridor, time running out.
 - **Dialogue:** **Neville:** "The Fat Lady won't let me in. I forgot the password. Let me come with you. Please."
 
+#### M10-004 — not drawn
+
+- **Beat:** The corridor at night.
+- **Image:** A Hogwarts corridor at night. Harry, Ron, Hermione, and Neville. Wands down. Neville is in a nightshirt, toad in hand. Filch's lamp is not here yet.
+- **Setting:** A Hogwarts corridor at night. Harry, Ron, Hermione, and Neville. Wands down. Neville is in a nightshirt, toad in hand. Filch's lamp is not here yet.
+- **Who:** A Hogwarts corridor at night. Harry, Ron, Hermione, and Neville. Wands down. Neville is in a nightshirt, toad in hand. Filch's lamp is not here yet.
+- **Faces:** They look ahead, trying to be quiet. Hermione looks angry that she came.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-005 — not drawn
+
+- **Beat:** Cups, and no one waiting.
+- **Image:** The trophy room. Cups, shields, glass. Empty. No Draco. Their shadows are in the doorway and not inside yet.
+- **Setting:** The trophy room. Cups, shields, glass. Empty. No Draco. Their shadows are in the doorway and not inside yet.
+- **Who:** The trophy room. Cups, shields, glass. Empty. No Draco. Their shadows are in the doorway and not inside yet.
+- **Faces:** The trophies look like a trap that has already worked.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-006 — not drawn
+
+- **Beat:** They look in, and do not speak.
+- **Image:** The four of them in the doorway, looking at the empty room. Neville's toad shifts. No one has said Malfoy is not here. The room stays empty.
+- **Setting:** The four of them in the doorway, looking at the empty room. Neville's toad shifts. No one has said Malfoy is not here. The room stays empty.
+- **Who:** The four of them in the doorway, looking at the empty room. Neville's toad shifts. No one has said Malfoy is not here. The room stays empty.
+- **Faces:** Harry looks at the empty floor, suspicion starting. Ron looks for a person and finds none.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C9-P2-P2
 
 - **Beat:** The trophy room is empty. Draco is not there.
@@ -2288,6 +3668,36 @@ A trap, a chase, Fluffy, and the memory of a package.
 - **Dialogue:** **Ron:** "He's gone past." **Harry:** "Then what was that growl?"
 
 ### Page 3 — Fluffy
+
+#### M10-007 — not drawn
+
+- **Beat:** Her wand is up. The room is black.
+- **Image:** A dark room on the third floor. Hermione's wand is up. Her eyes are on the dark. Her mouth is mid-word, Lumos. No light yet. Harry and Ron are shapes. Something huge is unlit.
+- **Setting:** A dark room on the third floor. Hermione's wand is up. Her eyes are on the dark. Her mouth is mid-word, Lumos. No light yet. Harry and Ron are shapes. Something huge is unlit.
+- **Who:** A dark room on the third floor. Hermione's wand is up. Her eyes are on the dark. Her mouth is mid-word, Lumos. No light yet. Harry and Ron are shapes. Something huge is unlit.
+- **Faces:** Hermione looks afraid and precise. Her eyes do not leave the dark.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-008 — not drawn
+
+- **Beat:** A thin thread of light.
+- **Image:** A thin thread of white light leaves her wand tip into the dark. Not a flood. It has not hit a face. The thread is readable. Her mouth is still on the word.
+- **Setting:** A thin thread of white light leaves her wand tip into the dark. Not a flood. It has not hit a face. The thread is readable. Her mouth is still on the word.
+- **Who:** A thin thread of white light leaves her wand tip into the dark. Not a flood. It has not hit a face. The thread is readable. Her mouth is still on the word.
+- **Faces:** Her eyes follow the thread. Ron's eyes follow it too.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M10-009 — not drawn
+
+- **Beat:** One eye, then a second head.
+- **Image:** The thin light finds one huge eye opening. A second head lifts. The third head is still a shadow. A paw is the size of a door. Three-headed, brown, the size of the room. Not fully revealed. Neville is at the edge of the light.
+- **Setting:** The thin light finds one huge eye opening. A second head lifts. The third head is still a shadow. A paw is the size of a door. Three-headed, brown, the size of the room. Not fully revealed. Neville is at the edge of the light.
+- **Who:** The thin light finds one huge eye opening. A second head lifts. The third head is still a shadow. A paw is the size of a door. Three-headed, brown, the size of the room. Not fully revealed. Neville is at the edge of the light.
+- **Faces:** The open eye looks at the wand. Neville's face is losing color. Hermione does not lower the wand.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C9-P3-P1
 
@@ -2406,6 +3816,36 @@ An insult, a feast, a troll, a lie, and three friends.
 
 ### Page 1 — The insult
 
+#### M11-001 — not drawn
+
+- **Beat:** The portrait hole.
+- **Image:** The Fat Lady's portrait, the round hole into Gryffindor. Afternoon, before the feast. The frame is a door. Students pass through.
+- **Setting:** The Fat Lady's portrait, the round hole into Gryffindor. Afternoon, before the feast. The frame is a door. Students pass through.
+- **Who:** The Fat Lady's portrait, the round hole into Gryffindor. Afternoon, before the feast. The frame is a door. Students pass through.
+- **Faces:** The Fat Lady looks bored. She is a painting, not a ghost.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-002 — not drawn
+
+- **Beat:** Armchairs and a fire.
+- **Image:** The Gryffindor common room. Armchairs, a fire, Halloween without the pumpkins of the hall. Hermione is on the far side of a chair with a book. The boys are nearer the fire.
+- **Setting:** The Gryffindor common room. Armchairs, a fire, Halloween without the pumpkins of the hall. Hermione is on the far side of a chair with a book. The boys are nearer the fire.
+- **Who:** The Gryffindor common room. Armchairs, a fire, Halloween without the pumpkins of the hall. Hermione is on the far side of a chair with a book. The boys are nearer the fire.
+- **Faces:** Hermione looks busy. She has not heard an insult.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-003 — not drawn
+
+- **Beat:** Draco is on his feet, and still.
+- **Image:** The same room. Draco is on his feet and has not started the mocking dive. Harry and Ron are sitting. Hermione is hidden by the chair and does not know he is performing. No one has spoken.
+- **Setting:** The same room. Draco is on his feet and has not started the mocking dive. Harry and Ron are sitting. Hermione is hidden by the chair and does not know he is performing. No one has spoken.
+- **Who:** The same room. Draco is on his feet and has not started the mocking dive. Harry and Ron are sitting. Hermione is hidden by the chair and does not know he is performing. No one has spoken.
+- **Faces:** Draco looks ready to be cruel. Ron looks relaxed, which will not last. Harry looks at Draco, wary.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C10-P1-P1
 
 - **Beat:** Draco mimics Harry’s dive in the courtyard and falls on purpose. People laugh.
@@ -2441,6 +3881,26 @@ An insult, a feast, a troll, a lie, and three friends.
 - **Who:** Hermione from behind, robes, shoulders tight, not looking back. Ron standing, maroon sweater, one hand out, useless. Harry standing too, quill dropped. The Fat Lady in pink, sympathetic and nosy.
 - **Faces:** Ron looks at the swinging portrait, sick, guilty, ears red for a new reason. Harry looks at Ron, not scolding, just sorry. The Fat Lady looks after Hermione, mouth soft.
 - **Dialogue:** **Ron:** "Hermione, I didn't mean for you to..."
+
+#### M11-004 — not drawn
+
+- **Beat:** Pumpkins at the hall doors.
+- **Image:** The Great Hall doors from the corridor. Pumpkins. Candlelight through the crack. Students going in. Hermione is not among them.
+- **Setting:** The Great Hall doors from the corridor. Pumpkins. Candlelight through the crack. Students going in. Hermione is not among them.
+- **Who:** The Great Hall doors from the corridor. Pumpkins. Candlelight through the crack. Students going in. Hermione is not among them.
+- **Faces:** Harry looks at the crowd and does not see her.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-005 — not drawn
+
+- **Beat:** Her seat is empty.
+- **Image:** The feast. Four house tables, banners, candles. Hermione's place at the Gryffindor table is empty. Harry and Ron sit. They have not said she is missing. The food is there.
+- **Setting:** The feast. Four house tables, banners, candles. Hermione's place at the Gryffindor table is empty. Harry and Ron sit. They have not said she is missing. The food is there.
+- **Who:** The feast. Four house tables, banners, candles. Hermione's place at the Gryffindor table is empty. Harry and Ron sit. They have not said she is missing. The food is there.
+- **Faces:** Harry's eyes keep returning to the empty seat. Ron looks at the food and then at the seat.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C10-P1-P5
 
@@ -2518,6 +3978,36 @@ An insult, a feast, a troll, a lie, and three friends.
 
 ### Page 3 — The bathroom
 
+#### M11-006 — not drawn
+
+- **Beat:** The smell starts.
+- **Image:** A bathroom corridor. The smell is just starting. No troll in the frame. Harry and Ron have turned off the main route. Torches.
+- **Setting:** A bathroom corridor. The smell is just starting. No troll in the frame. Harry and Ron have turned off the main route. Torches.
+- **Who:** A bathroom corridor. The smell is just starting. No troll in the frame. Harry and Ron have turned off the main route. Torches.
+- **Faces:** Harry's nose wrinkles. Ron looks sick already.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-007 — not drawn
+
+- **Beat:** The bathroom door.
+- **Image:** The door of the girls' bathroom. It is the wrong door for them and the right door for her. The smell is stronger. The door is not fully open.
+- **Setting:** The door of the girls' bathroom. It is the wrong door for them and the right door for her. The smell is stronger. The door is not fully open.
+- **Who:** The door of the girls' bathroom. It is the wrong door for them and the right door for her. The smell is stronger. The door is not fully open.
+- **Faces:** They look at the door and do not want to open it.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-008 — not drawn
+
+- **Beat:** Tears, and no troll yet.
+- **Image:** Inside, at the sinks. Hermione. Tears from the insult are still on her face. The troll is not in the room. She is alone. She has not told them to stay out. The tears are visible. This is not a new sobbing scene. It is where she already was.
+- **Setting:** Inside, at the sinks. Hermione. Tears from the insult are still on her face. The troll is not in the room. She is alone. She has not told them to stay out. The tears are visible. This is not a new sobbing scene. It is where she already was.
+- **Who:** Inside, at the sinks. Hermione. Tears from the insult are still on her face. The troll is not in the room. She is alone. She has not told them to stay out. The tears are visible. This is not a new sobbing scene. It is where she already was.
+- **Faces:** Her eyes are red. She looks at the sinks, not at a door. Hurt, not heroic.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C10-P3-P1
 
 - **Beat:** Hermione backed against the sinks. The troll fills the doorway.
@@ -2536,6 +4026,26 @@ An insult, a feast, a troll, a lie, and three friends.
 - **Faces:** Harry looks at the troll’s turning head, committed. Ron looks at the club, swallowing. Hermione looks at Harry, shock and a flash of hope. The troll looks at Harry, annoyed, slow.
 - **Dialogue:** **Harry:** "Hey! Over here. Not her."
 
+#### M11-009 — not drawn
+
+- **Beat:** Harry aims the wand at the nostril.
+- **Image:** The bathroom. The mountain troll fills the room, larger than the stalls. Harry's wand is aimed up at one nostril. His eyes are on the nostril. He is not casting a curse. The club is low. Hermione is by the sinks. Ron's wand is not the point of this picture.
+- **Setting:** The bathroom. The mountain troll fills the room, larger than the stalls. Harry's wand is aimed up at one nostril. His eyes are on the nostril. He is not casting a curse. The club is low. Hermione is by the sinks. Ron's wand is not the point of this picture.
+- **Who:** The bathroom. The mountain troll fills the room, larger than the stalls. Harry's wand is aimed up at one nostril. His eyes are on the nostril. He is not casting a curse. The club is low. Hermione is by the sinks. Ron's wand is not the point of this picture.
+- **Faces:** Harry looks terrified and precise. His eyes do not leave the nostril.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M11-010 — not drawn
+
+- **Beat:** The wand goes up the nostril.
+- **Image:** The wand goes up the troll's nostril. The troll's eyes cross. No spell glow. No thread. Harry's arm is extended. Mucus is not on the wand yet. The club is still low.
+- **Setting:** The wand goes up the troll's nostril. The troll's eyes cross. No spell glow. No thread. Harry's arm is extended. Mucus is not on the wand yet. The club is still low.
+- **Who:** The wand goes up the troll's nostril. The troll's eyes cross. No spell glow. No thread. Harry's arm is extended. Mucus is not on the wand yet. The club is still low.
+- **Faces:** Harry looks revolted. The troll looks confused. Ron sees the club and the chance.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C10-P3-P3
 
 - **Beat:** Ron’s wand shakes. He shouts the only spell he can remember.
@@ -2544,6 +4054,16 @@ An insult, a feast, a troll, a lie, and three friends.
 - **Who:** Ron, freckles, red hair plastered, maroon sweater dark with water, wand pointed, the other hand flung out for balance. Harry ducking under where the club was. The troll, confused, arm up. Hermione crawling clear along the sinks.
 - **Faces:** Ron looks at his own wand, astonished it worked, still shouting. Harry looks at the rising club, a window of a second. The troll looks at its arm, stupid and angry. Hermione looks at a cubicle she can reach.
 - **Dialogue:** **Ron:** "Wingardium Leviosa!"
+
+#### M11-011 — not drawn
+
+- **Beat:** A thin thread, and the club rises.
+- **Image:** Ron's wand is pointed at the club. His mouth is mid-word. A thin thread runs from his wand tip to the club. The club rises off the floor toward the troll's own head. The thread stays thin. It has not hit. Harry's wand is still at the nostril. Not a flood of light.
+- **Setting:** Ron's wand is pointed at the club. His mouth is mid-word. A thin thread runs from his wand tip to the club. The club rises off the floor toward the troll's own head. The thread stays thin. It has not hit. Harry's wand is still at the nostril. Not a flood of light.
+- **Who:** Ron's wand is pointed at the club. His mouth is mid-word. A thin thread runs from his wand tip to the club. The club rises off the floor toward the troll's own head. The thread stays thin. It has not hit. Harry's wand is still at the nostril. Not a flood of light.
+- **Faces:** Ron looks as if he might be sick. His eyes are on the club. The thread is the only magic-light, and it is thin.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C10-P3-P4
 
@@ -2562,6 +4082,16 @@ An insult, a feast, a troll, a lie, and three friends.
 - **Who:** The troll, face-down, gray, still. Harry, dripping, glasses spotted, wand lowered. Ron, sleeve torn from an older night and now soaked, wand down. Hermione, hair wrecked, robes wet, the book ruined in the puddle at her feet.
 - **Faces:** They look at the troll, not at each other yet. Panting. Harry looks exhausted. Ron looks like he might be sick or laugh. Hermione looks at the troll, tears mixing with tap water, safe and shaking.
 - **Dialogue:** No dialogue.
+
+#### M11-012 — not drawn
+
+- **Beat:** The wand comes out covered in mucus.
+- **Image:** The troll is down. Harry pulls his wand out of the nostril. The wand is covered in mucus. His face is revolted. Ron still holds his own wand, the levitation finished. Hermione is against the sinks, alive. Water and dust. Follow-through.
+- **Setting:** The troll is down. Harry pulls his wand out of the nostril. The wand is covered in mucus. His face is revolted. Ron still holds his own wand, the levitation finished. Hermione is against the sinks, alive. Water and dust. Follow-through.
+- **Who:** The troll is down. Harry pulls his wand out of the nostril. The wand is covered in mucus. His face is revolted. Ron still holds his own wand, the levitation finished. Hermione is against the sinks, alive. Water and dust. Follow-through.
+- **Faces:** Harry looks at his own wand in disgust. Ron looks at the slime and at the fallen troll. Hermione looks at both of them, shaking, tears still there.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C10-P3-P6
 
@@ -2635,6 +4165,36 @@ An insult, a feast, a troll, a lie, and three friends.
 Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean to say.
 
 ### Page 1 — Before the whistle
+
+#### M12-001 — not drawn
+
+- **Beat:** All four houses in the stands.
+- **Image:** The Quidditch stadium outside. Stands full. All four houses: red and gold, yellow and black, blue and bronze, green and silver. Not a red-only crowd. The pitch is green. Harry is not out yet.
+- **Setting:** The Quidditch stadium outside. Stands full. All four houses: red and gold, yellow and black, blue and bronze, green and silver. Not a red-only crowd. The pitch is green. Harry is not out yet.
+- **Who:** The Quidditch stadium outside. Stands full. All four houses: red and gold, yellow and black, blue and bronze, green and silver. Not a red-only crowd. The pitch is green. Harry is not out yet.
+- **Faces:** The crowd looks hungry for a match.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M12-002 — not drawn
+
+- **Beat:** Robes that are too big.
+- **Image:** The changing room. Scarlet and gold Gryffindor robes, too big on Harry. Wood's leather arm guard. A chalkboard with a plan. No one has spoken.
+- **Setting:** The changing room. Scarlet and gold Gryffindor robes, too big on Harry. Wood's leather arm guard. A chalkboard with a plan. No one has spoken.
+- **Who:** The changing room. Scarlet and gold Gryffindor robes, too big on Harry. Wood's leather arm guard. A chalkboard with a plan. No one has spoken.
+- **Faces:** Harry looks at the extra sleeve. Wood looks at the board.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M12-003 — not drawn
+
+- **Beat:** Wood kneels, and waits.
+- **Image:** Wood kneels by the chalkboard. Harry holds the too-big robe. Other Gryffindor players are around them. Wood has not started the plan. The roar is outside.
+- **Setting:** Wood kneels by the chalkboard. Harry holds the too-big robe. Other Gryffindor players are around them. Wood has not started the plan. The roar is outside.
+- **Who:** Wood kneels by the chalkboard. Harry holds the too-big robe. Other Gryffindor players are around them. Wood has not started the plan. The roar is outside.
+- **Faces:** Wood looks intense, not unkind. Harry looks like he might be sick with nerves.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C11-P1-P1
 
@@ -2710,6 +4270,16 @@ Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean
 - **Faces:** Harry looks at the broom, startled, then at his own hands. The joy is gone. Confusion first, then the start of fear.
 - **Dialogue:** **Harry:** "Steady. What are you doing? Steady!"
 
+#### M12-004 — not drawn
+
+- **Beat:** The broom jerks. The air is empty.
+- **Image:** Above the pitch. The broom jerks under Harry. The air around him is empty. No thread from the stands. No line from Quirrell. No line from Snape. The wildness is the effect. His eyes are on the broom. The jinx stays a mystery. Do not draw a bright line that solves the year.
+- **Setting:** Above the pitch. The broom jerks under Harry. The air around him is empty. No thread from the stands. No line from Quirrell. No line from Snape. The wildness is the effect. His eyes are on the broom. The jinx stays a mystery. Do not draw a bright line that solves the year.
+- **Who:** Above the pitch. The broom jerks under Harry. The air around him is empty. No thread from the stands. No line from Quirrell. No line from Snape. The wildness is the effect. His eyes are on the broom. The jinx stays a mystery. Do not draw a bright line that solves the year.
+- **Faces:** Harry looks betrayed by the broom. His mouth is open and he is not casting. The stands are a blur with no readable curse-light.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C11-P2-P3
 
 - **Beat:** It twists harder. One hand slips off.
@@ -2747,6 +4317,26 @@ Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean
 - **Dialogue:** **Hermione:** "It's Snape. He's staring at Harry and his mouth hasn't stopped. Come on."
 
 ### Page 3 — Fire and the Snitch
+
+#### M12-005 — not drawn
+
+- **Beat:** Her wand is on the hem.
+- **Image:** The staff seats. Hermione's wand is pointed at the hem of Snape's black robe only. Her eyes are on the cloth. Her mouth is mid-word. The flame has not caught. No bright line anywhere else in the stands. Quirrell is not revealed. Snape has not seen her.
+- **Setting:** The staff seats. Hermione's wand is pointed at the hem of Snape's black robe only. Her eyes are on the cloth. Her mouth is mid-word. The flame has not caught. No bright line anywhere else in the stands. Quirrell is not revealed. Snape has not seen her.
+- **Who:** The staff seats. Hermione's wand is pointed at the hem of Snape's black robe only. Her eyes are on the cloth. Her mouth is mid-word. The flame has not caught. No bright line anywhere else in the stands. Quirrell is not revealed. Snape has not seen her.
+- **Faces:** Hermione looks fierce and small. Her eyes stay on the hem. Snape's eyes are still on the sky.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M12-006 — not drawn
+
+- **Beat:** A thin flame-thread, only to the hem.
+- **Image:** A small thin flame-thread leaves her wand tip and reaches only the hem. Not a beam across the stands. Not a flood. The cloth has not caught fully. No line to any other teacher.
+- **Setting:** A small thin flame-thread leaves her wand tip and reaches only the hem. Not a beam across the stands. Not a flood. The cloth has not caught fully. No line to any other teacher.
+- **Who:** A small thin flame-thread leaves her wand tip and reaches only the hem. Not a beam across the stands. Not a flood. The cloth has not caught fully. No line to any other teacher.
+- **Faces:** Her eyes are on that thread. Snape has not looked down yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C11-P3-P1
 
@@ -2803,6 +4393,36 @@ Nerves, a cursed broom, a small fire, the Snitch, and a name Hagrid did not mean
 - **Dialogue:** **Wood:** "Seeker! You mad, beautiful Seeker!" **Ron:** "He caught it in his mouth!"
 
 ### Page 4 — The name
+
+#### M12-007 — not drawn
+
+- **Beat:** One warm window.
+- **Image:** Hagrid's hut at night. One warm window. Pumpkins. The castle is far and lit. The three are on the path and not inside.
+- **Setting:** Hagrid's hut at night. One warm window. Pumpkins. The castle is far and lit. The three are on the path and not inside.
+- **Who:** Hagrid's hut at night. One warm window. Pumpkins. The castle is far and lit. The three are on the path and not inside.
+- **Faces:** They look at the window, still arguing in their heads, mouths shut.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M12-008 — not drawn
+
+- **Beat:** Fire, Fang, and rock cakes.
+- **Image:** Inside the hut. Fire. Fang, the boarhound. Rock cakes on the table like weapons. Hagrid's huge coat on a chair. The three are not in the room yet.
+- **Setting:** Inside the hut. Fire. Fang, the boarhound. Rock cakes on the table like weapons. Hagrid's huge coat on a chair. The three are not in the room yet.
+- **Who:** Inside the hut. Fire. Fang, the boarhound. Rock cakes on the table like weapons. Hagrid's huge coat on a chair. The three are not in the room yet.
+- **Faces:** Fang looks up at the door.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M12-009 — not drawn
+
+- **Beat:** He pours the tea.
+- **Image:** Hagrid pours tea into giant mugs. The three are in the doorway, scarves on, not sitting. He has not spoken. His mouth is easy. He does not know what he will let slip.
+- **Setting:** Hagrid pours tea into giant mugs. The three are in the doorway, scarves on, not sitting. He has not spoken. His mouth is easy. He does not know what he will let slip.
+- **Who:** Hagrid pours tea into giant mugs. The three are in the doorway, scarves on, not sitting. He has not spoken. His mouth is easy. He does not know what he will let slip.
+- **Faces:** Hagrid looks glad to see them. Harry looks like he came to ask something. Hermione looks like she will not leave without an answer.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C11-P4-P1
 
@@ -2866,6 +4486,36 @@ Searching, the book, what the Stone does, and the wrong man watched.
 
 ### Page 1 — The search
 
+#### M13-001 — not drawn
+
+- **Beat:** The library doors at night.
+- **Image:** The library doors at night. Madam Pince's desk is a shape beyond the glass. Harry, Ron, and Hermione are in the corridor with books and have not gone in.
+- **Setting:** The library doors at night. Madam Pince's desk is a shape beyond the glass. Harry, Ron, and Hermione are in the corridor with books and have not gone in.
+- **Who:** The library doors at night. Madam Pince's desk is a shape beyond the glass. Harry, Ron, and Hermione are in the corridor with books and have not gone in.
+- **Faces:** Hermione looks determined. Ron looks already tired.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M13-002 — not drawn
+
+- **Beat:** Lamps and indexes.
+- **Image:** The stacks. Lamps. An index open on a table. No one looming yet. The name Flamel is not on the page in frame.
+- **Setting:** The stacks. Lamps. An index open on a table. No one looming yet. The name Flamel is not on the page in frame.
+- **Who:** The stacks. Lamps. An index open on a table. No one looming yet. The name Flamel is not on the page in frame.
+- **Faces:** The books look endless.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M13-003 — not drawn
+
+- **Beat:** They are already searching.
+- **Image:** The three at the table. Hermione's finger is on a column. Ron's eyes are heavy. Harry watches the page. They have not spoken. Madam Pince is not at their shoulders yet.
+- **Setting:** The three at the table. Hermione's finger is on a column. Ron's eyes are heavy. Harry watches the page. They have not spoken. Madam Pince is not at their shoulders yet.
+- **Who:** The three at the table. Hermione's finger is on a column. Ron's eyes are heavy. Harry watches the page. They have not spoken. Madam Pince is not at their shoulders yet.
+- **Faces:** Hermione looks concentrated. Ron looks lost. Harry looks hopeful and tired.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C12-P1-P1
 
 - **Beat:** The library at night. Stacks tower over them.
@@ -2910,6 +4560,16 @@ Searching, the book, what the Stone does, and the wrong man watched.
 - **Who:** Harry, Ron, Hermione in each slice, robes, the search wearing on them. Snape in the first slice, black, at the staff table, not looking at Harry this time. Hedwig is not here. Books accumulate.
 - **Faces:** Harry looks more tired and more fixed. Ron looks loyal and sick of books. Hermione looks undefeated. Snape looks at his plate, ordinary, which frustrates Harry.
 - **Dialogue:** No dialogue.
+
+#### M13-004 — not drawn
+
+- **Beat:** His hand goes to the scar.
+- **Image:** A lesson, daytime, not the library. Harry's hand goes to his brow. The lightning scar on his right brow starts to redden. No wand. His eyes narrow. A small pain, not a curse he casts. The classroom is ordinary around him.
+- **Setting:** A lesson, daytime, not the library. Harry's hand goes to his brow. The lightning scar on his right brow starts to redden. No wand. His eyes narrow. A small pain, not a curse he casts. The classroom is ordinary around him.
+- **Who:** A lesson, daytime, not the library. Harry's hand goes to his brow. The lightning scar on his right brow starts to redden. No wand. His eyes narrow. A small pain, not a curse he casts. The classroom is ordinary around him.
+- **Faces:** He looks inward, startled by his own skin. He does not look at a teacher.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C12-P1-P6
 
@@ -3034,6 +4694,36 @@ Searching, the book, what the Stone does, and the wrong man watched.
 
 ### Page 4 — Watching
 
+#### M13-005 — not drawn
+
+- **Beat:** A dungeon corridor.
+- **Image:** A dungeon corridor. Torches. A suit of armor. Snape's black robes are ahead, walking away. The three are not hidden yet.
+- **Setting:** A dungeon corridor. Torches. A suit of armor. Snape's black robes are ahead, walking away. The three are not hidden yet.
+- **Who:** A dungeon corridor. Torches. A suit of armor. Snape's black robes are ahead, walking away. The three are not hidden yet.
+- **Faces:** Snape looks forward, not back. Harry looks at that back.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M13-006 — not drawn
+
+- **Beat:** Badly hidden.
+- **Image:** They are crouched behind the armor. Elbows stick out. Snape's back is still ahead. He has not turned. The armor does not quite cover three first years.
+- **Setting:** They are crouched behind the armor. Elbows stick out. Snape's back is still ahead. He has not turned. The armor does not quite cover three first years.
+- **Who:** They are crouched behind the armor. Elbows stick out. Snape's back is still ahead. He has not turned. The armor does not quite cover three first years.
+- **Faces:** Ron looks like he knows this is a bad hiding place. Hermione looks furious at the risk and stays.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M13-007 — not drawn
+
+- **Beat:** Mouths shut.
+- **Image:** The same armor. Ron's mouth is shut. Hermione watches Snape's back. Harry watches too. They have not whispered. Snape has not turned around.
+- **Setting:** The same armor. Ron's mouth is shut. Hermione watches Snape's back. Harry watches too. They have not whispered. Snape has not turned around.
+- **Who:** The same armor. Ron's mouth is shut. Hermione watches Snape's back. Harry watches too. They have not whispered. Snape has not turned around.
+- **Faces:** Three faces, trying to be statues. Eyes on the black robes.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C12-P4-P1
 
 - **Beat:** They trail Snape, badly hidden behind a suit of armor.
@@ -3095,6 +4785,36 @@ Searching, the book, what the Stone does, and the wrong man watched.
 An empty castle, a father’s cloak, a mirror, and a warning.
 
 ### Page 1 — Staying
+
+#### M14-001 — not drawn
+
+- **Beat:** The castle in the snow.
+- **Image:** Hogwarts in snow. The path is empty. Students have been leaving. Carriages or footprints, and then no one. Harry is not at the window yet.
+- **Setting:** Hogwarts in snow. The path is empty. Students have been leaving. Carriages or footprints, and then no one. Harry is not at the window yet.
+- **Who:** Hogwarts in snow. The path is empty. Students have been leaving. Carriages or footprints, and then no one. Harry is not at the window yet.
+- **Faces:** The castle looks large and quiet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M14-002 — not drawn
+
+- **Beat:** Trunks in the common room.
+- **Image:** The Gryffindor common room. Fire. Trunks half packed. Most chairs empty. It is not the feast and not a class.
+- **Setting:** The Gryffindor common room. Fire. Trunks half packed. Most chairs empty. It is not the feast and not a class.
+- **Who:** The Gryffindor common room. Fire. Trunks half packed. Most chairs empty. It is not the feast and not a class.
+- **Faces:** The room looks abandoned on purpose.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M14-003 — not drawn
+
+- **Beat:** Ron does not pack.
+- **Image:** Ron sits on his bed and does not pack. Harry is near the window and has not spoken. A pile of knitting is not opened yet. They are the ones who stayed, and the reason has not been said.
+- **Setting:** Ron sits on his bed and does not pack. Harry is near the window and has not spoken. A pile of knitting is not opened yet. They are the ones who stayed, and the reason has not been said.
+- **Who:** Ron sits on his bed and does not pack. Harry is near the window and has not spoken. A pile of knitting is not opened yet. They are the ones who stayed, and the reason has not been said.
+- **Faces:** Ron looks stubborn and kind. Harry looks like he expected to be alone.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C13-P1-P1
 
@@ -3161,6 +4881,26 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Faces:** Harry looks at the note, the smile gone, replaced by a careful ache. He looks at Ron, needing a witness. Ron looks at the note, then at Harry, quiet, the jokes parked. Respect.
 - **Dialogue:** **Harry:** "No name on the parcel. The note says the cloak was my father's. He left it in Dumbledore's keeping."
 
+#### M14-004 — not drawn
+
+- **Beat:** His hand takes the cloth. The hand is solid.
+- **Image:** Christmas night, by the fire, on their knees. Harry's hand takes the silver-gray cloth out of the parcel. The hand is still solid. His eyes are on the cloth. Ron watches. A blank note is on the rug. Nothing has vanished.
+- **Setting:** Christmas night, by the fire, on their knees. Harry's hand takes the silver-gray cloth out of the parcel. The hand is still solid. His eyes are on the cloth. Ron watches. A blank note is on the rug. Nothing has vanished.
+- **Who:** Christmas night, by the fire, on their knees. Harry's hand takes the silver-gray cloth out of the parcel. The hand is still solid. His eyes are on the cloth. Ron watches. A blank note is on the rug. Nothing has vanished.
+- **Faces:** Harry looks at the cloth, a lump in the throat already. Ron looks curious.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M14-005 — not drawn
+
+- **Beat:** The cloth goes over the hand.
+- **Image:** The cloth goes over the hand and forearm. The edge is sheer silver-gray. The hand is starting to fade and is still clearly his hand. Not gone. Not a flood of shimmer. Ron's eyes are on the edge.
+- **Setting:** The cloth goes over the hand and forearm. The edge is sheer silver-gray. The hand is starting to fade and is still clearly his hand. Not gone. Not a flood of shimmer. Ron's eyes are on the edge.
+- **Who:** The cloth goes over the hand and forearm. The edge is sheer silver-gray. The hand is starting to fade and is still clearly his hand. Not gone. Not a flood of shimmer. Ron's eyes are on the edge.
+- **Faces:** Harry looks at his own hand, wonder. Ron's mouth is opening and the line has not landed.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C13-P2-P2
 
 - **Beat:** He lifts the cloth. His hand reads as gone. The rest of him does not.
@@ -3216,6 +4956,26 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Who:** Harry, green sweater, pajamas, glasses, scar, cloak bundled. His reflection, the same, accurate, alone. No one else in the glass. Yet.
 - **Faces:** Harry looks at his reflection, a small frown, the expectation deflating. The reflection looks back, same expression. Lonely and ordinary. He was hoping without admitting it.
 - **Dialogue:** **Harry:** "Just me. That's all it shows."
+
+#### M14-006 — not drawn
+
+- **Beat:** The glass clouds.
+- **Image:** The moonlit classroom. Harry stands center, back mostly toward us, looking into the Mirror of Erised. The real room behind him is empty. The glass clouds. Two shapes start and are not clear yet. No wand. No spell streak. Lily and James are not readable yet.
+- **Setting:** The moonlit classroom. Harry stands center, back mostly toward us, looking into the Mirror of Erised. The real room behind him is empty. The glass clouds. Two shapes start and are not clear yet. No wand. No spell streak. Lily and James are not readable yet.
+- **Who:** The moonlit classroom. Harry stands center, back mostly toward us, looking into the Mirror of Erised. The real room behind him is empty. The glass clouds. Two shapes start and are not clear yet. No wand. No spell streak. Lily and James are not readable yet.
+- **Faces:** Harry looks into the cloud, frozen, hoping. His reflection is the only clear person.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M14-007 — not drawn
+
+- **Beat:** They settle, and they do not trade sides.
+- **Image:** The shapes settle. Lily is on the viewer's left of his reflection: long straight dark-red hair, green eyes, a soft pale-green dress. James is on the viewer's right: messy black hair, round glasses, no beard, a simple dark jacket over a light shirt. Clothes fixed. They do not swap sides. The real room behind Harry stays empty. No wand.
+- **Setting:** The shapes settle. Lily is on the viewer's left of his reflection: long straight dark-red hair, green eyes, a soft pale-green dress. James is on the viewer's right: messy black hair, round glasses, no beard, a simple dark jacket over a light shirt. Clothes fixed. They do not swap sides. The real room behind Harry stays empty. No wand.
+- **Who:** The shapes settle. Lily is on the viewer's left of his reflection: long straight dark-red hair, green eyes, a soft pale-green dress. James is on the viewer's right: messy black hair, round glasses, no beard, a simple dark jacket over a light shirt. Clothes fixed. They do not swap sides. The real room behind Harry stays empty. No wand.
+- **Faces:** Lily, viewer's left, looks toward Harry with love starting. James, viewer's right, looks toward him with pride starting. Harry does not turn around.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C13-P3-P2
 
@@ -3325,6 +5085,36 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 
 ### Page 1 — The egg
 
+#### M15-001 — not drawn
+
+- **Beat:** The hut, in the daytime.
+- **Image:** Hagrid's hut in daylight. Smoke from the chimney. The pumpkin patch. Harry, Ron, and Hermione are on the path and have not knocked.
+- **Setting:** Hagrid's hut in daylight. Smoke from the chimney. The pumpkin patch. Harry, Ron, and Hermione are on the path and have not knocked.
+- **Who:** Hagrid's hut in daylight. Smoke from the chimney. The pumpkin patch. Harry, Ron, and Hermione are on the path and have not knocked.
+- **Faces:** They look at the smoke and do not know about an egg.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-002 — not drawn
+
+- **Beat:** Fang, the fire, and a hidden grin.
+- **Image:** Inside. The fire is too hot for the season. Fang the boarhound. Hagrid is trying to hide a grin and is not looking at the door yet. The egg is not in frame.
+- **Setting:** Inside. The fire is too hot for the season. Fang the boarhound. Hagrid is trying to hide a grin and is not looking at the door yet. The egg is not in frame.
+- **Who:** Inside. The fire is too hot for the season. Fang the boarhound. Hagrid is trying to hide a grin and is not looking at the door yet. The egg is not in frame.
+- **Faces:** Hagrid looks at the hearth, delighted with a secret.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-003 — not drawn
+
+- **Beat:** They are in the doorway.
+- **Image:** The three stand in the doorway. Hagrid has not said come in. Fang looks up. The fire pops. No one has spoken.
+- **Setting:** The three stand in the doorway. Hagrid has not said come in. Fang looks up. The fire pops. No one has spoken.
+- **Who:** The three stand in the doorway. Hagrid has not said come in. Fang looks up. The fire pops. No one has spoken.
+- **Faces:** Harry looks curious. Hermione looks already suspicious of the heat. Ron looks hungry and wary.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C14-P1-P1
 
 - **Beat:** Hagrid’s hut. He is grinning too widely, hiding something.
@@ -3361,6 +5151,26 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Faces:** Hagrid looks at the crack, breathless, joy. Hermione looks at it, dread and awe fighting. Harry looks at it, the wonder winning for one second. Ron looks at it, mouth open.
 - **Dialogue:** **Ron:** "It's cracking."
 
+#### M15-004 — not drawn
+
+- **Beat:** A thin line of firelight in the shell.
+- **Image:** The black egg in the fire. A crack widens. A thin line of firelight shows through the shell. No head yet. Hagrid leans in. The three lean back.
+- **Setting:** The black egg in the fire. A crack widens. A thin line of firelight shows through the shell. No head yet. Hagrid leans in. The three lean back.
+- **Who:** The black egg in the fire. A crack widens. A thin line of firelight shows through the shell. No head yet. Hagrid leans in. The three lean back.
+- **Faces:** Hagrid looks ready to cry with joy. Hermione's eyes are on the crack, alarmed.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-005 — not drawn
+
+- **Beat:** A wet snout.
+- **Image:** A wet snout pushes out of the shell. The head is about the size of a cat. Ugly, not named yet. Firelight on wet scales. Hagrid's huge hands are near and not grabbing.
+- **Setting:** A wet snout pushes out of the shell. The head is about the size of a cat. Ugly, not named yet. Firelight on wet scales. Hagrid's huge hands are near and not grabbing.
+- **Who:** A wet snout pushes out of the shell. The head is about the size of a cat. Ugly, not named yet. Firelight on wet scales. Hagrid's huge hands are near and not grabbing.
+- **Faces:** Hagrid looks soft. Ron looks fascinated and afraid. Harry looks at the snout.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C14-P1-P5
 
 - **Beat:** A wet, ugly, beautiful head. Hagrid names him Norbert.
@@ -3380,6 +5190,26 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Dialogue:** **Hermione:** "This is a disaster." **Harry:** "We can't leave him in the hut."
 
 ### Page 2 — The problem grows
+
+#### M15-006 — not drawn
+
+- **Beat:** The head lunges.
+- **Image:** The hut. Norbert's head, still about the size of a cat, lunges at Ron's hand. Teeth are not in the skin yet. Hagrid is crooning and not stopping it. The fire is behind them.
+- **Setting:** The hut. Norbert's head, still about the size of a cat, lunges at Ron's hand. Teeth are not in the skin yet. Hagrid is crooning and not stopping it. The fire is behind them.
+- **Who:** The hut. Norbert's head, still about the size of a cat, lunges at Ron's hand. Teeth are not in the skin yet. Hagrid is crooning and not stopping it. The fire is behind them.
+- **Faces:** Ron looks surprised, hand still out. Norbert's eye is on the hand. Hagrid looks proud, which is the wrong feeling.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-007 — not drawn
+
+- **Beat:** Teeth meet skin.
+- **Image:** The teeth meet Ron's skin. The hand has not swollen yet. Norbert is small and the bite is not small. Ron's eyes go wide. No spell.
+- **Setting:** The teeth meet Ron's skin. The hand has not swollen yet. Norbert is small and the bite is not small. Ron's eyes go wide. No spell.
+- **Who:** The teeth meet Ron's skin. The hand has not swollen yet. Norbert is small and the bite is not small. Ron's eyes go wide. No spell.
+- **Faces:** Ron looks at his own hand in disbelief. Hermione looks angry at the dragon and at Hagrid.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C14-P2-P1
 
@@ -3416,6 +5246,36 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Who:** Draco alone, platinum hair, muddy hem, a secret in his mouth. No Crabbe and Goyle; this one he wants for himself. The hut’s occupants are unaware shapes in the orange square.
 - **Faces:** Draco looks back, pleased, a little breathless. He looks at the castle, already composing the telling. Cold satisfaction.
 - **Dialogue:** **Draco:** "Professor McGonagall is going to love a dragon in a wooden hut."
+
+#### M15-008 — not drawn
+
+- **Beat:** The hospital doors.
+- **Image:** The hospital wing doors in the castle. Daytime. Harry and Hermione outside. Ron is already inside and not in this frame.
+- **Setting:** The hospital wing doors in the castle. Daytime. Harry and Hermione outside. Ron is already inside and not in this frame.
+- **Who:** The hospital wing doors in the castle. Daytime. Harry and Hermione outside. Ron is already inside and not in this frame.
+- **Faces:** They look at the doors, guilty and urgent.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-009 — not drawn
+
+- **Beat:** White beds.
+- **Image:** The ward. White beds, curtains, a clean smell. Madam Pomfrey is a shape at the far end, not at Ron yet. The green hand is the thing that does not belong.
+- **Setting:** The ward. White beds, curtains, a clean smell. Madam Pomfrey is a shape at the far end, not at Ron yet. The green hand is the thing that does not belong.
+- **Who:** The ward. White beds, curtains, a clean smell. Madam Pomfrey is a shape at the far end, not at Ron yet. The green hand is the thing that does not belong.
+- **Faces:** The room looks too clean for a dragon bite.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-010 — not drawn
+
+- **Beat:** Ron is in the bed.
+- **Image:** Ron in the bed. The bitten hand is green and swollen on the sheet. He has not said the dragon has to go. Harry and Hermione stand at the bed. No one has spoken.
+- **Setting:** Ron in the bed. The bitten hand is green and swollen on the sheet. He has not said the dragon has to go. Harry and Hermione stand at the bed. No one has spoken.
+- **Who:** Ron in the bed. The bitten hand is green and swollen on the sheet. He has not said the dragon has to go. Harry and Hermione stand at the bed. No one has spoken.
+- **Faces:** Ron looks at the hand, miserable and proud of the story. Hermione looks at the hand, decided.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C14-P2-P5
 
@@ -3464,6 +5324,26 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Faces:** Draco looks at Harry, victorious, the courtyard mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco, contempt. Ron looks at the tail, then at Draco, a spark of we-still-have-to-finish-this.
 - **Dialogue:** **Draco:** "A dragon. I'm telling Professor McGonagall, Potter. Enjoy being expelled."
 
+#### M15-011 — not drawn
+
+- **Beat:** Draco is on the turning flight.
+- **Image:** Three-quarter view from a landing, low. One flight pivots at the bottom. The upper end swings away and a gap opens. Steps stay fixed. Both railings turn with the flight. Draco is on the flight, off balance, feet planted, body jerked, one hand on the railing that turns with him. The others are on the landing he left, with the crate. He is not calmly walking.
+- **Setting:** Three-quarter view from a landing, low. One flight pivots at the bottom. The upper end swings away and a gap opens. Steps stay fixed. Both railings turn with the flight. Draco is on the flight, off balance, feet planted, body jerked, one hand on the railing that turns with him. The others are on the landing he left, with the crate. He is not calmly walking.
+- **Who:** Three-quarter view from a landing, low. One flight pivots at the bottom. The upper end swings away and a gap opens. Steps stay fixed. Both railings turn with the flight. Draco is on the flight, off balance, feet planted, body jerked, one hand on the railing that turns with him. The others are on the landing he left, with the crate. He is not calmly walking.
+- **Faces:** Draco looks furious and off balance. His eyes are on the landing leaving him. Harry, on the landing, looks back.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-012 — not drawn
+
+- **Beat:** The landing stares.
+- **Image:** Harry, Ron, and Hermione stand on the landing the flight left. They stare at the turning flight. Draco is the one aboard, small at the far end of the swing. Nobody on the landing is on the moving steps.
+- **Setting:** Harry, Ron, and Hermione stand on the landing the flight left. They stare at the turning flight. Draco is the one aboard, small at the far end of the swing. Nobody on the landing is on the moving steps.
+- **Who:** Harry, Ron, and Hermione stand on the landing the flight left. They stare at the turning flight. Draco is the one aboard, small at the far end of the swing. Nobody on the landing is on the moving steps.
+- **Faces:** They stare. Hermione looks alarmed. Harry looks like he did not plan this. Ron looks glad anyway.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C14-P3-P4
 
 - **Beat:** They lose him on a moving staircase.
@@ -3472,6 +5352,36 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Who:** Draco, on the moving flight, platinum hair, fury, feet planted, body jerked sideways, one hand locked on the turning railing, the other still reaching. Harry, Hermione, and Ron on the landing, not on the flight, cloak askew, faces turned toward the flight, the smoking crate beside them. Norbert scrabbling inside. No second flight in motion.
 - **Faces:** Draco looks back, the victory cracking into rage, almost falling. Harry looks at the swinging gap, a breath of thanks, not a smile, face turned toward the flight. Hermione stares at the turning flight, no time. Ron stares at the flight, dizzy, still on the landing.
 - **Dialogue:** **Draco:** "The staircase moved. You cheat, Potter!"
+
+#### M15-013 — not drawn
+
+- **Beat:** The tower against the sky.
+- **Image:** The Astronomy Tower at midnight, exterior, against the sky. A crate is a small shape on the top. Wind.
+- **Setting:** The Astronomy Tower at midnight, exterior, against the sky. A crate is a small shape on the top. Wind.
+- **Who:** The Astronomy Tower at midnight, exterior, against the sky. A crate is a small shape on the top. Wind.
+- **Faces:** No faces yet. The height is the picture.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-014 — not drawn
+
+- **Beat:** Wind, the crate, a tail.
+- **Image:** The top of the tower. Wind. The crate. A tail sticks out from under the invisibility cloak. The riders are not in frame yet.
+- **Setting:** The top of the tower. Wind. The crate. A tail sticks out from under the invisibility cloak. The riders are not in frame yet.
+- **Who:** The top of the tower. Wind. The crate. A tail sticks out from under the invisibility cloak. The riders are not in frame yet.
+- **Faces:** Harry looks at the tail that will not hide.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M15-015 — not drawn
+
+- **Beat:** Two riders wait.
+- **Image:** Two riders in traveling cloaks wait on the tower. They have not spoken. Charlie is not named on their faces. The crate is between them and the children. Midnight.
+- **Setting:** Two riders in traveling cloaks wait on the tower. They have not spoken. Charlie is not named on their faces. The crate is between them and the children. Midnight.
+- **Who:** Two riders in traveling cloaks wait on the tower. They have not spoken. Charlie is not named on their faces. The crate is between them and the children. Midnight.
+- **Faces:** The riders look at the crate, professional. Harry looks at Norbert's hidden shape.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C14-P3-P5
 
@@ -3555,6 +5465,36 @@ Lanterns, a dead unicorn, a hood, a centaur, and the reason.
 
 ### Page 1 — Into the trees
 
+#### M16-001 — not drawn
+
+- **Beat:** A wall of trees.
+- **Image:** The grounds at night. The Forbidden Forest is a wall of trees. Lanterns are small. Hagrid, Fang, and four students are at the start of the path and not inside.
+- **Setting:** The grounds at night. The Forbidden Forest is a wall of trees. Lanterns are small. Hagrid, Fang, and four students are at the start of the path and not inside.
+- **Who:** The grounds at night. The Forbidden Forest is a wall of trees. Lanterns are small. Hagrid, Fang, and four students are at the start of the path and not inside.
+- **Faces:** Draco looks like he wants to refuse. Hagrid looks grave.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M16-002 — not drawn
+
+- **Beat:** Lantern circles.
+- **Image:** The edge of the trees. Lantern light makes circles and then stops. Fang is a pale shape. The path in is black.
+- **Setting:** The edge of the trees. Lantern light makes circles and then stops. Fang is a pale shape. The path in is black.
+- **Who:** The edge of the trees. Lantern light makes circles and then stops. Fang is a pale shape. The path in is black.
+- **Faces:** Hagrid looks into the dark, not at the children.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M16-003 — not drawn
+
+- **Beat:** They stand, and no one has sneered.
+- **Image:** Hagrid with a lantern. Harry, Hermione, Neville, and Draco. Fang. They have not split up. Draco's mouth is shut. The detention has not been explained in this picture.
+- **Setting:** Hagrid with a lantern. Harry, Hermione, Neville, and Draco. Fang. They have not split up. Draco's mouth is shut. The detention has not been explained in this picture.
+- **Who:** Hagrid with a lantern. Harry, Hermione, Neville, and Draco. Fang. They have not split up. Draco's mouth is shut. The detention has not been explained in this picture.
+- **Faces:** Harry looks into the trees. Draco looks at his own shoes, angry. Hermione looks at Hagrid, listening already.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C15-P1-P1
 
 - **Beat:** Hagrid at the forest edge. Lanterns. Fang.
@@ -3637,6 +5577,26 @@ Lanterns, a dead unicorn, a hood, a centaur, and the reason.
 - **Who:** Draco, platinum hair, cloak, back to a trunk, pale. Harry, lantern lowered, glasses, scar beginning to prick, body still. The unicorn in the foreground, still.
 - **Faces:** Draco looks at the blood, then at the dark gap, a whimper he hates. Harry looks at the gap, focused, the scar a warning. He looks calm and he is not.
 - **Dialogue:** **Draco:** "I don't like this. Potter, I really don't like this."
+
+#### M16-004 — not drawn
+
+- **Beat:** The mouth at the wound.
+- **Image:** The clearing. A dead unicorn, silver blood. A hooded figure is crouched. The mouth is just at the silver wound and has not drunk. Harry's eyes lock on the hood. Draco is a step behind. The scar has not torn yet.
+- **Setting:** The clearing. A dead unicorn, silver blood. A hooded figure is crouched. The mouth is just at the silver wound and has not drunk. Harry's eyes lock on the hood. Draco is a step behind. The scar has not torn yet.
+- **Who:** The clearing. A dead unicorn, silver blood. A hooded figure is crouched. The mouth is just at the silver wound and has not drunk. Harry's eyes lock on the hood. Draco is a step behind. The scar has not torn yet.
+- **Faces:** Harry looks locked on the hood. The hood has no readable face. Draco looks like he will run.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M16-005 — not drawn
+
+- **Beat:** Silver at the mouth.
+- **Image:** Silver blood is at the hood's mouth. A thin shine, not a glow flood. The figure is drinking. Harry is still on his feet. The scar is quiet for one more second. Keep it disturbing and do not add a second body.
+- **Setting:** Silver blood is at the hood's mouth. A thin shine, not a glow flood. The figure is drinking. Harry is still on his feet. The scar is quiet for one more second. Keep it disturbing and do not add a second body.
+- **Who:** Silver blood is at the hood's mouth. A thin shine, not a glow flood. The figure is drinking. Harry is still on his feet. The scar is quiet for one more second. Keep it disturbing and do not add a second body.
+- **Faces:** Harry's eyes do not leave the mouth. His face is sick and unable to look away.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C15-P2-P4
 
@@ -3785,6 +5745,36 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 
 ### Page 1 — Exams and a slip
 
+#### M17-001 — not drawn
+
+- **Beat:** The exam-hall doors.
+- **Image:** Summer light in a corridor. The exam-hall doors. First years going in with quills. Harry is among them and has not sat.
+- **Setting:** Summer light in a corridor. The exam-hall doors. First years going in with quills. Harry is among them and has not sat.
+- **Who:** Summer light in a corridor. The exam-hall doors. First years going in with quills. Harry is among them and has not sat.
+- **Faces:** Harry looks elsewhere, not at the door.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-002 — not drawn
+
+- **Beat:** Desks and parchment.
+- **Image:** The hall. Desks in rows. Parchment. A question on the paper. No one has finished. The forest is not in the room.
+- **Setting:** The hall. Desks in rows. Parchment. A question on the paper. No one has finished. The forest is not in the room.
+- **Who:** The hall. Desks in rows. Parchment. A question on the paper. No one has finished. The forest is not in the room.
+- **Faces:** Heads are down. Quills move.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-003 — not drawn
+
+- **Beat:** Harry is not reading.
+- **Image:** Harry sits. He stares at a question and is not reading it. The forest is in his head. His quill is still. Hermione, nearby, is already writing. He has not moved.
+- **Setting:** Harry sits. He stares at a question and is not reading it. The forest is in his head. His quill is still. Hermione, nearby, is already writing. He has not moved.
+- **Who:** Harry sits. He stares at a question and is not reading it. The forest is in his head. His quill is still. Hermione, nearby, is already writing. He has not moved.
+- **Faces:** Harry's eyes are open and not on the page. Hermione's eyes are on her answer.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C16-P1-P1
 
 - **Beat:** The exam hall. Harry writes, and thinks about the forest.
@@ -3811,6 +5801,36 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 - **Who:** Ron, red hair, freckles, ink on his nose, the dragon doodle, quill. His bitten hand, healed, resting on the paper.
 - **Faces:** He looks at the question, despair, then at the dragon, a private grin, then panic as the shadow nears. He looks like a boy at the end of a long year.
 - **Dialogue:** **Ron:** "What is the difference between monkshood and... oh, forget the question."
+
+#### M17-004 — not drawn
+
+- **Beat:** The hut, after exams.
+- **Image:** Hagrid's hut in daylight, after the exams. The path. The three walking toward the door. They do not know he is crying.
+- **Setting:** Hagrid's hut in daylight, after the exams. The path. The three walking toward the door. They do not know he is crying.
+- **Who:** Hagrid's hut in daylight, after the exams. The path. The three walking toward the door. They do not know he is crying.
+- **Faces:** They look ordinary and tired.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-005 — not drawn
+
+- **Beat:** A handkerchief the size of a sail.
+- **Image:** Inside. Hagrid holds a handkerchief the size of a sail. His eyes are red. The three are not in the room yet. Fang is quiet.
+- **Setting:** Inside. Hagrid holds a handkerchief the size of a sail. His eyes are red. The three are not in the room yet. Fang is quiet.
+- **Who:** Inside. Hagrid holds a handkerchief the size of a sail. His eyes are red. The three are not in the room yet. Fang is quiet.
+- **Faces:** Hagrid looks broken. He is not looking at the door.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-006 — not drawn
+
+- **Beat:** They have just come in.
+- **Image:** The three are just inside. Hagrid is crying and has not explained. Tea is not poured. No one has spoken. The handkerchief hides half his beard.
+- **Setting:** The three are just inside. Hagrid is crying and has not explained. Tea is not poured. No one has spoken. The handkerchief hides half his beard.
+- **Who:** The three are just inside. Hagrid is crying and has not explained. Tea is not poured. No one has spoken. The handkerchief hides half his beard.
+- **Faces:** They go still. Harry's mouth is shut. Hermione's eyes are already afraid of what he will say.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C16-P1-P4
 
@@ -3897,6 +5917,36 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 
 ### Page 3 — The warning refused
 
+#### M17-007 — not drawn
+
+- **Beat:** The corridor outside the office.
+- **Image:** A corridor outside Professor McGonagall's office. The three run and then stop at the door. They have not knocked in this picture.
+- **Setting:** A corridor outside Professor McGonagall's office. The three run and then stop at the door. They have not knocked in this picture.
+- **Who:** A corridor outside Professor McGonagall's office. The three run and then stop at the door. They have not knocked in this picture.
+- **Faces:** Harry looks urgent. Ron looks like he wants to be anywhere else. Hermione looks set.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-008 — not drawn
+
+- **Beat:** The desk and the tartan tin.
+- **Image:** Inside the office, before they enter. Desk, tartan tin, neat papers. McGonagall is writing. Emerald robes. Square glasses. She does not know they are outside.
+- **Setting:** Inside the office, before they enter. Desk, tartan tin, neat papers. McGonagall is writing. Emerald robes. Square glasses. She does not know they are outside.
+- **Who:** Inside the office, before they enter. Desk, tartan tin, neat papers. McGonagall is writing. Emerald robes. Square glasses. She does not know they are outside.
+- **Faces:** She looks at the page, severe and busy.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-009 — not drawn
+
+- **Beat:** The quill is still moving.
+- **Image:** The same desk. Her quill moves. The door is shut. The three are not in frame. This is the last quiet second.
+- **Setting:** The same desk. Her quill moves. The door is shut. The three are not in frame. This is the last quiet second.
+- **Who:** The same desk. Her quill moves. The door is shut. The three are not in frame. This is the last quiet second.
+- **Faces:** Her face is closed over the work. Not angry yet, because she has not heard them.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C16-P3-P1
 
 - **Beat:** They run to McGonagall’s office.
@@ -3952,6 +6002,36 @@ Exams, Hagrid’s slip, a warning refused, and a flute in a dark corridor.
 - **Dialogue:** **Portrait:** "Dumbledore? Oh, he left this afternoon. An urgent owl. The headmaster is not in the castle."
 
 ### Page 4 — The choice
+
+#### M17-010 — not drawn
+
+- **Beat:** The portrait hole at night.
+- **Image:** The Fat Lady's frame at night. The hole into the common room. The three are on the corridor side and have not gone in.
+- **Setting:** The Fat Lady's frame at night. The hole into the common room. The three are on the corridor side and have not gone in.
+- **Who:** The Fat Lady's frame at night. The hole into the common room. The three are on the corridor side and have not gone in.
+- **Faces:** The Fat Lady looks sleepy. They look decided and afraid.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-011 — not drawn
+
+- **Beat:** The fire is low.
+- **Image:** The common room at night. Few students. The fire is low. Armchairs. No one is arguing.
+- **Setting:** The common room at night. Few students. The fire is low. Armchairs. No one is arguing.
+- **Who:** The common room at night. Few students. The fire is low. Armchairs. No one is arguing.
+- **Faces:** The room looks safe, which is why leaving it will be the choice.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M17-012 — not drawn
+
+- **Beat:** They sit, and the argument has not started.
+- **Image:** Harry, Ron, and Hermione in three chairs. Harry looks at the floor. Ron looks at his hands. Hermione looks at Harry. No one has spoken. The flute is not raised yet.
+- **Setting:** Harry, Ron, and Hermione in three chairs. Harry looks at the floor. Ron looks at his hands. Hermione looks at Harry. No one has spoken. The flute is not raised yet.
+- **Who:** Harry, Ron, and Hermione in three chairs. Harry looks at the floor. Ron looks at his hands. Hermione looks at Harry. No one has spoken. The flute is not raised yet.
+- **Faces:** Three frightened faces. The decision is not said.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C16-P4-P1
 
@@ -4014,6 +6094,76 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 
 ### Page 1 — Fluffy and the snare
 
+#### M18-001 — not drawn
+
+- **Beat:** The corridor they were told to avoid.
+- **Image:** The third-floor corridor at night. The door on the right. Torches. Harry has a small wooden flute in his hand and has not played it. Ron and Hermione are with him.
+- **Setting:** The third-floor corridor at night. The door on the right. Torches. Harry has a small wooden flute in his hand and has not played it. Ron and Hermione are with him.
+- **Who:** The third-floor corridor at night. The door on the right. Torches. Harry has a small wooden flute in his hand and has not played it. Ron and Hermione are with him.
+- **Faces:** Harry looks at the door. Hermione looks at the flute. Ron looks at the door as if it might bite.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-002 — not drawn
+
+- **Beat:** A growl behind the door.
+- **Image:** The door, close. A growl behind it. The flute is down. No notes. The lock is the kind first years should not open.
+- **Setting:** The door, close. A growl behind it. The flute is down. No notes. The lock is the kind first years should not open.
+- **Who:** The door, close. A growl behind it. The flute is down. No notes. The lock is the kind first years should not open.
+- **Faces:** They listen. Mouths shut.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-003 — not drawn
+
+- **Beat:** Three heads, awake, no notes.
+- **Image:** The door opens a crack. A huge brown three-headed dog. All three heads are awake. No music notes. No Zzz. Collars. A paw on a trapdoor, only hinted. The room is the size of the dog.
+- **Setting:** The door opens a crack. A huge brown three-headed dog. All three heads are awake. No music notes. No Zzz. Collars. A paw on a trapdoor, only hinted. The room is the size of the dog.
+- **Who:** The door opens a crack. A huge brown three-headed dog. All three heads are awake. No music notes. No Zzz. Collars. A paw on a trapdoor, only hinted. The room is the size of the dog.
+- **Faces:** Three pairs of eyes, none sleepy. Harry looks at all three heads.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-004 — not drawn
+
+- **Beat:** The flute at his mouth.
+- **Image:** The third-floor room. The flute is at Harry's mouth. His eyes are on all three heads. All three are awake. No Zzz anywhere. Hermione and Ron are behind him. Wands may be lit, small. He has not played the note that lands.
+- **Setting:** The third-floor room. The flute is at Harry's mouth. His eyes are on all three heads. All three are awake. No Zzz anywhere. Hermione and Ron are behind him. Wands may be lit, small. He has not played the note that lands.
+- **Who:** The third-floor room. The flute is at Harry's mouth. His eyes are on all three heads. All three are awake. No Zzz anywhere. Hermione and Ron are behind him. Wands may be lit, small. He has not played the note that lands.
+- **Faces:** Harry looks concentrated, a boy who will not stop. The heads look at him, suspicious.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-005 — not drawn
+
+- **Beat:** Notes to all three heads.
+- **Image:** A few music notes leave the flute and travel to all three heads. Notes, not a glow, not a wand thread. Every head gets the notes. No Zzz yet. The lids are not heavy.
+- **Setting:** A few music notes leave the flute and travel to all three heads. Notes, not a glow, not a wand thread. Every head gets the notes. No Zzz yet. The lids are not heavy.
+- **Who:** A few music notes leave the flute and travel to all three heads. Notes, not a glow, not a wand thread. Every head gets the notes. No Zzz yet. The lids are not heavy.
+- **Faces:** Harry's eyes stay on the heads. The heads hear him. None is asleep.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-006 — not drawn
+
+- **Beat:** Zzz only on the first sleepy head.
+- **Image:** The left head's lids go heavy. Zzz only over that sleepy head. The middle head and the right head are awake and have no Zzz. Notes may still be in the air. Do not put Zzz on a waking head.
+- **Setting:** The left head's lids go heavy. Zzz only over that sleepy head. The middle head and the right head are awake and have no Zzz. Notes may still be in the air. Do not put Zzz on a waking head.
+- **Who:** The left head's lids go heavy. Zzz only over that sleepy head. The middle head and the right head are awake and have no Zzz. Notes may still be in the air. Do not put Zzz on a waking head.
+- **Faces:** The sleepy head is glassy. The other two look irritated. Harry does not stop.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-007 — not drawn
+
+- **Beat:** Two heads sleep. One does not.
+- **Image:** The middle head droops. Zzz only on the two sleepy heads. The third head is still glaring and has no Zzz. Harry keeps the flute at his mouth. His eyes are on the waking head.
+- **Setting:** The middle head droops. Zzz only on the two sleepy heads. The third head is still glaring and has no Zzz. Harry keeps the flute at his mouth. His eyes are on the waking head.
+- **Who:** The middle head droops. Zzz only on the two sleepy heads. The third head is still glaring and has no Zzz. Harry keeps the flute at his mouth. His eyes are on the waking head.
+- **Faces:** Harry looks at the one head still awake. Hermione watches the paws. Ron watches the teeth.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P1-P1
 
 - **Beat:** Harry plays, badly. The heads droop one at a time.
@@ -4050,6 +6200,26 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Faces:** Ron looks up at Harry, panic, he cannot shout. Harry looks at Ron’s disappearing shoulder, fear, pulling. Hermione looks at the plant, thinking hard, afraid and angry at it. The plant has no face. Its grip is the expression.
 - **Dialogue:** **Ron:** "It's got me! Harry, it's pulling me under!"
 
+#### M18-008 — not drawn
+
+- **Beat:** She freezes.
+- **Image:** The pit of Devil's Snare. Hermione is frozen. Her wand is not up. Ron is going under, a vine near her, Harry pulling on Ron's wrist. Her eyes are wide and she is not casting. Panic, not the answer.
+- **Setting:** The pit of Devil's Snare. Hermione is frozen. Her wand is not up. Ron is going under, a vine near her, Harry pulling on Ron's wrist. Her eyes are wide and she is not casting. Panic, not the answer.
+- **Who:** The pit of Devil's Snare. Hermione is frozen. Her wand is not up. Ron is going under, a vine near her, Harry pulling on Ron's wrist. Her eyes are wide and she is not casting. Panic, not the answer.
+- **Faces:** Hermione looks blank with fear. Harry looks at her, needing her. Ron looks up, unable to shout.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-009 — not drawn
+
+- **Beat:** I'm a witch.
+- **Image:** The same dark pit. Hermione scolds herself. Her mouth is mid-word at herself, not at a spell yet. The wand is still down. The vines still have Ron. She is remembering she is a witch. The fire has not left any wand.
+- **Setting:** The same dark pit. Hermione scolds herself. Her mouth is mid-word at herself, not at a spell yet. The wand is still down. The vines still have Ron. She is remembering she is a witch. The fire has not left any wand.
+- **Who:** The same dark pit. Hermione scolds herself. Her mouth is mid-word at herself, not at a spell yet. The wand is still down. The vines still have Ron. She is remembering she is a witch. The fire has not left any wand.
+- **Faces:** Her eyes snap back into focus. She looks angry at her own panic. Harry looks at her, hoping.
+- **Dialogue:** **Hermione:** "I'm a witch. Stop panicking. Light."
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P1-P5
 
 - **Beat:** Hermione shouts that Devil’s Snare hates light.
@@ -4058,6 +6228,26 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Who:** Hermione, hair escaping the tie, robes, wand up, the answer in her whole posture. Harry straining. Ron’s hand, freckled, weakening.
 - **Faces:** Hermione looks at the vines, fierce, certain. She looks at the boys, a command in her eyes: do not fight it, I am here. Harry looks at her, trusting. Ron’s eyes look at her, the panic pausing half a second.
 - **Dialogue:** **Hermione:** "Devil's Snare! Devil's Snare hates light and warmth. Stop struggling, Ron!"
+
+#### M18-010 — not drawn
+
+- **Beat:** The wand points at the vines.
+- **Image:** Hermione's wand is pointed down at the vines. Her eyes are on them. Her mouth is mid-word, Incendio. No fire yet. Ron is still caught. Harry is still pulling. The plant has not recoiled.
+- **Setting:** Hermione's wand is pointed down at the vines. Her eyes are on them. Her mouth is mid-word, Incendio. No fire yet. Ron is still caught. Harry is still pulling. The plant has not recoiled.
+- **Who:** Hermione's wand is pointed down at the vines. Her eyes are on them. Her mouth is mid-word, Incendio. No fire yet. Ron is still caught. Harry is still pulling. The plant has not recoiled.
+- **Faces:** She looks fierce and certain now. Her eyes do not leave the vines.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-011 — not drawn
+
+- **Beat:** A thin thread of fire.
+- **Image:** A thin thread of fire leaves her wand tip and reaches the vines. Not a flood filling the pit. The thread is readable. The vines flinch and have not fully let go. Smoke is only starting.
+- **Setting:** A thin thread of fire leaves her wand tip and reaches the vines. Not a flood filling the pit. The thread is readable. The vines flinch and have not fully let go. Smoke is only starting.
+- **Who:** A thin thread of fire leaves her wand tip and reaches the vines. Not a flood filling the pit. The thread is readable. The vines flinch and have not fully let go. Smoke is only starting.
+- **Faces:** Her eyes follow the thread. Ron looks at the fire, coughing already. Harry looks at Ron's shoulder.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C17-P1-P6
 
@@ -4069,6 +6259,36 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Dialogue:** **Hermione:** "Incendio!" **Ron:** "I hate that plant. I hate it politely."
 
 ### Page 2 — The keys
+
+#### M18-012 — not drawn
+
+- **Beat:** The next door.
+- **Image:** A stone passage after the pit. The next door. They are sooty. Hermione's wand is lowered. They have not opened this door.
+- **Setting:** A stone passage after the pit. The next door. They are sooty. Hermione's wand is lowered. They have not opened this door.
+- **Who:** A stone passage after the pit. The next door. They are sooty. Hermione's wand is lowered. They have not opened this door.
+- **Faces:** They look at the door, still coughing.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-013 — not drawn
+
+- **Beat:** Keys batter the air.
+- **Image:** A high room. Winged keys already in the air, a flock, battering. The far door has a keyhole. No one is on a broom yet.
+- **Setting:** A high room. Winged keys already in the air, a flock, battering. The far door has a keyhole. No one is on a broom yet.
+- **Who:** A high room. Winged keys already in the air, a flock, battering. The far door has a keyhole. No one is on a broom yet.
+- **Faces:** The keys are the weather. Hermione looks up, working it out.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-014 — not drawn
+
+- **Beat:** Harry sees the broom.
+- **Image:** They stand in the doorway. A broom leans in the room. Harry's eyes are on it. He has not mounted. Ron and Hermione look at the flock. No one has spoken.
+- **Setting:** They stand in the doorway. A broom leans in the room. Harry's eyes are on it. He has not mounted. Ron and Hermione look at the flock. No one has spoken.
+- **Who:** They stand in the doorway. A broom leans in the room. Harry's eyes are on it. He has not mounted. Ron and Hermione look at the flock. No one has spoken.
+- **Faces:** Harry looks at the broom the way he looked at the sky. The keys do not care yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C17-P2-P1
 
@@ -4106,6 +6326,16 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Faces:** Harry looks at the bent wing, focus narrowing to a point. The key, if metal can panic, panics. Hermione looks at Harry, a fierce go. Her face is a teammate’s.
 - **Dialogue:** **Hermione:** "The old one! Silver, with the bent wing. That's the key!"
 
+#### M18-015 — not drawn
+
+- **Beat:** The old silver key dives.
+- **Image:** Harry on the broom among the flock. One old silver key with a bent wing dives at his hand. His eyes are on it. His fist is open. It is cutting and he has not closed. Blood is a line, not a flood.
+- **Setting:** Harry on the broom among the flock. One old silver key with a bent wing dives at his hand. His eyes are on it. His fist is open. It is cutting and he has not closed. Blood is a line, not a flood.
+- **Who:** Harry on the broom among the flock. One old silver key with a bent wing dives at his hand. His eyes are on it. His fist is open. It is cutting and he has not closed. Blood is a line, not a flood.
+- **Faces:** He looks at the key, not at the cut. The key looks furious for a piece of metal.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P2-P5
 
 - **Beat:** It fights and cuts his hand. His fist closes on it.
@@ -4125,6 +6355,36 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Dialogue:** **Harry:** "Through, before the flock comes back."
 
 ### Page 3 — The chessboard
+
+#### M18-016 — not drawn
+
+- **Beat:** The chess-room door.
+- **Image:** Another stone door. They are through the keys. Harry's hand is cut. They have not seen the board.
+- **Setting:** Another stone door. They are through the keys. Harry's hand is cut. They have not seen the board.
+- **Who:** Another stone door. They are through the keys. Harry's hand is cut. They have not seen the board.
+- **Faces:** Ron looks ahead as if he recognizes a subject. Harry looks at him.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-017 — not drawn
+
+- **Beat:** Stone pieces, still.
+- **Image:** A giant chessboard. Stone pieces, armed, still. Black and white squares. No one has stepped on. The queen is huge and has not moved.
+- **Setting:** A giant chessboard. Stone pieces, armed, still. Black and white squares. No one has stepped on. The queen is huge and has not moved.
+- **Who:** A giant chessboard. Stone pieces, armed, still. Black and white squares. No one has stepped on. The queen is huge and has not moved.
+- **Faces:** The pieces look like they do not take prisoners, even while they wait.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-018 — not drawn
+
+- **Beat:** Ron looks, and has not placed them.
+- **Image:** Ron at the edge of the board. Harry and Hermione wait behind him. He has not called a square. His eyes move like a plan. No one has spoken.
+- **Setting:** Ron at the edge of the board. Harry and Hermione wait behind him. He has not called a square. His eyes move like a plan. No one has spoken.
+- **Who:** Ron at the edge of the board. Harry and Hermione wait behind him. He has not called a square. His eyes move like a plan. No one has spoken.
+- **Faces:** Ron looks calm in a way he is not in class. They look at him and wait.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C17-P3-P1
 
@@ -4171,6 +6431,16 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Faces:** Ron looks at Harry, the smile, a go-on already in it. Love and terror and pride. Harry looks at him, no, the word not out yet. The queen looks at Ron, nothing human, the sword rising. Hermione looks at Ron, understanding a second after Harry, horror.
 - **Dialogue:** **Ron:** "There's only one win. The queen has to take me. Harry, when she does, you move on the king. Checkmate." **Harry:** "Ron, no." **Ron:** "That's an order, bishop."
 
+#### M18-019 — not drawn
+
+- **Beat:** The stone sword rises.
+- **Image:** The giant board. Ron rides a stone knight forward. The queen's stone sword is rising. His eyes are on Harry, not on the blade. He is choosing to be taken. The sword has not come down. Hermione is a rook. Harry is a bishop. They are where he put them.
+- **Setting:** The giant board. Ron rides a stone knight forward. The queen's stone sword is rising. His eyes are on Harry, not on the blade. He is choosing to be taken. The sword has not come down. Hermione is a rook. Harry is a bishop. They are where he put them.
+- **Who:** The giant board. Ron rides a stone knight forward. The queen's stone sword is rising. His eyes are on Harry, not on the blade. He is choosing to be taken. The sword has not come down. Hermione is a rook. Harry is a bishop. They are where he put them.
+- **Faces:** Ron looks afraid and decided. Harry looks like he wants to refuse an order. The queen has no pity.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P3-P6
 
 - **Beat:** The queen strikes him down. He has already told them to go on.
@@ -4182,6 +6452,46 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 
 ### Page 4 — Logic and goodbye
 
+#### M18-020 — not drawn
+
+- **Beat:** He is down, and he is alive.
+- **Image:** Ron is on the stone. Unconscious. His chest moves. He is alive. The queen is still. Harry and Hermione look back at him. The king is in check or the path is open, but this picture is Ron. Blood or a bruise at the head, not a death.
+- **Setting:** Ron is on the stone. Unconscious. His chest moves. He is alive. The queen is still. Harry and Hermione look back at him. The king is in check or the path is open, but this picture is Ron. Blood or a bruise at the head, not a death.
+- **Who:** Ron is on the stone. Unconscious. His chest moves. He is alive. The queen is still. Harry and Hermione look back at him. The king is in check or the path is open, but this picture is Ron. Blood or a bruise at the head, not a death.
+- **Faces:** Hermione looks wrecked and does not stop. Harry looks back once. Ron's face is slack and breathing.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-021 — not drawn
+
+- **Beat:** Another door.
+- **Image:** The next door after the chessboard. Torchlight. They are leaving Ron's shape behind them in the previous room and this picture is only the door.
+- **Setting:** The next door after the chessboard. Torchlight. They are leaving Ron's shape behind them in the previous room and this picture is only the door.
+- **Who:** The next door after the chessboard. Torchlight. They are leaving Ron's shape behind them in the previous room and this picture is only the door.
+- **Faces:** Hermione looks at the door, not back. Harry looks sick and keeps walking.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-022 — not drawn
+
+- **Beat:** The same kind of troll, asleep.
+- **Image:** A mountain troll, the same kind as the bathroom troll, already unconscious, tongue out, comic and huge. It is not a new species. It does not wake.
+- **Setting:** A mountain troll, the same kind as the bathroom troll, already unconscious, tongue out, comic and huge. It is not a new species. It does not wake.
+- **Who:** A mountain troll, the same kind as the bathroom troll, already unconscious, tongue out, comic and huge. It is not a new species. It does not wake.
+- **Faces:** The tongue is the joke. The eyes are shut.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-023 — not drawn
+
+- **Beat:** They do not stop.
+- **Image:** Harry and Hermione step past the sleeping troll. They do not kneel and do not celebrate. The far door is the point. The troll stays down.
+- **Setting:** Harry and Hermione step past the sleeping troll. They do not kneel and do not celebrate. The far door is the point. The troll stays down.
+- **Who:** Harry and Hermione step past the sleeping troll. They do not kneel and do not celebrate. The far door is the point. The troll stays down.
+- **Faces:** Hermione's eyes stay on the far door. Harry does not look at the troll for long.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P4-P1
 
 - **Beat:** A troll, already unconscious. Hermione does not slow down.
@@ -4190,6 +6500,36 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Who:** The troll, gray, huge, asleep, harmless as a hill. Hermione, hair, a cut on her cheek, robes, walking. Harry, bleeding hand, glasses, looking back once toward where Ron lies in the previous room, then forward.
 - **Faces:** Hermione looks at the next door, focused, she will not spend Ron’s move on a fainted troll. Harry looks at the troll, a grim almost-laugh, then at her back, following. The troll’s face is slack, tongue out, comic and ignored.
 - **Dialogue:** **Hermione:** "The troll is already down. We don't stop for a solved room."
+
+#### M18-024 — not drawn
+
+- **Beat:** The door to the bottles.
+- **Image:** A smaller door. Purple fire or ordinary torches, stone. They have not seen the table.
+- **Setting:** A smaller door. Purple fire or ordinary torches, stone. They have not seen the table.
+- **Who:** A smaller door. Purple fire or ordinary torches, stone. They have not seen the table.
+- **Faces:** Hermione looks ready for a puzzle. Harry looks ready to be told what to do.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-025 — not drawn
+
+- **Beat:** Seven bottles and a riddle.
+- **Image:** A table. Seven bottles of different sizes. A riddle on paper. Torches. No one has touched a cork.
+- **Setting:** A table. Seven bottles of different sizes. A riddle on paper. Torches. No one has touched a cork.
+- **Who:** A table. Seven bottles of different sizes. A riddle on paper. Torches. No one has touched a cork.
+- **Faces:** The bottles look like a test, not a drink.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M18-026 — not drawn
+
+- **Beat:** She reads, and does not touch.
+- **Image:** Hermione reads the paper. Harry stands back. Her hand is not on a bottle. She has not spoken the answer. Ron is not in this room.
+- **Setting:** Hermione reads the paper. Harry stands back. Her hand is not on a bottle. She has not spoken the answer. Ron is not in this room.
+- **Who:** Hermione reads the paper. Harry stands back. Her hand is not on a bottle. She has not spoken the answer. Ron is not in this room.
+- **Faces:** Her eyes move on the lines. Harry watches her, trusting her.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C17-P4-P2
 
@@ -4227,6 +6567,16 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 - **Faces:** Hermione looks at Harry, fierce love, fear, she hates this part. She looks at his cut hand, practical even now. Harry looks at her, he wants to argue and does not. Gratitude. A goodbye neither calls a goodbye. His jaw is set.
 - **Dialogue:** **Hermione:** "I am not the one who should walk through that door. You are. I'll take the way back to Ron." **Harry:** "Hermione." **Hermione:** "Drink. And don't you dare waste a drop."
 
+#### M18-027 — not drawn
+
+- **Beat:** He swallows.
+- **Image:** Harry swallows from the small forward bottle. Eyes shut. Hermione watches. The iron door is still open. He is not through it. The other bottle is in her hand for the way back. One swallow, not a glow.
+- **Setting:** Harry swallows from the small forward bottle. Eyes shut. Hermione watches. The iron door is still open. He is not through it. The other bottle is in her hand for the way back. One swallow, not a glow.
+- **Who:** Harry swallows from the small forward bottle. Eyes shut. Hermione watches. The iron door is still open. He is not through it. The other bottle is in her hand for the way back. One swallow, not a glow.
+- **Faces:** Harry's face tightens at the taste. Hermione looks at him, brave, making sure he drinks.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C17-P4-P6
 
 - **Beat:** He drinks. The door opens. Her face is the last thing he sees as it shuts.
@@ -4238,11 +6588,52 @@ A sleeping dog, a strangling plant, a flock of keys, a chess sacrifice, and a lo
 
 ---
 
+#### M18-028 — not drawn
+
+- **Beat:** Then the door.
+- **Image:** He is through the doorway. The iron door shuts. Hermione's face is the last thing in the narrowing gap. The swallow is already done. Bottles and torchlight are behind her. Ahead of him is dark. She is not in the next room.
+- **Setting:** He is through the doorway. The iron door shuts. Hermione's face is the last thing in the narrowing gap. The swallow is already done. Bottles and torchlight are behind her. Ahead of him is dark. She is not in the next room.
+- **Who:** He is through the doorway. The iron door shuts. Hermione's face is the last thing in the narrowing gap. The swallow is already done. Bottles and torchlight are behind her. Ahead of him is dark. She is not in the next room.
+- **Faces:** Her eyes stay on him until the gap is gone. His nod is unfinished as the door closes.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+
 ## Chapter 19 — The Man with Two Faces
 
 The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 
 ### Page 1 — The wrong teacher
+
+#### M19-001 — not drawn
+
+- **Beat:** The door behind him.
+- **Image:** The underground chamber. The door Harry came through is behind him. Stone. Torches. He is dusty, school robes, glasses, scar. He is alone.
+- **Setting:** The underground chamber. The door Harry came through is behind him. Stone. Torches. He is dusty, school robes, glasses, scar. He is alone.
+- **Who:** The underground chamber. The door Harry came through is behind him. Stone. Torches. He is dusty, school robes, glasses, scar. He is alone.
+- **Faces:** He looks into the room, not back at the door.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M19-002 — not drawn
+
+- **Beat:** The mirror at the far end.
+- **Image:** The chamber. Torches. The Mirror of Erised at the far end. No Snape. The glass does not show Lily and James. No Quirrell yet.
+- **Setting:** The chamber. Torches. The Mirror of Erised at the far end. No Snape. The glass does not show Lily and James. No Quirrell yet.
+- **Who:** The chamber. Torches. The Mirror of Erised at the far end. No Snape. The glass does not show Lily and James. No Quirrell yet.
+- **Faces:** Harry looks at the mirror and expects a teacher who is not there.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M19-003 — not drawn
+
+- **Beat:** He has not called out.
+- **Image:** Harry alone, wand down, dusty. He has not said Snape's name. The room is quiet. The mirror waits. No turban in frame.
+- **Setting:** Harry alone, wand down, dusty. He has not said Snape's name. The room is quiet. The mirror waits. No turban in frame.
+- **Who:** Harry alone, wand down, dusty. He has not said Snape's name. The room is quiet. The mirror waits. No turban in frame.
+- **Faces:** His mouth is shut. His eyes search the dark. He is afraid and he stays.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C18-P1-P1
 
@@ -4290,6 +6681,26 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Dialogue:** **Quirrell:** "I have served Lord Voldemort since before you ever came to Hogwarts. The turban was never only cloth."
 
 Required insert, not a numbered panel. Do not renumber. Between this confession and the next panel: Quirrell turns his back to Harry while the purple turban is still wrapped. Camera behind Harry. No face yet. Full prompt in [address-and-famous-beats.md](address-and-famous-beats.md).
+
+#### M19-004 — not drawn
+
+- **Beat:** His back. The turban is still on.
+- **Image:** Camera behind Harry, looking at Quirrell's back. Harry is small in the foreground. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face on the turban. No second man. Quirrell's own face is on the far side of the skull and is not in frame. The mirror behind Harry does not show Lily and James. Torches. Stone.
+- **Setting:** Camera behind Harry, looking at Quirrell's back. Harry is small in the foreground. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face on the turban. No second man. Quirrell's own face is on the far side of the skull and is not in frame. The mirror behind Harry does not show Lily and James. Torches. Stone.
+- **Who:** Camera behind Harry, looking at Quirrell's back. Harry is small in the foreground. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face on the turban. No second man. Quirrell's own face is on the far side of the skull and is not in frame. The mirror behind Harry does not show Lily and James. Torches. Stone.
+- **Faces:** We do not see Quirrell's face. We do not see Voldemort's face. Harry looks at the turban, afraid, waiting. The cloth is ordinary purple cloth.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M19-005 — not drawn
+
+- **Beat:** The cloth comes off.
+- **Image:** The same camera. The purple cloth is coming off in his hands. The back of the head is going bald. The face is not clear yet. Harry sees scalp, not features. No second body. The turban is not a face.
+- **Setting:** The same camera. The purple cloth is coming off in his hands. The back of the head is going bald. The face is not clear yet. Harry sees scalp, not features. No second body. The turban is not a face.
+- **Who:** The same camera. The purple cloth is coming off in his hands. The back of the head is going bald. The face is not clear yet. Harry sees scalp, not features. No second body. The turban is not a face.
+- **Faces:** Harry's eyes are on the scalp. He is waiting for something he does not want. Quirrell's own face stays hidden.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C18-P1-P6
 
@@ -4367,6 +6778,16 @@ Required insert, not a numbered panel. Do not renumber. Between this confession 
 - **Faces:** Voldemort’s face looks toward Harry, hatred, certainty. Quirrell’s face, opposite side of the skull, looks at the pocket, desperate. Harry looks at the hand coming, fear and refusal. He will not give it over.
 - **Dialogue:** **Voldemort:** "He lies. The Philosopher's Stone is in his pocket."
 
+#### M19-006 — not drawn
+
+- **Beat:** The hand has not touched.
+- **Image:** Quirrell's hand reaches for Harry's bare wrist. Not touching yet. Harry's eyes are on the hand. No wand thread. No smoke yet. The Stone is in the pocket and is not the picture.
+- **Setting:** Quirrell's hand reaches for Harry's bare wrist. Not touching yet. Harry's eyes are on the hand. No wand thread. No smoke yet. The Stone is in the pocket and is not the picture.
+- **Who:** Quirrell's hand reaches for Harry's bare wrist. Not touching yet. Harry's eyes are on the hand. No wand thread. No smoke yet. The Stone is in the pocket and is not the picture.
+- **Faces:** Harry looks at the hand, knowing he should move and not moving. Quirrell's own face, if seen, is hungry. No Voldemort features on the front.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C18-P3-P2
 
 - **Beat:** Quirrell grabs Harry’s arm. The hands smoke.
@@ -4375,6 +6796,16 @@ Required insert, not a numbered panel. Do not renumber. Between this confession 
 - **Who:** Quirrell’s hand, pale, already blistering, locked on Harry’s wrist. Harry’s arm, thin, a child’s, the scar not here but the mother’s protection in the skin. Smoke, not fire from a wand.
 - **Faces:** Not fully in frame. Harry’s mouth at the edge, shocked by the scream that is not his. The face we see on the head, if it is in frame, is Quirrell’s own face, agony, looking at his smoking hand. Voldemort stays on the far side of the skull and is not drawn on this wrist. No second man.
 - **Dialogue:** **Quirrell:** "Give it to me." **Harry:** "Let go. Your hand is smoking."
+
+#### M19-007 — not drawn
+
+- **Beat:** Smoke only at the skin.
+- **Image:** Close. Smoke only where Quirrell's skin meets Harry's skin. No spell streak. No wand. Quirrell stares at his own hand. The burn is the protection, not a curse Harry casts.
+- **Setting:** Close. Smoke only where Quirrell's skin meets Harry's skin. No spell streak. No wand. Quirrell stares at his own hand. The burn is the protection, not a curse Harry casts.
+- **Who:** Close. Smoke only where Quirrell's skin meets Harry's skin. No spell streak. No wand. Quirrell stares at his own hand. The burn is the protection, not a curse Harry casts.
+- **Faces:** Quirrell looks betrayed by his own skin. Harry looks shocked by a pain that is not only his.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C18-P3-P3
 
@@ -4393,6 +6824,16 @@ Required insert, not a numbered panel. Do not renumber. Between this confession 
 - **Who:** One Quirrell, purple robes, turban off, both hands reaching, one already burned. Voldemort only as the face on the scalp, same white-gray face, red eyes, slit nostrils, lipless mouth. Harry, small, sleeves pushed up on purpose, glasses, scar white, pocket guarded by his body.
 - **Faces:** Voldemort’s face looks out from the back of the head, contempt for the pain. Quirrell’s face, opposite side, looks toward Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab the face on the scalp.
 - **Dialogue:** **Voldemort:** "Seize him. Hold the boy. I do not care if it burns you."
+
+#### M19-008 — not drawn
+
+- **Beat:** He grabs the face and the arm.
+- **Image:** Harry grabs the face and the arm on purpose. His eyes are on that face. Smoke starts at both contacts. No wand line. He is not casting. The face he holds is the one that burns. If it is the scalp-face, it is on the back of the bald head, not a second man.
+- **Setting:** Harry grabs the face and the arm on purpose. His eyes are on that face. Smoke starts at both contacts. No wand line. He is not casting. The face he holds is the one that burns. If it is the scalp-face, it is on the back of the bald head, not a second man.
+- **Who:** Harry grabs the face and the arm on purpose. His eyes are on that face. Smoke starts at both contacts. No wand line. He is not casting. The face he holds is the one that burns. If it is the scalp-face, it is on the back of the bald head, not a second man.
+- **Faces:** Harry looks determined and in pain. His mouth is set. The face looks furious.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C18-P3-P5
 
@@ -4550,6 +6991,26 @@ Bandages, a destroyed Stone, a mother’s protection, an unanswered question, an
 - **Faces:** Dumbledore looks at Harry, gentle, choosing words for a child. Harry looks at him, hungry, the mirror-mother already rising. Hope and fear of hearing it wrong. His mouth is closed. He is listening harder than he has listened all year.
 - **Dialogue:** **Dumbledore:** "Because of your mother, Harry. Lily Potter."
 
+#### M20-001 — not drawn
+
+- **Beat:** She stands between the crib and the curse.
+- **Image:** A memory in the cottage. Lily stands between the crib and a thin green thread. Her eyes are on the curse. Her body is the block. She has no wand up. The baby is behind her. The thread has not broken.
+- **Setting:** A memory in the cottage. Lily stands between the crib and a thin green thread. Her eyes are on the curse. Her body is the block. She has no wand up. The baby is behind her. The thread has not broken.
+- **Who:** A memory in the cottage. Lily stands between the crib and a thin green thread. Her eyes are on the curse. Her body is the block. She has no wand up. The baby is behind her. The thread has not broken.
+- **Faces:** Lily looks at the thread, not away. Love is the posture, not a glow.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M20-002 — not drawn
+
+- **Beat:** The green thread breaks.
+- **Image:** The thin green thread breaks against her. A thin snap. Not a flood of light. She is still between the crib and the doorway. The baby is untouched behind her.
+- **Setting:** The thin green thread breaks against her. A thin snap. Not a flood of light. She is still between the crib and the doorway. The baby is untouched behind her.
+- **Who:** The thin green thread breaks against her. A thin snap. Not a flood of light. She is still between the crib and the doorway. The baby is untouched behind her.
+- **Faces:** Her eyes stay open. The thread fails. The room does not become a sun.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C19-P2-P3
 
 - **Beat:** A quiet panel. Lily as light and a shape between a crib and a green curse.
@@ -4558,6 +7019,16 @@ Bandages, a destroyed Stone, a mother’s protection, an unanswered question, an
 - **Who:** Lily, hair, a simple dress or nightclothes, her face turned away or lost in light, one arm out. Baby Harry in the crib, a tuft of black hair. The attacker is not shown. Only the green.
 - **Faces:** Her face is not a clear portrait. The love is in the stance, the way she will not step aside. The baby’s face is calm, asleep or just waking. No sneer, no duel. A person choosing.
 - **Dialogue:** No dialogue.
+
+#### M20-003 — not drawn
+
+- **Beat:** A faint protection in the skin.
+- **Image:** The baby, close. A faint protection sits in the skin, on the same brow that will scar. No glow flood. The lightning cut is fresh on the anatomical right brow. The cottage is quiet. This is not a spell Harry casts.
+- **Setting:** The baby, close. A faint protection sits in the skin, on the same brow that will scar. No glow flood. The lightning cut is fresh on the anatomical right brow. The cottage is quiet. This is not a spell Harry casts.
+- **Who:** The baby, close. A faint protection sits in the skin, on the same brow that will scar. No glow flood. The lightning cut is fresh on the anatomical right brow. The cottage is quiet. This is not a spell Harry casts.
+- **Faces:** The baby looks toward a light that is ordinary. The protection is almost invisible. Do not draw a halo.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C19-P2-P4
 
@@ -4706,6 +7177,36 @@ Green and silver, a count, Neville, and the train.
 
 ### Page 1 — Slytherin’s night
 
+#### M21-001 — not drawn
+
+- **Beat:** The hall doors, end of year.
+- **Image:** The Great Hall doors, end of year, evening. Students going in. Green and silver banners already show through the doors. Harry is among the Gryffindors and has not sat.
+- **Setting:** The Great Hall doors, end of year, evening. Students going in. Green and silver banners already show through the doors. Harry is among the Gryffindors and has not sat.
+- **Who:** The Great Hall doors, end of year, evening. Students going in. Green and silver banners already show through the doors. Harry is among the Gryffindors and has not sat.
+- **Faces:** He looks at the green and knows the night was meant to be theirs.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-002 — not drawn
+
+- **Beat:** Green is far ahead.
+- **Image:** The hall. Dressed green and silver. Four tables. All four houses. Four hourglasses at the side: Gryffindor rubies, Hufflepuff yellow stones, Ravenclaw blue stones, Slytherin emeralds. Green starts far ahead of red. The staff table is at the far end.
+- **Setting:** The hall. Dressed green and silver. Four tables. All four houses. Four hourglasses at the side: Gryffindor rubies, Hufflepuff yellow stones, Ravenclaw blue stones, Slytherin emeralds. Green starts far ahead of red. The staff table is at the far end.
+- **Who:** The hall. Dressed green and silver. Four tables. All four houses. Four hourglasses at the side: Gryffindor rubies, Hufflepuff yellow stones, Ravenclaw blue stones, Slytherin emeralds. Green starts far ahead of red. The staff table is at the far end.
+- **Faces:** Slytherin looks sure. Gryffindor looks small.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-003 — not drawn
+
+- **Beat:** Draco is smiling, goblet down.
+- **Image:** Draco at the Slytherin table, smiling, goblet on the table, not raised yet. He has not toasted. Harry is at the Gryffindor table and has not been pointed at. Dumbledore is seated, hat off for the feast, not standing.
+- **Setting:** Draco at the Slytherin table, smiling, goblet on the table, not raised yet. He has not toasted. Harry is at the Gryffindor table and has not been pointed at. Dumbledore is seated, hat off for the feast, not standing.
+- **Who:** Draco at the Slytherin table, smiling, goblet on the table, not raised yet. He has not toasted. Harry is at the Gryffindor table and has not been pointed at. Dumbledore is seated, hat off for the feast, not standing.
+- **Faces:** Draco looks pleased. Harry looks at him and does not smile.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C20-P1-P1
 
 - **Beat:** The Great Hall dressed green and silver. Slytherin thinks the Cup is theirs.
@@ -4845,6 +7346,26 @@ Green and silver, a count, Neville, and the train.
 - **Faces:** Dumbledore looks at Neville, respect, no joke in the sentence. Neville looks at him, the memory hurting in a good way, eyes wet. He looks at his friends. Harry looks at Neville, a nod, you were right to try. Hermione looks at Neville, sorry and proud.
 - **Dialogue:** **Dumbledore:** "It takes courage to face an enemy. It takes more to face your friends when they are about to do something foolish. Neville Longbottom chose the harder bravery."
 
+#### M21-004 — not drawn
+
+- **Beat:** The first rubies fall.
+- **Image:** The hourglasses. Dumbledore's hand is open toward them. Not a wand spell. No thread from a wand. The first Gryffindor rubies start to fall. Green emeralds are still far ahead. The hall looks at the glass.
+- **Setting:** The hourglasses. Dumbledore's hand is open toward them. Not a wand spell. No thread from a wand. The first Gryffindor rubies start to fall. Green emeralds are still far ahead. The hall looks at the glass.
+- **Who:** The hourglasses. Dumbledore's hand is open toward them. Not a wand spell. No thread from a wand. The first Gryffindor rubies start to fall. Green emeralds are still far ahead. The hall looks at the glass.
+- **Faces:** Dumbledore looks along the hall, public and kind. Neville has not understood it is him.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-005 — not drawn
+
+- **Beat:** Red draws level with green.
+- **Image:** Rubies pour. The red level meets the green. It has not passed. The hall holds its breath. No glow. It is jewels in glass. All four hourglasses are in the picture, and these two are the argument.
+- **Setting:** Rubies pour. The red level meets the green. It has not passed. The hall holds its breath. No glow. It is jewels in glass. All four hourglasses are in the picture, and these two are the argument.
+- **Who:** Rubies pour. The red level meets the green. It has not passed. The hall holds its breath. No glow. It is jewels in glass. All four hourglasses are in the picture, and these two are the argument.
+- **Faces:** Every face turns to the glass. Draco's smile thins. Harry does not smile yet.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C20-P3-P4
 
 - **Beat:** Jewels pour. Gryffindor passes Slytherin.
@@ -4874,6 +7395,36 @@ Green and silver, a count, Neville, and the train.
 
 ### Page 4 — Home, for now
 
+#### M21-006 — not drawn
+
+- **Beat:** The Express, in daylight.
+- **Image:** The Hogwarts Express in daylight, steam, the platform. Trunks. End of the year. The scarlet is the train.
+- **Setting:** The Hogwarts Express in daylight, steam, the platform. Trunks. End of the year. The scarlet is the train.
+- **Who:** The Hogwarts Express in daylight, steam, the platform. Trunks. End of the year. The scarlet is the train.
+- **Faces:** Students look tired and happy.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-007 — not drawn
+
+- **Beat:** The same compartment.
+- **Image:** The compartment from September. Trunks in the rack. Scabbers. Hedwig's cage. Empty sweet wrappers are not the point. The countryside is bright.
+- **Setting:** The compartment from September. Trunks in the rack. Scabbers. Hedwig's cage. Empty sweet wrappers are not the point. The countryside is bright.
+- **Who:** The compartment from September. Trunks in the rack. Scabbers. Hedwig's cage. Empty sweet wrappers are not the point. The countryside is bright.
+- **Faces:** The seats look like theirs.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-008 — not drawn
+
+- **Beat:** They sit, before anyone speaks.
+- **Image:** Harry, Ron, and Hermione sit. Ron's sandwich is thick, not the dry one from September. Hermione has a book and has not opened the speech about letters. They have not spoken.
+- **Setting:** Harry, Ron, and Hermione sit. Ron's sandwich is thick, not the dry one from September. Hermione has a book and has not opened the speech about letters. They have not spoken.
+- **Who:** Harry, Ron, and Hermione sit. Ron's sandwich is thick, not the dry one from September. Hermione has a book and has not opened the speech about letters. They have not spoken.
+- **Faces:** Ron looks content. Hermione looks already planning the summer letters. Harry looks at both of them.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
 #### C20-P4-P1
 
 - **Beat:** The train home. The same compartment as September. They are not the same.
@@ -4900,6 +7451,36 @@ Green and silver, a count, Neville, and the train.
 - **Who:** The three, and Hedwig. Quill, sandwich, cage.
 - **Faces:** Hermione looks at them, earnest, a little bossy, loving. Ron looks at her, nodding, he will write badly and truly. Harry looks at Hedwig, a smile, he has a way to reach them that is not the Dursleys’ permission. Hedwig looks at him, steady, regal, fond.
 - **Dialogue:** **Hermione:** "We write. Proper letters, not only at Christmas." **Harry:** "Hedwig already thinks she has the post." **Ron:** "I'll write. The spelling will be tragic. But I'll write."
+
+#### M21-009 — not drawn
+
+- **Beat:** Brick between nine and ten.
+- **Image:** King's Cross, the Muggle side. The brick barrier between platforms nine and ten. Families coming through. The magical platform is behind them.
+- **Setting:** King's Cross, the Muggle side. The brick barrier between platforms nine and ten. Families coming through. The magical platform is behind them.
+- **Who:** King's Cross, the Muggle side. The brick barrier between platforms nine and ten. Families coming through. The magical platform is behind them.
+- **Faces:** Harry looks at ordinary England and is not in a hurry.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-010 — not drawn
+
+- **Beat:** Molly is waiting.
+- **Image:** The Muggle platform. Molly Weasley waits. Her arms are not around Harry yet. Red hair, a crowd of children that are hers. Harry is walking toward her with the trolley.
+- **Setting:** The Muggle platform. Molly Weasley waits. Her arms are not around Harry yet. Red hair, a crowd of children that are hers. Harry is walking toward her with the trolley.
+- **Who:** The Muggle platform. Molly Weasley waits. Her arms are not around Harry yet. Red hair, a crowd of children that are hers. Harry is walking toward her with the trolley.
+- **Faces:** Molly looks warm, searching the crowd for him. Harry looks at her, not at Vernon.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
+
+#### M21-011 — not drawn
+
+- **Beat:** Vernon waits by the car.
+- **Image:** Further off, by the car. Vernon, large and beefy, very little neck, a big black mustache, small angry eyes, the same brown business suit. Not a purple suit. Petunia, thin, long neck, blonde hair pinned, a belted coat. Dudley, blond, round, heavier. Vernon has not spoken. His face may be purple with anger. The suit stays brown.
+- **Setting:** Further off, by the car. Vernon, large and beefy, very little neck, a big black mustache, small angry eyes, the same brown business suit. Not a purple suit. Petunia, thin, long neck, blonde hair pinned, a belted coat. Dudley, blond, round, heavier. Vernon has not spoken. His face may be purple with anger. The suit stays brown.
+- **Who:** Further off, by the car. Vernon, large and beefy, very little neck, a big black mustache, small angry eyes, the same brown business suit. Not a purple suit. Petunia, thin, long neck, blonde hair pinned, a belted coat. Dudley, blond, round, heavier. Vernon has not spoken. His face may be purple with anger. The suit stays brown.
+- **Faces:** Vernon looks stiff and angry. Petunia looks pinched. Dudley looks blank. They are the same family as the cupboard.
+- **Dialogue:** No dialogue.
+- **Art:** Not drawn. No picture file. Do not reuse another panel's jpg.
 
 #### C20-P4-P4
 

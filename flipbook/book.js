@@ -104,12 +104,10 @@
     document.title = title;
   }
 
-  // Place and wide-view panels. A row stays half and half unless one of these
-  // needs the long frame (2:1 or 1:2). Close-ups and conversations stay even.
-  const SCENERY = new Set([1, 10, 11, 14, 22, 23]);
-
+  // Wide panels are marked in the story. A row stays half and half unless one
+  // side needs the long frame. Close-ups and conversations stay even.
   function isScenery(panel) {
-    return SCENERY.has(panel.n);
+    return panel.wide === true;
   }
 
   function rowPlan(items) {
@@ -125,10 +123,35 @@
     return rows;
   }
 
+  function missingFrame() {
+    return `<div class="missing">Art not drawn yet</div>`;
+  }
+
+  // A missing picture still keeps its caption and dialogue in the frame.
+  function bindMissingArt(root) {
+    if (!root || !root.querySelectorAll) return;
+    root.querySelectorAll(".panel img").forEach((img) => {
+      const fail = () => {
+        if (!img.parentNode) return;
+        const frame = document.createElement("div");
+        frame.className = "missing";
+        frame.textContent = "Art not drawn yet";
+        img.replaceWith(frame);
+      };
+      if (img.complete && img.naturalWidth === 0) fail();
+      else img.addEventListener("error", fail);
+    });
+  }
+
+  function setHtml(el, html) {
+    el.innerHTML = html;
+    bindMissingArt(el);
+  }
+
   function panelHtml(panel) {
     const picture = panel.art
-      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
-      : `<div class="missing">Art not drawn yet</div>`;
+      ? `<img src="${escapeHtml(panel.art)}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
+      : missingFrame();
     const caption = panel.caption
       ? `<p class="caption">${escapeHtml(panel.caption)}</p>`
       : "";
@@ -163,8 +186,8 @@
   function renderStatic() {
     const leftPage = spread * 2 + 1;
     const rightPage = leftPage + 1;
-    leftEl.innerHTML = pageHtml(leftPage);
-    rightEl.innerHTML = rightPage <= pageCount ? pageHtml(rightPage) : pageHtml(rightPage);
+    setHtml(leftEl, pageHtml(leftPage));
+    setHtml(rightEl, rightPage <= pageCount ? pageHtml(rightPage) : pageHtml(rightPage));
     const pages = openPages();
     showPlace();
     const hint = mobile()
@@ -282,7 +305,7 @@
     }
     busy = true;
     const forward = direction === "forward";
-    turnSheet.innerHTML = source.innerHTML;
+    setHtml(turnSheet, source.innerHTML);
     turnSheet.classList.remove("turn-forward", "turn-back", "turn-reduce");
     const bookRect = book.getBoundingClientRect();
     const pageRect = source.getBoundingClientRect();
@@ -334,15 +357,15 @@
     if (spread >= spreadCount - 1) return;
     busy = true;
     const next = spread + 1;
-    leafFront.innerHTML = rightEl.innerHTML;
-    leafBack.innerHTML = pageHtml(next * 2 + 1);
+    setHtml(leafFront, rightEl.innerHTML);
+    setHtml(leafBack, pageHtml(next * 2 + 1));
     leaf.hidden = false;
     leaf.classList.remove("turned");
     void leaf.offsetWidth;
-    rightEl.innerHTML = pageHtml(next * 2 + 2);
+    setHtml(rightEl, pageHtml(next * 2 + 2));
     requestAnimationFrame(() => leaf.classList.add("turned"));
     whenTurnEnds(() => {
-      leftEl.innerHTML = pageHtml(next * 2 + 1);
+      setHtml(leftEl, pageHtml(next * 2 + 1));
       afterFlip(next);
     });
   }
@@ -357,17 +380,17 @@
     if (spread === 0) return;
     busy = true;
     const next = spread - 1;
-    leafFront.innerHTML = pageHtml(next * 2 + 2);
-    leafBack.innerHTML = leftEl.innerHTML;
+    setHtml(leafFront, pageHtml(next * 2 + 2));
+    setHtml(leafBack, leftEl.innerHTML);
     leaf.hidden = false;
     leaf.style.transition = "none";
     leaf.classList.add("turned");
     void leaf.offsetWidth;
-    leftEl.innerHTML = pageHtml(next * 2 + 1);
+    setHtml(leftEl, pageHtml(next * 2 + 1));
     leaf.style.transition = "";
     requestAnimationFrame(() => leaf.classList.remove("turned"));
     whenTurnEnds(() => {
-      rightEl.innerHTML = pageHtml(next * 2 + 2);
+      setHtml(rightEl, pageHtml(next * 2 + 2));
       afterFlip(next);
     });
   }

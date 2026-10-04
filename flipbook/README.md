@@ -1,6 +1,6 @@
 # Harry Potter and the Philosopher’s Stone
 
-A flip book of the storyboard. Each chapter has four pages, and every page has 6 panels.
+A flip book of the storyboard. 135 pages and 762 panels. A full page holds 6 panels. A chapter adds a page when a page is full.
 
 Chapters in the book:
 

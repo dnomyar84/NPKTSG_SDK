@@ -152,13 +152,13 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** Draco mocks the scar in the corridor, and they go down the dungeon stair. That is the way down.
 - **Scripted, not yet drawn.** The room before he starts: they walk in, they see the jars, they sit, and he is not teaching yet. No picture file.
 - **Present.** Snape's first speech, bottling fame and stoppering death. He ignores Hermione, says "Potter," and asks a question Harry cannot answer. Points come off for arrogance, and more points because Harry could not answer. Afterwards Ron says Snape hates him. That private surname is already the right register for Ron. The corridor after is its own page.
-- **Missing.** Neville's melted cauldron, the smoke, and the class disaster that lets Snape blame the wrong boy. Potions here is only Harry's humiliation. If a later pass adds the cauldron, it sits in this chapter, not in the troll.
+- **Scripted, not yet drawn.** Neville's melted cauldron, the smoke, and Snape looking at Harry as if the mess were his. It sits after the questions in this chapter, not in the troll. No new points speech. No picture file.
 
 ### Chapter 9 — Flying class and the Seeker
 
 - **Present.** Dawn, two lines, brooms on the grass. Madam Hooch tells them to say up and not to kick off until she says.
 - **Present.** Neville shouts the word too soon, the broom hauls him into the sky, he circles, he falls, and his wrist breaks. The Remembrall rolls out of his pocket.
-- **Missing.** The face-hit. In the film the class shouts the word together and a broom shoots up off the grass into a student's face. In the book Harry's own broom comes cleanly to his hand. Keep Neville's crash, because that is the story. Also keep the face-hit, because it is the laugh the user named. One does not replace the other. Do not delete the smack in order to be faithful to the book.
+- **Scripted, not yet drawn.** The face-hit. The class says Up, the brooms shiver, and one broom shoots into a student's face. That student is not Neville. Neville's crash stays. No picture file.
 - **Present.** Draco takes the Remembrall, mounts, and tells Harry to come and get it. Hermione says he will be expelled. Harry kicks off, dives, and closes his hand on the ball just above the stone.
 - **Present.** McGonagall, icy, takes Potter inside. It is not an expulsion. She has found Oliver Wood a Seeker.
 
@@ -176,8 +176,8 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** Ron calls Hermione a nightmare with no friends. She is behind the chair, eyes bright with held tears, and she runs. In the bathroom the tears from that insult are still on her face when the troll fills the door. There is no separate panel of her sobbing alone before the boys arrive. The tears are visible. Keep them.
 - **Present.** Quirrell crashes into the feast, turban askew, shouts that a troll is in the dungeon, and faints. The hall panics. Harry and Ron peel off because Hermione does not know.
 - **Present.** The smell. Harry throws a tap to turn the troll. Ron, shaking, shouts the hovering spell. The club lifts and drops on the troll's own head. The troll falls. They are alive, not heroic.
-- **Missing.** The wand up the troll's nostril.
-- **Missing.** The wand pulled back out, covered in mucus.
+- **Scripted, not yet drawn.** The wand aimed at the nostril, then the wand up the nostril. No picture file.
+- **Scripted, not yet drawn.** The wand pulled back out, covered in mucus, after the troll falls. No picture file.
 - **Present.** The club knocking the troll out. That is the third picture, and it is already drawn.
 
 Keep all three pictures: wand in the nostril, club on the troll's own head, wand withdrawn covered in mucus. In the book, Harry is the one who shoves his wand up the nostril and pulls it out covered in bogies, while Ron levitates the club. The memory that Ron pulls the mucus wand is the film-shaped one. Do not "correct" the beat away. Attribute it in a caption if the art needs a name, and still draw the slime.
@@ -237,7 +237,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 
 - **Present.** Harry plays badly. The three heads droop one at a time. They drop through the trapdoor into something soft and laugh, and then the vines tighten. Ron is pulled under.
 - **Present.** Hermione names Devil's Snare, says it hates light, and conjures fire. They crawl free, coughing.
-- **Missing.** The extra embarrassing beat inside that panic: she freezes, then scolds herself into remembering she is a witch, and only then casts. The storyboard gives her the answer at once. The plant, the panic, and the fire are present. The self-scold is not. Keep the panic. The scold can sit inside it without replacing the fire.
+- **Scripted, not yet drawn.** She freezes, then scolds herself ("I'm a witch"), then the wand, then a thin fire-thread, then the vines recoil. The panic stays. The fire stays. No picture file on the new panels.
 - **Present.** A room of keys battering the air. One old silver key with a bent wing. It fights and cuts his hand. His fist closes on it anyway.
 - **Present.** Giant chess, violent. Ron places his friends, rides forward to be taken, and the queen strikes him down. He is unconscious and still alive, and he has already told them to go on.
 - **Present.** The next room's troll is already unconscious, tongue out, comic and ignored. They do not stop.
@@ -248,7 +248,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** Harry calls for Snape. A polite voice says Snape is not here. Quirrell steps out with the turban neat and the stammer gone.
 - **Present.** The muttering at the match was a counter-curse. Snape was trying to keep Harry on the broom. Quirrell was trying to throw him off.
 - **Present, but it was one collapsed picture.** C18-P1-P6 already turns him and takes the turban off in the same panel, and the old wording let the face look past his shoulder. That reads as two men, or as a face on the turban. The precise order is in [characters.md](characters.md). C18-P1-P3 through C18-P1-P5 stay on Quirrell’s own face, turban still on, no Voldemort features on the front. C18-P1-P6 is the finished reveal: his back is toward Harry, the purple cloth is in his hands, the back of the head is bald, and Voldemort’s face is embedded in that scalp, facing Harry. Flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body.
-- **Missing. Required insert. Do not renumber.** The middle step has no panel of its own: he has turned, his back is toward Harry, and the purple turban is still wrapped on that back. Harry sees cloth, not a face yet. Quirrell’s own face is hidden on the far side of the skull. Put this insert between C18-P1-P5 and C18-P1-P6. A full prompt, for a later picture, not a new code:
+- **Scripted, not yet drawn.** He has turned, his back is toward Harry, and the purple turban is still wrapped. The next panel takes the cloth off. The face is only after that. No picture file. The lock:
 
   - **Beat:** Quirrell turns his back. The turban is still on.
   - **Image:** Camera behind Harry, looking at Quirrell’s back. Harry is small in the foreground, facing that back. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face is visible on the turban. No second man.

@@ -69,9 +69,19 @@ Four hourglasses stand at the side of the hall: Gryffindor rubies, Hufflepuff ye
 
 Quidditch: Gryffindor in the air in scarlet and gold, Slytherin in the air in green and silver, and all four houses in the stands.
 
+## Magic is a sequence
+
+Every magical thing, creature, spell, or wand action is a sequence of panels, not one picture of the result. When the magic is the point of the scene, draw at least three panels. A small spark may be two.
+
+1. Who is doing it. The wand, the pink umbrella, the Deluminator, or the flute is pointed at the target. The eyes are on the target. If a spell is being spoken, the mouth is mid-word.
+2. The magic on its way. The link is thin and readable. A wand spell gets a faint thread or a few sparks from that wand tip to the target. The Deluminator gets a ribbon of light from the lamp into the device, or from the device back into the lamp. The flute gets a few music notes to all three of Fluffy’s heads. If there is no wand and no device, the eyes stay locked, the mouth is mid-word, and the effect is only starting.
+3. The result. If the result changes someone, add a follow-through panel: a broom hits a face, the troll falls, Dudley’s tail is there, the cloak settles, Quirrell’s skin smokes.
+
+Do not flood the panel with glow. A mystery the story is still hiding, such as the Quidditch broom jinx, does not get a bright line that names the caster early.
+
 ## Static magic
 
-A still panel has to show who did the magic. The caption is not enough.
+A still panel has to show who did the magic. The caption is not enough. The sequence rule above says how many pictures that takes.
 
 **Wand, or Hagrid’s pink umbrella.** The wand is pointed at the target. A thin bright thread, a few sparks, or a narrow streak runs from that tip to the target. The thread is readable and thin. It does not fill the panel with glow. The umbrella is his wand. The spark leaves the umbrella tip.
 
@@ -111,7 +121,7 @@ A staircase that is currently still may be walked on normally. The moment it tur
 
 ## Scene, face, and scale
 
-The first panel of a new place walks the reader in: from the street, the door, the tunnel, or the room they just left. Do not cut to a new room with no arrival.
+A new place gets a walk-in before anyone speaks: the exterior, then the interior, then what the people were already doing. Do not open a scene on the first line of dialogue. The first panel of a new place still walks the reader in from the street, the door, the tunnel, or the room they just left. Do not cut to a new room with no arrival.
 
 Inside one scene, the background, weather, furniture, and light stay put. A torchlit bathroom does not become daylight two panels later. A wet street stays wet.
 
