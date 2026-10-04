@@ -1,5 +1,7 @@
 # Address culture and famous beats
 
+Music notes and sleepy Zzz for Fluffy are in [flute-and-fluffy.md](flute-and-fluffy.md).
+
 Planning note for later dialogue and panel passes. It does not rewrite the storyboard, and it does not invent lines. Speech in the book should follow the rules below. The beat list says what is already drawn in `harry-potter-philosophers-stone-panels.md` and what is still missing. Paraphrase only. Do not paste the film script or the novel.
 
 **Present** means the storyboard already shows that picture or gag in a specific panel. **Missing** means it is not there. A vague caption does not count.
