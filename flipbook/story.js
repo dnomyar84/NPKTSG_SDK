@@ -4676,6 +4676,255 @@ window.BOOK = {
           "art": "art/c14-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 15,
+      "title": "Detention in the Forbidden Forest",
+      "pageTitles": [
+        {"n": 1, "title": "Into the trees"},
+        {"n": 2, "title": "The blood"},
+        {"n": 3, "title": "Firenze"},
+        {"n": 4, "title": "The curse"}
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "Night at the edge of the Forbidden Forest. The trees are a black wall, mist at the roots, and the castle lights are small and far. Hagrid waits with a lantern, a crossbow on his back, and Fang on a rope. Four students arrive in plain cloaks and do not talk to each other.",
+          "expressions": "Hagrid looks at them, apologetic and serious. Fang looks at the trees, nervous. Harry looks at the dark, alert. Hermione looks at Hagrid, trusting him and not the forest. Neville looks scared. Draco looks at the mud, disgusted.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Detention starts here. Forbidden Forest. Lanterns. Fang comes, and you stay near the light."}
+          ],
+          "art": "art/c15-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Under the first trees, Hagrid crouches and shows them a bright silver splash on a root. The lantern makes the stain look too beautiful for what it means. Fang sniffs, then backs away.",
+          "expressions": "Hagrid looks at the silver, angry and sad. Harry looks at it with a chill. Hermione looks grave. Neville looks away. Draco's disgust cracks. He knows what unicorn blood means.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Something in the trees has been hurting the unicorns. We're to find the wounded one, if she's still alive."}
+          ],
+          "art": "art/c15-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "On the path, Draco starts a slight and does not finish it. Hagrid, lantern and crossbow in his own hands, looks down without shouting. The size of him ends the sentence.",
+          "expressions": "Draco looks up, the sneer collapsing. Hagrid looks gentle, immovable, a little disappointed. Harry watches with quiet gratitude. Hermione looks down the path. Neville looks at his feet.",
+          "dialogue": [
+            {"who": "Draco", "line": "This is servant's work."},
+            {"who": "Hagrid", "line": "You'll shut it, Malfoy, and you'll do it kindly."}
+          ],
+          "art": "art/c15-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "Deep in the forest the sky is gone. Huge trunks and fog. The group moves in small circles of lantern light: Hagrid and Fang, Harry listening, Hermione steady beside Neville, Draco stiff with a lantern he did not want.",
+          "expressions": "Faces are small. Hagrid is sure-footed. Fang cowers. Neville bunches close. Draco stays stiff. Harry turns his head, listening. Hermione holds her lantern steady.",
+          "dialogue": [],
+          "art": "art/c15-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "A fork in the path, roots like stairs, two darknesses. Hagrid points, sorry about the pairs. Hermione and Neville go left with Fang. Harry and Draco take the right, one lantern between the two boys who hate each other.",
+          "expressions": "Hagrid looks at Harry: be careful. Harry accepts the right-hand dark. Draco's contempt covers nerves. Hermione looks back, worried. Neville trusts her. Fang does not want to leave Hagrid.",
+          "dialogue": [
+            {"who": "Hagrid", "line": "Harry, you and Malfoy take the right path. Hermione, Neville, you and Fang take the left in a moment. Nobody wanders."}
+          ],
+          "art": "art/c15-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "A narrow path, one lantern, shoulders not touching. An owl watches. A silver fleck sits on a leaf. Both boys see it and neither mentions it yet.",
+          "expressions": "Harry looks ahead, the dislike quiet. Draco looks at the dark, the dislike louder, and under it a fear he will not show. They do not look at each other for long.",
+          "dialogue": [
+            {"who": "Draco", "line": "If we die, Potter, I am blaming you."},
+            {"who": "Harry", "line": "Then walk, and don't die."}
+          ],
+          "art": "art/c15-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Ahead, between closed branches, a pale silver glow lies on the ground. Harry lifts the lantern, hoping it is moonlight through a gap. There is no gap. The light comes from the thing itself.",
+          "expressions": "Harry looks hopeful for a second, then uncertain. Draco forgets his sneer. He looks at Harry, not for friendship, for confirmation that this is bad.",
+          "dialogue": [
+            {"who": "Harry", "line": "It's moonlight. That's all it is."}
+          ],
+          "art": "art/c15-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "A small clearing. A white unicorn lies on its side, slender and still, the horn dim. Silver light pools across the moss. It is sacred and ruined, not gory. Harry and Draco stand at the edge, the lantern useless against that shine.",
+          "expressions": "Harry looks at the unicorn with grief, one hand half raised as if he could still help. Draco is genuinely shaken. The sneer is gone. Fear is clean on him.",
+          "dialogue": [
+            {"who": "Harry", "line": "It's a unicorn. It's dead. That shine is unicorn blood."}
+          ],
+          "art": "art/c15-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Draco backs into a tree, one hand up. Harry does not look at him. Harry looks toward the dark gap on the far side of the clearing. The unicorn lies still in the silver light.",
+          "expressions": "Draco looks at the blood, then at the dark, a sound he hates. Harry looks at the gap, focused. The scar is a warning. He looks calm, and he is not.",
+          "dialogue": [
+            {"who": "Draco", "line": "I don't like this. Potter, I really don't like this."}
+          ],
+          "art": "art/c15-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "A hooded figure is crouched over the unicorn, tattered cloak, no face, pale hands, silver light at the hood's edge. It is feeding. Harry and Draco are small at the edge of the clearing.",
+          "expressions": "There is no face in the hood, only blackness. Harry looks on in horror, the scar bright under his hair. Draco's posture is gone. The figure does not look at them yet.",
+          "dialogue": [],
+          "art": "art/c15-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "Harry drops to one knee, a hand clamped to his forehead, glasses askew, the lantern fallen. The hood straightens and turns toward him. Draco is still standing, barely. The unicorn lies still in the silver light.",
+          "expressions": "Harry's eyes are squeezed shut. He looks at the ground, not the figure. Draco looks at Harry, then at the hood, and the calculation is simple: run. The empty hood finds Harry.",
+          "dialogue": [
+            {"who": "Harry", "line": "My scar. Draco, my scar is splitting open."}
+          ],
+          "art": "art/c15-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "The hood lifts. What is under it is not a readable face: a blur, a paleness, a wrongness. Draco runs back down the path and does not look back. Harry is still on one knee. The unicorn lies behind the figure.",
+          "expressions": "Draco's back is the expression: panic. Harry looks up, unable to stand, seeing nothing he can name. The hood looks at Harry, and the scar answers.",
+          "dialogue": [
+            {"who": "Draco", "line": "I am not staying for that. I am not."}
+          ],
+          "art": "art/c15-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The hooded figure glides closer, pale hands out, silver light where a mouth would be. Harry is on the ground. His wand feels like a twig. The dead unicorn lies behind the figure. Draco is gone.",
+          "expressions": "Harry looks at the hands, terror held down by pain. He looks very small. The hood leans with a hunger that is not only for blood. There are no readable features.",
+          "dialogue": [],
+          "art": "art/c15-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Hooves crash into the clearing. Firenze rears between Harry and the hood: palomino body, long blond hair, bow up. The hood recoils from the centaur, not from Harry's wand. Harry is on the ground behind the centaur's legs.",
+          "expressions": "Firenze looks at the hood, cold, no fear. The hood retreats, still hungry. Harry looks up at a savior he did not expect. Shock and relief crash together.",
+          "dialogue": [
+            {"who": "Firenze", "line": "Back, foul thing. You will not drink and hunt in the same hour."}
+          ],
+          "art": "art/c15-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Firenze kneels. Harry scrambles onto the broad back, clumsy, fists in the pale mane. The hood waits at the tree line, watching. The unicorn still lies in the clearing.",
+          "expressions": "Firenze looks toward the path, urgent and calm. Harry looks at the mane, then at the hood. He does not want to turn his back, and he does. The hood looks like a promise.",
+          "dialogue": [
+            {"who": "Firenze", "line": "Harry Potter. Climb on. Now."}
+          ],
+          "art": "art/c15-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The forest streaks. Firenze gallops. Harry clings and looks back once. At the edge of the silver clearing the hood stands still, unwilling to follow. Then the trees take the view.",
+          "expressions": "Harry looks back, the scar easing with distance, fear still high. Firenze looks ahead and does not look back. The hood looks after them, patient.",
+          "dialogue": [],
+          "art": "art/c15-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "They have stopped at a moonlit stream. Clean water, no silver blood. Firenze's head is bowed. Harry has slid down, cloak torn, legs unsteady, small beside the centaur.",
+          "expressions": "Firenze looks at the water, grieved and angry. Harry looks at him, the question waiting. He looks young, polite, and badly shaken. He does not rush the grief.",
+          "dialogue": [
+            {"who": "Firenze", "line": "I have never seen a unicorn slain like that. Their blood is a terrible thing to spill."}
+          ],
+          "art": "art/c15-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The stream bank, moon, an owl. Harry's fingers are on the scar again. He looks up the long height of Firenze. The question is the whole panel.",
+          "expressions": "Harry looks at Firenze, needing the name and afraid of it. Firenze looks down, kind and severe, measuring whether a child should hear this. He decides to tell.",
+          "dialogue": [
+            {"who": "Harry", "line": "What was under that hood? My scar knew it before I did."}
+          ],
+          "art": "art/c15-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Moon on the stream. Firenze speaks, one restrained gesture. Harry listens, cloak wrapped tight, a hand on his scar. Between them is the idea of the hood at the unicorn's throat, and the silver keeping a ruined thing in the world.",
+          "expressions": "Firenze looks like an unwilling teacher. Harry looks ill, and angry on the unicorn's behalf. The horror is settling into sense.",
+          "dialogue": [
+            {"who": "Firenze", "line": "Unicorn blood will hold you in the world, even an inch from death. That is why the hooded thing was drinking."}
+          ],
+          "art": "art/c15-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Close, in moonlight. Firenze's face, the sentence landing. Harry takes a step back, not from the centaur, from the idea. The stream goes on, clean.",
+          "expressions": "Firenze looks at Harry with pity and warning. Harry looks at the ground, imagining a half-life, then back up, braver. His eyes ask who would pay that.",
+          "dialogue": [
+            {"who": "Firenze", "line": "The price is a half-life. Cursed, from the first swallow. A monster's bargain."}
+          ],
+          "art": "art/c15-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "Stillness after a dangerous word. Harry's mouth has just closed. His fists are tight. A leaf falls. Firenze, towering, gives a short nod. The name is accepted.",
+          "expressions": "Harry looks at Firenze, hoping to be told he is wrong. Firenze will not give that comfort. The hope closes. Knowledge arrives.",
+          "dialogue": [
+            {"who": "Harry", "line": "It was Voldemort."},
+            {"who": "Firenze", "line": "I will not correct you."}
+          ],
+          "art": "art/c15-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "A gap in the trees. Distant castle windows. Firenze turns his head toward Hogwarts. Harry follows the look. The line from the forest to the school is the story. The thing in the hood wants what is hidden there.",
+          "expressions": "Firenze looks at the castle, troubled for the world, not only the boy. Harry looks at the lights, pale and certain. The dog, the package, and the book are connecting.",
+          "dialogue": [
+            {"who": "Firenze", "line": "He walks these trees because of the Philosopher's Stone. It is hidden in your school."}
+          ],
+          "art": "art/c15-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The stream, the moon. Harry's hands open. He understands the theft. Not gold. A body. A return. Firenze stands at the edge and does not interrupt.",
+          "expressions": "Harry looks at his hands, then at the scar: fear, and a fierce no. Firenze looks at him with respect, and with sadness, because understanding is not safety.",
+          "dialogue": [
+            {"who": "Harry", "line": "The Stone would give him a body. He would not need the curse of the blood."},
+            {"who": "Firenze", "line": "You understand quickly. I am sorry that you do."}
+          ],
+          "art": "art/c15-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The forest edge, castle windows blazing, safety looking close and false. Hermione and Neville and Hagrid have reached him. Draco stands apart, not meeting eyes. Fang is at Harry's hand. Firenze, half in the trees, looks back once.",
+          "expressions": "Harry looks past his friends toward the castle. The theory is locked, and it is the wrong face. Hermione scans him for wounds. Neville cries with relief. Hagrid looks guilty. Draco looks at the ground. Firenze is already leaving.",
+          "dialogue": [
+            {"who": "Hermione", "line": "Harry. Are you hurt?"},
+            {"who": "Harry", "line": "I'm all right. It was Voldemort. And Snape is helping him. I know it."}
+          ],
+          "art": "art/c15-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
