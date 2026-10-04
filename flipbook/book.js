@@ -127,7 +127,7 @@
 
   function panelHtml(panel) {
     const picture = panel.art
-      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
+      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}" onerror="var d=document.createElement('div');d.className='missing';d.textContent='Art not drawn yet';this.replaceWith(d)">`
       : `<div class="missing">Art not drawn yet</div>`;
     const caption = panel.caption
       ? `<p class="caption">${escapeHtml(panel.caption)}</p>`

@@ -342,7 +342,8 @@ body.reader .stage {
 }
 
 .panel .missing {
-  flex: 1;
+  flex: 1 1 auto;
+  min-height: 72px;
   display: grid;
   place-items: center;
   text-align: center;
