@@ -1189,9 +1189,9 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 #### C5-P4-P3
 
 - **Beat:** Robes on. Harry fumbles a sleeve.
-- **Image:** The train is slowing. Students in the corridor are pulling on plain black robes. No ties, no crests, no scarves. Harry has his sleeve inside out. Ron, already in a plain black robe, helps without commenting.
+- **Image:** The train is slowing. Students stay in the clothes they traveled in. No school robes, no ties, no crests, no scarves. Harry has a sleeve inside out. Ron, in the maroon hand-knit, helps without commenting.
 - **Setting:** Compartment and corridor. Lanterns outside now, among trees. Excitement in the passing faces. This is the only robe change on the Express.
-- **Who:** Harry, white shirt, one plain black sleeve inside out, no tie, no crest, no scarf, taped glasses, frustrated. Ron, plain black uncrested robe over the maroon hand-knit, no tie, patient hands fixing the sleeve. Hermione passes in the corridor in a plain black robe, no tie and no crest, a toad — Trevor — in her hands, triumphant. Neville behind her in a plain black robe, no tie, weeping with relief.
+- **Who:** Harry, white shirt, one plain black sleeve inside out, no tie, no crest, no scarf, taped glasses, frustrated. Ron, maroon hand-knit and hand-me-down jacket, no robe, no tie, patient hands fixing the sleeve. Hermione passes in the corridor in a white blouse, brown cardigan, and gray skirt, no robe and no tie, a toad — Trevor — in her hands, triumphant. Neville behind her in rumpled traveling clothes, no robe and no tie, weeping with relief.
 - **Faces:** Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at Harry’s embarrassment, kind. Hermione looks at the toad, pleased. Neville looks at Trevor, sobbing happily.
 - **Dialogue:** **Ron:** "Other sleeve. There. You'll pass for a wizard." **Hermione:** "Trevor! Neville, I've got your toad."
 
@@ -1200,7 +1200,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The train slows. Lanterns in the trees.
 - **Image:** Through the window, a forest platform, no station building, only lanterns and a crowd of waiting lamps. The scarlet train huge beside the trees.
 - **Setting:** Night. Hogsmeade station, or the first-year stop: wood, steam, owls, cold breath.
-- **Who:** Seen from inside: Harry and Ron’s faces close to the glass, the plain black robes they just put on, no ties and no crests, hair, glasses and freckles. Outside, dozens of students in those same plain black robes, and floating lanterns. No house colors. A huge figure with a lamp is not clearly Hagrid yet, just a bigger light.
+- **Who:** Seen from inside: Harry and Ron’s faces close to the glass, the travel clothes they never changed, no ties and no crests, hair, glasses and freckles. Outside, dozens of students in travel clothes, and floating lanterns. No house colors. A huge figure with a lamp is not clearly Hagrid yet, just a bigger light.
 - **Faces:** Harry looks out, nervous excitement. Ron looks out, grinning, he has done this in stories if not in life. Both are reflected over the forest.
 - **Dialogue:** **Harry:** "Those lights. In the trees."
 
@@ -1209,7 +1209,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** A voice calls the first years. Hagrid’s lamp is a moon.
 - **Image:** On the platform, Hagrid holds a lantern that really does look like a small moon. First years cluster. Steam. He is calling, beard wild, utterly at home.
 - **Setting:** Night platform, trees, the scarlet train, trunks being unloaded by magic in the background, older students heading somewhere else.
-- **Who:** Hagrid, moleskin coat, lantern, huge, waving. Harry and Ron stepping down in plain black robes, no ties and no crests, Harry’s trunk, Hedwig. Hermione nearby with books, plain black robe, no tie, and Trevor’s owner Neville in the same plain robe. Draco in a plain black robe, no green lining and no snake, already bored. Crabbe and Goyle with his trunk, plain black robes, no green.
+- **Who:** Hagrid, moleskin coat, lantern, huge, waving. Harry and Ron stepping down in travel clothes, no ties and no crests, Harry’s trunk, Hedwig. Hermione nearby with books, cardigan and skirt, no robe, and Trevor’s owner Neville in traveling clothes. Draco in an expensive plain black coat, no green lining and no snake, already bored. Crabbe and Goyle with his trunk, dark coats, no green.
 - **Faces:** Hagrid looks over the children, counting, and his face opens when he sees Harry. Harry looks up at him, the hollow from King’s Cross gone. Ron looks at Hagrid, impressed. Draco looks at the dark, disdainful.
 - **Dialogue:** **Hagrid:** "First years! First years over here! Come on, now."
 
@@ -1218,7 +1218,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Harry steps off. Hagrid grins down at him.
 - **Image:** Page-turn. Low angle. Hagrid’s grin fills the top of the panel, lantern beside his cheek. Harry at the bottom, looking up, small and arrived. Steam wraps them.
 - **Setting:** The platform at night. The train is a red wall. Trees. Other first years are soft shapes. The next thing is the lake, not shown yet.
-- **Who:** Hagrid, coat, beard, lantern in one hand, the other hand hovering as if he might ruffle Harry’s hair and decides not to. Harry, the plain black robe from the compartment, no tie, no crest, no scarf, taped glasses, scar on his right brow, Hedwig’s cage at his feet.
+- **Who:** Hagrid, coat, beard, lantern in one hand, the other hand hovering as if he might ruffle Harry’s hair and decides not to. Harry, Dudley’s faded shirt and a thin jacket, no robe, no tie, no crest, no scarf, taped glasses, scar on his right brow, Hedwig’s cage at his feet.
 - **Faces:** Hagrid looks at Harry, proud, a little emotional, grinning. Harry looks at Hagrid, safe. He is not smiling big. He is smiling true.
 - **Dialogue:** **Hagrid:** "All right, Harry? Welcome to Hogwarts."
 ---
