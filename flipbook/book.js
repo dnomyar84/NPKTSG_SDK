@@ -31,11 +31,15 @@
   const notes = document.getElementById("notes");
   const notesBtn = document.getElementById("notesBtn");
   const wrap = document.querySelector(".book-wrap");
+  const book = document.getElementById("book");
+  const turnSheet = document.getElementById("mobileTurn");
 
   let spread = 0;
   let busy = false;
+  let endMobileTurn = () => {};
   const spreadCount = Math.ceil(pageCount / 2);
   const mobile = () => window.matchMedia("(max-width: 800px)").matches;
+  const reduceMotion = () => window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   function panelsFor(page) {
     return (catalog[page] && catalog[page].panels) || [];
@@ -198,18 +202,99 @@
     window.setTimeout(finish, 1100);
   }
 
+  function showingRight() {
+    return document.body.classList.contains("mobile-right");
+  }
+
+  function mobileCanForward() {
+    if (!showingRight()) return true;
+    return spread < spreadCount - 1;
+  }
+
+  function mobileCanBack() {
+    if (showingRight()) return true;
+    return spread > 0;
+  }
+
+  function applyMobileForward() {
+    if (!showingRight()) {
+      document.body.classList.add("mobile-right");
+      renderStatic();
+      return;
+    }
+    document.body.classList.remove("mobile-right");
+    spread += 1;
+    renderStatic();
+  }
+
+  function applyMobileBack() {
+    if (showingRight()) {
+      document.body.classList.remove("mobile-right");
+      renderStatic();
+      return;
+    }
+    spread -= 1;
+    document.body.classList.add("mobile-right");
+    renderStatic();
+  }
+
+  // Phones hide the 3D leaf. Slide the sheet the reader was just on so a
+  // tap still shows whether the book moved forward or back.
+  function playMobileTurn(direction, applyChange) {
+    const source = showingRight() ? rightEl : leftEl;
+    if (!turnSheet || source.offsetWidth < 2) {
+      applyChange();
+      return;
+    }
+    busy = true;
+    const forward = direction === "forward";
+    turnSheet.innerHTML = source.innerHTML;
+    turnSheet.classList.remove("turn-forward", "turn-back", "turn-reduce");
+    const bookRect = book.getBoundingClientRect();
+    const pageRect = source.getBoundingClientRect();
+    turnSheet.style.top = `${pageRect.top - bookRect.top}px`;
+    turnSheet.style.left = `${pageRect.left - bookRect.left}px`;
+    turnSheet.style.width = `${pageRect.width}px`;
+    turnSheet.style.height = `${pageRect.height}px`;
+    turnSheet.hidden = false;
+    applyChange();
+
+    const incoming = showingRight() ? rightEl : leftEl;
+    leftEl.classList.remove("settle-from-left", "settle-from-right");
+    rightEl.classList.remove("settle-from-left", "settle-from-right");
+
+    let finished = false;
+    const finish = () => {
+      if (finished) return;
+      finished = true;
+      turnSheet.removeEventListener("animationend", onEnd);
+      turnSheet.hidden = true;
+      turnSheet.classList.remove("turn-forward", "turn-back", "turn-reduce");
+      turnSheet.innerHTML = "";
+      leftEl.classList.remove("settle-from-left", "settle-from-right");
+      rightEl.classList.remove("settle-from-left", "settle-from-right");
+      if (endMobileTurn === finish) endMobileTurn = () => {};
+      busy = false;
+    };
+    endMobileTurn = finish;
+    const onEnd = (event) => {
+      if (event.target !== turnSheet) return;
+      finish();
+    };
+    turnSheet.addEventListener("animationend", onEnd);
+    void turnSheet.offsetWidth;
+    if (reduceMotion()) turnSheet.classList.add("turn-reduce");
+    turnSheet.classList.add(forward ? "turn-forward" : "turn-back");
+    incoming.classList.add(forward ? "settle-from-right" : "settle-from-left");
+    const seconds = Number.parseFloat(getComputedStyle(turnSheet).animationDuration) || 0.5;
+    window.setTimeout(finish, seconds * 1000 + 140);
+  }
+
   function turnForward() {
     if (busy) return;
     if (mobile()) {
-      if (!document.body.classList.contains("mobile-right")) {
-        document.body.classList.add("mobile-right");
-        renderStatic();
-        return;
-      }
-      if (spread >= spreadCount - 1) return;
-      document.body.classList.remove("mobile-right");
-      spread += 1;
-      renderStatic();
+      if (!mobileCanForward()) return;
+      playMobileTurn("forward", applyMobileForward);
       return;
     }
     if (spread >= spreadCount - 1) return;
@@ -231,15 +316,8 @@
   function turnBack() {
     if (busy) return;
     if (mobile()) {
-      if (document.body.classList.contains("mobile-right")) {
-        document.body.classList.remove("mobile-right");
-        renderStatic();
-        return;
-      }
-      if (spread === 0) return;
-      spread -= 1;
-      document.body.classList.add("mobile-right");
-      renderStatic();
+      if (!mobileCanBack()) return;
+      playMobileTurn("back", applyMobileBack);
       return;
     }
     if (spread === 0) return;
@@ -288,6 +366,7 @@
     const now = mobile();
     if (now !== narrow) {
       narrow = now;
+      endMobileTurn();
       renderStatic();
     }
     fit();
