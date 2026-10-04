@@ -807,8 +807,8 @@ Morning post.
 | ALL: Up! | The class |  | High |  |
 | - Up. Up. |  |  | Low | A student; which one is unclear |
 | - Up. Up. |  |  | Low | A student; which one is unclear |
-| Up! Oh! | Draco |  | Medium | The broom hits him |
-| Shut up, Harry. | Draco | Harry | High |  |
+| Up! Oh! | Ron | Broom | High | The broom hits him |
+| Shut up, Harry. | Ron | Harry | High |  |
 | Now, once you've got hold of your broom, I want you to mount it. | Madam Hooch |  | High |  |
 | Grip it tight. You don't wanna be sliding off the end. | Madam Hooch |  | High |  |
 | When I blow my whistle, I want you to kick off from the ground, hard. | Madam Hooch |  | High |  |
