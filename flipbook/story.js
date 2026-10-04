@@ -4100,6 +4100,328 @@ window.BOOK = {
           "art": "art/c12-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 13,
+      "title": "Christmas and the Mirror of Erised",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Staying"
+        },
+        {
+          "n": 2,
+          "title": "The cloak"
+        },
+        {
+          "n": 3,
+          "title": "The parents"
+        },
+        {
+          "n": 4,
+          "title": "The warning"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "A high corridor window inside the castle, pale winter sun, first snow. Harry stands with one hand toward the cold glass and Hedwig on his shoulder. Below, horseless carriages and tiny students leave across the snowy lawn toward the iron-gray lake. He does not wave.",
+          "expressions": "Harry looks down, lonely and pretending not to be. His mouth is still. Hedwig looks out too, calm. No one below is looking up for him.",
+          "dialogue": [],
+          "art": "art/c13-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "The same quiet window. Ron appears at Harry's shoulder with a blank letter and a packed bag at his feet. Two scarves, two boys. A carriage is still leaving in the snow outside, and it matters less.",
+          "expressions": "Ron looks at Harry, shy about the kindness, a joke hiding in his eyes. Harry looks at him, surprised, then a real smile.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Mum wrote. She said I could come home, or stay so you wouldn't be on your own. I'm staying."
+            }
+          ],
+          "art": "art/c13-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Christmas morning in the nearly empty common room. Snow light, a fire, a small tree. Harry kneels in pajamas and a scarf with a lumpy brown parcel in his lap. Ron is already in a new maroon sweater, opened paper around him.",
+          "expressions": "Harry looks at the parcel, stunned and gentle, then at Ron. Ron looks at the sweater on himself, groaning, and at Harry's face, glad.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Mum knitted you one. She knits for everyone she decides is hers."
+            }
+          ],
+          "art": "art/c13-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "The common room, paper around their knees. Harry pulls on an oversized emerald sweater, guessed with love, and touches the front of it. Ron watches in his maroon one. No Dursley gift is anywhere in the room.",
+          "expressions": "Harry looks down at the sweater, a tight throat, a smile he does not aim at anyone. Ron looks at him, soft, a little embarrassed, and glad.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It's mine. Just mine."
+            }
+          ],
+          "art": "art/c13-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "The common room fills with purple smoke. Fred and George, identical red hair and matching sweaters, yank a wizard cracker between them. A paper crown flies out. The tree tilts. Snow outside stays clean.",
+          "expressions": "The twins look delighted with the damage. Harry, in the green sweater, laughs with his whole face. Ron coughs and laughs at the same time.",
+          "dialogue": [
+            {
+              "who": "Fred",
+              "line": "Wizard cracker. Pull."
+            },
+            {
+              "who": "George",
+              "line": "If it smells awful, it worked."
+            }
+          ],
+          "art": "art/c13-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "The smoke is clearing in the common room. Fire, a crooked tree, snow at the window. Harry and Ron wear blank paper crowns, green sweater and maroon, close together. No fame in the picture. Just Christmas.",
+          "expressions": "Harry looks at Ron, bright, a thank-you without a speech. Ron looks back, pleased, ears red, a grin he cannot make smaller.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "There. That's a proper Christmas."
+            }
+          ],
+          "art": "art/c13-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Later, the fire low, the twins gone. Under the tree a last soft parcel has no tag. Harry holds a small blank note in both hands. Ron leans in, curious, and does not grab.",
+          "expressions": "Harry looks at the note, the smile gone, a careful ache, then at Ron, needing a witness. Ron looks back, quiet, the jokes parked.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "No name on the parcel. The note says the cloak was my father's. He left it in Dumbledore's keeping."
+            }
+          ],
+          "art": "art/c13-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Close on their knees and the fire. The cloak spills out, silver-gray, more water than wool. Harry's hand goes under it and ends at the wrist. A blank note lies on the rug. No one else is in the room.",
+          "expressions": "Harry looks at the missing hand, wonder and a lump in the throat. Ron looks at the emptiness, delighted and hushed, and does not cheer.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Your hand. Harry, your hand has gone."
+            }
+          ],
+          "art": "art/c13-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "A sleeping corridor at night. Suits of armor, low torches, a window of snow. Only a pair of sneakers walks, with a faint silver shimmer at the hem. A painted portrait's eyes follow the shoes she cannot attach to a person.",
+          "expressions": "No face. The freedom is in the unaccompanied shoes. The portrait looks puzzled, tracking a person she cannot see.",
+          "dialogue": [],
+          "art": "art/c13-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Filch's lantern pools on the stones. He sniffs the air, stringy hair and shabby coat, and Mrs Norris's eyes shine as her head turns. A single sneaker and a silver hem slip past at the edge of the frame.",
+          "expressions": "Filch looks at the dark, suspicious, then ready to dismiss it. Mrs Norris looks at the trail and knows. The panel is a held breath.",
+          "dialogue": [
+            {
+              "who": "Filch",
+              "line": "I smell students. Find them."
+            }
+          ],
+          "art": "art/c13-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "A forgotten stretch of castle. Dust, moonlight, a tapestry of a chess game with no writing. A tall unused door stands ajar. The handle is moving by itself. Only sneakers and a silver shimmer wait on the floor.",
+          "expressions": "No faces. Suspense. The door looks as if it has been waiting.",
+          "dialogue": [],
+          "art": "art/c13-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "An unused classroom. Desks pushed aside, cobwebs, one high window, Harry's breath in the cold. He is visible again in the green sweater and gray pajamas, the silver cloak bundled against his chest. A tall shape stands in the center under a dusty white sheet.",
+          "expressions": "Harry looks at the sheet, curious and cautious, young and unguarded. He takes a step.",
+          "dialogue": [],
+          "art": "art/c13-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The sheet is off. A tall mirror with a carved frame and no writing stands in the moonlit classroom. In the glass: only Harry, sweater, and the empty room. Dust hangs in the air.",
+          "expressions": "Harry looks at his reflection, a small frown, the hope deflating. The reflection looks back the same way. Lonely and ordinary.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Just me. That's all it shows."
+            }
+          ],
+          "art": "art/c13-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "The real room stays empty behind Harry. Only the mirror changes. Over the reflection's shoulders the glass clears into people who are not in the room: a woman with long dark-red hair, a man with messy black hair and round glasses, and softer faces behind them, smiling and waving.",
+          "expressions": "Real Harry looks at the glass, frozen. The woman looks at him with love. The man looks at him with pride and a gentle sadness. They look at Harry.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Mum? Dad?"
+            }
+          ],
+          "art": "art/c13-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Close inside the glass, a warm light that does not match the moon. Lily, long dark-red hair and a pale green dress, lifts one hand. James, glasses and untidy black hair, rests a hand on mirror-Harry's shoulder. Harry in the green sweater stands between them.",
+          "expressions": "Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from one to the other, starving.",
+          "dialogue": [],
+          "art": "art/c13-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "Harry spins. Moonlight, dust, desks, the sheet on the floor. No one. His hand reaches into empty air. The mirror's frame glows faintly at the edge behind him. The cloak lies at his feet.",
+          "expressions": "He looks at the empty air, wrecked, eyes wet, mouth open. He looks smaller than he did in the glass.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Where did you go?"
+            }
+          ],
+          "art": "art/c13-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "He is pressed to the mirror, both palms flat, forehead nearly touching the glass. Inside, Lily and James meet his hands from the other side and do not quite pass through. A softer family crowd waits behind them. His breath fogs the lower corner, and the fog has no writing.",
+          "expressions": "Harry looks at his mother, then his father, crying without sound. They look only at him, loving, unable to come through.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Stay. Please stay."
+            }
+          ],
+          "art": "art/c13-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "The moon has traveled in the window. Harry sits on the dusty floor, knees up, the silver cloak around the green sweater, still facing the glass. His parents are still there whenever he looks. No one has come to get him.",
+          "expressions": "Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily's eyes would worry, if he could see that. He sees only that she is there.",
+          "dialogue": [],
+          "art": "art/c13-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Another night, the same room. Ron stands where Harry stood and laughs. In the glass he is holding a cup, taller, with a crowd that is only his. Harry stands beside the real Ron and cannot see any of it.",
+          "expressions": "Ron looks at his glorious self, a huge grin, wanting it. Harry looks at the glass, confused, then at Ron's real face. He is realizing the mirror is a wish.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "I'm Quidditch captain. I've got the House Cup. Harry, look."
+            },
+            {
+              "who": "Harry",
+              "line": "I can't see any of that."
+            }
+          ],
+          "art": "art/c13-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "The same frame, two truths. On one side Ron sees himself triumphant with a cup. On the other Harry sees his mother and father behind him. The boys look toward each other, and the joke thins.",
+          "expressions": "Ron looks curious, a little guilty that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. Neither mocks what the other wanted.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I see my parents. You can't see them, can you."
+            },
+            {
+              "who": "Ron",
+              "line": "The mirror's telling a different lie to each of us."
+            }
+          ],
+          "art": "art/c13-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "They turn. Dumbledore is in the room, tall hat, purple robes with stars, half-moon spectacles, no lamp, and the door still shut. He looks at the mirror first, as if greeting something he does not trust. Harry clutches the cloak. Ron is a step behind.",
+          "expressions": "Dumbledore looks at the mirror, familiar and sad, then at Harry, kind, not angry. Harry looks up, caught. Ron looks at Dumbledore, awed into silence.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Good evening. I see you have found the Mirror of Erised."
+            }
+          ],
+          "art": "art/c13-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "Moonlight, the three of them, and the mirror. Dumbledore indicates the glass with an open hand and does not touch it. In the glass, Harry's parents are still faintly there. Ron looks at the floor. The captain fantasy is not mocked.",
+          "expressions": "Dumbledore looks at Harry, tender and firm. Harry looks at him, taking it in, still wanting the glass. Ron understands his cup was a wish too.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "It shows the deepest wish of the heart. Not the truth."
+            }
+          ],
+          "art": "art/c13-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Dumbledore stands between Harry and the glass with the dusty sheet gathered, ready to cover it. Empty chairs sit in the dust. Harry looks past his arm for one more glimpse. Ron waits in the doorway, looking back.",
+          "expressions": "Dumbledore looks at Harry, loving, the warning real. Harry looks at the sliver of mirror, aching, and obedient anyway. Ron looks at Harry, a gentle come-on.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Wizards have wasted away in front of it. The mirror will be moved. Do not come looking."
+            }
+          ],
+          "art": "art/c13-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "The doorway. Dumbledore remains by the mirror. Far in the glass, Lily and James wave one last time, small. Harry stands in the door with the green sweater and his father's cloak, looking back once. Ron waits in the corridor, which is the castle, which is living.",
+          "expressions": "Harry looks back, eyes wet, a goodbye, then toward Ron, choosing the friend who is actually here. Dumbledore looks proud and sad. Ron looks patient. The parents look at their son.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "A dream is a poor place to live. Stay out here, with the people who can answer when you speak."
+            },
+            {
+              "who": "Harry",
+              "line": "Yes, Professor."
+            }
+          ],
+          "art": "art/c13-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
