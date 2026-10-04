@@ -14,6 +14,22 @@ Drawn sheets, when they exist, are in `flipbook/art/characters/`. A written lock
 
 Keep the soft painted storybook look already used in the flipbook. Not a film photograph, and not a new cartoon style.
 
+## Panel image size
+
+Inkjet A4 landscape holds two A5 pages. A5 is 148.5 mm × 210 mm. The full page at 300 DPI is 1754 × 2480. Generate each panel at 300 DPI of its printed cell, and no larger. 300 DPI is the inkjet photo standard. A Galaxy S24 Ultra is 1440 px wide and a large iPhone about 1320. These files are wider than both, so they stay sharp on those phones.
+
+A full row is a wide short rectangle, 1722 × 792, about 1.4 megapixels. The longest side is 1722 px. A square 2048 canvas or a 4K canvas is the size that wastes the generation. Dialogue is a band under the image, so these heights are the picture when there is no text. The largest panels have no dialogue. The page margin is 5 px, the gap is 2 px, and the 1 px panel border is part of the cell. Sizes are even pixels.
+
+A scenery row is the tall row (`flex: 1.28`). An even row stays at `flex: 1`. On a page with one tall row:
+
+- Two-thirds row: 1144 × 926
+- One-third row: 572 × 926
+- Half row: 858 × 724
+
+On a page with two tall rows, those pictures are shorter. The two-thirds row is 1144 × 854, the one-third row is 572 × 854, and the half row is 858 × 668. Use the height of the row the panel sits in.
+
+Art already in `flipbook/art/` may be larger than this. Do not copy an old file’s pixel size for the next picture.
+
 ## One costume per scene
 
 A person wears one costume for the whole scene. The default is whatever they wore in the previous scene. Change it only when a caption or an action still shows a reason: a time jump, a weather change, nightclothes, Quidditch, a feast, or a trip outside.
