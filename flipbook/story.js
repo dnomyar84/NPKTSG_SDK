@@ -133,7 +133,7 @@ window.BOOK = {
           "dialogue": [
             {
               "who": "Dumbledore",
-              "line": "He will be famous, Minerva. Books will be written about him. Fame is a cruel weight for a child who cannot yet speak."
+              "line": "He will be famous, Professor McGonagall. Books will be written about him. Fame is a cruel weight for a child who cannot yet speak."
             }
           ],
           "art": "art/c1-p2-p3.jpg"

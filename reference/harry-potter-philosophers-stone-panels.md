@@ -162,7 +162,7 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Setting:** The dark garden. The house is a dim block behind him. A few stars show where the cloud has torn.
 - **Who:** Dumbledore in purple star robes and plum cloak. The silver device is pocketed. His other hand rests on his wand, unused.
 - **Faces:** Sad, kind, looking slightly down at McGonagall out of frame. He is not smiling.
-- **Dialogue:** **Dumbledore:** "He will be famous, Minerva. Books will be written about him. Fame is a cruel weight for a child who cannot yet speak."
+- **Dialogue:** **Dumbledore:** "He will be famous, Professor McGonagall. Books will be written about him. Fame is a cruel weight for a child who cannot yet speak."
 
 #### C1-P2-P4
 
