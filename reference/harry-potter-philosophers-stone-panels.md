@@ -53,7 +53,7 @@ These looks stay the same unless a panel says otherwise. If a panel is brief, us
 
 - **Baby Harry.** A small infant with a tuft of jet-black hair, wrapped in a soft green blanket. A fresh lightning-shaped cut on his forehead.
 - **Harry, age 10–11.** Small for his age, messy black hair that will not lie flat, round wire glasses often taped at the bridge, a lightning scar on his right brow. Before Diagon Alley, and on the Hogwarts Express before the Sorting, he wears Dudley’s faded castoffs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, a thin jacket that does not fit. No school robe, no house tie, no scarf, no crest on the train. In the alley, after Madam Malkin, he tries on black robes over his shirt and jeans. From the Sorting onward: black Hogwarts robes over a white shirt, gray V-neck sweater, red-and-gold striped tie, black trousers, black shoes. In the castle he often adds a red-and-gold scarf. At night: a plain gray pajama set, too big.
-- **Dumbledore.** Very tall and thin, long silver hair and beard, half-moon spectacles. Deep purple robes patterned with silver stars, a tall pointed hat, plum cloak. He carries a silver cigarette-lighter-shaped device that puts out lamps.
+- **Dumbledore.** Very tall and thin, long silver hair and beard, half-moon spectacles. Deep purple robes patterned with silver stars, a tall pointed hat, plum cloak. He carries a silver cigarette-lighter-shaped device, the Deluminator, that pulls light out of lamps and can send that light back. It is not his wand.
 - **McGonagall.** Sharp face, dark hair in a tight bun, square spectacles, emerald-green robes and a pointed hat. As a cat: a thin tabby with spectacle-like markings around the eyes.
 - **Hagrid.** Half-giant, huge shoulders, wild black hair and a tangled beard, beetle-black eyes, kind face. A long brown moleskin overcoat with many pockets, a pink umbrella strapped inside, enormous boots. He often carries a lantern.
 - **Vernon Dursley.** Big, short neck, black mustache. Brown business suit, or later a straining knit vest in the shack. His face goes purple when he is angry.
@@ -91,17 +91,17 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 
 #### C1-P1-P2
 
-- **Beat:** Dumbledore lights a street lamp with his wand.
-- **Image:** A tall figure at the left edge, wand raised. The nearest street lamp blooms on, warm light opening over the wet pavement. A lamp farther down is just beginning to glow.
-- **Setting:** The same wet street, Privet Drive at night. Fog at knee height, identical brick houses, puddles starting to hold the new light.
-- **Who:** Dumbledore, very tall, silver hair and beard, half-moon spectacles, indigo-purple star-patterned robes, tall plum hat, plum cloak. His wand is raised, the tip bright, as the lamp comes on. The thin brown tabby is a small shape on the wall.
-- **Faces:** He looks along the row of lamps, calm, as the light catches. He does not look at the houses.
+- **Beat:** Dumbledore puts out a street lamp with the Deluminator.
+- **Image:** A tall figure at the left edge. The silver lighter-shaped Deluminator is in his hand, aimed at the nearest street lamp. A thin ribbon of warm yellow light runs from that lamp’s glass globe into the device, with a few sparks along the ribbon. That lamp is going dark. Lamps he has already passed are out. Lamps farther ahead may still be lit, so the street is dying in one direction. No line from a wand. Do not flood the panel with glow.
+- **Setting:** The same wet street, Privet Drive at night. Fog at knee height, identical brick houses. Puddles hold the last of the lamp-light as it leaves.
+- **Who:** Dumbledore, very tall, silver hair and beard, half-moon spectacles, indigo-purple star-patterned robes, tall plum hat, plum cloak. The Deluminator is in his hand. His wand stays unused. The thin brown tabby is a small shape on the wall.
+- **Faces:** His eyes and his hand are on the lamp he is clicking. He does not look at the houses. The cat may watch.
 - **Dialogue:** No dialogue.
 
 #### C1-P1-P3
 
-- **Beat:** The cat watches the last lamp die.
-- **Image:** Tight on the cat’s face. The last lamp is a small bright coin in each eye, then half gone.
+- **Beat:** The cat watches the last lamp die as its light is pulled out.
+- **Image:** Tight on the cat’s face. The last lamp is a small bright coin in each eye, then half gone. That warm light is being pulled out of the globe, toward Dumbledore, who stands out of frame. The lamp is going dark.
 - **Setting:** The garden wall, wet brick, a few pale flowers. The street behind is now mostly black. A hedge cuts across the background.
 - **Who:** Only the tabby. Whiskers beaded with mist. No collar.
 - **Faces:** Eyes wide and knowing, not a pet’s look. It stares past the lamp, toward where Dumbledore stands out of frame.
@@ -111,8 +111,8 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 
 - **Beat:** Dumbledore notices the cat.
 - **Image:** Dumbledore has turned. He looks straight at a thin brown tabby on the garden wall. The cat looks back. This is the moment he recognizes her, not a later conversation.
-- **Setting:** The wet street, one lamp now glowing, fog, dark brick houses. The wall is low. No other people.
-- **Who:** Dumbledore in indigo-purple star robes, plum hat, half-moon spectacles, silver hair and beard, wand lowered. The cat is Professor McGonagall still in cat form: a thin brown tabby, spectacle-like marks around the eyes, no collar.
+- **Setting:** The wet street, lamps already out, fog, dark brick houses. The wall is low. No other people.
+- **Who:** Dumbledore in indigo-purple star robes, plum hat, half-moon spectacles, silver hair and beard. The Deluminator is lowered. His wand is not in use. The cat is Professor McGonagall still in cat form: a thin brown tabby, spectacle-like marks around the eyes, no collar.
 - **Faces:** He looks at the cat. The cat looks at him, ears forward, knowing, perfectly still.
 - **Dialogue:** **Dumbledore:** "I should have known that you would be here, Professor McGonagall." **McGonagall:** "Good evening, Professor Dumbledore."
 
@@ -130,7 +130,7 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Beat:** She has been watching this house all day.
 - **Image:** Two-shot. McGonagall on the left, Dumbledore taller on the right, the dark front door of the Dursley house centered between them like a third character.
 - **Setting:** The doorstep of number four. Neat doormat, brass number, a milk bottle, hedges. No light in the downstairs windows.
-- **Who:** McGonagall in emerald robes and hat, hands clasped tight. Dumbledore in purple, the silver device lowered, the flame out. Neither holds the baby yet.
+- **Who:** McGonagall in emerald robes and hat, hands clasped tight. Dumbledore in purple, the Deluminator lowered, no ribbon and no flame. The street lamps are already out. Neither holds the baby yet.
 - **Faces:** She looks at him, exasperated and afraid. He looks at the door, gentle and already decided.
 - **Dialogue:** **McGonagall:** "The Dursleys. Muggles of the worst sort." **Dumbledore:** "And yet the boy must be left at number four, Privet Drive."
 
@@ -295,11 +295,11 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 
 #### C1-P4-P6
 
-- **Beat:** The lamps flare on. The baby lies alone in the light.
-- **Image:** The page-turn panel. Streetlamps bloom all at once. Harry is centered in a pool of yellow light on the step, very small, very awake. The street is empty.
+- **Beat:** The stored light returns from the Deluminator. The lamps flare on. The baby lies alone.
+- **Image:** The page-turn panel. The same silver Deluminator is in his hand at the far corner. Thin ribbons of warm yellow run from the device up into the street-lamp globes, the reverse of the ribbon that emptied them, and the lamps flare on. Harry is centered in that yellow light on the step, very small, very awake. McGonagall and Hagrid are gone. No wand line. Do not flood the panel with glow.
 - **Setting:** Privet Drive restored to ordinary night. Wet pavement shines. The upstairs window is dark now. A milk float is not here yet; it is still deep night. The door has not opened.
-- **Who:** Only baby Harry, green blanket, black hair, lightning scar, letter tucked beside him. He holds nothing. No adults remain.
-- **Faces:** He looks toward the street, eyes open, not crying. The light is warm and the picture is lonely.
+- **Who:** Baby Harry, green blanket, black hair, lightning scar, letter tucked beside him. He holds nothing. Dumbledore is small at the far corner, the same hand on the same device, already leaving. No other adults remain.
+- **Faces:** Harry looks toward the street, eyes open, not crying. Dumbledore’s face is lost in the dark at the edge. The light is warm and the picture is lonely.
 - **Dialogue:** No dialogue.
 
 ---

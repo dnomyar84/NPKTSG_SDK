@@ -36,16 +36,16 @@ window.BOOK = {
         {
           "n": 2,
           "page": 1,
-          "scene": "Dumbledore stands at the left edge and lifts his wand. The nearest street lamp blooms on, warm light opening over the wet pavement. A thin brown tabby watches from the wall.",
-          "expressions": "He looks along the lamps, calm, as the light catches. He does not look at the houses.",
-          "caption": "Dumbledore lights a street lamp.",
+          "scene": "Dumbledore stands at the left edge with the silver Deluminator in his hand, aimed at the nearest street lamp. A thin ribbon of warm yellow light runs from that lamp’s globe into the device. That lamp is going dark. Lamps behind him are out. Lamps farther ahead may still be lit. A thin brown tabby watches from the wall.",
+          "expressions": "His eyes and his hand are on the lamp he is clicking. He does not look at the houses. The cat may watch.",
+          "caption": "Dumbledore puts out a street lamp.",
           "dialogue": [],
           "art": "art/c1-p1-p2.jpg"
         },
         {
           "n": 3,
           "page": 1,
-          "scene": "Tight on the tabby’s face. The last lamp is a bright coin in each eye. Wet brick and a few pale flowers.",
+          "scene": "Tight on the tabby’s face. The last lamp’s light is leaving the globe, a bright coin in each eye, then half gone. Wet brick and a few pale flowers.",
           "expressions": "Eyes wide and knowing. The cat stares toward where Dumbledore stands, out of frame.",
           "caption": "The cat watches the last lamp go out.",
           "dialogue": [],
@@ -54,7 +54,7 @@ window.BOOK = {
         {
           "n": 4,
           "page": 1,
-          "scene": "Dumbledore has turned toward a low garden wall. A thin brown tabby with no collar sits there, still a cat. One street lamp glows in the fog behind them.",
+          "scene": "Dumbledore has turned toward a low garden wall. A thin brown tabby with no collar sits there, still a cat. The street lamps behind them are already out.",
           "expressions": "He looks at the cat, recognizing her. The cat looks back, ears forward, perfectly still.",
           "caption": "Dumbledore turns and notices the cat.",
           "dialogue": [
@@ -324,9 +324,9 @@ window.BOOK = {
         {
           "n": 24,
           "page": 4,
-          "scene": "The streetlamps bloom all at once. Harry lies alone in a pool of yellow light on the step. The street is empty and the door has not opened.",
-          "expressions": "He looks toward the street, eyes open, not crying. The light is warm and the picture is lonely.",
-          "caption": "The lamps flare on. The baby lies alone.",
+          "scene": "At the far corner the same silver Deluminator is in his hand. Thin ribbons of warm yellow run from the device up into the street lamps, and the lamps flare on. Harry lies alone in that light on the step. The door has not opened.",
+          "expressions": "Harry looks toward the street, eyes open, not crying. Dumbledore is already leaving at the edge. The light is warm and the picture is lonely.",
+          "caption": "The light returns. The lamps flare on. The baby lies alone.",
           "dialogue": [],
           "art": "art/c1-p4-p6.jpg"
         }

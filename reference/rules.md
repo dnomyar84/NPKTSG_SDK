@@ -63,6 +63,8 @@ A still panel has to show who did the magic. The caption is not enough.
 
 **Flute.** Notes travel from the flute to the heads, and only a sleepy head gets Zzz. The full note is [flute-and-fluffy.md](flute-and-fluffy.md).
 
+**Deluminator.** Not a wand spell. Do not draw a line from his wand. The silver lighter is in his hand, aimed at one street lamp. To darken the street, a thin ribbon of warm yellow runs from the lamp globe into the device, with a few sparks, and that lamp goes dark. Lamps behind him are out. Lamps ahead may still be lit. To return the lights, reverse the ribbon: from the device up into the lamp, and the lamps flare on. Same device, same hand. Do not flood the panel with glow. Pasteable lock: [props.md](props.md).
+
 **Not a wand spell.** Do not add a fake wand line. McGonagall’s Animagus change is the same eyes and the same spectacle marks becoming her square glasses, mid-change, with no wand. Harry’s touch burning Quirrell is smoke where skin meets skin. The Mirror putting the Stone in a pocket is the glass and the pocket, not a spell streak. Lily’s protection is that burn, not a curse he casts.
 
 **A mystery the story is still hiding.** At the Quidditch match, Snape’s stare and moving mouth read as the attack, and Quirrell is also mouthing but easy to miss. Do not add a bright line from Quirrell that solves the year early. The broom’s wildness is the effect. After the reveal, the rule above applies as usual.
