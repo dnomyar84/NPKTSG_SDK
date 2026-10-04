@@ -1,8 +1,8 @@
 # Harry Potter and the Philosopher’s Stone
 
-A flip book of the storyboard. Each chapter has four pages, and every page has 6 panels.
+A flip book of the storyboard. Every page has 6 panels. A scene is one place and one stretch of time, and it is one page or more. A chapter has as many scenes as the story needs. Page counts are in [scene-plan.md](../reference/scene-plan.md).
 
-Chapters in the book so far:
+Chapters in the book:
 
 1. The Boy Who Lived
 2. Harry’s life with the Dursleys
@@ -17,6 +17,13 @@ Chapters in the book so far:
 11. Quidditch
 12. Nicolas Flamel
 13. The Mirror of Erised
+14. Norbert the Norwegian Ridgeback
+15. The Forbidden Forest
+16. They decide to protect the Stone
+17. Through the Trapdoor
+18. The Man with Two Faces
+19. The hospital wing and the explanation
+20. The House Cup
 
 - [Flip book](index.html) — click the right page to turn forward and the left page to turn back. Each row is two panels: half and half, or a 2:1 or 1:2 split. The long frame is kept for wide views of the street, the sky, and the house.
 - Storyboard: [Chapter 1 in the panel layout](../reference/harry-potter-philosophers-stone-panels.md).
