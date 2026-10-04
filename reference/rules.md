@@ -130,3 +130,11 @@ A costume change, a bandage, glasses going on, or a hat coming off happens in an
 ## Address
 
 Speech follows [address-and-famous-beats.md](address-and-famous-beats.md). In public, a student says Professor and the surname. Snape says Mr Potter, not Harry. Do not invent lines to demonstrate the rule.
+
+## Balloons and picture briefs
+
+Heard lines may stay restricted. A balloon can keep a metaphor, a withheld name, or a child who has not been told the whole threat. Do not use that balloon as the image prompt, and do not turn it into a lecture in the character's mouth.
+
+The caption above the balloon is the plain picture brief. It says what is physically happening, what the person feels, what the face and body show, and what the magic is doing when magic is the point of the panel. A young reader gets that from the picture and the caption. Easier wording belongs in the caption, or in the scene and expression notes, not forced into the spoken line.
+
+The scene note is the longer staging. The expression note is the face. With the caption, they are the artist brief. A caption that only repeats the balloon is not a brief. If a speaker guide says to spell a line out, that plain sentence is for this brief.

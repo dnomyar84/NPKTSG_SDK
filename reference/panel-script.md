@@ -4,7 +4,7 @@ Draw-ready script for every chapter of *Harry Potter and the Philosopher’s Sto
 
 Image generation has not been started. Panels with no file say so. Existing files stay on the moment they already show, even if the page number changed.
 
-A scene is one place and one stretch of time, and it takes at least one page of six panels. The first panels of a new place are the outside, the threshold, and what people were already doing, before the first new line of talk. Magic is a sequence: aim, the thin link on its way, the result, and a follow-through when someone is changed.
+A scene is one place and one stretch of time, and it takes at least one page of six panels. The first panels of a new place are the outside, the threshold, and what people were already doing, before the first new line of talk. Magic is a sequence: aim, the thin link on its way, the result, and a follow-through when someone is changed. The caption is the plain picture brief: what is happening, what the person feels, and what the face and body show. The spoken line under it may stay shorter than that.
 
 Counts: 21 chapters, 88 scenes, 165 pages, 990 panels.
 
@@ -46,7 +46,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The street is empty. Even the windows look asleep.
 
-**Caption.** Privet Drive from the corner. Every lamp is still lit.
+**Caption.** Privet Drive from the corner. Every lamp is still lit. The street is empty. Even the windows look asleep.
 
 **Dialogue.** None.
 
@@ -58,7 +58,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** A closed house. Nothing welcomes anyone.
 
-**Caption.** Number four, from the gate.
+**Caption.** Number four, from the gate. A closed house. Nothing welcomes anyone.
 
 **Dialogue.** None.
 
@@ -70,7 +70,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room looks pleased with itself.
 
-**Caption.** Through the glass, the room, not the people yet.
+**Caption.** Through the glass, the room, not the people yet. The room looks pleased with itself.
 
 **Dialogue.** None.
 
@@ -82,7 +82,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** All three are slack, mouths open, dead to the street.
 
-**Caption.** They were asleep before anyone arrived.
+**Caption.** They were asleep before anyone arrived. All three are slack, mouths open, dead to the street.
 
 **Dialogue.** None.
 
@@ -94,7 +94,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The cat is perfectly still, ears forward, disgusted by the window and patient with the street.
 
-**Caption.** A tabby has been on the wall for hours.
+**Caption.** A tabby has been on the wall for hours. The cat is perfectly still, ears forward, disgusted by the window and patient with the street.
 
 **Dialogue.** None.
 
@@ -106,7 +106,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks along the lamps, calm, not yet at the cat. The cat's eyes lock on him.
 
-**Caption.** Someone tall steps into the far end of the street.
+**Caption.** Someone tall steps into the far end of the street. Dumbledore looks along the lamps, calm, not yet at the cat. The cat's eyes lock on him.
 
 **Dialogue.** None.
 
@@ -120,7 +120,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The cat stares down the street, ears forward, perfectly still.
 
-**Caption.** Privet Drive, a few minutes before midnight.
+**Caption.** Privet Drive, a few minutes before midnight. The cat stares down the street, ears forward, perfectly still.
 
 **Dialogue.** None.
 
@@ -132,7 +132,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His eyes and his hand are on the lamp he is clicking. He does not look at the houses. The cat may watch.
 
-**Caption.** Dumbledore puts out a street lamp.
+**Caption.** Dumbledore puts out a street lamp. His eyes and his hand are on the lamp he is clicking. He does not look at the houses. The cat may watch.
 
 **Dialogue.** None.
 
@@ -144,7 +144,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Eyes wide and knowing. The cat stares toward where Dumbledore stands, out of frame.
 
-**Caption.** The cat watches the last lamp go out.
+**Caption.** The cat watches the last lamp go out. Eyes wide and knowing. The cat stares toward where Dumbledore stands, out of frame.
 
 **Dialogue.** None.
 
@@ -156,7 +156,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the cat, recognizing her. The cat looks back, ears forward, perfectly still.
 
-**Caption.** Dumbledore turns and notices the cat.
+**Caption.** Dumbledore turns and notices the cat. He looks at the cat, recognizing her. The cat looks back, ears forward, perfectly still.
 
 **Dialogue.**
 
@@ -171,7 +171,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks up, stern and worried, mouth already open to argue.
 
-**Caption.** The cat becomes Professor McGonagall.
+**Caption.** The cat becomes Professor McGonagall. She looks up, stern and worried, mouth already open to argue.
 
 **Dialogue.**
 
@@ -185,7 +185,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks at him, exasperated and afraid. He looks at the door, gentle and already decided.
 
-**Caption.** None.
+**Caption.** McGonagall and Dumbledore on the doorstep of number four. The dark front door sits between them. A milk bottle and trimmed hedges. She looks at him, exasperated and afraid. He looks at the door, gentle and already decided.
 
 **Dialogue.**
 
@@ -202,7 +202,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks mildly hopeful. She is still stern, eyes on the door, not on his hand.
 
-**Caption.** On the step, he finds a paper twist.
+**Caption.** On the step, he finds a paper twist. He looks mildly hopeful. She is still stern, eyes on the door, not on his hand.
 
 **Dialogue.** None.
 
@@ -214,7 +214,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His brows lift, a private kindness. She looks at the sweet as if it had no business on this night.
 
-**Caption.** A lemon sweet, offered.
+**Caption.** A lemon sweet, offered. His brows lift, a private kindness. She looks at the sweet as if it had no business on this night.
 
 **Dialogue.**
 
@@ -228,7 +228,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is offended that the night has room for a sweet. He is not wounded by the refusal.
 
-**Caption.** She will not take it.
+**Caption.** She will not take it. She is offended that the night has room for a sweet. He is not wounded by the refusal.
 
 **Dialogue.**
 
@@ -242,7 +242,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The wince is tiny. The sadness was already there. She does not smile.
 
-**Caption.** He eats it himself.
+**Caption.** He eats it himself. The wince is tiny. The sadness was already there. She does not smile.
 
 **Dialogue.** None.
 
@@ -254,7 +254,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is gentle and finished with the sweet. She is back to disgust.
 
-**Caption.** The twist goes back into the cloak.
+**Caption.** The twist goes back into the cloak. He is gentle and finished with the sweet. She is back to disgust.
 
 **Dialogue.** None.
 
@@ -266,7 +266,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall's mouth is tight. Dumbledore's eyes are sad, not joking.
 
-**Caption.** They turn to the glass.
+**Caption.** They turn to the glass. McGonagall's mouth is tight. Dumbledore's eyes are sad, not joking.
 
 **Dialogue.** None.
 
@@ -280,7 +280,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** All three are slack with sleep. None of them look toward the window.
 
-**Caption.** Inside, the Dursleys sleep through the night.
+**Caption.** Inside, the Dursleys sleep through the night. All three are slack with sleep. None of them look toward the window.
 
 **Dialogue.** None.
 
@@ -292,7 +292,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Disgust and pity. She looks at Vernon, then at the blond baby.
 
-**Caption.** None.
+**Caption.** McGonagall in profile outside the window, one hand half-raised, the warm room soft behind the glass. Disgust and pity. She looks at Vernon, then at the blond baby.
 
 **Dialogue.**
 
@@ -306,7 +306,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Sad and kind, looking slightly down. He is not smiling.
 
-**Caption.** None.
+**Caption.** Dumbledore from below, beard and hat against the black sky, one hand open. A few stars show where the cloud has torn. Sad and kind, looking slightly down. He is not smiling.
 
 **Dialogue.**
 
@@ -320,7 +320,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks alarmed, eyes up. Dumbledore looks up with recognition, almost relief.
 
-**Caption.** Something heavy comes down out of the cloud.
+**Caption.** Something heavy comes down out of the cloud. McGonagall looks alarmed, eyes up. Dumbledore looks up with recognition, almost relief.
 
 **Dialogue.**
 
@@ -335,7 +335,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks wrecked, eyes red, staring at the doorstep, not at the two wizards.
 
-**Caption.** A flying motorcycle drops out of the sky.
+**Caption.** A flying motorcycle drops out of the sky. Hagrid looks wrecked, eyes red, staring at the doorstep, not at the two wizards.
 
 **Dialogue.** None.
 
@@ -347,7 +347,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at Dumbledore, begging and grieving. Dumbledore looks at the bundle. McGonagall looks at Hagrid, softened.
 
-**Caption.** Hagrid lands with the baby.
+**Caption.** Hagrid lands with the baby. Hagrid looks at Dumbledore, begging and grieving. Dumbledore looks at the bundle. McGonagall looks at Hagrid, softened.
 
 **Dialogue.**
 
@@ -363,7 +363,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks down at Harry, mouth crumpled, trying to speak. Eyes shining.
 
-**Caption.** Hagrid's voice breaks.
+**Caption.** Hagrid's voice breaks. He looks down at Harry, mouth crumpled, trying to speak. Eyes shining.
 
 **Dialogue.**
 
@@ -377,7 +377,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** No living faces to read. The reaching hand is the feeling of the picture.
 
-**Caption.** A flash of the ruined cottage and a green light.
+**Caption.** A flash of the ruined cottage and a green light. No living faces to read. The reaching hand is the feeling of the picture.
 
 **Dialogue.** None.
 
@@ -389,7 +389,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks wrecked. McGonagall looks at the baby, eyes wet, mouth tight. Dumbledore looks into the dark.
 
-**Caption.** None.
+**Caption.** Hagrid holds Harry. McGonagall is close, one hand lifted and stopping. Dumbledore stands behind them, hat brim low. Hagrid looks wrecked. McGonagall looks at the baby, eyes wet, mouth tight. Dumbledore looks into the dark.
 
 **Dialogue.**
 
@@ -403,7 +403,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid flinches, eyes squeezed, looking at the hand. Dumbledore’s visible eye is steady and sad.
 
-**Caption.** None.
+**Caption.** Hagrid hunches over the bright green blanket. Dumbledore’s hand enters, palm down, a calming gesture. Fog around their knees. Hagrid flinches, eyes squeezed, looking at the hand. Dumbledore’s visible eye is steady and sad.
 
 **Dialogue.**
 
@@ -418,7 +418,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Baby Harry looks straight out, calm, not crying. The scar is the fresh cut on his right brow. Dumbledore looks at that brow. Hagrid looks at the baby’s eyes.
 
-**Caption.** The blanket is folded back. The scar is on his right brow.
+**Caption.** The blanket is folded back. The scar is on his right brow. Baby Harry looks straight out, calm, not crying. The scar is the fresh cut on his right brow. Dumbledore looks at that brow. Hagrid looks at the baby’s eyes.
 
 **Dialogue.**
 
@@ -432,7 +432,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at Harry, awe under the sternness. Hagrid’s eyes are shut. Harry looks into the dark.
 
-**Caption.** Hagrid sobs.
+**Caption.** Hagrid sobs. McGonagall looks at Harry, awe under the sternness. Hagrid’s eyes are shut. Harry looks into the dark.
 
 **Dialogue.**
 
@@ -449,7 +449,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks up, pleading. Dumbledore looks down with love and refusal. McGonagall looks at the door, angry that she agrees.
 
-**Caption.** None.
+**Caption.** Hagrid kneels so his face meets Dumbledore’s chest, one hand open toward the house. Dumbledore holds the baby. Hagrid looks up, pleading. Dumbledore looks down with love and refusal. McGonagall looks at the door, angry that she agrees.
 
 **Dialogue.**
 
@@ -463,7 +463,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks gentle and final. Hagrid looks at the baby, giving up. Harry’s eyes are on the beard.
 
-**Caption.** None.
+**Caption.** Dumbledore stands straight, the baby in one arm, his other hand on Hagrid’s shoulder. Fog, a dark motorcycle, the house looming. Dumbledore looks gentle and final. Hagrid looks at the baby, giving up. Harry’s eyes are on the beard.
 
 **Dialogue.**
 
@@ -477,7 +477,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry does not react. The hand is careful, almost reluctant.
 
-**Caption.** A letter is tucked into the blankets.
+**Caption.** A letter is tucked into the blankets. Harry does not react. The hand is careful, almost reluctant.
 
 **Dialogue.** None.
 
@@ -489,7 +489,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up, calm, toward the people leaving. Only their feet are in the frame.
 
-**Caption.** Harry is set on the doorstep, eyes open.
+**Caption.** Harry is set on the doorstep, eyes open. Harry looks up, calm, toward the people leaving. Only their feet are in the frame.
 
 **Dialogue.** None.
 
@@ -501,7 +501,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid’s back is all we see. The cat’s eyes flash once. Dumbledore’s face is hidden by the hat brim.
 
-**Caption.** They leave in three directions.
+**Caption.** They leave in three directions. Hagrid’s back is all we see. The cat’s eyes flash once. Dumbledore’s face is hidden by the hat brim.
 
 **Dialogue.** None.
 
@@ -513,7 +513,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks toward the street, eyes open, not crying. Dumbledore is already leaving at the edge. The light is warm and the picture is lonely.
 
-**Caption.** The light returns. The lamps flare on. The baby lies alone.
+**Caption.** The light returns. The lamps flare on. The baby lies alone. Harry looks toward the street, eyes open, not crying. Dumbledore is already leaving at the edge. The light is warm and the picture is lonely.
 
 **Dialogue.** None.
 
@@ -533,7 +533,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** A proud, ordinary house.
 
-**Caption.** Number four in ordinary daylight.
+**Caption.** Number four in ordinary daylight. A proud, ordinary house.
 
 **Dialogue.** None.
 
@@ -545,7 +545,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The house is already in a rush that does not include a small boy.
 
-**Caption.** The front door, from the path.
+**Caption.** The front door, from the path. The house is already in a rush that does not include a small boy.
 
 **Dialogue.** None.
 
@@ -557,7 +557,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hall is crowded with one child's life and a locked door.
 
-**Caption.** The hall, before the cupboard opens.
+**Caption.** The hall, before the cupboard opens. The hall is crowded with one child's life and a locked door.
 
 **Dialogue.** None.
 
@@ -569,7 +569,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley is greedy and happy. Vernon is proud. Neither looks toward the hall.
 
-**Caption.** Dudley was already counting in the kitchen.
+**Caption.** Dudley was already counting in the kitchen. Dudley is greedy and happy. Vernon is proud. Neither looks toward the hall.
 
 **Dialogue.** None.
 
@@ -581,7 +581,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is brisk and blank. The toast is an afterthought.
 
-**Caption.** Petunia sets one slice of toast.
+**Caption.** Petunia sets one slice of toast. She is brisk and blank. The toast is an afterthought.
 
 **Dialogue.** None.
 
@@ -593,7 +593,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The door looks like a cupboard. It is a bedroom.
 
-**Caption.** The cupboard door, still shut.
+**Caption.** The cupboard door, still shut. The door looks like a cupboard. It is a bedroom.
 
 **Dialogue.** None.
 
@@ -607,7 +607,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Sleepy and wary. He looks out into the hall light as if checking whether it is safe.
 
-**Caption.** Harry wakes in the cupboard under the stairs.
+**Caption.** Harry wakes in the cupboard under the stairs. Sleepy and wary. He looks out into the hall light as if checking whether it is safe.
 
 **Dialogue.** None.
 
@@ -619,7 +619,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at his own knees, resigned. This is an ordinary morning.
 
-**Caption.** He sits up under the stairs.
+**Caption.** He sits up under the stairs. He looks at his own knees, resigned. This is an ordinary morning.
 
 **Dialogue.** None.
 
@@ -631,7 +631,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley looks at the next present, delighted. Vernon and Petunia look at Dudley. Harry looks at the pile, blank.
 
-**Caption.** Dudley counts a mountain of presents.
+**Caption.** Dudley counts a mountain of presents. Dudley looks at the next present, delighted. Vernon and Petunia look at Dudley. Harry looks at the pile, blank.
 
 **Dialogue.**
 
@@ -646,7 +646,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his toast. Dudley checks that Harry's plate is smaller. Petunia watches Dudley's plate. Vernon hides in the paper.
 
-**Caption.** Toast for Harry. A feast for Dudley.
+**Caption.** Toast for Harry. A feast for Dudley. Harry looks at his toast. Dudley checks that Harry's plate is smaller. Petunia watches Dudley's plate. Vernon hides in the paper.
 
 **Dialogue.**
 
@@ -660,7 +660,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon glares, warning. Harry looks back, cautious, mouth closed.
 
-**Caption.** None.
+**Caption.** Vernon lowers the paper just enough to show his eyes and mustache. One thick finger points at Harry. Vernon glares, warning. Harry looks back, cautious, mouth closed.
 
 **Dialogue.**
 
@@ -674,7 +674,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The photo-family looks delighted. Harry looks quiet and hurt.
 
-**Caption.** The family photo has no Harry in it.
+**Caption.** The family photo has no Harry in it. The photo-family looks delighted. Harry looks quiet and hurt.
 
 **Dialogue.** None.
 
@@ -692,7 +692,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley is already bored and loud. Harry is small and quiet. Vernon looks as if the outing is a duty.
 
-**Caption.** The zoo gates, a bright cold day.
+**Caption.** The zoo gates, a bright cold day. Dudley is already bored and loud. Harry is small and quiet. Vernon looks as if the outing is a duty.
 
 **Dialogue.** None.
 
@@ -704,7 +704,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley wants something to bang. Harry looks at the door, curious, not yet inside.
 
-**Caption.** The reptile house from the path.
+**Caption.** The reptile house from the path. Dudley wants something to bang. Harry looks at the door, curious, not yet inside.
 
 **Dialogue.** None.
 
@@ -716,7 +716,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's glasses fog. Dudley wrinkles his nose. Petunia already dislikes the smell.
 
-**Caption.** They cross into the heat.
+**Caption.** They cross into the heat. Harry's glasses fog. Dudley wrinkles his nose. Petunia already dislikes the smell.
 
 **Dialogue.** None.
 
@@ -728,7 +728,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Strangers are casual. Harry is the one who looks properly.
 
-**Caption.** Tanks, and people already tapping glass.
+**Caption.** Tanks, and people already tapping glass. Strangers are casual. Harry is the one who looks properly.
 
 **Dialogue.** None.
 
@@ -740,7 +740,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The snake is bored with the public. It has not looked at Harry yet.
 
-**Caption.** One boa, already there, ignoring everyone.
+**Caption.** One boa, already there, ignoring everyone. The snake is bored with the public. It has not looked at Harry yet.
 
 **Dialogue.** None.
 
@@ -752,7 +752,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley is impatient. Harry is quiet and already on the snake's side. The snake has not moved.
 
-**Caption.** Dudley arrives at the glass. He has not banged yet.
+**Caption.** Dudley arrives at the glass. He has not banged yet. Dudley is impatient. Harry is quiet and already on the snake's side. The snake has not moved.
 
 **Dialogue.** None.
 
@@ -766,7 +766,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley wants a trick. The snake looks past him. Harry looks at the snake, curious and gentle.
 
-**Caption.** Dudley bangs on the snake's glass.
+**Caption.** Dudley bangs on the snake's glass. Dudley wants a trick. The snake looks past him. Harry looks at the snake, curious and gentle.
 
 **Dialogue.**
 
@@ -780,7 +780,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The snake looks only at Harry. Dudley does not understand he has been dismissed. Harry looks back, startled and pleased.
 
-**Caption.** The snake ignores Dudley and looks at Harry.
+**Caption.** The snake ignores Dudley and looks at Harry. The snake looks only at Harry. Dudley does not understand he has been dismissed. Harry looks back, startled and pleased.
 
 **Dialogue.** None.
 
@@ -792,7 +792,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks into the snake's eye, earnest. The snake looks back, steady. No fear on either side.
 
-**Caption.** The snake answers by moving.
+**Caption.** The snake answers by moving. Harry looks into the snake's eye, earnest. The snake looks back, steady. No fear on either side.
 
 **Dialogue.**
 
@@ -806,7 +806,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley looks confused. Harry looks at the empty frame, shocked. The snake looks at the open hall.
 
-**Caption.** Dudley shoves Harry. The glass is gone.
+**Caption.** Dudley shoves Harry. The glass is gone. Dudley looks confused. Harry looks at the empty frame, shocked. The snake looks at the open hall.
 
 **Dialogue.**
 
@@ -820,7 +820,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley looks up, furious and scared. Harry looks down at the snake, almost kind. The snake does not look back.
 
-**Caption.** Dudley falls in. The snake slides past.
+**Caption.** Dudley falls in. The snake slides past. Dudley looks up, furious and scared. Harry looks down at the snake, almost kind. The snake does not look back.
 
 **Dialogue.**
 
@@ -834,7 +834,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon glares down, blaming Harry. Harry looks ahead, jaw tight. Strangers look uneasy.
 
-**Caption.** Vernon drags Harry out through the crowd.
+**Caption.** Vernon drags Harry out through the crowd. Vernon glares down, blaming Harry. Harry looks ahead, jaw tight. Strangers look uneasy.
 
 **Dialogue.**
 
@@ -854,7 +854,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** An ordinary street, if you miss the owl.
 
-**Caption.** Number four again, another morning.
+**Caption.** Number four again, another morning. An ordinary street, if you miss the owl.
 
 **Dialogue.** None.
 
@@ -866,7 +866,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Inside, they are eating. Nobody has looked up.
 
-**Caption.** The kitchen window from the garden.
+**Caption.** The kitchen window from the garden. Inside, they are eating. Nobody has looked up.
 
 **Dialogue.** None.
 
@@ -878,7 +878,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is buried in the paper. Petunia is serving Dudley. Harry is hungry and careful.
 
-**Caption.** They cross nothing. We are already in the smell of eggs.
+**Caption.** They cross nothing. We are already in the smell of eggs. Vernon is buried in the paper. Petunia is serving Dudley. Harry is hungry and careful.
 
 **Dialogue.** None.
 
@@ -890,7 +890,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley is loud. Harry is elsewhere. Petunia watches Dudley, not Harry.
 
-**Caption.** Dudley talks with his mouth full. Harry does not.
+**Caption.** Dudley talks with his mouth full. Harry does not. Dudley is loud. Harry is elsewhere. Petunia watches Dudley, not Harry.
 
 **Dialogue.** None.
 
@@ -902,7 +902,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks satisfied. He has not gone white yet.
 
-**Caption.** Vernon turns a page. The house is pleased with itself.
+**Caption.** Vernon turns a page. The house is pleased with itself. He looks satisfied. He has not gone white yet.
 
 **Dialogue.** None.
 
@@ -914,7 +914,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is startled and hopeful. Dudley is confused. Vernon has not looked up from the paper.
 
-**Caption.** A shadow crosses the eggs.
+**Caption.** A shadow crosses the eggs. Harry is startled and hopeful. Dudley is confused. Vernon has not looked up from the paper.
 
 **Dialogue.** None.
 
@@ -928,7 +928,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon stares at the owl, outraged. Petunia stares at the letter, afraid. Dudley is delighted. Harry looks hungry with hope.
 
-**Caption.** An owl drops a letter onto the eggs.
+**Caption.** An owl drops a letter onto the eggs. Vernon stares at the owl, outraged. Petunia stares at the letter, afraid. Dudley is delighted. Harry looks hungry with hope.
 
 **Dialogue.**
 
@@ -942,7 +942,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon looks at the address, afraid. Harry looks at the letter, desperate.
 
-**Caption.** Vernon snatches the letter and goes white.
+**Caption.** Vernon snatches the letter and goes white. Vernon looks at the address, afraid. Harry looks at the letter, desperate.
 
 **Dialogue.**
 
@@ -957,7 +957,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Petunia sees a memory. Vernon looks up at her, lost. Harry sees a crack in her for the first time.
 
-**Caption.** Petunia reads over his shoulder.
+**Caption.** Petunia reads over his shoulder. Petunia sees a memory. Vernon looks up at her, lost. Harry sees a crack in her for the first time.
 
 **Dialogue.**
 
@@ -971,7 +971,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon hates the slot. Harry looks at the letters, longing. Petunia looks at Harry, guilty and angry. Dudley is starting to be scared.
 
-**Caption.** The next day, Vernon nails the mail slot shut.
+**Caption.** The next day, Vernon nails the mail slot shut. Vernon hates the slot. Harry looks at the letters, longing. Petunia looks at Harry, guilty and angry. Dudley is starting to be scared.
 
 **Dialogue.**
 
@@ -985,7 +985,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley looks up, terrified. Harry looks at a letter just out of reach, almost laughing. Vernon looks furious and small.
 
-**Caption.** Letters pour down the chimney.
+**Caption.** Letters pour down the chimney. Dudley looks up, terrified. Harry looks at a letter just out of reach, almost laughing. Vernon looks furious and small.
 
 **Dialogue.**
 
@@ -999,7 +999,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon looks at Harry, wild. Harry looks back, defiant. Petunia looks at Vernon as if she does not know him.
 
-**Caption.** Vernon boards up the fireplace.
+**Caption.** Vernon boards up the fireplace. Vernon looks at Harry, wild. Harry looks back, defiant. Petunia looks at Vernon as if she does not know him.
 
 **Dialogue.**
 
@@ -1019,7 +1019,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The house looks like it is under siege by paper.
 
-**Caption.** Number four with the windows boarded.
+**Caption.** Number four with the windows boarded. The house looks like it is under siege by paper.
 
 **Dialogue.** None.
 
@@ -1031,7 +1031,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is purple with effort and fury. Petunia is pinched. Dudley is cross.
 
-**Caption.** Vernon throws bags into the boot.
+**Caption.** Vernon throws bags into the boot. Vernon is purple with effort and fury. Petunia is pinched. Dudley is cross.
 
 **Dialogue.** None.
 
@@ -1043,7 +1043,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is used to being luggage. He is also watching the sky.
 
-**Caption.** Harry is put in last.
+**Caption.** Harry is put in last. Harry is used to being luggage. He is also watching the sky.
 
 **Dialogue.** None.
 
@@ -1055,7 +1055,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back. Vernon looks only forward. We do not hear them yet.
 
-**Caption.** The street, from the moving car, houses sliding away.
+**Caption.** The street, from the moving car, houses sliding away. Harry looks back. Vernon looks only forward. We do not hear them yet.
 
 **Dialogue.** None.
 
@@ -1067,7 +1067,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The weather is the face of this panel. The family is a shape inside the car.
 
-**Caption.** The road becomes a sea road.
+**Caption.** The road becomes a sea road. The weather is the face of this panel. The family is a shape inside the car.
 
 **Dialogue.** None.
 
@@ -1079,7 +1079,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hut looks like a place letters should not find. Harry's face is small in the car window, watching it.
 
-**Caption.** The rock, closer, the hut still a shut box.
+**Caption.** The rock, closer, the hut still a shut box. The hut looks like a place letters should not find. Harry's face is small in the car window, watching it.
 
 **Dialogue.** None.
 
@@ -1097,7 +1097,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon glares at the road, hunted. Petunia looks at the letter, pale. Dudley looks at his chocolate. Harry looks at the letter, hopeful.
 
-**Caption.** The car races into a storm.
+**Caption.** The car races into a storm. Vernon glares at the road, hunted. Petunia looks at the letter, pale. Dudley looks at his chocolate. Harry looks at the letter, hopeful.
 
 **Dialogue.**
 
@@ -1112,7 +1112,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Too small for detail, but Harry is the only one looking back at the sky.
 
-**Caption.** A shack on a rock. Waves hit the walls.
+**Caption.** A shack on a rock. Waves hit the walls. Too small for detail, but Harry is the only one looking back at the sky.
 
 **Dialogue.** None.
 
@@ -1124,7 +1124,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is triumphant and wet. The others huddle.
 
-**Caption.** The hut door from the wind.
+**Caption.** The hut door from the wind. Vernon is triumphant and wet. The others huddle.
 
 **Dialogue.** None.
 
@@ -1136,7 +1136,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Petunia looks betrayed by the furniture. Dudley looks at the cot as if it owes him.
 
-**Caption.** They cross into one bare room.
+**Caption.** They cross into one bare room. Petunia looks betrayed by the furniture. Dudley looks at the cot as if it owes him.
 
 **Dialogue.** None.
 
@@ -1148,7 +1148,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley is settled, selfish, fine. Harry is quiet. Petunia is offended by the damp.
 
-**Caption.** Dudley takes the only cot.
+**Caption.** Dudley takes the only cot. Dudley is settled, selfish, fine. Harry is quiet. Petunia is offended by the damp.
 
 **Dialogue.** None.
 
@@ -1160,7 +1160,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks fierce and foolish. His eyes are small and angry. The gun is waiting for the knock.
 
-**Caption.** Vernon watches the door. The rifle leans in the corner.
+**Caption.** Vernon watches the door. The rifle leans in the corner. He looks fierce and foolish. His eyes are small and angry. The gun is waiting for the knock.
 
 **Dialogue.** None.
 
@@ -1174,7 +1174,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is hopeful and tired. Nobody is looking at him.
 
-**Caption.** Harry counts nothing yet. He listens.
+**Caption.** Harry counts nothing yet. He listens. He is hopeful and tired. Nobody is looking at him.
 
 **Dialogue.** None.
 
@@ -1186,7 +1186,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon stares at the wood. Harry stares at nothing. Dudley is almost asleep, still chewing.
 
-**Caption.** The room holds its breath.
+**Caption.** The room holds its breath. Vernon stares at the wood. Harry stares at nothing. Dudley is almost asleep, still chewing.
 
 **Dialogue.** None.
 
@@ -1198,7 +1198,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon expects thanks. Petunia looks exhausted. Dudley sulks over the last of the chocolate. Harry looks at the dark window.
 
-**Caption.** None.
+**Caption.** Inside the hut, Vernon spreads his arms. Water drips from the ceiling into a pan. The family is miserable around him. Vernon expects thanks. Petunia looks exhausted. Dudley sulks over the last of the chocolate. Harry looks at the dark window.
 
 **Dialogue.**
 
@@ -1212,7 +1212,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his own fingers, a private birthday, a tiny hopeful pull at his mouth. The others are asleep.
 
-**Caption.** Harry counts the seconds to midnight.
+**Caption.** Harry counts the seconds to midnight. Harry looks at his own fingers, a private birthday, a tiny hopeful pull at his mouth. The others are asleep.
 
 **Dialogue.**
 
@@ -1226,7 +1226,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the window, afraid and ready. No one else is awake.
 
-**Caption.** The storm holds still. A shadow crosses the window.
+**Caption.** The storm holds still. A shadow crosses the window. Harry looks at the window, afraid and ready. No one else is awake.
 
 **Dialogue.** None.
 
@@ -1238,7 +1238,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon glares at the door. Petunia and Dudley look terrified. Harry looks at the door, not at the gun.
 
-**Caption.** The door booms. Vernon grabs a rifle.
+**Caption.** The door booms. Vernon grabs a rifle. Vernon glares at the door. Petunia and Dudley look terrified. Harry looks at the door, not at the gun.
 
 **Dialogue.**
 
@@ -1260,7 +1260,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid's fierceness cracks when he finds Harry. Vernon looks up, mustache shaking. Harry looks up, stunned.
 
-**Caption.** The door blasts in. Hagrid fills the frame.
+**Caption.** The door blasts in. Hagrid fills the frame. Hagrid's fierceness cracks when he finds Harry. Vernon looks up, mustache shaking. Harry looks up, stunned.
 
 **Dialogue.**
 
@@ -1274,7 +1274,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid's eyes are shut, crying and smiling. Harry's visible eye is wide, looking sideways, not sure he is allowed to be held.
 
-**Caption.** Hagrid hugs Harry off his feet.
+**Caption.** Hagrid hugs Harry off his feet. Hagrid's eyes are shut, crying and smiling. Harry's visible eye is wide, looking sideways, not sure he is allowed to be held.
 
 **Dialogue.**
 
@@ -1288,7 +1288,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon stares at the knot, belief breaking. Hagrid looks mildly annoyed. Harry watches with a startled almost-smile.
 
-**Caption.** Hagrid bends the rifle into a knot.
+**Caption.** Hagrid bends the rifle into a knot. Vernon stares at the knot, belief breaking. Hagrid looks mildly annoyed. Harry watches with a startled almost-smile.
 
 **Dialogue.**
 
@@ -1303,7 +1303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks encouraging. Harry looks hungry and afraid to hope. Vernon looks at the letter with hate.
 
-**Caption.** Hagrid holds out the soggy letter.
+**Caption.** Hagrid holds out the soggy letter. Hagrid looks encouraging. Harry looks hungry and afraid to hope. Vernon looks at the letter with hate.
 
 **Dialogue.**
 
@@ -1317,7 +1317,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's brow is tight with confusion and want. Hagrid watches his face, waiting for the smile.
 
-**Caption.** Harry reads the word Hogwarts.
+**Caption.** Harry reads the word Hogwarts. Harry's brow is tight with confusion and want. Hagrid watches his face, waiting for the smile.
 
 **Dialogue.**
 
@@ -1331,7 +1331,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks lost. His eyes are wet from the weather and from being seen.
 
-**Caption.** None.
+**Caption.** Harry lowers the letter and looks up. He holds it against his chest. Hagrid is a warm blur behind him. Harry looks lost. His eyes are wet from the weather and from being seen.
 
 **Dialogue.**
 
@@ -1347,7 +1347,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon shouts. Hagrid looks down, insulted. Harry is afraid the letter will be taken. Dudley stares at the boots.
 
-**Caption.** None.
+**Caption.** Vernon jabs a finger up at Hagrid's chest. Harry keeps the letter behind him. Dudley hides by Petunia, chocolate on his chin. Vernon shouts. Hagrid looks down, insulted. Harry is afraid the letter will be taken. Dudley stares at the boots.
 
 **Dialogue.**
 
@@ -1361,7 +1361,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid is genuinely offended and glances down to be sure Harry hears. Vernon looks at the umbrella, nerves showing.
 
-**Caption.** None.
+**Caption.** Hagrid draws himself up under the low ceiling and points the pink umbrella, scolding, not firing it. The bulb swings away from his head. Hagrid is genuinely offended and glances down to be sure Harry hears. Vernon looks at the umbrella, nerves showing.
 
 **Dialogue.**
 
@@ -1375,7 +1375,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley looks at Harry, mocking. Harry looks hurt. Petunia looks away and does not stop her son.
 
-**Caption.** Dudley laughs and steals the cake.
+**Caption.** Dudley laughs and steals the cake. Dudley looks at Harry, mocking. Harry looks hurt. Petunia looks away and does not stop her son.
 
 **Dialogue.**
 
@@ -1389,7 +1389,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is furious and still denying. Harry is small and watchful. Hagrid’s kindness is thinning.
 
-**Caption.** Hagrid finds the umbrella.
+**Caption.** Hagrid finds the umbrella. Vernon is furious and still denying. Harry is small and watchful. Hagrid’s kindness is thinning.
 
 **Dialogue.** None.
 
@@ -1401,7 +1401,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid’s beetle-black eyes lock on Dudley. Dudley is delighted with himself. Harry’s mouth is not smiling yet.
 
-**Caption.** The umbrella comes up.
+**Caption.** The umbrella comes up. Hagrid’s beetle-black eyes lock on Dudley. Dudley is delighted with himself. Harry’s mouth is not smiling yet.
 
 **Dialogue.** None.
 
@@ -1413,7 +1413,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid is aimed and finished warning. Dudley has not noticed the aim. Harry watches the tip.
 
-**Caption.** He aims. No spark yet.
+**Caption.** He aims. No spark yet. Hagrid is aimed and finished warning. Dudley has not noticed the aim. Harry watches the tip.
 
 **Dialogue.**
 
@@ -1429,7 +1429,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks annoyed, not cruel, eyes on the trousers. Dudley’s laugh is dying as he sees the thread. Harry flinches, and wonder breaks through. Petunia has not understood.
 
-**Caption.** A thin spark leaves the umbrella.
+**Caption.** A thin spark leaves the umbrella. Hagrid looks annoyed, not cruel, eyes on the trousers. Dudley’s laugh is dying as he sees the thread. Harry flinches, and wonder breaks through. Petunia has not understood.
 
 **Dialogue.**
 
@@ -1443,7 +1443,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley howls. Petunia's mind breaks. Harry's real smile starts. Hagrid looks satisfied and a bit guilty.
 
-**Caption.** A curly tail pokes through Dudley's trousers.
+**Caption.** A curly tail pokes through Dudley's trousers. Dudley howls. Petunia's mind breaks. Harry's real smile starts. Hagrid looks satisfied and a bit guilty.
 
 **Dialogue.**
 
@@ -1457,7 +1457,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Petunia shrieks. Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated.
 
-**Caption.** Petunia shrieks. Harry almost smiles.
+**Caption.** Petunia shrieks. Harry almost smiles. Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated.
 
 **Dialogue.**
 
@@ -1471,7 +1471,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dudley howls into the weather. Petunia’s mind has broken. Harry’s real smile is starting. Hagrid looks satisfied and a bit guilty.
 
-**Caption.** He runs into the rain with the tail.
+**Caption.** He runs into the rain with the tail. Dudley howls into the weather. Petunia’s mind has broken. Harry’s real smile is starting. Hagrid looks satisfied and a bit guilty.
 
 **Dialogue.** None.
 
@@ -1483,7 +1483,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated. Petunia is still in the door, shrieking.
 
-**Caption.** The spark is over. The tail is not.
+**Caption.** The spark is over. The tail is not. Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated. Petunia is still in the door, shrieking.
 
 **Dialogue.** None.
 
@@ -1495,7 +1495,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is quieter and worse. Harry looks at Hagrid, ready to hear it. Hagrid looks sorry for the fun he just had.
 
-**Caption.** The hut settles. The story has not started.
+**Caption.** The hut settles. The story has not started. The room is quieter and worse. Harry looks at Hagrid, ready to hear it. Hagrid looks sorry for the fun he just had.
 
 **Dialogue.** None.
 
@@ -1509,7 +1509,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks gentle and grave. Harry looks guarded, because good news in this house usually is not.
 
-**Caption.** None.
+**Caption.** Hagrid sits on the floor so he can speak quietly. The cake tin is between them. A blanket is around Harry's shoulders. Hagrid looks gentle and grave. Harry looks guarded, because good news in this house usually is not.
 
 **Dialogue.**
 
@@ -1523,7 +1523,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid does not look away. Shock replaces the car-crash story on Harry's face. No tears yet.
 
-**Caption.** None.
+**Caption.** Harry's hands tighten on the mug. Tea jumps. Hagrid's big hands are open. The Dursleys are out of the frame. Hagrid does not look away. Shock replaces the car-crash story on Harry's face. No tears yet.
 
 **Dialogue.**
 
@@ -1537,7 +1537,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid flinches, afraid of the name, then looks back to be brave. Harry catches the fear before the meaning.
 
-**Caption.** Hagrid flinches at the name.
+**Caption.** Hagrid flinches at the name. Hagrid flinches, afraid of the name, then looks back to be brave. Harry catches the fear before the meaning.
 
 **Dialogue.**
 
@@ -1551,7 +1551,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the scar with reverence and grief. Harry touches it. Petunia is not sneering.
 
-**Caption.** None.
+**Caption.** Hagrid points gently toward Harry's forehead, not touching. The scar is in the light. Petunia is a listening silhouette far behind. Hagrid looks at the scar with reverence and grief. Harry touches it. Petunia is not sneering.
 
 **Dialogue.**
 
@@ -1565,7 +1565,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks through the moment, remembering a pain he was told was a car crash. Confusion, anger, and the start of grief.
 
-**Caption.** Harry touches his scar.
+**Caption.** Harry touches his scar. He looks through the moment, remembering a pain he was told was a car crash. Confusion, anger, and the start of grief.
 
 **Dialogue.**
 
@@ -1579,7 +1579,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid's smile does not quite work. He is proud and sorry. Harry looks at the letter, overwhelmed, not proud.
 
-**Caption.** None.
+**Caption.** The door is open a crack on a calmer sea. Harry is small in the blanket, the letter in his lap. Hagrid's smile does not quite work. He is proud and sorry. Harry looks at the letter, overwhelmed, not proud.
 
 **Dialogue.**
 
@@ -1595,7 +1595,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Petunia looks at Harry and sees Lily, ugly with envy. Harry turns as if slapped. Hagrid is angry on Lily's behalf. Vernon looks at the floor.
 
-**Caption.** None.
+**Caption.** Dawn is a gray line at the window. Petunia stands, years of spite in her posture. Dudley sleeps on the cot. Petunia looks at Harry and sees Lily, ugly with envy. Harry turns as if slapped. Hagrid is angry on Lily's behalf. Vernon looks at the floor.
 
 **Dialogue.**
 
@@ -1609,7 +1609,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry really looks at her, hurt and curious. Petunia looks just past him. Her mouth is hard.
 
-**Caption.** Harry looks at her as if for the first time.
+**Caption.** Harry looks at her as if for the first time. Harry really looks at her, hurt and curious. Petunia looks just past him. Her mouth is hard.
 
 **Dialogue.**
 
@@ -1623,7 +1623,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks sure and kind. Harry looks at the hand, then past it at the sky. Petunia looks at his back.
 
-**Caption.** None.
+**Caption.** The door is open on wet rock and a calmer sea. A motorcycle waits outside. Hagrid's hand is offered. Hagrid looks sure and kind. Harry looks at the hand, then past it at the sky. Petunia looks at his back.
 
 **Dialogue.**
 
@@ -1637,7 +1637,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hope is naked on Harry's face. Hagrid laughs as if the question is silly and lovely.
 
-**Caption.** None.
+**Caption.** They stand in the doorway. Inside is brown and small. Outside is silver water and cloud breaking. Hagrid's hand rests on Harry's shoulder. Hope is naked on Harry's face. Hagrid laughs as if the question is silly and lovely.
 
 **Dialogue.**
 
@@ -1652,7 +1652,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back, not waving, not forgiving. Petunia watches, unreadable. Hagrid does not look back.
 
-**Caption.** They step into the rain. Harry looks back once.
+**Caption.** They step into the rain. Harry looks back once. Harry looks back, not waving, not forgiving. Petunia watches, unreadable. Hagrid does not look back.
 
 **Dialogue.** None.
 
@@ -1664,7 +1664,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seen mostly from the path. Harry looks up at Hagrid, hope still there. Hagrid looks ahead, at ease.
 
-**Caption.** A giant and a boy walk toward the city glow.
+**Caption.** A giant and a boy walk toward the city glow. Seen mostly from the path. Harry looks up at Hagrid, hope still there. Hagrid looks ahead, at ease.
 
 **Dialogue.** None.
 
@@ -1684,7 +1684,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up at signs he cannot read as magic. Hagrid looks like he knows the turn.
 
-**Caption.** A London street in daylight, shops and buses.
+**Caption.** A London street in daylight, shops and buses. Harry looks up at signs he cannot read as magic. Hagrid looks like he knows the turn.
 
 **Dialogue.** None.
 
@@ -1696,7 +1696,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** A woman with a pram looks through Hagrid as if he were a lamppost. Harry looks at her, confused. Hagrid looks at the door, fond.
 
-**Caption.** The Leaky Cauldron, unseen by the street.
+**Caption.** The Leaky Cauldron, unseen by the street. A woman with a pram looks through Hagrid as if he were a lamppost. Harry looks at her, confused. Hagrid looks at the door, fond.
 
 **Dialogue.**
 
@@ -1710,7 +1710,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry hesitates. Hagrid is already home.
 
-**Caption.** The pub door, a step down.
+**Caption.** The pub door, a step down. Harry hesitates. Hagrid is already home.
 
 **Dialogue.** None.
 
@@ -1722,7 +1722,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The regulars are mid-drink, mid-argument, ordinary to themselves.
 
-**Caption.** The room, before anyone notices the boy.
+**Caption.** The room, before anyone notices the boy. The regulars are mid-drink, mid-argument, ordinary to themselves.
 
 **Dialogue.** None.
 
@@ -1734,7 +1734,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is busy with its own life. Harry is overwhelmed and has not been seen.
 
-**Caption.** They were already talking over their drinks.
+**Caption.** They were already talking over their drinks. The room is busy with its own life. Harry is overwhelmed and has not been seen.
 
 **Dialogue.** None.
 
@@ -1746,7 +1746,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry wants to be smaller. Hagrid looks proud and gentle.
 
-**Caption.** Hagrid steers him in. Still no greeting.
+**Caption.** Hagrid steers him in. Still no greeting. Harry wants to be smaller. Hagrid looks proud and gentle.
 
 **Dialogue.** None.
 
@@ -1760,7 +1760,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room looks at Harry with awe. Harry's shoulders are up, overwhelmed. Hagrid looks proud. An old wizard stares at the scar.
 
-**Caption.** Inside, the room goes quiet.
+**Caption.** Inside, the room goes quiet. The room looks at Harry with awe. Harry's shoulders are up, overwhelmed. Hagrid looks proud. An old wizard stares at the scar.
 
 **Dialogue.**
 
@@ -1774,7 +1774,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at Harry as a story. Harry looks at the floor, shy. Hagrid is polite and ready to move them on.
 
-**Caption.** Strangers reach for his hand. He shrinks.
+**Caption.** Strangers reach for his hand. He shrinks. They look at Harry as a story. Harry looks at the floor, shy. Hagrid is polite and ready to move them on.
 
 **Dialogue.**
 
@@ -1789,7 +1789,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks smaller after the touching. Hagrid looks protective and ready to leave. The room is no longer reaching.
 
-**Caption.** Hagrid steers him toward the back.
+**Caption.** Hagrid steers him toward the back. Harry looks smaller after the touching. Hagrid looks protective and ready to leave. The room is no longer reaching.
 
 **Dialogue.** None.
 
@@ -1801,7 +1801,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the crack, curious. Hagrid looks sure of the way.
 
-**Caption.** Daylight in the crack of the door.
+**Caption.** Daylight in the crack of the door. Harry looks at the crack, curious. Hagrid looks sure of the way.
 
 **Dialogue.** None.
 
@@ -1813,7 +1813,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is nervous of another room. Hagrid is gentle and impatient.
 
-**Caption.** His hand on the latch. The wall is not open.
+**Caption.** His hand on the latch. The wall is not open. Harry is nervous of another room. Hagrid is gentle and impatient.
 
 **Dialogue.** None.
 
@@ -1825,7 +1825,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back once, overwhelmed and leaving. Hagrid does not.
 
-**Caption.** The pub lets them go.
+**Caption.** The pub lets them go. Harry looks back once, overwhelmed and leaving. Hagrid does not.
 
 **Dialogue.** None.
 
@@ -1843,7 +1843,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at a blank wall and does not understand. Hagrid looks at the bricks the way someone looks at a lock.
 
-**Caption.** The courtyard, and a plain wall.
+**Caption.** The courtyard, and a plain wall. Harry looks at a blank wall and does not understand. Hagrid looks at the bricks the way someone looks at a lock.
 
 **Dialogue.** None.
 
@@ -1855,7 +1855,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the bricks, concentrating, tongue slightly out. Harry looks at the wall, skeptical and curious. The cat looks at neither.
 
-**Caption.** The umbrella tip touches one brick.
+**Caption.** The umbrella tip touches one brick. Hagrid looks at the bricks, concentrating, tongue slightly out. Harry looks at the wall, skeptical and curious. The cat looks at neither.
 
 **Dialogue.**
 
@@ -1869,7 +1869,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid watches the mortar, satisfied. Harry looks startled. The cat on the bins watches.
 
-**Caption.** Light runs along the mortar.
+**Caption.** Light runs along the mortar. Hagrid watches the mortar, satisfied. Harry looks startled. The cat on the bins watches.
 
 **Dialogue.** None.
 
@@ -1881,7 +1881,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes are huge, fear gone for a second. Hagrid looks at Harry's face, not at the street.
 
-**Caption.** The wall folds open.
+**Caption.** The wall folds open. Harry's eyes are huge, fear gone for a second. Hagrid looks at Harry's face, not at the street.
 
 **Dialogue.** None.
 
@@ -1893,7 +1893,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up and around, mouth open, delighted. Hagrid looks ahead, at home. A witch glances at Harry's jeans, amused.
 
-**Caption.** Diagon Alley opens. Harry's eyes go wide.
+**Caption.** Diagon Alley opens. Harry's eyes go wide. Harry looks up and around, mouth open, delighted. Hagrid looks ahead, at home. A witch glances at Harry's jeans, amused.
 
 **Dialogue.**
 
@@ -1908,7 +1908,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry’s eyes are wide and he cannot walk yet. Hagrid looks down, pleased and careful.
 
-**Caption.** He stops. The alley is already busy.
+**Caption.** He stops. The alley is already busy. Harry’s eyes are wide and he cannot walk yet. Hagrid looks down, pleased and careful.
 
 **Dialogue.** None.
 
@@ -1926,7 +1926,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is dazzled. Hagrid walks as if the marble were a familiar errand.
 
-**Caption.** Diagon Alley, the white building at the end.
+**Caption.** Diagon Alley, the white building at the end. Harry is dazzled. Hagrid walks as if the marble were a familiar errand.
 
 **Dialogue.** None.
 
@@ -1938,7 +1938,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is awed. The goblin guard is bored and sharp.
 
-**Caption.** The bronze doors, from the steps.
+**Caption.** The bronze doors, from the steps. Harry is awed. The goblin guard is bored and sharp.
 
 **Dialogue.** None.
 
@@ -1950,7 +1950,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's mouth is slightly open. Hagrid ducks, out of habit, though the door clears even him.
 
-**Caption.** They pass the doors.
+**Caption.** They pass the doors. Harry's mouth is slightly open. Hagrid ducks, out of habit, though the door clears even him.
 
 **Dialogue.** None.
 
@@ -1962,7 +1962,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Goblins look down because the counters are high, not because they have seen him yet.
 
-**Caption.** The hall, whole, before their key is asked.
+**Caption.** The hall, whole, before their key is asked. Goblins look down because the counters are high, not because they have seen him yet.
 
 **Dialogue.** None.
 
@@ -1974,7 +1974,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The teller is precise and unimpressed by wizards. He has not looked up.
 
-**Caption.** A teller is already weighing coins.
+**Caption.** A teller is already weighing coins. The teller is precise and unimpressed by wizards. He has not looked up.
 
 **Dialogue.** None.
 
@@ -1986,7 +1986,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is nervous. Hagrid is matter-of-fact. The goblin is not curious yet.
 
-**Caption.** Hagrid sets a hand on the marble. He has not spoken.
+**Caption.** Hagrid sets a hand on the marble. He has not spoken. Harry is nervous. Hagrid is matter-of-fact. The goblin is not curious yet.
 
 **Dialogue.** None.
 
@@ -2000,7 +2000,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The goblin looks at Harry, sharp and unimpressed. Harry looks up, polite and nervous. Hagrid looks at the goblin, respectful, a key in his palm.
 
-**Caption.** Marble, and a goblin looking down.
+**Caption.** Marble, and a goblin looking down. The goblin looks at Harry, sharp and unimpressed. Harry looks up, polite and nervous. Hagrid looks at the goblin, respectful, a key in his palm.
 
 **Dialogue.**
 
@@ -2015,7 +2015,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks ahead, casual about danger. Harry looks at the dark tunnel, swallowing. The goblin does not look back.
 
-**Caption.** None.
+**Caption.** A corridor of bronze vault doors. Cart rails drop into a dark tunnel. A goblin with a lantern walks ahead and does not look back. Hagrid looks ahead, casual about danger. Harry looks at the dark tunnel, swallowing. The goblin does not look back.
 
 **Dialogue.**
 
@@ -2029,7 +2029,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks forward, terrified and thrilled. Hagrid looks at Harry, laughing. The goblin looks at the track, bored.
 
-**Caption.** A cart plunges through the caves.
+**Caption.** A cart plunges through the caves. Harry looks forward, terrified and thrilled. Hagrid looks at Harry, laughing. The goblin looks at the track, bored.
 
 **Dialogue.**
 
@@ -2044,7 +2044,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the coins, stunned, then at Hagrid for permission. Hagrid nods, soft. The goblin glances at a pocket watch.
 
-**Caption.** Harry's vault. A modest heap of coins.
+**Caption.** Harry's vault. A modest heap of coins. Harry looks at the coins, stunned, then at Hagrid for permission. Hagrid nods, soft. The goblin glances at a pocket watch.
 
 **Dialogue.**
 
@@ -2059,7 +2059,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the package, respectful and nervous. Harry looks at it, questions forming. The goblin watches the package.
 
-**Caption.** Hagrid tucks a small package into his coat.
+**Caption.** Hagrid tucks a small package into his coat. Hagrid looks at the package, respectful and nervous. Harry looks at it, questions forming. The goblin watches the package.
 
 **Dialogue.**
 
@@ -2073,7 +2073,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Hagrid, curious, not pushy. Hagrid looks ahead, kind but closed. Harry accepts it with a small frown.
 
-**Caption.** None.
+**Caption.** The cart climbs toward distant daylight. Hagrid's hand rests over the pocket. The package makes a square shape under the coat. Harry looks at Hagrid, curious, not pushy. Hagrid looks ahead, kind but closed. Harry accepts it with a small frown.
 
 **Dialogue.**
 
@@ -2094,7 +2094,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at every window. Hagrid looks like a man with a list.
 
-**Caption.** Back in the alley, pockets heavier.
+**Caption.** Back in the alley, pockets heavier. Harry looks at every window. Hagrid looks like a man with a list.
 
 **Dialogue.** None.
 
@@ -2106,7 +2106,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The snowy owl looks at Harry as if she already chose. Harry looks back, startled to be chosen.
 
-**Caption.** An owl stares from a shop window.
+**Caption.** An owl stares from a shop window. The snowy owl looks at Harry as if she already chose. Harry looks back, startled to be chosen.
 
 **Dialogue.** None.
 
@@ -2118,7 +2118,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks uncertain about being fitted. Hagrid nods him at the door.
 
-**Caption.** Madam Malkin's door.
+**Caption.** Madam Malkin's door. Harry looks uncertain about being fitted. Hagrid nods him at the door.
 
 **Dialogue.** None.
 
@@ -2130,7 +2130,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is cheerful and busy. Harry is a new arrival in the mirror, small.
 
-**Caption.** The shop, mirrors and black cloth.
+**Caption.** The shop, mirrors and black cloth. She is cheerful and busy. Harry is a new arrival in the mirror, small.
 
 **Dialogue.** None.
 
@@ -2142,7 +2142,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is delighted and scared of the floating tape. Madam Malkin has not spoken to him.
 
-**Caption.** A tape is already moving for someone else.
+**Caption.** A tape is already moving for someone else. Harry is delighted and scared of the floating tape. Madam Malkin has not spoken to him.
 
 **Dialogue.** None.
 
@@ -2154,7 +2154,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is about to be kind. Harry is about to be measured. No line yet.
 
-**Caption.** She turns, tape in hand, and sees a new pair of arms.
+**Caption.** She turns, tape in hand, and sees a new pair of arms. She is about to be kind. Harry is about to be measured. No line yet.
 
 **Dialogue.** None.
 
@@ -2168,7 +2168,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks down at the tape, delighted and ticklish, a real grin.
 
-**Caption.** A measuring tape moves by itself.
+**Caption.** A measuring tape moves by itself. Harry looks down at the tape, delighted and ticklish, a real grin.
 
 **Dialogue.**
 
@@ -2182,7 +2182,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the dark cover, uneasy, then looks away on purpose. The clerk looks bored. Hagrid waves from outside, too big for the shop.
 
-**Caption.** One dark title makes Harry pause.
+**Caption.** One dark title makes Harry pause. Harry looks at the dark cover, uneasy, then looks away on purpose. The clerk looks bored. Hagrid waves from outside, too big for the shop.
 
 **Dialogue.** None.
 
@@ -2194,7 +2194,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The owl looks at Harry, calm, choosing him. Harry looks back, already attached. Hagrid winces at the price, then gives in.
 
-**Caption.** A snowy owl stares at him.
+**Caption.** A snowy owl stares at him. The owl looks at Harry, calm, choosing him. Harry looks back, already attached. Hagrid winces at the price, then gives in.
 
 **Dialogue.**
 
@@ -2208,7 +2208,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks into the cage, tender. Hedwig looks back. Hagrid looks away, embarrassed by his own kindness.
 
-**Caption.** Hagrid buys the owl for his birthday.
+**Caption.** Hagrid buys the owl for his birthday. Harry looks into the cage, tender. Hedwig looks back. Hagrid looks away, embarrassed by his own kindness.
 
 **Dialogue.**
 
@@ -2223,7 +2223,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up at Hagrid with shy pride. Hagrid looks at him, beaming, eyes wet.
 
-**Caption.** New robes. He looks like a different boy.
+**Caption.** New robes. He looks like a different boy. Harry looks up at Hagrid with shy pride. Hagrid looks at him, beaming, eyes wet.
 
 **Dialogue.**
 
@@ -2237,7 +2237,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the reflection, wondering, a little frightened of how much he wants this. The reflection looks braver than he feels.
 
-**Caption.** In the window, he does not recognize himself.
+**Caption.** In the window, he does not recognize himself. He looks at the reflection, wondering, a little frightened of how much he wants this. The reflection looks braver than he feels.
 
 **Dialogue.** None.
 
@@ -2255,7 +2255,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks smaller under the new robe. The shop looks like it has been waiting.
 
-**Caption.** A narrow shop, dusty gold lettering.
+**Caption.** A narrow shop, dusty gold lettering. Harry looks smaller under the new robe. The shop looks like it has been waiting.
 
 **Dialogue.** None.
 
@@ -2267,7 +2267,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is nervous. Hagrid looks oddly respectful of a shop.
 
-**Caption.** The door, a bell that might not ring.
+**Caption.** The door, a bell that might not ring. Harry is nervous. Hagrid looks oddly respectful of a shop.
 
 **Dialogue.** None.
 
@@ -2279,7 +2279,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room feels like it is looking, even with nobody in it.
 
-**Caption.** Thousands of boxes, and no shopkeeper yet.
+**Caption.** Thousands of boxes, and no shopkeeper yet. The room feels like it is looking, even with nobody in it.
 
 **Dialogue.** None.
 
@@ -2291,7 +2291,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ollivander is absorbed. Harry has not been startled yet.
 
-**Caption.** He was already among the shelves.
+**Caption.** He was already among the shelves. Ollivander is absorbed. Harry has not been startled yet.
 
 **Dialogue.** None.
 
@@ -2303,7 +2303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks lost and polite. He is about to be too close to someone.
 
-**Caption.** Harry turns, looking for the counter, and finds only boxes.
+**Caption.** Harry turns, looking for the counter, and finds only boxes. He looks lost and polite. He is about to be too close to someone.
 
 **Dialogue.** None.
 
@@ -2315,7 +2315,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's back is to the tape. His face is still only curious.
 
-**Caption.** A tape lifts on its own, behind him.
+**Caption.** A tape lifts on its own, behind him. Harry's back is to the tape. His face is still only curious.
 
 **Dialogue.** None.
 
@@ -2333,7 +2333,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ollivander looks at the scar, fascinated, not unkind. Harry looks at him, unnerved, polite.
 
-**Caption.** Ollivander is suddenly too close.
+**Caption.** Ollivander is suddenly too close. Ollivander looks at the scar, fascinated, not unkind. Harry looks at him, unnerved, polite.
 
 **Dialogue.**
 
@@ -2347,7 +2347,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ollivander looks at the scar, remembering. Harry looks past him, still. He does not blink.
 
-**Caption.** Harry goes still.
+**Caption.** Harry goes still. Ollivander looks at the scar, remembering. Harry looks past him, still. He does not blink.
 
 **Dialogue.**
 
@@ -2361,7 +2361,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the broken vase, guilty. Ollivander looks delighted by the mess. The wand looks wrong in Harry's grip.
 
-**Caption.** Wands reject him. Sparks, smoke, boxes.
+**Caption.** Wands reject him. Sparks, smoke, boxes. Harry looks at the broken vase, guilty. Ollivander looks delighted by the mess. The wand looks wrong in Harry's grip.
 
 **Dialogue.**
 
@@ -2375,7 +2375,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the wand, wonder, a small smile. Ollivander looks at the pair of them, satisfied and troubled.
 
-**Caption.** One wand stays. Warm light fills the shop.
+**Caption.** One wand stays. Warm light fills the shop. Harry looks at the wand, wonder, a small smile. Ollivander looks at the pair of them, satisfied and troubled.
 
 **Dialogue.**
 
@@ -2389,7 +2389,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ollivander looks at Harry, curious and grave. Harry looks at the wand, the smile gone. He understands he is tied to the person who gave him the scar.
 
-**Caption.** None.
+**Caption.** Quiet shop. A thread of the same wand-light remains. The wand lies between their hands. Ollivander looks at Harry, curious and grave. Harry looks at the wand, the smile gone. He understands he is tied to the person who gave him the scar.
 
 **Dialogue.**
 
@@ -2403,7 +2403,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco smiles with no warmth and glances at Hagrid's coat with contempt. Harry looks at him, polite and already decided against him, and stays in Hagrid's shadow. Hagrid looks mild, a little sad, not angry.
 
-**Caption.** Harry steps back.
+**Caption.** Harry steps back. Draco smiles with no warmth and glances at Hagrid's coat with contempt. Harry looks at him, polite and already decided against him, and stays in Hagrid's shadow. Hagrid looks mild, a little sad, not angry.
 
 **Dialogue.**
 
@@ -2427,7 +2427,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The station is busy and ordinary. The car does not belong to a celebration.
 
-**Caption.** King's Cross, the clock and the taxis.
+**Caption.** King's Cross, the clock and the taxis. The station is busy and ordinary. The car does not belong to a celebration.
 
 **Dialogue.** None.
 
@@ -2439,7 +2439,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is done with this. Dudley is pleased. Harry looks at the station doors.
 
-**Caption.** The boot opens on a cage and a trunk.
+**Caption.** The boot opens on a cage and a trunk. Vernon is done with this. Dudley is pleased. Harry looks at the station doors.
 
 **Dialogue.** None.
 
@@ -2451,7 +2451,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is lost and trying not to show it. Strangers ignore him.
 
-**Caption.** The concourse, a tide of Muggles.
+**Caption.** The concourse, a tide of Muggles. Harry is lost and trying not to show it. Strangers ignore him.
 
 **Dialogue.** None.
 
@@ -2463,7 +2463,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks as if the number has failed him. The barrier looks very solid.
 
-**Caption.** Platforms nine and ten, and a solid brick barrier.
+**Caption.** Platforms nine and ten, and a solid brick barrier. Harry looks as if the number has failed him. The barrier looks very solid.
 
 **Dialogue.** None.
 
@@ -2475,7 +2475,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is hopeful and embarrassed already.
 
-**Caption.** People walk through ordinary doors. None walk through brick.
+**Caption.** People walk through ordinary doors. None walk through brick. He is hopeful and embarrassed already.
 
 **Dialogue.** None.
 
@@ -2487,7 +2487,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon is contemptuous. Harry is braced.
 
-**Caption.** The beige car is still at the curb, in his memory of the last minute.
+**Caption.** The beige car is still at the curb, in his memory of the last minute. Vernon is contemptuous. Harry is braced.
 
 **Dialogue.** None.
 
@@ -2501,7 +2501,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks after the car, hollow, not surprised. Vernon stares ahead and does not wave. Petunia's eyes flick away. Dudley looks at his food.
 
-**Caption.** The Dursleys drive off without a wave.
+**Caption.** The Dursleys drive off without a wave. Harry looks after the car, hollow, not surprised. Vernon stares ahead and does not wave. Petunia's eyes flick away. Dudley looks at his food.
 
 **Dialogue.**
 
@@ -2515,7 +2515,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks from sign to sign, lost, the hope from Diagon Alley thinning. The commuters do not look at him.
 
-**Caption.** Between platforms 9 and 10. There is no 9¾.
+**Caption.** Between platforms 9 and 10. There is no 9¾. Harry looks from sign to sign, lost, the hope from Diagon Alley thinning. The commuters do not look at him.
 
 **Dialogue.**
 
@@ -2529,7 +2529,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The officer is amused, not cruel, and useless. Harry's ears are red. He is left looking at the bricks, jaw tight. He will not ask again.
 
-**Caption.** The officer laughs and points him away.
+**Caption.** The officer laughs and points him away. The officer is amused, not cruel, and useless. Harry's ears are red. He is left looking at the bricks, jaw tight. He will not ask again.
 
 **Dialogue.**
 
@@ -2543,7 +2543,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Molly looks at Harry with immediate kindness. Ron sees the scar and goes shy. Harry looks at the family, and hope comes back.
 
-**Caption.** A red-haired family stops with a trolley.
+**Caption.** A red-haired family stops with a trolley. Molly looks at Harry with immediate kindness. Ron sees the scar and goes shy. Harry looks at the family, and hope comes back.
 
 **Dialogue.**
 
@@ -2557,7 +2557,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The twins are delighted with themselves. Ron looks at the wall, nervous. Molly's hand stays on his back. Harry's mouth is open.
 
-**Caption.** The children run at the barrier and vanish.
+**Caption.** The children run at the barrier and vanish. The twins are delighted with themselves. Ron looks at the wall, nervous. Molly's hand stays on his back. Harry's mouth is open.
 
 **Dialogue.**
 
@@ -2571,7 +2571,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His eyes are shut, so the feeling is in his mouth: braced, brave, a little sick. Molly's hand lifts behind him, out of focus.
 
-**Caption.** Harry shuts his eyes and runs. The wall takes him.
+**Caption.** Harry shuts his eyes and runs. The wall takes him. His eyes are shut, so the feeling is in his mouth: braced, brave, a little sick. Molly's hand lifts behind him, out of focus.
 
 **Dialogue.** None.
 
@@ -2589,7 +2589,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks shocked and then hungry for all of it.
 
-**Caption.** He comes through the brick, eyes shut.
+**Caption.** He comes through the brick, eyes shut. He looks shocked and then hungry for all of it.
 
 **Dialogue.** None.
 
@@ -2601,7 +2601,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is tiny at the edge of the wonder.
 
-**Caption.** The platform, whole, and a scarlet engine.
+**Caption.** The platform, whole, and a scarlet engine. Harry is tiny at the edge of the wonder.
 
 **Dialogue.** None.
 
@@ -2613,7 +2613,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Everyone else knows how this works. Harry is still holding the trolley like a shield.
 
-**Caption.** Families were already saying goodbye.
+**Caption.** Families were already saying goodbye. Everyone else knows how this works. Harry is still holding the trolley like a shield.
 
 **Dialogue.** None.
 
@@ -2625,7 +2625,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks anxious and secondhand. The twins look delighted. Harry is not in their group yet.
 
-**Caption.** A boy with dirt on his nose argues with a twin.
+**Caption.** A boy with dirt on his nose argues with a twin. Ron looks anxious and secondhand. The twins look delighted. Harry is not in their group yet.
 
 **Dialogue.** None.
 
@@ -2637,7 +2637,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks relieved and shy.
 
-**Caption.** An empty compartment waits.
+**Caption.** An empty compartment waits. He looks relieved and shy.
 
 **Dialogue.** None.
 
@@ -2649,7 +2649,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is ready to board and does not know the rules.
 
-**Caption.** The conductor is a small figure in the steam, mouth not yet open.
+**Caption.** The conductor is a small figure in the steam, mouth not yet open. Harry is ready to board and does not know the rules.
 
 **Dialogue.** None.
 
@@ -2667,7 +2667,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up at the train, relief and awe. He looks for the red-haired family and finds too many redheads to be sure.
 
-**Caption.** A scarlet steam train. Owls, cats, and steam.
+**Caption.** A scarlet steam train. Owls, cats, and steam. Harry looks up at the train, relief and awe. He looks for the red-haired family and finds too many redheads to be sure.
 
 **Dialogue.**
 
@@ -2681,7 +2681,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the empty seat opposite, lonely and proud he managed the trolley. A small smile for Hedwig. She looks back, unruffled.
 
-**Caption.** An empty compartment. The train lurches.
+**Caption.** An empty compartment. The train lurches. He looks at the empty seat opposite, lonely and proud he managed the trolley. A small smile for Hedwig. She looks back, unruffled.
 
 **Dialogue.** None.
 
@@ -2693,7 +2693,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the empty seat, not quite at Harry, shy. Harry looks at Ron, relieved, and nods.
 
-**Caption.** Ron slides the door, shy.
+**Caption.** Ron slides the door, shy. Ron looks at the empty seat, not quite at Harry, shy. Harry looks at Ron, relieved, and nods.
 
 **Dialogue.**
 
@@ -2708,7 +2708,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron leans in, delighted and a little ashamed of being delighted. Harry is glad to have something to give. This is the first easy smile between them.
 
-**Caption.** Harry offers sweets. Ron lights up.
+**Caption.** Harry offers sweets. Ron lights up. Ron leans in, delighted and a little ashamed of being delighted. Harry is glad to have something to give. This is the first easy smile between them.
 
 **Dialogue.**
 
@@ -2723,7 +2723,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is trying to be brave. Harry is curious and kind.
 
-**Caption.** Ron looks at one bean as if it were a dare.
+**Caption.** Ron looks at one bean as if it were a dare. Ron is trying to be brave. Harry is curious and kind.
 
 **Dialogue.**
 
@@ -2737,7 +2737,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is cocky for one second. Harry waits.
 
-**Caption.** He eats it.
+**Caption.** He eats it. Ron is cocky for one second. Harry waits.
 
 **Dialogue.** None.
 
@@ -2751,7 +2751,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Disgust, then betrayal. Harry looks horrified and a little sorry he offered it.
 
-**Caption.** The flavor is not food.
+**Caption.** The flavor is not food. Disgust, then betrayal. Harry looks horrified and a little sorry he offered it.
 
 **Dialogue.**
 
@@ -2765,7 +2765,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry thinks it is only chocolate. Ron knows better and is too late.
 
-**Caption.** Harry opens the chocolate frog.
+**Caption.** Harry opens the chocolate frog. Harry thinks it is only chocolate. Ron knows better and is too late.
 
 **Dialogue.** None.
 
@@ -2777,7 +2777,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is startled. Ron's disgust turns into a shout he has not finished.
 
-**Caption.** The frog leaps.
+**Caption.** The frog leaps. Harry is startled. Ron's disgust turns into a shout he has not finished.
 
 **Dialogue.**
 
@@ -2791,7 +2791,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is wretched and impressed. Harry is delighted. The rat does not care. The owl looks unimpressed.
 
-**Caption.** It sits on the luggage rack. Scabbers sleeps through it.
+**Caption.** It sits on the luggage rack. Scabbers sleeps through it. Ron is wretched and impressed. Harry is delighted. The rat does not care. The owl looks unimpressed.
 
 **Dialogue.**
 
@@ -2805,7 +2805,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry with the shine of someone meeting a story. Harry looks back, uncomfortable, honestly confused. He does not enjoy the fame.
 
-**Caption.** None.
+**Caption.** Ron talks with his hands, a sweet half in his mouth. Harry has gone still around an unopened box. Ron looks at Harry with the shine of someone meeting a story. Harry looks back, uncomfortable, honestly confused. He does not enjoy the fame.
 
 **Dialogue.**
 
@@ -2820,7 +2820,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks kind, and suddenly aware that this is too big for a train game. Harry waits, patient, a little afraid of the answer.
 
-**Caption.** Ron starts to explain, then stops.
+**Caption.** Ron starts to explain, then stops. Ron looks kind, and suddenly aware that this is too big for a train game. Harry waits, patient, a little afraid of the answer.
 
 **Dialogue.**
 
@@ -2836,7 +2836,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The corridor is busy. Our compartment is one door among many.
 
-**Caption.** The scarlet train, from a carriage door.
+**Caption.** The scarlet train, from a carriage door. The corridor is busy. Our compartment is one door among many.
 
 **Dialogue.** None.
 
@@ -2848,7 +2848,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** People are settling. One sandy-haired boy is already searching the floor.
 
-**Caption.** The corridor, whole, trunks and owls.
+**Caption.** The corridor, whole, trunks and owls. People are settling. One sandy-haired boy is already searching the floor.
 
 **Dialogue.** None.
 
@@ -2860,7 +2860,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is desperate. Hermione is determined. They have not reached Harry's door.
 
-**Caption.** Neville was already on his knees.
+**Caption.** Neville was already on his knees. Neville is desperate. Hermione is determined. They have not reached Harry's door.
 
 **Dialogue.** None.
 
@@ -2872,7 +2872,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look comfortable. The interruption has not arrived.
 
-**Caption.** Their door, from the corridor side.
+**Caption.** Their door, from the corridor side. They look comfortable. The interruption has not arrived.
 
 **Dialogue.** None.
 
@@ -2884,7 +2884,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks mission-first, not starstruck yet. Neville looks hopeful that anyone might help.
 
-**Caption.** She stops at the door. She has not opened it.
+**Caption.** She stops at the door. She has not opened it. She looks mission-first, not starstruck yet. Neville looks hopeful that anyone might help.
 
 **Dialogue.** None.
 
@@ -2896,7 +2896,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is polite and surprised. Ron is wary. Hermione is about to fill the doorway.
 
-**Caption.** The handle moves.
+**Caption.** The handle moves. Harry is polite and surprised. Ron is wary. Hermione is about to fill the doorway.
 
 **Dialogue.** None.
 
@@ -2910,7 +2910,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks past them, searching the seats, businesslike. Ron is already overwhelmed. Harry is polite. Neville is near tears.
 
-**Caption.** Hermione opens the door, looking for a toad.
+**Caption.** Hermione opens the door, looking for a toad. Hermione looks past them, searching the seats, businesslike. Ron is already overwhelmed. Harry is polite. Neville is near tears.
 
 **Dialogue.**
 
@@ -2924,7 +2924,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the scar, bright and impressed, no malice. Harry leans back, weary of it already. Ron looks wary.
 
-**Caption.** She sees the scar.
+**Caption.** She sees the scar. Hermione looks at the scar, bright and impressed, no malice. Harry leans back, weary of it already. Ron looks wary.
 
 **Dialogue.**
 
@@ -2938,7 +2938,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks ahead, satisfied she was right. Ron has both hands over his face. Harry covers his mouth, amused and a little impressed.
 
-**Caption.** She leaves. Ron groans.
+**Caption.** She leaves. Ron groans. Hermione looks ahead, satisfied she was right. Ron has both hands over his face. Harry covers his mouth, amused and a little impressed.
 
 **Dialogue.**
 
@@ -2953,7 +2953,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry, assessing, then at Ron's sweater. The big boys look dull. Harry recognizes him from the alley. Ron looks at the blocked door.
 
-**Caption.** Draco enters. Crabbe and Goyle block the door.
+**Caption.** Draco enters. Crabbe and Goyle block the door. Draco looks at Harry, assessing, then at Ron's sweater. The big boys look dull. Harry recognizes him from the alley. Ron looks at the blocked door.
 
 **Dialogue.**
 
@@ -2967,7 +2967,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry while insulting Ron, recruiting. Ron's ears go red, humiliated and angry. Harry's friendliness is gone.
 
-**Caption.** None.
+**Caption.** Tight in the compartment. Draco's finger flicks Ron's maroon sleeve. Scabbers is on the floor. Hedwig watches from the rack. Draco looks at Harry while insulting Ron, recruiting. Ron's ears go red, humiliated and angry. Harry's friendliness is gone.
 
 **Dialogue.**
 
@@ -2981,7 +2981,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks Draco in the eye, calm, final. Draco's smile is dead, a flicker of insulted surprise. Ron looks at Harry, loyal already.
 
-**Caption.** None.
+**Caption.** Harry is on his feet, shorter than Draco and square to him. Ron is half-risen. The big boys have shifted, unsure. Harry looks Draco in the eye, calm, final. Draco's smile is dead, a flicker of insulted surprise. Ron looks at Harry, loyal already.
 
 **Dialogue.**
 
@@ -3002,7 +3002,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at each other, easier now. Harry looks grateful. Ron looks indignant on Harry's behalf, which matters more than fame.
 
-**Caption.** None.
+**Caption.** Dusk in the compartment. Lamps on. They sit with their shoes up, empty wrappers on the table, hours passed. They look at each other, easier now. Harry looks grateful. Ron looks indignant on Harry's behalf, which matters more than fame.
 
 **Dialogue.**
 
@@ -3018,7 +3018,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his rat, fond. Harry looks down kindly, thinking of Hedwig, and does not touch.
 
-**Caption.** Scabbers sleeps on a sweet wrapper.
+**Caption.** Scabbers sleeps on a sweet wrapper. Ron looks at his rat, fond. Harry looks down kindly, thinking of Hedwig, and does not touch.
 
 **Dialogue.**
 
@@ -3032,7 +3032,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at the embarrassment. Hermione is pleased. Neville is sobbing happily.
 
-**Caption.** Robes on. Harry fumbles a sleeve.
+**Caption.** Robes on. Harry fumbles a sleeve. Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at the embarrassment. Hermione is pleased. Neville is sobbing happily.
 
 **Dialogue.**
 
@@ -3047,7 +3047,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks out, nervous excitement. Ron looks out, grinning. Both faces are reflected over the forest.
 
-**Caption.** The train slows. Lanterns in the trees.
+**Caption.** The train slows. Lanterns in the trees. Harry looks out, nervous excitement. Ron looks out, grinning. Both faces are reflected over the forest.
 
 **Dialogue.**
 
@@ -3061,7 +3061,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid's face opens when he sees Harry. Harry looks up, the hollow from King's Cross gone. Ron is impressed. Draco looks at the dark, disdainful.
 
-**Caption.** Hagrid's lamp waits like a moon.
+**Caption.** Hagrid's lamp waits like a moon. Hagrid's face opens when he sees Harry. Harry looks up, the hollow from King's Cross gone. Ron is impressed. Draco looks at the dark, disdainful.
 
 **Dialogue.**
 
@@ -3075,7 +3075,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks proud, a little emotional, grinning. His hand hovers and does not quite ruffle Harry's hair. Harry looks up, safe, smiling true.
 
-**Caption.** Harry steps off. Hagrid grins down.
+**Caption.** Harry steps off. Hagrid grins down. Hagrid looks proud, a little emotional, grinning. His hand hovers and does not quite ruffle Harry's hair. Harry looks up, safe, smiling true.
 
 **Dialogue.**
 
@@ -3097,7 +3097,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The castle does the feeling. The children are small and cold.
 
-**Caption.** Hogwarts across the water, first sight, night.
+**Caption.** Hogwarts across the water, first sight, night. The castle does the feeling. The children are small and cold.
 
 **Dialogue.** None.
 
@@ -3109,7 +3109,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is frightened of the slope. Draco is disdainful. Harry is staring ahead.
 
-**Caption.** The steep path, from above.
+**Caption.** The steep path, from above. Neville is frightened of the slope. Draco is disdainful. Harry is staring ahead.
 
 **Dialogue.** None.
 
@@ -3121,7 +3121,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The boats are the new room. Harry looks as if the castle became real.
 
-**Caption.** The lake opens.
+**Caption.** The lake opens. The boats are the new room. Harry looks as if the castle became real.
 
 **Dialogue.** None.
 
@@ -3133,7 +3133,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks careful with them, which is new. The children whisper.
 
-**Caption.** Hagrid was already counting heads.
+**Caption.** Hagrid was already counting heads. He looks careful with them, which is new. The children whisper.
 
 **Dialogue.** None.
 
@@ -3145,7 +3145,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Whispers, cold breath. Hagrid is still counting, out of earshot of the punchline.
 
-**Caption.** They talk in little knots, not to Hagrid yet.
+**Caption.** They talk in little knots, not to Hagrid yet. Whispers, cold breath. Hagrid is still counting, out of earshot of the punchline.
 
 **Dialogue.** None.
 
@@ -3157,7 +3157,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is ready. Ron is grinning at the water. Neville is not ready.
 
-**Caption.** A boat bumps the shingle at Harry's shoes.
+**Caption.** A boat bumps the shingle at Harry's shoes. Harry is ready. Ron is grinning at the water. Neville is not ready.
 
 **Dialogue.** None.
 
@@ -3171,7 +3171,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks ahead, cheerful. Harry looks up, excited. Neville looks at the ground, worried. Draco sneers at Hagrid’s back.
 
-**Caption.** First years follow Hagrid down a steep path.
+**Caption.** First years follow Hagrid down a steep path. Hagrid looks ahead, cheerful. Harry looks up, excited. Neville looks at the ground, worried. Draco sneers at Hagrid’s back.
 
 **Dialogue.**
 
@@ -3185,7 +3185,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the boats, full of wonder. Hermione is already curious how they move. Ron grins a let’s-go. Neville looks at the water, pale.
 
-**Caption.** Small boats wait on black water.
+**Caption.** Small boats wait on black water. Harry looks at the boats, full of wonder. Hermione is already curious how they move. Ron grins a let’s-go. Neville looks at the water, pale.
 
 **Dialogue.**
 
@@ -3199,7 +3199,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks at the water, terrified. Hermione looks at him, steady and kind. Harry looks ahead, calm for someone else. Ron copies that calm.
 
-**Caption.** Four to a boat. Neville clutches the sides.
+**Caption.** Four to a boat. Neville clutches the sides. Neville looks at the water, terrified. Hermione looks at him, steady and kind. Harry looks ahead, calm for someone else. Ron copies that calm.
 
 **Dialogue.**
 
@@ -3214,7 +3214,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Too far for detail. The feeling is hush. A few pale faces are turned forward.
 
-**Caption.** The boats move with nobody rowing.
+**Caption.** The boats move with nobody rowing. Too far for detail. The feeling is hush. A few pale faces are turned forward.
 
 **Dialogue.**
 
@@ -3229,7 +3229,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the castle, undone by it. Ron grins. Hermione memorizes the towers. Neville looks up, fear forgotten.
 
-**Caption.** Hogwarts rises, doubled in the lake.
+**Caption.** Hogwarts rises, doubled in the lake. Harry looks at the castle, undone by it. Ron grins. Hermione memorizes the towers. Neville looks up, fear forgotten.
 
 **Dialogue.**
 
@@ -3243,7 +3243,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The reflection looks wonderstruck and a little scared of wanting this. Both of them are silent.
 
-**Caption.** Nobody speaks. Harry's face in the water.
+**Caption.** Nobody speaks. Harry's face in the water. The reflection looks wonderstruck and a little scared of wanting this. Both of them are silent.
 
 **Dialogue.** None.
 
@@ -3261,7 +3261,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look up and go quiet. McGonagall looks exact.
 
-**Caption.** The castle doors, from the steps.
+**Caption.** The castle doors, from the steps. They look up and go quiet. McGonagall looks exact.
 
 **Dialogue.** None.
 
@@ -3273,7 +3273,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's neck is bent back. Ron's ears are red. Hermione is memorizing the room.
 
-**Caption.** The entrance hall, a pause.
+**Caption.** The entrance hall, a pause. Harry's neck is bent back. Ron's ears are red. Hermione is memorizing the room.
 
 **Dialogue.** None.
 
@@ -3285,7 +3285,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Awe. Even Draco's mouth forgets to sneer for a second.
 
-**Caption.** The Hall doors open on candlelight.
+**Caption.** The Hall doors open on candlelight. Awe. Even Draco's mouth forgets to sneer for a second.
 
 **Dialogue.** None.
 
@@ -3297,7 +3297,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is loud with people who already belong. The first years are a muddy line at the door.
 
-**Caption.** The Hall, whole, four houses already in it.
+**Caption.** The Hall, whole, four houses already in it. The room is loud with people who already belong. The first years are a muddy line at the door.
 
 **Dialogue.** None.
 
@@ -3309,7 +3309,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The older students are curious. Harry looks at the red and the green and does not know which is his.
 
-**Caption.** Older students were already talking and pointing.
+**Caption.** Older students were already talking and pointing. The older students are curious. Harry looks at the red and the green and does not know which is his.
 
 **Dialogue.** None.
 
@@ -3321,7 +3321,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is about to speak and has not. Ron is about to answer and has not.
 
-**Caption.** They step under the candles.
+**Caption.** They step under the candles. Harry is about to speak and has not. Ron is about to answer and has not.
 
 **Dialogue.** None.
 
@@ -3335,7 +3335,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the ceiling, awed. McGonagall looks ahead, brisk. She has seen this sky for years.
 
-**Caption.** The Great Hall. Candles and a night-sky ceiling.
+**Caption.** The Great Hall. Candles and a night-sky ceiling. Harry looks at the ceiling, awed. McGonagall looks ahead, brisk. She has seen this sky for years.
 
 **Dialogue.**
 
@@ -3350,7 +3350,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The ghost looks apologetic and pleased to be noticed. Neville yelps, eyes round. Harry is delighted and afraid. Ron grins.
 
-**Caption.** A ghost drifts through a table. Neville yelps.
+**Caption.** A ghost drifts through a table. Neville yelps. The ghost looks apologetic and pleased to be noticed. Neville yelps, eyes round. Harry is delighted and afraid. Ron grins.
 
 **Dialogue.**
 
@@ -3365,7 +3365,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Nick looks delighted to have an audience. Neville looks unready for the rest of the joke.
 
-**Caption.** The ghost drifts back, pleased to be asked.
+**Caption.** The ghost drifts back, pleased to be asked. Nick looks delighted to have an audience. Neville looks unready for the rest of the joke.
 
 **Dialogue.**
 
@@ -3379,7 +3379,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is proud. Hermione leans in, forensic. Ron leans back.
 
-**Caption.** He takes his head in both hands.
+**Caption.** He takes his head in both hands. He is proud. Hermione leans in, forensic. Ron leans back.
 
 **Dialogue.** None.
 
@@ -3391,7 +3391,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Nick looks mild, as if this were manners. Neville goes green.
 
-**Caption.** The neck is one strip.
+**Caption.** The neck is one strip. Nick looks mild, as if this were manners. Neville goes green.
 
 **Dialogue.** None.
 
@@ -3403,7 +3403,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Nick is cheerful. Neville looks like he might sit down on the floor. Harry stares. Hermione stares and does not scream. Draco looks as if being shocked is beneath him, and fails.
 
-**Caption.** The head hangs.
+**Caption.** The head hangs. Nick is cheerful. Neville looks like he might sit down on the floor. Harry stares. Hermione stares and does not scream. Draco looks as if being shocked is beneath him, and fails.
 
 **Dialogue.** None.
 
@@ -3417,7 +3417,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is satisfied. Neville breathes. Ron's mouth is still open.
 
-**Caption.** He sets it back, still nearly off.
+**Caption.** He sets it back, still nearly off. He is satisfied. Neville breathes. Ron's mouth is still open.
 
 **Dialogue.**
 
@@ -3431,7 +3431,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall is not amused for long. The first years pull themselves together.
 
-**Caption.** The Hall remembers it has a Sorting to do.
+**Caption.** The Hall remembers it has a Sorting to do. McGonagall is not amused for long. The first years pull themselves together.
 
 **Dialogue.** None.
 
@@ -3443,7 +3443,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks along the line, fair and severe. Hermione stares at the hat. Draco is already home in the green banner. Harry does not know which color is his.
 
-**Caption.** None.
+**Caption.** McGonagall stands before the first years with a scroll, indicating the banners. Behind her a stool and an old patched hat wait, not yet alive. She looks along the line, fair and severe. Hermione stares at the hat. Draco is already home in the green banner. Harry does not know which color is his.
 
 **Dialogue.**
 
@@ -3457,7 +3457,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The rip shapes a sly, knowing almost-smile. A first year flinches.
 
-**Caption.** The Sorting Hat is set on a stool and twitches.
+**Caption.** The Sorting Hat is set on a stool and twitches. The rip shapes a sly, knowing almost-smile. A first year flinches.
 
 **Dialogue.** None.
 
@@ -3469,7 +3469,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks along the first years, kind and public, not chatting to one boy.
 
-**Caption.** He stands at the staff table, hands open.
+**Caption.** He stands at the staff table, hands open. He looks along the first years, kind and public, not chatting to one boy.
 
 **Dialogue.** None.
 
@@ -3481,7 +3481,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore is welcoming a whole room. Harry looks at the four colors and does not know which is his.
 
-**Caption.** Four tables, and he indicates them.
+**Caption.** Four tables, and he indicates them. Dumbledore is welcoming a whole room. Harry looks at the four colors and does not know which is his.
 
 **Dialogue.**
 
@@ -3497,7 +3497,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is hopeful. Harry is unsure. A red-table twin mouths something rude and fond.
 
-**Caption.** Ron looks at the red table.
+**Caption.** Ron looks at the red table. Ron is hopeful. Harry is unsure. A red-table twin mouths something rude and fond.
 
 **Dialogue.** None.
 
@@ -3509,7 +3509,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is locked on the speaker. Draco has already chosen a color with his eyes.
 
-**Caption.** Hermione looks at Dumbledore. Draco looks at green.
+**Caption.** Hermione looks at Dumbledore. Draco looks at green. Hermione is locked on the speaker. Draco has already chosen a color with his eyes.
 
 **Dialogue.** None.
 
@@ -3521,7 +3521,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is patient and exact. The Hat is not singing in this picture.
 
-**Caption.** McGonagall looks at the scroll, waiting.
+**Caption.** McGonagall looks at the scroll, waiting. She is patient and exact. The Hat is not singing in this picture.
 
 **Dialogue.** None.
 
@@ -3533,7 +3533,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks kind and finished. Harry looks at the Hat. No one has said Potter.
 
-**Caption.** The welcome ends. The list has not started.
+**Caption.** The welcome ends. The list has not started. Dumbledore looks kind and finished. Harry looks at the Hat. No one has said Potter.
 
 **Dialogue.** None.
 
@@ -3545,7 +3545,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The Hat looks proud of its song. Dumbledore twinkles, kind. Harry looks from the lion to the snake, unsettled. Draco looks at the snake, satisfied.
 
-**Caption.** The Hat sings.
+**Caption.** The Hat sings. The Hat looks proud of its song. Dumbledore twinkles, kind. Harry looks from the lion to the snake, unsettled. Draco looks at the snake, satisfied.
 
 **Dialogue.**
 
@@ -3559,7 +3559,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The walking child swallows, looking at the hat. McGonagall looks at her scroll, neutral. Harry measures the empty floor. Ron looks at his own shoes.
 
-**Caption.** The first name. One child walks up alone.
+**Caption.** The first name. One child walks up alone. The walking child swallows, looking at the hat. McGonagall looks at her scroll, neutral. Harry measures the empty floor. Ron looks at his own shoes.
 
 **Dialogue.**
 
@@ -3575,7 +3575,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks toward Gryffindor, relieved, a true smile, then back at Harry and Ron. Draco looks bored.
 
-**Caption.** The Hat barely touches her. Gryffindor.
+**Caption.** The Hat is only just on Hermione’s bushy hair and already finished. She lifts it off herself, smiling, and the red table erupts. Hermione looks toward Gryffindor, relieved, a true smile, then back at Harry and Ron. Draco looks bored.
 
 **Dialogue.**
 
@@ -3589,7 +3589,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks past the Hat at Harry, a cool smile. Snape looks satisfied. Harry looks back, unimpressed.
 
-**Caption.** Draco asks for Slytherin and gets it at once.
+**Caption.** Draco sits on the stool as if it were a throne. The Hat touches his platinum hair and agrees at once. Draco looks past the Hat at Harry, a cool smile. Snape looks satisfied. Harry looks back, unimpressed.
 
 **Dialogue.**
 
@@ -3604,7 +3604,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco’s smile is thin, a challenge and an invitation. Harry looks forward at the hat and will not look back. Ron scowls.
 
-**Caption.** From the green table, Draco looks back.
+**Caption.** From the green table, Draco looks back. Draco’s smile is thin, a challenge and an invitation. Harry looks forward at the hat and will not look back. Ron scowls.
 
 **Dialogue.** None.
 
@@ -3616,7 +3616,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** On the floor he is mortified, ears red. Under the Hat he beams, disbelieving. Hermione welcomes him. Harry is glad.
 
-**Caption.** Neville trips. Then the Hat shouts Gryffindor.
+**Caption.** Neville is on his hands and knees halfway to the stool, robes tangled, Trevor in a pocket. Hermione is already standing to make room. On the floor he is mortified, ears red. Under the Hat he beams, disbelieving. Hermione welcomes him. Harry is glad.
 
 **Dialogue.**
 
@@ -3631,7 +3631,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** On the walk Ron is scared of being last, or of Slytherin. When the Hat shouts, the worry breaks into a grin. Harry’s small smile says he is scared too, and glad.
 
-**Caption.** The Hat shouts Gryffindor for Ron.
+**Caption.** Ron’s hem is twisted into a rope, his ears as red as his hair. The Hat comes off in his hands as he sprints for the red table. On the walk Ron is scared of being last, or of Slytherin. When the Hat shouts, the worry breaks into a grin.
 
 **Dialogue.**
 
@@ -3646,7 +3646,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry’s throat is tight. Ron wills him over. Snape is unreadable and intense. Dumbledore is gentle. McGonagall has a flicker of warmth.
 
-**Caption.** The hall goes quiet.
+**Caption.** The hall goes quiet. Harry’s throat is tight. Ron wills him over. Snape is unreadable and intense. Dumbledore is gentle. McGonagall has a flicker of warmth.
 
 **Dialogue.**
 
@@ -3662,7 +3662,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His eyes are hidden. He looks into the dark of the brim as if someone is standing there.
 
-**Caption.** The Hat covers his eyes.
+**Caption.** The Hat covers his eyes. His eyes are hidden. He looks into the dark of the brim as if someone is standing there.
 
 **Dialogue.**
 
@@ -3676,7 +3676,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His jaw is set. The vision looks proud and alone. He refuses it.
 
-**Caption.** Harry thinks no.
+**Caption.** Harry thinks no. His jaw is set. The vision looks proud and alone. He refuses it.
 
 **Dialogue.**
 
@@ -3691,7 +3691,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His eyes show again as the brim lifts: shock, then relief. He looks toward Gryffindor. McGonagall allows a brief warmth.
 
-**Caption.** A pause. Then the Hat shouts Gryffindor.
+**Caption.** A pause. Then the Hat shouts Gryffindor. His eyes show again as the brim lifts: shock, then relief. He looks toward Gryffindor. McGonagall allows a brief warmth.
 
 **Dialogue.**
 
@@ -3705,7 +3705,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron’s worry is gone, pure joy. Harry grins, belonging. The twins are loud and welcoming. Hermione looks happy and right.
 
-**Caption.** The red table explodes.
+**Caption.** The red table explodes. Ron’s worry is gone, pure joy. Harry grins, belonging. The twins are loud and welcoming. Hermione looks happy and right.
 
 **Dialogue.**
 
@@ -3720,7 +3720,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore is kind, and his eyes are not joking. Ron’s laugh dies into a question. Harry snags on the warning. Hermione is already filing it away.
 
-**Caption.** Ron's laugh stops.
+**Caption.** Ron's laugh stops. Dumbledore is kind, and his eyes are not joking. Ron’s laugh dies into a question. Harry snags on the warning. Hermione is already filing it away.
 
 **Dialogue.**
 
@@ -3735,7 +3735,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape does not blink. The dislike feels personal. Harry looks back, the belonging of the last moment punctured. He does not look away first.
 
-**Caption.** Snape stares at Harry and does not blink.
+**Caption.** Snape stares at Harry and does not blink. Snape does not blink. The dislike feels personal. Harry looks back, the belonging of the last moment punctured. He does not look away first.
 
 **Dialogue.** None.
 
@@ -3755,7 +3755,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is determined. Ron is already unsure of the map.
 
-**Caption.** A corridor of morning windows, the day after the feast.
+**Caption.** A corridor of morning windows, the day after the feast. Harry is determined. Ron is already unsure of the map.
 
 **Dialogue.** None.
 
@@ -3767,7 +3767,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The climbers look bored, late, ordinary. Nobody is losing balance.
 
-**Caption.** The stairwell from a landing, and the flight is still.
+**Caption.** The stairwell from a landing, and the flight is still. The climbers look bored, late, ordinary. Nobody is losing balance.
 
 **Dialogue.** None.
 
@@ -3779,7 +3779,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks hopeful. Harry looks at the far landing.
 
-**Caption.** They step toward the flight they want.
+**Caption.** They step toward the flight they want. Ron looks hopeful. Harry looks at the far landing.
 
 **Dialogue.** None.
 
@@ -3791,7 +3791,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The older students are at home. The first years are not.
 
-**Caption.** Other students were already chatting on the way to class.
+**Caption.** Other students were already chatting on the way to class. The older students are at home. The first years are not.
 
 **Dialogue.** None.
 
@@ -3803,7 +3803,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks like he nearly asked a painting for directions. Harry is already moving.
 
-**Caption.** A portrait snores. The armor does not help.
+**Caption.** A portrait snores. The armor does not help. Ron looks like he nearly asked a painting for directions. Harry is already moving.
 
 **Dialogue.** None.
 
@@ -3815,7 +3815,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look ordinary, about to be late, not yet alarmed.
 
-**Caption.** They put a foot on the still flight.
+**Caption.** They put a foot on the still flight. They look ordinary, about to be late, not yet alarmed.
 
 **Dialogue.** None.
 
@@ -3829,7 +3829,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the departing landing, alarmed, almost falling. Ron looks at Harry, a wild grin that is also panic, off balance. Students on the landings stare at the turning flight. The armor looks unimpressed.
 
-**Caption.** One flight pivots at the bottom. They miss their landing.
+**Caption.** One flight pivots at the bottom. They miss their landing. Harry looks at the departing landing, alarmed, almost falling. Ron looks at Harry, a wild grin that is also panic, off balance. Students on the landings stare at the turning flight. The armor looks unimpressed.
 
 **Dialogue.**
 
@@ -3844,7 +3844,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is almost falling, eyes on the gap. Ron’s grin is panic. The students on the landing stare, nobody calm on the flight.
 
-**Caption.** The book slides. The landing stares.
+**Caption.** The book slides. The landing stares. Harry is almost falling, eyes on the gap. Ron’s grin is panic. The students on the landing stare, nobody calm on the flight.
 
 **Dialogue.** None.
 
@@ -3856,7 +3856,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His knuckles are white. He is not walking. He is holding on.
 
-**Caption.** He grabs the rail that turns with him.
+**Caption.** He grabs the rail that turns with him. His knuckles are white. He is not walking. He is holding on.
 
 **Dialogue.** None.
 
@@ -3868,7 +3868,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the wrong arch, working it out. Ron looks at the stopped flight, half a grin and half panic. The armor does not care.
 
-**Caption.** The flight stops against the wrong arch.
+**Caption.** The flight stops against the wrong arch. Harry looks at the wrong arch, working it out. Ron looks at the stopped flight, half a grin and half panic. The armor does not care.
 
 **Dialogue.**
 
@@ -3882,7 +3882,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back at the stopped flight, working it out. Ron is half a grin and half late. They are off it.
 
-**Caption.** They get off on the wrong landing.
+**Caption.** They get off on the wrong landing. Harry looks back at the stopped flight, working it out. Ron is half a grin and half late. They are off it.
 
 **Dialogue.** None.
 
@@ -3894,7 +3894,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the next corridor, not relieved. Ron looks at the stair as if it might follow.
 
-**Caption.** The stair stays behind them.
+**Caption.** The stair stays behind them. Harry looks at the next corridor, not relieved. Ron looks at the stair as if it might follow.
 
 **Dialogue.** None.
 
@@ -3912,7 +3912,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The portraits look down, nosy. Harry is polite and lost. Ron is offended in advance.
 
-**Caption.** A corridor of portraits.
+**Caption.** A corridor of portraits. The portraits look down, nosy. Harry is polite and lost. Ron is offended in advance.
 
 **Dialogue.** None.
 
@@ -3924,7 +3924,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry scans doors that are not there. Ron talks to a painting that has not answered.
 
-**Caption.** They were already lost.
+**Caption.** They were already lost. Harry scans doors that are not there. Ron talks to a painting that has not answered.
 
 **Dialogue.** None.
 
@@ -3936,7 +3936,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The portrait looks down his nose, scolding. Harry looks up, polite and lost. Ron looks offended at being told off by paint.
 
-**Caption.** A portrait leans out and blocks the way.
+**Caption.** A portrait leans out and blocks the way. The portrait looks down his nose, scolding. Harry looks up, polite and lost. Ron looks offended at being told off by paint.
 
 **Dialogue.**
 
@@ -3950,7 +3950,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The portrait is not finished scolding. Harry waits it out. Ron’s mouth is open to answer.
 
-**Caption.** He is not finished with them.
+**Caption.** He is not finished with them. The portrait is not finished scolding. Harry waits it out. Ron’s mouth is open to answer.
 
 **Dialogue.** None.
 
@@ -3962,7 +3962,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ahead, done being polite. Ron looks back at the paint, still insulted.
 
-**Caption.** They edge past.
+**Caption.** They edge past. Harry looks ahead, done being polite. Ron looks back at the paint, still insulted.
 
 **Dialogue.** None.
 
@@ -3974,7 +3974,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Both look forward, late, and a little braver.
 
-**Caption.** The frame is behind them.
+**Caption.** The frame is behind them. Both look forward, late, and a little braver.
 
 **Dialogue.** None.
 
@@ -3992,7 +3992,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Peeves looks delighted. Harry and Ron look up, already ducking in their minds. Books are still in their arms.
 
-**Caption.** Peeves is up by the ceiling.
+**Caption.** Peeves is up by the ceiling. Peeves looks delighted. Harry and Ron look up, already ducking in their minds. Books are still in their arms.
 
 **Dialogue.** None.
 
@@ -4004,7 +4004,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks up, suspicious. Harry reaches for the quill and knows it is a mistake. Peeves waits for the joke.
 
-**Caption.** The bin is still in his hands.
+**Caption.** The bin is still in his hands. Ron looks up, suspicious. Harry reaches for the quill and knows it is a mistake. Peeves waits for the joke.
 
 **Dialogue.** None.
 
@@ -4016,7 +4016,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Peeves looks down, gleeful. Harry looks up through his arms, annoyed. Ron splutters. Neither is hurt. Both are humiliated.
 
-**Caption.** Peeves drops a wastebasket on their heads.
+**Caption.** Peeves drops a wastebasket on their heads. Peeves looks down, gleeful. Harry looks up through his arms, annoyed. Ron splutters. Neither is hurt. Both are humiliated.
 
 **Dialogue.**
 
@@ -4030,7 +4030,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the spilled books, annoyed and late. Ron looks up the corridor where Peeves went, spluttering. Neither is hurt.
 
-**Caption.** They are still lost, and now they are late.
+**Caption.** They are still lost, and now they are late. Harry looks at the spilled books, annoyed and late. Ron looks up the corridor where Peeves went, spluttering. Neither is hurt.
 
 **Dialogue.**
 
@@ -4045,7 +4045,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is annoyed and late. Ron splutters and is not hurt. Both are humiliated.
 
-**Caption.** They shake paper out of their hair.
+**Caption.** They shake paper out of their hair. Harry is annoyed and late. Ron splutters and is not hurt. Both are humiliated.
 
 **Dialogue.** None.
 
@@ -4057,7 +4057,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the time they do not have. Ron looks at a wastebasket he is somehow still holding.
 
-**Caption.** They gather the books. Not a classroom yet.
+**Caption.** They gather the books. Not a classroom yet. Harry looks at the time they do not have. Ron looks at a wastebasket he is somehow still holding.
 
 **Dialogue.** None.
 
@@ -4075,7 +4075,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The door looks like a verdict.
 
-**Caption.** A sunlit door at the end of a corridor.
+**Caption.** A sunlit door at the end of a corridor. The door looks like a verdict.
 
 **Dialogue.**
 
@@ -4089,7 +4089,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The seated students look attentive. The teacher is not clearly a woman yet.
 
-**Caption.** Through the glass, the room is already working.
+**Caption.** Through the glass, the room is already working. The seated students look attentive. The teacher is not clearly a woman yet.
 
 **Dialogue.** None.
 
@@ -4101,7 +4101,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is ready. Draco is performing boredom. The room is waiting on a teacher who seems to be a cat.
 
-**Caption.** The room, whole, from the back corner.
+**Caption.** The room, whole, from the back corner. Hermione is ready. Draco is performing boredom. The room is waiting on a teacher who seems to be a cat.
 
 **Dialogue.** None.
 
@@ -4113,7 +4113,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The cat is precise and unhurried. Hermione looks as if she has already guessed. A student whispers.
 
-**Caption.** A tabby sits on the desk, washing.
+**Caption.** A tabby sits on the desk, washing. The cat is precise and unhurried. Hermione looks as if she has already guessed. A student whispers.
 
 **Dialogue.** None.
 
@@ -4125,7 +4125,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The cat looks at the door before the boys arrive. Hermione's hand is down, for once.
 
-**Caption.** They were whispering before the door bangs.
+**Caption.** They were whispering before the door bangs. The cat looks at the door before the boys arrive. Hermione's hand is down, for once.
 
 **Dialogue.** None.
 
@@ -4137,7 +4137,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The cat is unsurprised. The class turns toward the door.
 
-**Caption.** Footsteps in the corridor, too fast.
+**Caption.** Footsteps in the corridor, too fast. The cat is unsurprised. The class turns toward the door.
 
 **Dialogue.** None.
 
@@ -4151,7 +4151,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at them with cold disappointment, not surprise. Hermione is embarrassed for them. Draco is smug. Harry is apologetic. Ron is muffled inside the bin.
 
-**Caption.** They tumble into class late.
+**Caption.** They tumble into class late. McGonagall looks at them with cold disappointment, not surprise. Hermione is embarrassed for them. Draco is smug. Harry is apologetic. Ron is muffled inside the bin.
 
 **Dialogue.**
 
@@ -4165,7 +4165,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks amazed, the lateness forgotten. Ron’s mouth is open. Hermione is already hungry to learn it. McGonagall challenges them to consider it ordinary. Draco hides that he is impressed.
 
-**Caption.** She changes from a cat into a woman.
+**Caption.** She changes from a cat into a woman. Harry looks amazed, the lateness forgotten. Ron’s mouth is open. Hermione is already hungry to learn it. McGonagall challenges them to consider it ordinary. Draco hides that he is impressed.
 
 **Dialogue.**
 
@@ -4180,7 +4180,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks eager, not showing off on purpose. McGonagall’s sternness thaws a degree. Ron groans with his eyes. Harry is impressed.
 
-**Caption.** Hermione's hand is up before the question ends.
+**Caption.** Hermione's hand is up before the question ends. Hermione looks eager, not showing off on purpose. McGonagall’s sternness thaws a degree. Ron groans with his eyes. Harry is impressed.
 
 **Dialogue.**
 
@@ -4194,7 +4194,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at the class, challenging and precise. Hermione looks ready. Harry looks at his matchstick, concentrating. Ron looks doubtful. Draco looks bored.
 
-**Caption.** The lesson stays in this room. Matchsticks.
+**Caption.** The lesson stays in this room. Matchsticks. McGonagall looks at the class, challenging and precise. Hermione looks ready. Harry looks at his matchstick, concentrating. Ron looks doubtful. Draco looks bored.
 
 **Dialogue.**
 
@@ -4208,7 +4208,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the needle, pleased and trying not to be. McGonagall approves. Ron looks at the needle, a groan starting. Harry looks impressed.
 
-**Caption.** Hermione's matchstick is a needle.
+**Caption.** Hermione's matchstick is a needle. Hermione looks at the needle, pleased and trying not to be. McGonagall approves. Ron looks at the needle, a groan starting. Harry looks impressed.
 
 **Dialogue.**
 
@@ -4222,7 +4222,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the silver tip, hopeful and unfinished. Ron looks at his own stick, resigned. Hermione does not gloat.
 
-**Caption.** Harry's has only gone a bit pointed.
+**Caption.** Harry's has only gone a bit pointed. Harry looks at the silver tip, hopeful and unfinished. Ron looks at his own stick, resigned. Hermione does not gloat.
 
 **Dialogue.**
 
@@ -4242,7 +4242,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is early in her head. Ron is late in his feet. Harry is between them.
 
-**Caption.** An afternoon corridor, a small cheerful noise.
+**Caption.** An afternoon corridor, a small cheerful noise. Hermione is early in her head. Ron is late in his feet. Harry is between them.
 
 **Dialogue.** None.
 
@@ -4254,7 +4254,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Flitwick looks delighted with his books. He has not greeted them.
 
-**Caption.** The door, feathers already on the desks.
+**Caption.** The door, feathers already on the desks. Flitwick looks delighted with his books. He has not greeted them.
 
 **Dialogue.** None.
 
@@ -4266,7 +4266,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Students already inside look nervous of their own wands. Flitwick looks kind.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. Students already inside look nervous of their own wands. Flitwick looks kind.
 
 **Dialogue.** None.
 
@@ -4278,7 +4278,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seamus looks eager and unsafe. His neighbor leans away.
 
-**Caption.** Seamus was already poking his feather.
+**Caption.** Seamus was already poking his feather. Seamus looks eager and unsafe. His neighbor leans away.
 
 **Dialogue.** None.
 
@@ -4290,7 +4290,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is casual. Hermione is containing herself. Harry looks at his feather.
 
-**Caption.** They talk in whispers. Class has not been called to order.
+**Caption.** They talk in whispers. Class has not been called to order. Ron is casual. Hermione is containing herself. Harry looks at his feather.
 
 **Dialogue.** None.
 
@@ -4302,7 +4302,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks pleased the class is full. Hermione looks ready. Ron looks at his wand, not at the teacher.
 
-**Caption.** Flitwick turns, about to see them.
+**Caption.** Flitwick turns, about to see them. He looks pleased the class is full. Hermione looks ready. Ron looks at his wand, not at the teacher.
 
 **Dialogue.** None.
 
@@ -4316,7 +4316,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Flitwick looks delighted to see a class. Harry looks at the feathers, unsure. Ron looks at his wand. Hermione looks ready.
 
-**Caption.** Charms. They walk in before anyone speaks.
+**Caption.** Charms. They walk in before anyone speaks. Flitwick looks delighted to see a class. Harry looks at the feathers, unsure. Ron looks at his wand. Hermione looks ready.
 
 **Dialogue.**
 
@@ -4330,7 +4330,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Flitwick looks encouraging. Harry looks too tight. Ron looks worried about his own hair. Hermione’s mouth is already shaping the word.
 
-**Caption.** Wands up. The threads are only starting.
+**Caption.** Wands up. The threads are only starting. Flitwick looks encouraging. Harry looks too tight. Ron looks worried about his own hair. Hermione’s mouth is already shaping the word.
 
 **Dialogue.** None.
 
@@ -4342,7 +4342,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his feather, frustrated, then at the hopping one. Ron looks at his own smoke, worried. Flitwick encourages the class and has not yet seen Harry’s failure.
 
-**Caption.** A feather twitches. Harry's lies still.
+**Caption.** A feather twitches. Harry's lies still. Harry looks at his feather, frustrated, then at the hopping one. Ron looks at his own smoke, worried. Flitwick encourages the class and has not yet seen Harry’s failure.
 
 **Dialogue.**
 
@@ -4357,7 +4357,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the singed hair, offended by his own spell. Harry stares at a feather that will not help him.
 
-**Caption.** Ron’s feather smokes. Harry’s does not move.
+**Caption.** Ron’s feather smokes. Harry’s does not move. Ron looks at the singed hair, offended by his own spell. Harry stares at a feather that will not help him.
 
 **Dialogue.** None.
 
@@ -4369,7 +4369,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seamus looks sure he has it. The feather looks ordinary. Harry watches from the next desk.
 
-**Caption.** Seamus aims. Nothing has left the wand.
+**Caption.** Seamus aims. Nothing has left the wand. Seamus looks sure he has it. The feather looks ordinary. Harry watches from the next desk.
 
 **Dialogue.**
 
@@ -4383,7 +4383,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seamus looks triumphant too early. Flitwick’s head is turning. Hermione has already seen the force in it.
 
-**Caption.** The thread reaches the feather.
+**Caption.** The thread reaches the feather. Seamus looks triumphant too early. Flitwick’s head is turning. Hermione has already seen the force in it.
 
 **Dialogue.** None.
 
@@ -4397,7 +4397,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seamus looks shocked, then delighted, eyes wide in the soot. Flitwick looks alarmed and kind. Harry stares. Ron almost laughs and stops.
 
-**Caption.** Seamus's feather explodes in his face.
+**Caption.** Seamus's feather explodes in his face. Seamus looks shocked, then delighted, eyes wide in the soot. Flitwick looks alarmed and kind. Harry stares. Ron almost laughs and stops.
 
 **Dialogue.**
 
@@ -4412,7 +4412,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Seamus looks shocked, then delighted. Flitwick looks alarmed and kind. Ron almost laughs and stops. Hermione does not laugh.
 
-**Caption.** Soot, and the quill is gone.
+**Caption.** Soot, and the quill is gone. Seamus looks shocked, then delighted. Flitwick looks alarmed and kind. Ron almost laughs and stops. Hermione does not laugh.
 
 **Dialogue.**
 
@@ -4426,7 +4426,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks proud, then bites the smile. Flitwick beams. Harry looks at her feather, not unkind, just left behind.
 
-**Caption.** Hermione's feather floats.
+**Caption.** Hermione's feather floats. Hermione looks proud, then bites the smile. Flitwick beams. Harry looks at her feather, not unkind, just left behind.
 
 **Dialogue.**
 
@@ -4441,7 +4441,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks earnest, teaching, not unkind. Ron looks mocking, eyebrows up. Harry looks from one to the other, uneasy.
 
-**Caption.** She makes him hear the middle of the spell.
+**Caption.** She makes him hear the middle of the spell. Hermione looks earnest, teaching, not unkind. Ron looks mocking, eyebrows up. Harry looks from one to the other, uneasy.
 
 **Dialogue.**
 
@@ -4456,7 +4456,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is still performing, then sees her face and falters. Hermione looks hurt, eyes down, mouth tight. Harry looks sorry.
 
-**Caption.** He keeps at it until she is hurt.
+**Caption.** He keeps at it until she is hurt. Ron is still performing, then sees her face and falters. Hermione looks hurt, eyes down, mouth tight. Harry looks sorry.
 
 **Dialogue.**
 
@@ -4470,7 +4470,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks hurt and finished helping. Ron looks pleased with the voice and does not see it. Harry looks at Ron, uneasy.
 
-**Caption.** She stops helping. The hurt stays.
+**Caption.** She stops helping. The hurt stays. Hermione looks hurt and finished helping. Ron looks pleased with the voice and does not see it. Harry looks at Ron, uneasy.
 
 **Dialogue.** None.
 
@@ -4488,7 +4488,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks interested. Ron looks as if a plant might be personal.
 
-**Caption.** The vegetable gardens, glasshouses in a row.
+**Caption.** The vegetable gardens, glasshouses in a row. Hermione looks interested. Ron looks as if a plant might be personal.
 
 **Dialogue.** None.
 
@@ -4500,7 +4500,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville's shape is already calm inside. Ron is not.
 
-**Caption.** Greenhouse Three, from the wet path.
+**Caption.** Greenhouse Three, from the wet path. Neville's shape is already calm inside. Ron is not.
 
 **Dialogue.** None.
 
@@ -4512,7 +4512,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Sprout is at home. Harry is curious. Ron lifts a foot as if the floor might bite.
 
-**Caption.** They step onto the duckboard. They are not in yet.
+**Caption.** They step onto the duckboard. They are not in yet. Sprout is at home. Harry is curious. Ron lifts a foot as if the floor might bite.
 
 **Dialogue.** None.
 
@@ -4524,7 +4524,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The plants look busy. The students look edible.
 
-**Caption.** The greenhouse, whole.
+**Caption.** The greenhouse, whole. The plants look busy. The students look edible.
 
 **Dialogue.** None.
 
@@ -4536,7 +4536,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks taller. Ron looks betrayed by botany.
 
-**Caption.** Neville was already sure of a seedling.
+**Caption.** Neville was already sure of a seedling. Neville looks taller. Ron looks betrayed by botany.
 
 **Dialogue.** None.
 
@@ -4548,7 +4548,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks welcoming and practical. Ron looks doomed.
 
-**Caption.** Sprout turns and sees three more pairs of boots.
+**Caption.** Sprout turns and sees three more pairs of boots. She looks welcoming and practical. Ron looks doomed.
 
 **Dialogue.** None.
 
@@ -4562,7 +4562,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Sprout looks up, welcoming and practical. Neville, already inside, looks at home. Harry looks curious. Ron looks at a plant as if it might bite.
 
-**Caption.** Herbology. They come in through the wet door.
+**Caption.** Herbology. They come in through the wet door. Sprout looks up, welcoming and practical. Neville, already inside, looks at home. Harry looks curious. Ron looks at a plant as if it might bite.
 
 **Dialogue.**
 
@@ -4576,7 +4576,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks calm, happy, and competent. Harry is glad for him. Sprout approves.
 
-**Caption.** Neville is sure of himself among the plants.
+**Caption.** Neville is sure of himself among the plants. Neville looks calm, happy, and competent. Harry is glad for him. Sprout approves.
 
 **Dialogue.**
 
@@ -4590,7 +4590,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his finger, offended. Harry looks at Neville, warm. Neville looks back, shy pleasure. He is not used to being the one who can.
 
-**Caption.** A plant bites Ron.
+**Caption.** A plant bites Ron. Ron looks at his finger, offended. Harry looks at Neville, warm. Neville looks back, shy pleasure. He is not used to being the one who can.
 
 **Dialogue.**
 
@@ -4605,7 +4605,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks calm and competent. Sprout approves. Harry looks glad for him and a little deaf. Ron eyes the pot.
 
-**Caption.** Same lesson. The Mandrake trusts Neville.
+**Caption.** Same lesson. The Mandrake trusts Neville. Neville looks calm and competent. Sprout approves. Harry looks glad for him and a little deaf. Ron eyes the pot.
 
 **Dialogue.**
 
@@ -4619,7 +4619,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his pot, rueful, not jealous. Neville looks shy about being the good one. Ron looks at his finger.
 
-**Caption.** Harry's plant is the one misbehaving.
+**Caption.** Harry's plant is the one misbehaving. Harry looks at his pot, rueful, not jealous. Neville looks shy about being the good one. Ron looks at his finger.
 
 **Dialogue.**
 
@@ -4633,7 +4633,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Sprout looks practical and finished. Neville looks proud and muddy. Harry and Ron look like the lesson is over and they are still in the room.
 
-**Caption.** They are still in the greenhouse.
+**Caption.** They are still in the greenhouse. Sprout looks practical and finished. Neville looks proud and muddy. Harry and Ron look like the lesson is over and they are still in the room.
 
 **Dialogue.**
 
@@ -4655,7 +4655,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is checking the time. Ron is suspicious of any stair that goes down. Harry looks at the dark.
 
-**Caption.** A bright corridor that ends in a dark mouth.
+**Caption.** A bright corridor that ends in a dark mouth. Hermione is checking the time. Ron is suspicious of any stair that goes down. Harry looks at the dark.
 
 **Dialogue.** None.
 
@@ -4667,7 +4667,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is certain this is right. Ron is certain it is unpleasant.
 
-**Caption.** The stair, from the top, before they take it.
+**Caption.** The stair, from the top, before they take it. Hermione is certain this is right. Ron is certain it is unpleasant.
 
 **Dialogue.** None.
 
@@ -4679,7 +4679,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry hesitates half a second. Hermione does not.
 
-**Caption.** They have not crossed onto the first step.
+**Caption.** They have not crossed onto the first step. Harry hesitates half a second. Hermione does not.
 
 **Dialogue.** None.
 
@@ -4691,7 +4691,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The waiting students look grim, as if the teacher were a weather system.
 
-**Caption.** Below, a landing and a shut door, the room not entered.
+**Caption.** Below, a landing and a shut door, the room not entered. The waiting students look grim, as if the teacher were a weather system.
 
 **Dialogue.** None.
 
@@ -4703,7 +4703,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks as if the stair were a stage. Ron's ears go red. Nobody has spoken.
 
-**Caption.** Draco was already lounging where the light ends.
+**Caption.** Draco was already lounging where the light ends. Draco looks as if the stair were a stage. Ron's ears go red. Nobody has spoken.
 
 **Dialogue.** None.
 
@@ -4715,7 +4715,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is practical. Ron is angry in advance. Harry is quiet.
 
-**Caption.** Hermione looks at the dark and is about to say they are not late.
+**Caption.** Hermione looks at the dark and is about to say they are not late. She is practical. Ron is angry in advance. Harry is quiet.
 
 **Dialogue.** None.
 
@@ -4729,7 +4729,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the dark stair, practical. Harry looks uneasy. Ron looks ready to complain and follows anyway.
 
-**Caption.** The stair down starts here.
+**Caption.** The stair down starts here. Hermione looks at the dark stair, practical. Harry looks uneasy. Ron looks ready to complain and follows anyway.
 
 **Dialogue.**
 
@@ -4743,7 +4743,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry’s scar, performing for the corridor. Harry looks tired of it and quiet. Ron is furious. Hermione looks at Draco with her chin up.
 
-**Caption.** Later, in the corridor.
+**Caption.** Later, in the corridor. Draco looks at Harry’s scar, performing for the corridor. Harry looks tired of it and quiet. Ron is furious. Hermione looks at Draco with her chin up.
 
 **Dialogue.**
 
@@ -4758,7 +4758,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is still angry and turning away. Harry looks at the stair, not at Draco. Hermione looks at the steps. Draco, smaller behind them, is pleased with himself.
 
-**Caption.** They leave him and take the stair.
+**Caption.** They leave him and take the stair. Ron is still angry and turning away. Harry looks at the stair, not at Draco. Hermione looks at the steps. Draco, smaller behind them, is pleased with himself.
 
 **Dialogue.**
 
@@ -4772,7 +4772,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks down into the cold, uneasy. Ron watches Harry’s back. Hermione is practical. Draco looks up at them, already smiling.
 
-**Caption.** The dungeon stairs. Cold air. Torches gutter.
+**Caption.** The dungeon stairs. Cold air. Torches gutter. Harry looks down into the cold, uneasy. Ron watches Harry’s back. Hermione is practical. Draco looks up at them, already smiling.
 
 **Dialogue.**
 
@@ -4786,7 +4786,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks colder and more uneasy. Ron watches the dark. Hermione counts the steps, determined.
 
-**Caption.** The same stair. It keeps going down.
+**Caption.** The same stair. It keeps going down. Harry looks colder and more uneasy. Ron watches the dark. Hermione counts the steps, determined.
 
 **Dialogue.** None.
 
@@ -4798,7 +4798,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the door, wary. Hermione looks ready. Ron looks at Harry, loyal and unimpressed by dungeons.
 
-**Caption.** The door. He has not started.
+**Caption.** The door. He has not started. Harry looks at the door, wary. Hermione looks ready. Ron looks at Harry, loyal and unimpressed by dungeons.
 
 **Dialogue.** None.
 
@@ -4816,7 +4816,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks around, alert. Hermione takes it in, already respectful. Ron wrinkles his nose. The room looks back with jars.
 
-**Caption.** They walk into the dungeon. He is not here.
+**Caption.** They walk into the dungeon. He is not here. Harry looks around, alert. Hermione takes it in, already respectful. Ron wrinkles his nose. The room looks back with jars.
 
 **Dialogue.** None.
 
@@ -4828,7 +4828,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at home and smug. Neville looks nervous. Harry looks at the jars. Hermione looks at the blank board and keeps her book closed.
 
-**Caption.** The room, before anyone teaches.
+**Caption.** The room, before anyone teaches. Draco looks at home and smug. Neville looks nervous. Harry looks at the jars. Hermione looks at the blank board and keeps her book closed.
 
 **Dialogue.** None.
 
@@ -4840,7 +4840,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry waits, uneasy. Ron sinks a little. Hermione is composed and quiet, which is how she looks when she is waiting to be called on. Neville glances at the door.
 
-**Caption.** They wait. Class has not started.
+**Caption.** They wait. Class has not started. Harry waits, uneasy. Ron sinks a little. Hermione is composed and quiet, which is how she looks when she is waiting to be called on. Neville glances at the door.
 
 **Dialogue.**
 
@@ -4854,7 +4854,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks over them, soft-voiced and dangerous, then his eyes snag on Harry. Harry is alert. Hermione is ready to answer. Draco admires Snape.
 
-**Caption.** Snape sweeps in.
+**Caption.** Snape sweeps in. Snape looks over them, soft-voiced and dangerous, then his eyes snag on Harry. Harry is alert. Hermione is ready to answer. Draco admires Snape.
 
 **Dialogue.**
 
@@ -4868,7 +4868,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks hopeful and sure. Snape looks past her hand as if it is not there. Harry wills him to take it. Ron is already miserable.
 
-**Caption.** Silence. Hermione's hand goes up.
+**Caption.** Silence. Hermione's hand goes up. Hermione looks hopeful and sure. Snape looks past her hand as if it is not there. Harry wills him to take it. Ron is already miserable.
 
 **Dialogue.**
 
@@ -4882,7 +4882,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at Harry, soft and mean. Harry looks back, wary. Hermione flushes at her own lowering hand. Draco enjoys it.
 
-**Caption.** None.
+**Caption.** Snape’s head turns with a snap toward the Gryffindor table. He leans in, one hand on the desk, hair shadowing one eye. Snape looks at Harry, soft and mean. Harry looks back, wary. Hermione flushes at her own lowering hand. Draco enjoys it.
 
 **Dialogue.**
 
@@ -4898,7 +4898,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at Harry with contempt. Harry is not defiant yet, simply without the answer, embarrassed. Hermione is frustrated. Ron is sympathetic and useless.
 
-**Caption.** None.
+**Caption.** Close on their table: a cauldron, herbs they have not touched, and the torch shadow of Snape’s nose across the wood. Snape looks at Harry with contempt. Harry is not defiant yet, simply without the answer, embarrassed. Hermione is frustrated. Ron is sympathetic and useless.
 
 **Dialogue.**
 
@@ -4915,7 +4915,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is desperate to be fair to the answer. Draco is smug. Snape looks only at Harry. Harry’s jaw is tight.
 
-**Caption.** Hermione waves harder. Draco smirks.
+**Caption.** Hermione waves harder. Draco smirks. Hermione is desperate to be fair to the answer. Draco is smug. Snape looks only at Harry. Harry’s jaw is tight.
 
 **Dialogue.**
 
@@ -4930,7 +4930,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at the scar itself, not only the boy. Harry looks into those eyes and does not understand the hatred. The pain is small and private.
 
-**Caption.** Harry's scar prickles.
+**Caption.** Harry's scar prickles. Snape looks at the scar itself, not only the boy. Harry looks into those eyes and does not understand the hatred. The pain is small and private.
 
 **Dialogue.**
 
@@ -4946,7 +4946,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Hermione, apologetic, then at Snape, confused. Snape looks satisfied, calling it arrogance. Hermione is grateful and dismayed. Ron hates him.
 
-**Caption.** None.
+**Caption.** The dungeon table. Harry half-stands and indicates Hermione, giving her the answer. Snape’s fingers flick as if removing something from the air. Harry looks at Hermione, apologetic, then at Snape, confused. Snape looks satisfied, calling it arrogance. Hermione is grateful and dismayed. Ron hates him.
 
 **Dialogue.**
 
@@ -4961,7 +4961,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape does not really look back. Draco looks victorious. Harry is angry now, not just embarrassed. Hermione blinks hard at the board.
 
-**Caption.** None.
+**Caption.** Snape turns his back, robes flaring, chalk in one hand, a second flick of his fingers, done with them. Snape does not really look back. Draco looks victorious. Harry is angry now, not just embarrassed. Hermione blinks hard at the board.
 
 **Dialogue.**
 
@@ -4975,7 +4975,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape’s mouth is neutral. His eye is not. He looks at Harry with an old grievance Harry has not earned this week.
 
-**Caption.** The dislike looks personal.
+**Caption.** The dislike looks personal. Snape’s mouth is neutral. His eye is not. He looks at Harry with an old grievance Harry has not earned this week.
 
 **Dialogue.** None.
 
@@ -4989,7 +4989,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks terrified of his own potion. Harry looks at the smoke, not guilty. Hermione’s eyes are on the cauldron, already worried.
 
-**Caption.** Neville’s cauldron starts to smoke.
+**Caption.** Neville’s cauldron starts to smoke. Neville looks terrified of his own potion. Harry looks at the smoke, not guilty. Hermione’s eyes are on the cauldron, already worried.
 
 **Dialogue.** None.
 
@@ -5001,7 +5001,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville’s mouth is open and nothing comes out. The cauldron looks ruined. Harry looks innocent and too near it.
 
-**Caption.** The cauldron melts.
+**Caption.** The cauldron melts. Neville’s mouth is open and nothing comes out. The cauldron looks ruined. Harry looks innocent and too near it.
 
 **Dialogue.** None.
 
@@ -5013,7 +5013,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks like he might cry. Harry looks at his own clean hands. Draco’s smile is starting.
 
-**Caption.** The mess. Harry did not touch it.
+**Caption.** The mess. Harry did not touch it. Neville looks like he might cry. Harry looks at his own clean hands. Draco’s smile is starting.
 
 **Dialogue.** None.
 
@@ -5025,7 +5025,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at Harry with an old dislike, soft and mean. Harry looks back, confused. Neville looks at the floor. Draco is smug.
 
-**Caption.** Snape blames the wrong boy.
+**Caption.** Snape blames the wrong boy. Snape looks at Harry with an old dislike, soft and mean. Harry looks back, confused. Neville looks at the floor. Draco is smug.
 
 **Dialogue.**
 
@@ -5039,7 +5039,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is humiliated and angry. Neville is ashamed. Hermione is furious and silent. Draco enjoys the smoke.
 
-**Caption.** Points off Harry. Draco is smug.
+**Caption.** Points off Harry. Draco is smug. Harry is humiliated and angry. Neville is ashamed. Hermione is furious and silent. Draco enjoys the smoke.
 
 **Dialogue.** None.
 
@@ -5051,7 +5051,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The class looks exhausted. Harry looks at Neville, not at Snape. Neville will not look up.
 
-**Caption.** The smoke thins. They are still in the dungeon.
+**Caption.** The smoke thins. They are still in the dungeon. The class looks exhausted. Harry looks at Neville, not at Snape. Neville will not look up.
 
 **Dialogue.** None.
 
@@ -5069,7 +5069,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is already talking, angry. Hermione is indignant and precise. Harry looks smaller than he did at breakfast.
 
-**Caption.** They leave the room.
+**Caption.** They leave the room. Ron is already talking, angry. Hermione is indignant and precise. Harry looks smaller than he did at breakfast.
 
 **Dialogue.** None.
 
@@ -5081,7 +5081,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry with loyal outrage. Hermione agrees and corrects him at the same time. Harry looks ahead, not at them, trying to find what he did.
 
-**Caption.** After class.
+**Caption.** After class. Ron looks at Harry with loyal outrage. Hermione agrees and corrects him at the same time. Harry looks ahead, not at them, trying to find what he did.
 
 **Dialogue.**
 
@@ -5096,7 +5096,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks outraged on Harry's behalf. Hermione agrees with him and is about to correct the wording. A passing student looks curious and keeps walking.
 
-**Caption.** Same stair. Other people notice.
+**Caption.** Same stair. Other people notice. Ron looks outraged on Harry's behalf. Hermione agrees with him and is about to correct the wording. A passing student looks curious and keeps walking.
 
 **Dialogue.** None.
 
@@ -5108,7 +5108,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks from Ron to Hermione, genuinely asking, a little small. Ron looks at his shoes, frustrated. Hermione looks at Harry, sorry, intelligent and useless. None of them look at the view.
 
-**Caption.** None.
+**Caption.** They stop at a corridor window. Lawns, the lake, and a distant willow are green below. Harry’s question hangs. Harry looks from Ron to Hermione, genuinely asking, a little small. Ron looks at his shoes, frustrated. Hermione looks at Harry, sorry, intelligent and useless. None of them look at the view.
 
 **Dialogue.**
 
@@ -5124,7 +5124,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ahead, troubled. Ron looks at him, frustrated that a joke was not enough. Hermione looks sorry and still without an answer.
 
-**Caption.** They take the question with them.
+**Caption.** They take the question with them. Harry looks ahead, troubled. Ron looks at him, frustrated that a joke was not enough. Hermione looks sorry and still without an answer.
 
 **Dialogue.** None.
 
@@ -5136,7 +5136,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** A slice of Snape’s face is cold, watching Harry’s back. He does not blink. The three look toward the day. Harry’s profile is troubled.
 
-**Caption.** Down the corridor, Snape watches them go.
+**Caption.** Down the corridor, Snape watches them go. A slice of Snape’s face is cold, watching Harry’s back. He does not blink. The three look toward the day. Harry’s profile is troubled.
 
 **Dialogue.** None.
 
@@ -5156,7 +5156,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look sleepy and nervous. The day is beautiful and unhelpful.
 
-**Caption.** The castle at dawn, pink stone, mist on the grass.
+**Caption.** The castle at dawn, pink stone, mist on the grass. They look sleepy and nervous. The day is beautiful and unhelpful.
 
 **Dialogue.** None.
 
@@ -5168,7 +5168,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks strict and wide awake. The brooms look like they might misbehave.
 
-**Caption.** Brooms in two neat rows on the wet grass.
+**Caption.** Brooms in two neat rows on the wet grass. She looks strict and wide awake. The brooms look like they might misbehave.
 
 **Dialogue.** None.
 
@@ -5180,7 +5180,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is afraid. Draco is smug. Harry is curious. Hooch has not spoken.
 
-**Caption.** They come onto the grass.
+**Caption.** They come onto the grass. Neville is afraid. Draco is smug. Harry is curious. Hooch has not spoken.
 
 **Dialogue.** None.
 
@@ -5192,7 +5192,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The group is cold and whispering. She is about to make them stop.
 
-**Caption.** The class, whole, two lines, nobody in the air.
+**Caption.** The class, whole, two lines, nobody in the air. The group is cold and whispering. She is about to make them stop.
 
 **Dialogue.** None.
 
@@ -5204,7 +5204,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Whispers. Hooch is still out of hearing, fixing the last broom.
 
-**Caption.** They were already arguing about who could fly.
+**Caption.** They were already arguing about who could fly. Whispers. Hooch is still out of hearing, fixing the last broom.
 
 **Dialogue.** None.
 
@@ -5216,7 +5216,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks ready. Neville looks ill. Harry looks straight ahead.
 
-**Caption.** Hooch turns. The whistle is still down.
+**Caption.** Hooch turns. The whistle is still down. She looks ready. Neville looks ill. Harry looks straight ahead.
 
 **Dialogue.** None.
 
@@ -5230,7 +5230,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hooch is sharp. Harry is curious, a pull in his hands. Neville is afraid. Draco scents weakness. Hermione looks determined.
 
-**Caption.** Dawn on the lawn. Brooms on the grass.
+**Caption.** Dawn on the lawn. Brooms on the grass. Hooch is sharp. Harry is curious, a pull in his hands. Neville is afraid. Draco scents weakness. Hermione looks determined.
 
 **Dialogue.**
 
@@ -5244,7 +5244,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hooch is stern and careful. Neville wants the mistake over with. Draco's smile is starting. Harry listens.
 
-**Caption.** Madam Hooch holds the class on the ground.
+**Caption.** Madam Hooch holds the class on the ground. Hooch is stern and careful. Neville wants the mistake over with. Draco's smile is starting. Harry listens.
 
 **Dialogue.**
 
@@ -5258,7 +5258,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They are tense. Hooch's hand is up, not yet a stop.
 
-**Caption.** Right hands over the brooms.
+**Caption.** Right hands over the brooms. They are tense. Hooch's hand is up, not yet a stop.
 
 **Dialogue.** None.
 
@@ -5270,7 +5270,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Excitement and immediate regret. Hooch's yellow eyes flash.
 
-**Caption.** They shout it together.
+**Caption.** They shout it together. Excitement and immediate regret. Hooch's yellow eyes flash.
 
 **Dialogue.**
 
@@ -5284,7 +5284,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The victim has no time. Neville looks horrified that brooms do this.
 
-**Caption.** One broom shoots straight up.
+**Caption.** One broom shoots straight up. The victim has no time. Neville looks horrified that brooms do this.
 
 **Dialogue.** None.
 
@@ -5296,7 +5296,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Shock, then a wail starting. The class flinches. Draco almost laughs and thinks better of it when Hooch looks.
 
-**Caption.** It hits him full in the face.
+**Caption.** It hits him full in the face. Shock, then a wail starting. The class flinches. Draco almost laughs and thinks better of it when Hooch looks.
 
 **Dialogue.** None.
 
@@ -5310,7 +5310,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks offended by physics. Hooch looks furious and not surprised.
 
-**Caption.** He sits in the dew, holding his nose.
+**Caption.** He sits in the dew, holding his nose. He looks offended by physics. Hooch looks furious and not surprised.
 
 **Dialogue.**
 
@@ -5324,7 +5324,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks like he cannot stop the word. Hooch has not reached him. Harry sees it coming.
 
-**Caption.** Neville's mouth is already opening.
+**Caption.** Neville's mouth is already opening. Neville looks like he cannot stop the word. Hooch has not reached him. Harry sees it coming.
 
 **Dialogue.** None.
 
@@ -5336,7 +5336,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks down in terror. Hooch is alarmed and professional. Harry is worried. Draco is delighted.
 
-**Caption.** Neville kicks off. The broom shoots up.
+**Caption.** Neville is yanked off the grass. His broom stands like a pole and hauls him, sandy hair blown, both hands locked on the handle, no glasses and no scar. Neville looks down in terror. Hooch is alarmed and professional. Harry is worried. Draco is delighted.
 
 **Dialogue.**
 
@@ -5351,7 +5351,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville's mouth is open, no pride left. He looks at the ground. Harry looks up, helpless. Hooch looks up, urgent.
 
-**Caption.** He hangs on, circling, terrified.
+**Caption.** He hangs on, circling, terrified. Neville's mouth is open, no pride left. He looks at the ground. Harry looks up, helpless. Hooch looks up, urgent.
 
 **Dialogue.**
 
@@ -5365,7 +5365,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is crying and ashamed as well as hurt. Hooch is competent and concerned. Hermione is worried. Draco is interested only in the glass.
 
-**Caption.** He falls. A crack. His wrist is wrong.
+**Caption.** He falls. A crack. His wrist is wrong. Neville is crying and ashamed as well as hurt. Hooch is competent and concerned. Hermione is worried. Draco is interested only in the glass.
 
 **Dialogue.**
 
@@ -5379,7 +5379,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hooch is severe. Neville looks back, distressed. Draco looks at the ball, thoughtful. Harry means to obey.
 
-**Caption.** Hooch takes him up to the castle.
+**Caption.** Hooch takes him up to the castle. Hooch is severe. Neville looks back, distressed. Draco looks at the ball, thoughtful. Harry means to obey.
 
 **Dialogue.**
 
@@ -5399,7 +5399,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at the ball, then at Harry, a game beginning. Harry knows it is not Draco's. Hermione warns. Ron is angry.
 
-**Caption.** Draco picks up the fallen Remembrall.
+**Caption.** Draco picks up the fallen Remembrall. Draco looks at the ball, then at Harry, a game beginning. Harry knows it is not Draco's. Hermione warns. Ron is angry.
 
 **Dialogue.**
 
@@ -5413,7 +5413,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is stern and in the right. Draco is amused, not threatened, and checks whether Harry is watching. Harry is deciding.
 
-**Caption.** None.
+**Caption.** Hermione steps in, chin up, both feet planted, smaller than Draco and clearer. He holds the glass ball just out of easy reach. Hermione is stern and in the right. Draco is amused, not threatened, and checks whether Harry is watching. Harry is deciding.
 
 **Dialogue.**
 
@@ -5427,7 +5427,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks down, baiting, smile sharp. The decision is already in Harry's shoulders. Hermione is alarmed and looks toward the castle.
 
-**Caption.** Draco mounts, the ball in his hand.
+**Caption.** Draco mounts, the ball in his hand. Draco looks down, baiting, smile sharp. The decision is already in Harry's shoulders. Hermione is alarmed and looks toward the castle.
 
 **Dialogue.**
 
@@ -5441,7 +5441,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione pleads. Harry looks at the ball, not at her, sorry and already gone. Ron nods. Draco is delighted.
 
-**Caption.** Harry mounts.
+**Caption.** Harry mounts. Hermione pleads. Harry looks at the ball, not at her, sorry and already gone. Ron nods. Draco is delighted.
 
 **Dialogue.**
 
@@ -5455,7 +5455,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks forward with a wild gladness, like someone who has just found the sky. There is no fear in him.
 
-**Caption.** He kicks off. The ground drops away.
+**Caption.** He kicks off. The ground drops away. Harry looks forward with a wild gladness, like someone who has just found the sky. There is no fear in him.
 
 **Dialogue.** None.
 
@@ -5467,7 +5467,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is calm, the joy banked into focus. Draco's smile is slipping. He is surprised to be matched.
 
-**Caption.** He levels with Draco above the towers.
+**Caption.** He levels with Draco above the towers. Harry is calm, the joy banked into focus. Draco's smile is slipping. He is surprised to be matched.
 
 **Dialogue.**
 
@@ -5483,7 +5483,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco expects Harry to freeze. Harry looks only at the ball. His mouth is set. Fear is there, and it is not in charge.
 
-**Caption.** Draco throws the Remembrall.
+**Caption.** Draco throws the Remembrall. Draco expects Harry to freeze. Harry looks only at the ball. His mouth is set. Fear is there, and it is not in charge.
 
 **Dialogue.**
 
@@ -5497,7 +5497,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes water from the wind. The look is concentration, not a pose for an audience.
 
-**Caption.** Harry dives. Wind tears at his glasses.
+**Caption.** Harry dives. Wind tears at his glasses. Harry's eyes water from the wind. The look is concentration, not a pose for an audience.
 
 **Dialogue.** None.
 
@@ -5509,7 +5509,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is terrified. Ron cannot blink. Harry's distant face is all focus.
 
-**Caption.** The courtyard rushes up.
+**Caption.** The courtyard rushes up. Hermione is terrified. Ron cannot blink. Harry's distant face is all focus.
 
 **Dialogue.**
 
@@ -5524,7 +5524,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the ball in his fist, shocked that it is there. Not triumph yet. Disbelief and grip.
 
-**Caption.** His hand closes on the ball.
+**Caption.** His hand closes on the ball. He looks at the ball in his fist, shocked that it is there. Not triumph yet. Disbelief and grip.
 
 **Dialogue.** None.
 
@@ -5536,7 +5536,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's grin is shaky. Ron is ecstatic. Hermione is angry because she was frightened. Draco's smile is gone.
 
-**Caption.** He pulls up. Grass and dust flatten.
+**Caption.** He pulls up. Grass and dust flatten. Harry's grin is shaky. Ron is ecstatic. Hermione is angry because she was frightened. Draco's smile is gone.
 
 **Dialogue.**
 
@@ -5551,7 +5551,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall is icy and unreadable. She does not look at the ball. Harry waits to be finished and holds it out as if it explains him.
 
-**Caption.** McGonagall calls from the steps.
+**Caption.** McGonagall calls from the steps. McGonagall is icy and unreadable. She does not look at the ball. Harry waits to be finished and holds it out as if it explains him.
 
 **Dialogue.**
 
@@ -5571,7 +5571,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is sure he is finished. She is icy and unreadable.
 
-**Caption.** The castle steps, morning, after the catch.
+**Caption.** The castle steps, morning, after the catch. He is sure he is finished. She is icy and unreadable.
 
 **Dialogue.** None.
 
@@ -5583,7 +5583,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She does not look back. He looks at her shoulders.
 
-**Caption.** A long gallery of armor and a red banner.
+**Caption.** A long gallery of armor and a red banner. She does not look back. He looks at her shoulders.
 
 **Dialogue.** None.
 
@@ -5595,7 +5595,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks doomed. She looks purposeful.
 
-**Caption.** A door, noise of a team behind it.
+**Caption.** A door, noise of a team behind it. He looks doomed. She looks purposeful.
 
 **Dialogue.** None.
 
@@ -5607,7 +5607,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks interrupted and intense. The teammates look curious. Harry is not in the room yet.
 
-**Caption.** The room, whole. Wood is already at a board.
+**Caption.** The room, whole. Wood is already at a board. Wood looks interrupted and intense. The teammates look curious. Harry is not in the room yet.
 
 **Dialogue.** None.
 
@@ -5619,7 +5619,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood is absorbed. He has not seen a Seeker.
 
-**Caption.** They were arguing about a feint.
+**Caption.** They were arguing about a feint. Wood is absorbed. He has not seen a Seeker.
 
 **Dialogue.** None.
 
@@ -5631,7 +5631,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks wary. Harry looks small. McGonagall looks like Christmas.
 
-**Caption.** The door opens. She has not said his name.
+**Caption.** The door opens. She has not said his name. Wood looks wary. Harry looks small. McGonagall looks like Christmas.
 
 **Dialogue.** None.
 
@@ -5645,7 +5645,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Her back is straight, no comfort in it. Harry looks at that back, resigned. The portrait is curious.
 
-**Caption.** Harry follows, sure he is finished.
+**Caption.** Harry follows, sure he is finished. Her back is straight, no comfort in it. Harry looks at that back, resigned. The portrait is curious.
 
 **Dialogue.**
 
@@ -5660,7 +5660,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood is puzzled and already measuring. McGonagall's ice is becoming purpose. Harry looks at the diagram, lost, still expecting detention.
 
-**Caption.** She opens a door. Oliver Wood looks up.
+**Caption.** She opens a door. Oliver Wood looks up. Wood is puzzled and already measuring. McGonagall's ice is becoming purpose. Harry looks at the diagram, lost, still expecting detention.
 
 **Dialogue.**
 
@@ -5675,7 +5675,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall is proud of her find, brisk and warm. Wood looks at Harry's hands, then his size. Harry's mouth is open. The word Seeker has not landed yet.
 
-**Caption.** None.
+**Caption.** McGonagall's hand rests on Harry's shoulder, the first gentle touch from her. She is almost smiling. Wood's chalk has stopped. McGonagall is proud of her find, brisk and warm. Wood looks at Harry's hands, then his size. Harry's mouth is open. The word Seeker has not landed yet.
 
 **Dialogue.**
 
@@ -5690,7 +5690,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood's grin is a captain seeing a season. Hope arrives in Harry carefully. McGonagall is satisfied. The icy steps are rewritten.
 
-**Caption.** Wood measures him, then grins.
+**Caption.** Wood measures him, then grins. Wood's grin is a captain seeing a season. Hope arrives in Harry carefully. McGonagall is satisfied. The icy steps are rewritten.
 
 **Dialogue.**
 
@@ -5704,7 +5704,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks delighted. Harry has not understood the size of it. McGonagall looks satisfied and strict.
 
-**Caption.** Same room. He says Seeker.
+**Caption.** Same room. He says Seeker. Wood looks delighted. Harry has not understood the size of it. McGonagall looks satisfied and strict.
 
 **Dialogue.**
 
@@ -5718,7 +5718,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks frightened and lit up. Wood looks sure. McGonagall allows one small almost-smile.
 
-**Caption.** He has understood. They are still inside.
+**Caption.** He has understood. They are still inside. Harry looks frightened and lit up. Wood looks sure. McGonagall allows one small almost-smile.
 
 **Dialogue.** None.
 
@@ -5736,7 +5736,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood is already talking with his hands. Harry nods before the sentence ends.
 
-**Caption.** The team-room door is behind them.
+**Caption.** The team-room door is behind them. Wood is already talking with his hands. Harry nods before the sentence ends.
 
 **Dialogue.** None.
 
@@ -5748,7 +5748,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood is passionate, looking at the air where the diagram is. Harry is excited and half a step behind, afraid to drop what he has been given.
 
-**Caption.** On the walk, Wood sketches the Snitch.
+**Caption.** On the walk, Wood sketches the Snitch. Wood is passionate, looking at the air where the diagram is. Harry is excited and half a step behind, afraid to drop what he has been given.
 
 **Dialogue.**
 
@@ -5762,7 +5762,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks like he might leave the ground again. Wood looks amused and already coaching.
 
-**Caption.** Same cloister. He nods too fast.
+**Caption.** Same cloister. He nods too fast. Harry looks like he might leave the ground again. Wood looks amused and already coaching.
 
 **Dialogue.** None.
 
@@ -5774,7 +5774,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks ready for bad news. Hermione holds her book like armor. Harry has not called out.
 
-**Caption.** They are not at the corner yet.
+**Caption.** They are not at the corner yet. Ron looks ready for bad news. Hermione holds her book like armor. Harry has not called out.
 
 **Dialogue.** None.
 
@@ -5786,7 +5786,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron’s face is the question. Hermione looks at McGonagall’s absence and fears expulsion. Harry is about to show them.
 
-**Caption.** The corner, before the news.
+**Caption.** The corner, before the news. Ron’s face is the question. Hermione looks at McGonagall’s absence and fears expulsion. Harry is about to show them.
 
 **Dialogue.** None.
 
@@ -5798,7 +5798,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They wait. Harry looks like he might laugh or be sick.
 
-**Caption.** He has not shown it yet.
+**Caption.** He has not shown it yet. They wait. Harry looks like he might laugh or be sick.
 
 **Dialogue.** None.
 
@@ -5816,7 +5816,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is proud and disbelieving, the sky still in his eyes. Ron is joy. Hermione is fond and exasperated. The fear of expulsion is leaving.
 
-**Caption.** He holds up the Remembrall.
+**Caption.** He holds up the Remembrall. Harry is proud and disbelieving, the sky still in his eyes. Ron is joy. Hermione is fond and exasperated. The fear of expulsion is leaving.
 
 **Dialogue.**
 
@@ -5832,7 +5832,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks disbelieving and proud. Hermione looks glad the rules bent. Harry looks at them, sure he is not expelled.
 
-**Caption.** They understand.
+**Caption.** They understand. Ron looks disbelieving and proud. Hermione looks glad the rules bent. Harry looks at them, sure he is not expelled.
 
 **Dialogue.** None.
 
@@ -5844,7 +5844,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is loud. Hermione is proud. Harry is crushed and happy.
 
-**Caption.** The corner celebrates.
+**Caption.** The corner celebrates. Ron is loud. Hermione is proud. Harry is crushed and happy.
 
 **Dialogue.**
 
@@ -5858,7 +5858,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks small and chosen. Wood looks at a Seeker. The friends look at Harry.
 
-**Caption.** The news is still only this corner.
+**Caption.** The news is still only this corner. Harry looks small and chosen. Wood looks at a Seeker. The friends look at Harry.
 
 **Dialogue.** None.
 
@@ -5870,7 +5870,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks grateful and a little sick with luck. Ron and Hermione watch him, not the grass.
 
-**Caption.** He looks back at the lawn.
+**Caption.** He looks back at the lawn. He looks grateful and a little sick with luck. Ron and Hermione watch him, not the grass.
 
 **Dialogue.** None.
 
@@ -5882,7 +5882,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks satisfied. The three look like a day that started with a broken wrist and did not end that way.
 
-**Caption.** Wood leaves them the corner.
+**Caption.** Wood leaves them the corner. Wood looks satisfied. The three look like a day that started with a broken wrist and did not end that way.
 
 **Dialogue.** None.
 
@@ -5902,7 +5902,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hall is ordinary traffic. Harry is mid-laugh at something Ron said, not a line we need.
 
-**Caption.** The castle's front doors, open to the afternoon.
+**Caption.** The castle's front doors, open to the afternoon. The hall is ordinary traffic. Harry is mid-laugh at something Ron said, not a line we need.
 
 **Dialogue.** None.
 
@@ -5914,7 +5914,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco is waiting. Harry has not seen him.
 
-**Caption.** The hall, whole, sun on the flags.
+**Caption.** The hall, whole, sun on the flags. Draco is waiting. Harry has not seen him.
 
 **Dialogue.** None.
 
@@ -5926,7 +5926,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks prepared. Ron looks unbothered until he notices.
 
-**Caption.** They reach the floor.
+**Caption.** They reach the floor. Draco looks prepared. Ron looks unbothered until he notices.
 
 **Dialogue.** None.
 
@@ -5938,7 +5938,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks delighted with his own plan. The other two look like furniture.
 
-**Caption.** Draco was already practicing the smile.
+**Caption.** Draco was already practicing the smile. Draco looks delighted with his own plan. The other two look like furniture.
 
 **Dialogue.** None.
 
@@ -5950,7 +5950,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry sees the block and loses the laugh. He has not been hailed.
 
-**Caption.** Students flow around the block in the path.
+**Caption.** Students flow around the block in the path. Harry sees the block and loses the laugh. He has not been hailed.
 
 **Dialogue.** None.
 
@@ -5962,7 +5962,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks silky. Harry looks wary. Ron looks ready to be insulted.
 
-**Caption.** Draco steps out. His mouth is shut.
+**Caption.** Draco steps out. His mouth is shut. Draco looks silky. Harry looks wary. Ron looks ready to be insulted.
 
 **Dialogue.** None.
 
@@ -5976,7 +5976,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The platinum-haired boy looks pleasant and false. Harry is guarded. Ron is measuring the way out. Hermione is not buying the smile.
 
-**Caption.** Draco stops him in the entrance hall.
+**Caption.** Draco stops him in the entrance hall. The platinum-haired boy looks pleasant and false. Harry is guarded. Ron is measuring the way out. Hermione is not buying the smile.
 
 **Dialogue.**
 
@@ -5990,7 +5990,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The challenger's smile is small and bright with the trick. Harry weighs pride against sense. Ron is eager, and the decision is tilting the wrong way.
 
-**Caption.** None.
+**Caption.** Under a suit of armor, the platinum-haired boy leans in and taps a watch, the challenge delivered like a gift. The challenger's smile is small and bright with the trick. Harry weighs pride against sense. Ron is eager, and the decision is tilting the wrong way.
 
 **Dialogue.**
 
@@ -6004,7 +6004,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is urgent, right, and annoyed that she has to be. Harry's pride prickles as he watches the receding back. Ron is defensive. The shoulders walking away look pleased.
 
-**Caption.** None.
+**Caption.** Hermione plants herself with a book to her chest and counts the rules on her fingers. Harry looks past her. Hermione is urgent, right, and annoyed that she has to be. Harry's pride prickles as he watches the receding back. Ron is defensive. The shoulders walking away look pleased.
 
 **Dialogue.**
 
@@ -6018,7 +6018,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is loyal and reckless, grinning. Harry is worried, and he nods anyway. The flying-courage is still in him.
 
-**Caption.** Harry looks at Ron.
+**Caption.** Harry looks at Ron. Ron is loyal and reckless, grinning. Harry is worried, and he nods anyway. The flying-courage is still in him.
 
 **Dialogue.**
 
@@ -6033,7 +6033,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is loyal and reckless. Harry is worried and agreed. Hermione is right and unheard.
 
-**Caption.** Same hall. They will go.
+**Caption.** Same hall. They will go. Ron is loyal and reckless. Harry is worried and agreed. Hermione is right and unheard.
 
 **Dialogue.** None.
 
@@ -6045,7 +6045,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hall looks ordinary. They look like students between classes. The night is not here.
 
-**Caption.** Afternoon. Nobody is out of bed.
+**Caption.** Afternoon. Nobody is out of bed. The hall looks ordinary. They look like students between classes. The night is not here.
 
 **Dialogue.** None.
 
@@ -6063,7 +6063,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The castle looks asleep. It is not.
 
-**Caption.** The tower, a window, night.
+**Caption.** The tower, a window, night. The castle looks asleep. It is not.
 
 **Dialogue.** None.
 
@@ -6075,7 +6075,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look guilty and determined. The room looks warm and sensible.
 
-**Caption.** The common room, fire low.
+**Caption.** The common room, fire low. They look guilty and determined. The room looks warm and sensible.
 
 **Dialogue.** None.
 
@@ -6087,7 +6087,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look guilty and determined. The dormitory looks sensible and asleep.
 
-**Caption.** Shoes in their hands.
+**Caption.** Shoes in their hands. They look guilty and determined. The dormitory looks sensible and asleep.
 
 **Dialogue.** None.
 
@@ -6099,7 +6099,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room looks warm. They look like they are about to be cold.
 
-**Caption.** They cross the common room.
+**Caption.** They cross the common room. The room looks warm. They look like they are about to be cold.
 
 **Dialogue.** None.
 
@@ -6111,7 +6111,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks arch. They look like boys who know this is stupid.
 
-**Caption.** The Fat Lady, and they have not gone out.
+**Caption.** The Fat Lady, and they have not gone out. She looks arch. They look like boys who know this is stupid.
 
 **Dialogue.**
 
@@ -6125,7 +6125,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks resolved. Ron looks excited and scared. The Fat Lady looks unconvinced.
 
-**Caption.** They are about to go.
+**Caption.** They are about to go. Harry looks resolved. Ron looks excited and scared. The Fat Lady looks unconvinced.
 
 **Dialogue.** None.
 
@@ -6139,7 +6139,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks arch. They look like boys who know this is stupid.
 
-**Caption.** The Fat Lady's portrait, from inside.
+**Caption.** The Fat Lady's portrait, from inside. She looks arch. They look like boys who know this is stupid.
 
 **Dialogue.** None.
 
@@ -6151,7 +6151,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The dormitory is peaceful. Neville's absence is a small wrong note.
 
-**Caption.** Other students were already asleep upstairs.
+**Caption.** Other students were already asleep upstairs. The dormitory is peaceful. Neville's absence is a small wrong note.
 
 **Dialogue.** None.
 
@@ -6163,7 +6163,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look cold the instant the corridor hits them.
 
-**Caption.** They climb through.
+**Caption.** They climb through. They look cold the instant the corridor hits them.
 
 **Dialogue.** None.
 
@@ -6175,7 +6175,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks furious and frightened. They look caught.
 
-**Caption.** The corridor, and a bushy shadow already waiting.
+**Caption.** The corridor, and a bushy shadow already waiting. She looks furious and frightened. They look caught.
 
 **Dialogue.** None.
 
@@ -6187,7 +6187,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks down the corridor, alert. Ron wears a nervous grin. The woman in the painting is disapproving, mouth pursed.
 
-**Caption.** Night. Two boys slip out of Gryffindor.
+**Caption.** Night. Two boys slip out of Gryffindor. Harry looks down the corridor, alert. Ron wears a nervous grin. The woman in the painting is disapproving, mouth pursed.
 
 **Dialogue.**
 
@@ -6201,7 +6201,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is furious, and frightened under the fury. Harry looks caught. Ron looks betrayed by her competence.
 
-**Caption.** Hermione is already waiting.
+**Caption.** Hermione is already waiting. Hermione is furious, and frightened under the fury. Harry looks caught. Ron looks betrayed by her competence.
 
 **Dialogue.**
 
@@ -6221,7 +6221,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is desperate. The Fat Lady is offended.
 
-**Caption.** The Fat Lady's frame swings.
+**Caption.** The Fat Lady's frame swings. Neville is desperate. The Fat Lady is offended.
 
 **Dialogue.** None.
 
@@ -6233,7 +6233,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks hopeful for one second. The frame looks hungry.
 
-**Caption.** One leg through.
+**Caption.** One leg through. He looks hopeful for one second. The frame looks hungry.
 
 **Dialogue.** None.
 
@@ -6245,7 +6245,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Pain and embarrassment. The Fat Lady looks thunderous. Trevor looks offended.
 
-**Caption.** The frame shuts on his leg.
+**Caption.** The frame shuts on his leg. Pain and embarrassment. The Fat Lady looks thunderous. Trevor looks offended.
 
 **Dialogue.**
 
@@ -6259,7 +6259,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is pleading with a painting. The three look horrified and guilty.
 
-**Caption.** He hops, stuck.
+**Caption.** He hops, stuck. Neville is pleading with a painting. The three look horrified and guilty.
 
 **Dialogue.** None.
 
@@ -6271,7 +6271,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks wrecked and hopeful they will not leave him. The Fat Lady will not open.
 
-**Caption.** He pops free. The hole stays shut.
+**Caption.** He pops free. The hole stays shut. He looks wrecked and hopeful they will not leave him. The Fat Lady will not open.
 
 **Dialogue.**
 
@@ -6285,7 +6285,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is terrified of being left. Ron looks like he already lost the argument.
 
-**Caption.** He sees them and is about to beg.
+**Caption.** He sees them and is about to beg. Neville is terrified of being left. Ron looks like he already lost the argument.
 
 **Dialogue.** None.
 
@@ -6303,7 +6303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is pleading and ashamed. Ron groans a yes. Hermione's sympathy wins over the rules. Harry looks down the corridor, time running out.
 
-**Caption.** Neville is locked out in his nightshirt.
+**Caption.** Neville is locked out in his nightshirt. Neville is pleading and ashamed. Ron groans a yes. Hermione's sympathy wins over the rules. Harry looks down the corridor, time running out.
 
 **Dialogue.**
 
@@ -6317,7 +6317,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look small and illegal. Neville looks like he wants the password back.
 
-**Caption.** A corridor of cups, from a distance.
+**Caption.** A corridor of cups, from a distance. They look small and illegal. Neville looks like he wants the password back.
 
 **Dialogue.** None.
 
@@ -6329,7 +6329,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ready. Hermione looks like a person attending her own bad idea. Ron peers.
 
-**Caption.** The trophy room door.
+**Caption.** The trophy room door. Harry looks ready. Hermione looks like a person attending her own bad idea. Ron peers.
 
 **Dialogue.** None.
 
@@ -6341,7 +6341,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Relief starts and does not finish.
 
-**Caption.** They slip in.
+**Caption.** They slip in. Relief starts and does not finish.
 
 **Dialogue.** None.
 
@@ -6353,7 +6353,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is about to say so and has not. Harry's shoulders drop. Hermione's mouth is a line.
 
-**Caption.** The room, whole, and empty.
+**Caption.** The room, whole, and empty. Ron is about to say so and has not. Harry's shoulders drop. Hermione's mouth is a line.
 
 **Dialogue.** None.
 
@@ -6365,7 +6365,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They are tense and starting to feel foolish. No teacher yet.
 
-**Caption.** They were whispering before they admitted it was a trick.
+**Caption.** They were whispering before they admitted it was a trick. They are tense and starting to feel foolish. No teacher yet.
 
 **Dialogue.** None.
 
@@ -6379,7 +6379,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione sees it first, eyes wide, no words yet.
 
-**Caption.** A lamp, far, not in the room.
+**Caption.** A lamp, far, not in the room. Hermione sees it first, eyes wide, no words yet.
 
 **Dialogue.** None.
 
@@ -6391,7 +6391,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Suspicion arrives on Harry. Ron looks back at the door, uneasy. Hermione's I-told-you-so is one she does not enjoy. Neville glances at a cup, then looks scared again.
 
-**Caption.** The trophy room is empty.
+**Caption.** The trophy room is empty. Suspicion arrives on Harry. Ron looks back at the door, uneasy. Hermione's I-told-you-so is one she does not enjoy. Neville glances at a cup, then looks scared again.
 
 **Dialogue.**
 
@@ -6406,7 +6406,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Filch is hunting. The cat knows. Harry looks at the cat, alarmed. Hermione is already calculating a side passage.
 
-**Caption.** Filch's lamp turns the corner.
+**Caption.** Filch's lamp turns the corner. Filch is hunting. The cat knows. Harry looks at the cat, alarmed. Hermione is already calculating a side passage.
 
 **Dialogue.**
 
@@ -6420,7 +6420,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is angry and scared. Harry makes sure Neville is still there. Ron is pale, looking back. Neville is trying not to fall.
 
-**Caption.** They run.
+**Caption.** They run. Hermione is angry and scared. Harry makes sure Neville is still there. Ron is pale, looking back. Neville is trying not to fall.
 
 **Dialogue.**
 
@@ -6434,7 +6434,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks into the dark room, not yet afraid of the right thing. Hermione looks back, relieved for one second. Neville's eyes are shut.
 
-**Caption.** They pile through a door.
+**Caption.** They pile through a door. Harry looks into the dark room, not yet afraid of the right thing. Hermione looks back, relieved for one second. Neville's eyes are shut.
 
 **Dialogue.**
 
@@ -6448,7 +6448,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Relief collapses. Harry's eyes go wide. Hermione looks past him, dread. Ron looks at Harry. Neville is ready to faint before he sees anything.
 
-**Caption.** Filch passes. A growl rises behind them.
+**Caption.** Filch passes. A growl rises behind them. Relief collapses. Harry's eyes go wide. Hermione looks past him, dread. Ron looks at Harry. Neville is ready to faint before he sees anything.
 
 **Dialogue.**
 
@@ -6469,7 +6469,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks relieved at the wood. Relief is wrong.
 
-**Caption.** The door they just shut, from inside.
+**Caption.** The door they just shut, from inside. Harry looks relieved at the wood. Relief is wrong.
 
 **Dialogue.** None.
 
@@ -6481,7 +6481,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They have not turned. The shape is patient.
 
-**Caption.** The room is the size of a breathing thing.
+**Caption.** The room is the size of a breathing thing. They have not turned. The shape is patient.
 
 **Dialogue.** None.
 
@@ -6493,7 +6493,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The heads are asleep or nearly. The children are about to stop being lucky.
 
-**Caption.** Three snores, three heights.
+**Caption.** Three snores, three heights. The heads are asleep or nearly. The children are about to stop being lucky.
 
 **Dialogue.** None.
 
@@ -6505,7 +6505,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks sharp even in fear. Ron looks only at teeth.
 
-**Caption.** A paw covers a square in the floor.
+**Caption.** A paw covers a square in the floor. She looks sharp even in fear. Ron looks only at teeth.
 
 **Dialogue.** None.
 
@@ -6517,7 +6517,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville is green. Harry puts a hand out, no spell.
 
-**Caption.** Neville makes a small sound and does not faint yet.
+**Caption.** Neville makes a small sound and does not faint yet. Neville is green. Harry puts a hand out, no spell.
 
 **Dialogue.** None.
 
@@ -6529,7 +6529,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is terrified and practical. Ron's mouth is open with no word. Harry stares.
 
-**Caption.** Hermione's wand rises. It is not lit.
+**Caption.** Hermione's wand rises. It is not lit. She is terrified and practical. Ron's mouth is open with no word. Harry stares.
 
 **Dialogue.** None.
 
@@ -6547,7 +6547,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** All three heads look down, lips back. Harry looks up, awe and terror. Hermione looks at the paws, thinking even now. Ron stares at the middle teeth. Neville's face is going slack.
 
-**Caption.** A dog the size of the room. Three heads.
+**Caption.** A dog the size of the room. Three heads. All three heads look down, lips back. Harry looks up, awe and terror. Hermione looks at the paws, thinking even now. Ron stares at the middle teeth. Neville's face is going slack.
 
 **Dialogue.**
 
@@ -6562,7 +6562,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The heads are distracted between the fallen boy and the standing ones. Harry is urgent. Ron watches the head that looked at him. Hermione looks at the floor under the paws.
 
-**Caption.** Neville faints.
+**Caption.** Neville faints. The heads are distracted between the fallen boy and the standing ones. Harry is urgent. Ron watches the head that looked at him. Hermione looks at the floor under the paws.
 
 **Dialogue.**
 
@@ -6576,7 +6576,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry understands, and the fear sharpens into a question. Hermione's mind is racing. The middle head looks down.
 
-**Caption.** The paws are planted on a trapdoor.
+**Caption.** The paws are planted on a trapdoor. Harry understands, and the fear sharpens into a question. Hermione's mind is racing. The middle head looks down.
 
 **Dialogue.**
 
@@ -6590,7 +6590,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is shocked at the teeth and at his sleeve. Harry looks at the door, pulling. The dog looks cheated. Hermione's face says come on.
 
-**Caption.** They drag Neville. Ron's sleeve tears.
+**Caption.** They drag Neville. Ron's sleeve tears. Ron is shocked at the teeth and at his sleeve. Harry looks at the door, pulling. The dog looks cheated. Hermione's face says come on.
 
 **Dialogue.**
 
@@ -6604,7 +6604,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the booming wood, panting, alive. Hermione checks the latch. Ron checks Neville. Neville's face is slack, missing everything.
 
-**Caption.** The door slams. A head hits the wood.
+**Caption.** The door slams. A head hits the wood. Harry looks at the booming wood, panting, alive. Hermione checks the latch. Ron checks Neville. Neville's face is slack, missing everything.
 
 **Dialogue.** None.
 
@@ -6616,7 +6616,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at the door, then at each other, shaky. Harry has a breath of a laugh that is mostly terror. Hermione is not ready to scold. Neville is confused, about to be told.
 
-**Caption.** They listen until the growling fades.
+**Caption.** They listen until the growling fades. They look at the door, then at each other, shaky. Harry has a breath of a laugh that is mostly terror. Hermione is not ready to scold. Neville is confused, about to be told.
 
 **Dialogue.**
 
@@ -6633,7 +6633,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is certain, voice low, and she looks up to make sure they see it. Harry nods at the paw. Ron believes it. Neville is lost, but he is listening.
 
-**Caption.** None.
+**Caption.** An alcove on the way back, a tapestry, the moon in a high window. Hermione crouches and draws in the dust: a square and a huge paw print over it. Hermione is certain, voice low, and she looks up to make sure they see it. Harry nods at the paw. Ron believes it.
 
 **Dialogue.**
 
@@ -6647,7 +6647,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks through them, remembering, uneasy. Ron waits. Hermione is ready to connect it. Neville looks at the toad, sleepy.
 
-**Caption.** Harry remembers the package from Gringotts.
+**Caption.** Harry remembers the package from Gringotts. Harry looks through them, remembering, uneasy. Ron waits. Hermione is ready to connect it. Neville looks at the toad, sleepy.
 
 **Dialogue.**
 
@@ -6661,7 +6661,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the package, serious. Memory-Harry is curious. The feeling of the present is that this is the thing under the dog.
 
-**Caption.** A flash of Hagrid hiding the parcel.
+**Caption.** A flash of Hagrid hiding the parcel. Hagrid looks at the package, serious. Memory-Harry is curious. The feeling of the present is that this is the thing under the dog.
 
 **Dialogue.** None.
 
@@ -6673,7 +6673,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron pleads to be ordinary, scared and covering it with practicality. Harry is not convinced. Hermione wants to agree and does not quite.
 
-**Caption.** None.
+**Caption.** Back in the corridor. Ron stands, wrapping the torn sleeve, and points toward the warm arch that leads to the common room. Ron pleads to be ordinary, scared and covering it with practicality. Harry is not convinced. Hermione wants to agree and does not quite.
 
 **Dialogue.**
 
@@ -6687,7 +6687,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is grave, a shared responsibility, not thrilled. Harry agrees without a speech. Ron looks loyal and doomed. Neville wants his bed.
 
-**Caption.** None.
+**Caption.** Moonlight through a high window. Hermione offers Harry her hand, dust still on one finger, her face set. Hermione is grave, a shared responsibility, not thrilled. Harry agrees without a speech. Ron looks loyal and doomed. Neville wants his bed.
 
 **Dialogue.**
 
@@ -6701,7 +6701,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The others look ahead, exhausted. Harry looks back, thoughtful, the package and the trapdoor in his eyes. His mouth is closed.
 
-**Caption.** Harry looks up toward the third floor.
+**Caption.** Harry looks up toward the third floor. The others look ahead, exhausted. Harry looks back, thoughtful, the package and the trapdoor in his eyes. His mouth is closed.
 
 **Dialogue.** None.
 
@@ -6721,7 +6721,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like a group. Hermione is a half-step ahead with a book.
 
-**Caption.** A courtyard of cloisters, daytime.
+**Caption.** A courtyard of cloisters, daytime. They look like a group. Hermione is a half-step ahead with a book.
 
 **Dialogue.** None.
 
@@ -6733,7 +6733,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks theatrical. His friends look ready to laugh on cue.
 
-**Caption.** Draco already has an audience.
+**Caption.** Draco already has an audience. He looks theatrical. His friends look ready to laugh on cue.
 
 **Dialogue.** None.
 
@@ -6745,7 +6745,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is already angry. Hermione has not heard herself discussed. Harry is wary.
 
-**Caption.** Harry's group comes through the arch.
+**Caption.** Harry's group comes through the arch. Ron is already angry. Hermione has not heard herself discussed. Harry is wary.
 
 **Dialogue.** None.
 
@@ -6757,7 +6757,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The yard is casual. The trick has not landed.
 
-**Caption.** The courtyard, whole.
+**Caption.** The courtyard, whole. The yard is casual. The trick has not landed.
 
 **Dialogue.** None.
 
@@ -6769,7 +6769,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is absorbed. Ron is winding up. Draco is delighted.
 
-**Caption.** People were already laughing at nothing.
+**Caption.** People were already laughing at nothing. She is absorbed. Ron is winding up. Draco is delighted.
 
 **Dialogue.** None.
 
@@ -6781,7 +6781,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks mock-heroic. Harry looks tired of it. Ron looks dangerous to furniture.
 
-**Caption.** Draco's knees bend. He has not hit the floor.
+**Caption.** Draco's knees bend. He has not hit the floor. Draco looks mock-heroic. Harry looks tired of it. Ron looks dangerous to furniture.
 
 **Dialogue.** None.
 
@@ -6795,7 +6795,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry while he falls. The crowd looks at Draco, laughing. Harry looks at the performance and does not flinch. Ron looks at the crowd, angry on Harry's behalf.
 
-**Caption.** Draco mimics the dive and falls on purpose.
+**Caption.** Draco mimics the dive and falls on purpose. Draco looks at Harry while he falls. The crowd looks at Draco, laughing. Harry looks at the performance and does not flinch. Ron looks at the crowd, angry on Harry's behalf.
 
 **Dialogue.**
 
@@ -6809,7 +6809,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The crowd looks at Draco. Harry does not flinch. Ron’s ears go red.
 
-**Caption.** People laugh. Same flagstones.
+**Caption.** People laugh. Same flagstones. The crowd looks at Draco. Harry does not flinch. Ron’s ears go red.
 
 **Dialogue.** None.
 
@@ -6821,7 +6821,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry while he pretends to be hurt. Harry looks tired of it.
 
-**Caption.** He stays down, pleased.
+**Caption.** He stays down, pleased. Draco looks at Harry while he pretends to be hurt. Harry looks tired of it.
 
 **Dialogue.** None.
 
@@ -6833,7 +6833,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the performance and will not give it a smile. Ron looks angry on his behalf.
 
-**Caption.** They are at the edge, not laughing.
+**Caption.** They are at the edge, not laughing. Harry looks at the performance and will not give it a smile. Ron looks angry on his behalf.
 
 **Dialogue.** None.
 
@@ -6845,7 +6845,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ahead. Ron looks back once, disgusted.
 
-**Caption.** They leave the arch.
+**Caption.** They leave the arch. Harry looks ahead. Ron looks back once, disgusted.
 
 **Dialogue.** None.
 
@@ -6857,7 +6857,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The yard looks ordinary again. The laugh is the last of it.
 
-**Caption.** The courtyard keeps the joke.
+**Caption.** The courtyard keeps the joke. The yard looks ordinary again. The laugh is the last of it.
 
 **Dialogue.** None.
 
@@ -6875,7 +6875,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The Fat Lady looks bored. They look ready to sit down. The insult has not happened.
 
-**Caption.** The portrait hole, evening.
+**Caption.** The portrait hole, evening. The Fat Lady looks bored. They look ready to sit down. The insult has not happened.
 
 **Dialogue.** None.
 
@@ -6887,7 +6887,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks careless and comfortable. Harry looks at a quill. The room looks warm.
 
-**Caption.** They were already by the fire.
+**Caption.** They were already by the fire. Ron looks careless and comfortable. Harry looks at a quill. The room looks warm.
 
 **Dialogue.** None.
 
@@ -6899,7 +6899,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is ordinary. The joke is still in Ron’s mouth.
 
-**Caption.** The common room, before he says it.
+**Caption.** The common room, before he says it. The room is ordinary. The joke is still in Ron’s mouth.
 
 **Dialogue.** None.
 
@@ -6911,7 +6911,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry, expecting agreement, careless. Harry looks at his parchment, uncomfortable, and does not stop him.
 
-**Caption.** None.
+**Caption.** The Gryffindor common room, evening, fire and red hangings, a paper bat crooked near the ceiling. Ron looks at Harry, expecting agreement, careless. Harry looks at his parchment, uncomfortable, and does not stop him.
 
 **Dialogue.**
 
@@ -6925,7 +6925,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the chair, eyes bright with held tears, mouth small and furious. Ron has not taken it back. A hand reaches in too late.
 
-**Caption.** She was on the other side of the chair.
+**Caption.** She was on the other side of the chair. Hermione looks at the chair, eyes bright with held tears, mouth small and furious. Ron has not taken it back. A hand reaches in too late.
 
 **Dialogue.** None.
 
@@ -6937,7 +6937,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the swinging portrait, sick and guilty. Harry looks at Ron, sorry, not scolding. The painted Fat Lady looks after Hermione.
 
-**Caption.** She runs. Ron looks sick.
+**Caption.** She runs. Ron looks sick. Ron looks at the swinging portrait, sick and guilty. Harry looks at Ron, sorry, not scolding. The painted Fat Lady looks after Hermione.
 
 **Dialogue.**
 
@@ -6957,7 +6957,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks incomplete. Ron looks guilty and will not say why yet.
 
-**Caption.** The castle at dusk, pumpkins in the windows.
+**Caption.** The castle at dusk, pumpkins in the windows. Harry looks incomplete. Ron looks guilty and will not say why yet.
 
 **Dialogue.** None.
 
@@ -6969,7 +6969,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They both look for a bushy head and do not find it.
 
-**Caption.** The Hall doors, carved with the noise of a feast.
+**Caption.** The Hall doors, carved with the noise of a feast. They both look for a bushy head and do not find it.
 
 **Dialogue.** None.
 
@@ -6981,7 +6981,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks for a bushy head and does not find it. Ron looks guilty and will not say why in a crowd.
 
-**Caption.** The doorway. Four tables.
+**Caption.** The doorway. Four tables. Harry looks for a bushy head and does not find it. Ron looks guilty and will not say why in a crowd.
 
 **Dialogue.** None.
 
@@ -6993,7 +6993,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The feast looks complete without her. Harry looks incomplete.
 
-**Caption.** They were already eating.
+**Caption.** They were already eating. The feast looks complete without her. Harry looks incomplete.
 
 **Dialogue.** None.
 
@@ -7005,7 +7005,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the door. Ron looks at his plate. The empty seat is the point.
 
-**Caption.** Her seat stays empty.
+**Caption.** Her seat stays empty. Harry looks at the door. Ron looks at his plate. The empty seat is the point.
 
 **Dialogue.** None.
 
@@ -7017,7 +7017,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry cannot enjoy it. Ron is quiet. The hall is loud around them.
 
-**Caption.** The feast, and she is not in it.
+**Caption.** The feast, and she is not in it. Harry cannot enjoy it. Ron is quiet. The hall is loud around them.
 
 **Dialogue.** None.
 
@@ -7031,7 +7031,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is loud and happy. One seat is a problem.
 
-**Caption.** The Hall, dressed for Halloween.
+**Caption.** The Hall, dressed for Halloween. The room is loud and happy. One seat is a problem.
 
 **Dialogue.** None.
 
@@ -7043,7 +7043,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The feast is underway. Harry sees the gap. Ron sees it and looks sick.
 
-**Caption.** They were already eating.
+**Caption.** They were already eating. The feast is underway. Harry sees the gap. Ron sees it and looks sick.
 
 **Dialogue.** None.
 
@@ -7055,7 +7055,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is worried. Ron is ashamed. The Hall is cheerful around them.
 
-**Caption.** Harry watches the door she does not come through.
+**Caption.** Harry watches the door she does not come through. Harry is worried. Ron is ashamed. The Hall is cheerful around them.
 
 **Dialogue.** None.
 
@@ -7067,7 +7067,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The teachers look at ease. Harry does not.
 
-**Caption.** A door at the side stays ordinary.
+**Caption.** A door at the side stays ordinary. The teachers look at ease. Harry does not.
 
 **Dialogue.** None.
 
@@ -7079,7 +7079,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his plate, guilty. Ron looks miserable. Neville looks at the pie, content. Draco looks toward the staff, then the food.
 
-**Caption.** The Halloween feast. Pumpkins and candles.
+**Caption.** The Halloween feast. Pumpkins and candles. Harry looks at his plate, guilty. Ron looks miserable. Neville looks at the pie, content. Draco looks toward the staff, then the food.
 
 **Dialogue.** None.
 
@@ -7091,7 +7091,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the doors, worried, the feast forgotten. Ron looks at the doors, guilty, wanting to go and not saying it yet.
 
-**Caption.** Harry watches the door she does not come through.
+**Caption.** Harry watches the door she does not come through. Harry looks at the doors, worried, the feast forgotten. Ron looks at the doors, guilty, wanting to go and not saying it yet.
 
 **Dialogue.**
 
@@ -7107,7 +7107,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell looks terrified, or like a man performing terror. Dumbledore is alert, the twinkle gone. Harry is startled. Snape is already suspicious.
 
-**Caption.** Quirrell crashes in, turban askew.
+**Caption.** Quirrell crashes in, turban askew. Quirrell looks terrified, or like a man performing terror. Dumbledore is alert, the twinkle gone. Harry is startled. Snape is already suspicious.
 
 **Dialogue.**
 
@@ -7121,7 +7121,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell's face is slack. Draco looks at the chaos, superior. Harry looks over the crowd toward the doors, thinking of the bathroom, not the troll.
 
-**Caption.** He faints. The hall panics.
+**Caption.** He faints. The hall panics. Quirrell's face is slack. Draco looks at the chaos, superior. Harry looks over the crowd toward the doors, thinking of the bathroom, not the troll.
 
 **Dialogue.**
 
@@ -7135,7 +7135,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks over the children, steady. Harry looks at Ron, a decision. Ron looks back, agreeing before the words. Snape looks toward the door, grim.
 
-**Caption.** Prefects lead the houses out.
+**Caption.** Dumbledore stands on the staff table, arms wide, purple robes and starry hat, and the panic starts to become lines. Dumbledore looks over the children, steady. Harry looks at Ron, a decision. Ron looks back, agreeing before the words. Snape looks toward the door, grim.
 
 **Dialogue.**
 
@@ -7149,7 +7149,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks urgent, the bathroom in his mind. Ron looks at him with guilty courage and nods.
 
-**Caption.** In the crush, Harry grabs Ron.
+**Caption.** In the crush, Harry grabs Ron. Harry looks urgent, the bathroom in his mind. Ron looks at him with guilty courage and nods.
 
 **Dialogue.**
 
@@ -7164,7 +7164,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ahead, determined. Ron looks at Harry, keeping up, mouth tight. The portrait looks after them, worried.
 
-**Caption.** They peel away toward the bathrooms.
+**Caption.** They peel away toward the bathrooms. Harry looks ahead, determined. Ron looks at Harry, keeping up, mouth tight. The portrait looks after them, worried.
 
 **Dialogue.** None.
 
@@ -7176,7 +7176,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks from the shape to the bathroom, fear and the reason they came. Ron stares at the shadow, throat working. The creature does not have a clear face yet.
 
-**Caption.** A smell, then a shadow too big for the hall.
+**Caption.** A smell, then a shadow too big for the hall. Harry looks from the shape to the bathroom, fear and the reason they came. Ron stares at the shadow, throat working. The creature does not have a clear face yet.
 
 **Dialogue.**
 
@@ -7196,7 +7196,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look sick from the smell and still running.
 
-**Caption.** A dungeon corridor, and a smell.
+**Caption.** A dungeon corridor, and a smell. They look sick from the smell and still running.
 
 **Dialogue.** None.
 
@@ -7208,7 +7208,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks afraid and does not stop. Ron looks like his wand is heavier than it was.
 
-**Caption.** The bathroom door, too small for what is inside.
+**Caption.** The bathroom door, too small for what is inside. Harry looks afraid and does not stop. Ron looks like his wand is heavier than it was.
 
 **Dialogue.** None.
 
@@ -7220,7 +7220,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The troll is slow and huge. Hermione is trapped and tear-streaked. The boys have arrived.
 
-**Caption.** They are in the doorway. The room is whole.
+**Caption.** They are in the doorway. The room is whole. The troll is slow and huge. Hermione is trapped and tear-streaked. The boys have arrived.
 
 **Dialogue.** None.
 
@@ -7232,7 +7232,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is terrified. The troll is dim and focused. Harry has not thrown the tap.
 
-**Caption.** The troll was already hunting the small sound.
+**Caption.** The troll was already hunting the small sound. She is terrified. The troll is dim and focused. Harry has not thrown the tap.
 
 **Dialogue.** None.
 
@@ -7244,7 +7244,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is shaking. Harry is thinking. Hermione sees them and is about to tell them not to come in.
 
-**Caption.** Ron shakes. The wand stays down.
+**Caption.** Ron shakes. The wand stays down. Ron is shaking. Harry is thinking. Hermione sees them and is about to tell them not to come in.
 
 **Dialogue.** None.
 
@@ -7256,7 +7256,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** All three children look small. The troll looks like the room.
 
-**Caption.** The smell, the puddle, the club, all in one frame.
+**Caption.** The smell, the puddle, the club, all in one frame. All three children look small. The troll looks like the room.
 
 **Dialogue.** None.
 
@@ -7274,7 +7274,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks up, terrified, the earlier tears still on her face. The troll looks at her, dull, mouth open. It is not personal, and that is worse.
 
-**Caption.** Hermione is backed against the sinks.
+**Caption.** Hermione is backed against the sinks. Hermione looks up, terrified, the earlier tears still on her face. The troll looks at her, dull, mouth open. It is not personal, and that is worse.
 
 **Dialogue.**
 
@@ -7288,7 +7288,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks committed. Ron looks at the club, swallowing. Hermione looks at Harry, shock and a flash of hope. The troll is slow and annoyed.
 
-**Caption.** Harry throws a tap. The troll turns.
+**Caption.** Harry throws a tap. The troll turns. Harry looks committed. Ron looks at the club, swallowing. Hermione looks at Harry, shock and a flash of hope. The troll is slow and annoyed.
 
 **Dialogue.**
 
@@ -7302,7 +7302,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his own wand, astonished it worked, still shouting. Harry looks at the rising club. The troll looks at its arm, stupid and angry. Hermione looks for a way clear.
 
-**Caption.** Ron's wand shakes.
+**Caption.** Ron's wand shakes. Ron looks at his own wand, astonished it worked, still shouting. Harry looks at the rising club. The troll looks at its arm, stupid and angry. Hermione looks for a way clear.
 
 **Dialogue.**
 
@@ -7316,7 +7316,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks terrified and committed. The troll looks confused.
 
-**Caption.** The troll has turned. Harry is too close.
+**Caption.** The troll has turned. Harry is too close. Harry looks terrified and committed. The troll looks confused.
 
 **Dialogue.** None.
 
@@ -7328,7 +7328,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes are shut. The troll's eye crosses. Ron stares in horror and does not stop his own spell.
 
-**Caption.** The wand goes up the nostril.
+**Caption.** The wand goes up the nostril. Harry's eyes are shut. The troll's eye crosses. Ron stares in horror and does not stop his own spell.
 
 **Dialogue.** None.
 
@@ -7340,7 +7340,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The troll is offended. Harry hangs on. Ron is shouting with his face, the spell already spoken.
 
-**Caption.** The troll makes a sound the room hates.
+**Caption.** The troll makes a sound the room hates. The troll is offended. Harry hangs on. Ron is shouting with his face, the spell already spoken.
 
 **Dialogue.** None.
 
@@ -7354,7 +7354,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is stuck in his own idea. Ron looks up at the club.
 
-**Caption.** He cannot pull it yet.
+**Caption.** He cannot pull it yet. Harry is stuck in his own idea. Ron looks up at the club.
 
 **Dialogue.** None.
 
@@ -7366,7 +7366,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks aghast and alive.
 
-**Caption.** Hermione sees both things.
+**Caption.** Hermione sees both things. She looks aghast and alive.
 
 **Dialogue.** None.
 
@@ -7378,7 +7378,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry braces. Ron's wand arm drops. The troll does not understand.
 
-**Caption.** The club starts to fall. The wand stays in.
+**Caption.** The club starts to fall. The wand stays in. Harry braces. Ron's wand arm drops. The troll does not understand.
 
 **Dialogue.** None.
 
@@ -7390,7 +7390,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The troll's eyes squeeze shut, knees buckling. Ron looks on with wild hope. Harry looks up through his arms. Hermione looks at Ron, amazed.
 
-**Caption.** The club drops on the troll's own head.
+**Caption.** The club drops on the troll's own head. The troll's eyes squeeze shut, knees buckling. Ron looks on with wild hope. Harry looks up through his arms. Hermione looks at Ron, amazed.
 
 **Dialogue.** None.
 
@@ -7402,7 +7402,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is revolted and pulling. The troll is dizzy.
 
-**Caption.** The club has landed. The wand is still in.
+**Caption.** The club has landed. The wand is still in. Harry is revolted and pulling. The troll is dizzy.
 
 **Dialogue.** None.
 
@@ -7414,7 +7414,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks like he has made a lifelong mistake. Ron's face collapses.
 
-**Caption.** The wand comes out.
+**Caption.** The wand comes out. Harry looks like he has made a lifelong mistake. Ron's face collapses.
 
 **Dialogue.** None.
 
@@ -7428,7 +7428,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His mouth is a straight line of regret.
 
-**Caption.** The wand, covered.
+**Caption.** The wand, covered. His mouth is a straight line of regret.
 
 **Dialogue.** None.
 
@@ -7440,7 +7440,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Disgust, shared. Fear, not gone.
 
-**Caption.** He holds it away from himself.
+**Caption.** He holds it away from himself. Disgust, shared. Fear, not gone.
 
 **Dialogue.**
 
@@ -7454,7 +7454,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The troll looks finished. The children do not believe it yet.
 
-**Caption.** The troll sways.
+**Caption.** The troll sways. The troll looks finished. The children do not believe it yet.
 
 **Dialogue.** None.
 
@@ -7466,7 +7466,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the wand, not at a medal. Hermione's tears are still there, and new shock on top.
 
-**Caption.** They are alive enough to be disgusted.
+**Caption.** They are alive enough to be disgusted. Harry looks at the wand, not at a medal. Hermione's tears are still there, and new shock on top.
 
 **Dialogue.** None.
 
@@ -7478,7 +7478,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at the troll, panting. Harry is exhausted. Ron looks as if he might be sick or laugh. Hermione is safe and shaking, tears mixing with tap water.
 
-**Caption.** The troll falls. Water, dust, and silence.
+**Caption.** The troll falls. Water, dust, and silence. They look at the troll, panting. Harry is exhausted. Ron looks as if he might be sick or laugh. Hermione is safe and shaking, tears mixing with tap water.
 
 **Dialogue.** None.
 
@@ -7490,7 +7490,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at Ron, grateful, the common-room hurt set aside. Ron looks at her hand, ashamed and relieved. Harry looks at both of them. Alive is enough.
 
-**Caption.** They are alive. Not heroic yet.
+**Caption.** They are alive. Not heroic yet. Hermione looks at Ron, grateful, the common-room hurt set aside. Ron looks at her hand, ashamed and relieved. Harry looks at both of them. Alive is enough.
 
 **Dialogue.**
 
@@ -7511,7 +7511,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at the children, anger born of fear. Snape looks at Harry, searching. Quirrell looks faint. Harry looks at McGonagall, bracing.
 
-**Caption.** McGonagall, Snape, and Quirrell burst in.
+**Caption.** McGonagall, Snape, and Quirrell burst in. McGonagall looks at the children, anger born of fear. Snape looks at Harry, searching. Quirrell looks faint. Harry looks at McGonagall, bracing.
 
 **Dialogue.**
 
@@ -7525,7 +7525,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall's anger pauses. Hermione looks up at her, determined. Harry looks startled by the step she takes. Ron looks guilty that she is doing this.
 
-**Caption.** Hermione steps in front of the boys.
+**Caption.** Hermione steps in front of the boys. McGonagall's anger pauses. Hermione looks up at her, determined. Harry looks startled by the step she takes. Ron looks guilty that she is doing this.
 
 **Dialogue.**
 
@@ -7540,7 +7540,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at McGonagall, earnest, afraid she will not be believed. McGonagall reads it and chooses to allow it. Harry looks ahead, honoring the lie by silence.
 
-**Caption.** None.
+**Caption.** Close. Water drips from Hermione's hair. Her hands are spread, empty, selling the lie in a steady voice. Hermione looks at McGonagall, earnest, afraid she will not be believed. McGonagall reads it and chooses to allow it. Harry looks ahead, honoring the lie by silence.
 
 **Dialogue.**
 
@@ -7554,7 +7554,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks stern and fond at once. Hermione accepts the loss of points. Snape does not believe a word of it. Harry looks uneasy with the reward.
 
-**Caption.** Points off Hermione. Points to the boys.
+**Caption.** Points off Hermione. Points to the boys. McGonagall looks stern and fond at once. Hermione accepts the loss of points. Snape does not believe a word of it. Harry looks uneasy with the reward.
 
 **Dialogue.**
 
@@ -7569,7 +7569,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's suspicion clicks into place, mouth closed. Snape does not look back. The others are already leaving the moment behind.
 
-**Caption.** Blood soaks through Snape's trouser leg.
+**Caption.** Blood soaks through Snape's trouser leg. Harry's suspicion clicks into place, mouth closed. Snape does not look back. The others are already leaving the moment behind.
 
 **Dialogue.**
 
@@ -7583,7 +7583,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Hermione, shy thanks. Hermione looks back, a small smile, the insult forgiven if not forgotten. Harry looks at both of them, content. They look like friends.
 
-**Caption.** Later, the three of them sit together.
+**Caption.** Later, the three of them sit together. Ron looks at Hermione, shy thanks. Hermione looks back, a small smile, the insult forgiven if not forgotten. Harry looks at both of them, content. They look like friends.
 
 **Dialogue.**
 
@@ -7606,7 +7606,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks swallowed by the robe and the noise.
 
-**Caption.** The Quidditch stadium from the grounds.
+**Caption.** The Quidditch stadium from the grounds. He looks swallowed by the robe and the noise.
 
 **Dialogue.** None.
 
@@ -7618,7 +7618,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks like he might be sick. He goes in anyway.
 
-**Caption.** The changing-room door.
+**Caption.** The changing-room door. Harry looks like he might be sick. He goes in anyway.
 
 **Dialogue.** None.
 
@@ -7630,7 +7630,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The older players look tall. Harry looks eleven.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. The older players look tall. Harry looks eleven.
 
 **Dialogue.** None.
 
@@ -7642,7 +7642,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood is intense. The team is listening. Harry is extra.
 
-**Caption.** Wood was already on one knee with a chalkboard.
+**Caption.** Wood was already on one knee with a chalkboard. Wood is intense. The team is listening. Harry is extra.
 
 **Dialogue.** None.
 
@@ -7654,7 +7654,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The team is busy. Harry is alone inside a group.
 
-**Caption.** They argue about the wind, quietly.
+**Caption.** They argue about the wind, quietly. The team is busy. Harry is alone inside a group.
 
 **Dialogue.** None.
 
@@ -7666,7 +7666,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks like a captain about to trust a child. Harry tries to look taller and fails.
 
-**Caption.** Wood looks up and sees the first year.
+**Caption.** Wood looks up and sees the first year. Wood looks like a captain about to trust a child. Harry tries to look taller and fails.
 
 **Dialogue.** None.
 
@@ -7684,7 +7684,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks up at Harry, intense, trying to pour a whole game into him. Harry looks at the finger-plan, swallowing, brave and new. The twins look at each other, a reassuring joke, and at Harry, friendly.
 
-**Caption.** The changing room. Wood kneels with the plan.
+**Caption.** The changing room. Wood kneels with the plan. Wood looks up at Harry, intense, trying to pour a whole game into him. Harry looks at the finger-plan, swallowing, brave and new. The twins look at each other, a reassuring joke, and at Harry, friendly.
 
 **Dialogue.**
 
@@ -7698,7 +7698,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Wood looks at Harry, willing him to be taller, the doubt badly hidden. Harry looks back, he heard the doubt, and nods anyway with a tight brave smile.
 
-**Caption.** None.
+**Caption.** Close in the changing room. Wood's hands steady the too-big robes on Harry's shoulders. The broom is in Harry's grip. Wood looks at Harry, willing him to be taller, the doubt badly hidden. Harry looks back, he heard the doubt, and nods anyway with a tight brave smile.
 
 **Dialogue.**
 
@@ -7712,7 +7712,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up at the roar, eyes wide, one step hitching then landing. He looks at the sky, which he trusts more than the crowd. Wood looks back with a nod.
 
-**Caption.** Harry walks out. The stadium is a roar.
+**Caption.** Harry walks out. The stadium is a roar. Harry looks up at the roar, eyes wide, one step hitching then landing. He looks at the sky, which he trusts more than the crowd. Wood looks back with a nod.
 
 **Dialogue.** None.
 
@@ -7724,7 +7724,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry, mocking. The Slytherin Seeker looks at Harry and dismisses him. Harry looks at Draco for one second, then away, at his broom.
 
-**Caption.** Green below. Draco points from the stands.
+**Caption.** Green below. Draco points from the stands. Draco looks at Harry, mocking. The Slytherin Seeker looks at Harry and dismisses him. Harry looks at Draco for one second, then away, at his broom.
 
 **Dialogue.**
 
@@ -7738,7 +7738,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hooch looks at the balls, fierce and fair. Harry looks up, the fear burned off, focus arriving, mouth slightly open. Joy under the job.
 
-**Caption.** The balls go up. Harry kicks off.
+**Caption.** The balls go up. Harry kicks off. Hooch looks at the balls, fierce and fair. Harry looks up, the fear burned off, focus arriving, mouth slightly open. Joy under the job.
 
 **Dialogue.**
 
@@ -7752,7 +7752,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Faces are not readable. The picture is scale. Harry is small and the sky is his.
 
-**Caption.** From above, the pitch is a diagram.
+**Caption.** From above, the pitch is a diagram. Faces are not readable. The picture is scale. Harry is small and the sky is his.
 
 **Dialogue.** None.
 
@@ -7766,7 +7766,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks past the Bludger, not at it, hunting. Concentration, and a flicker of thrill. The Beater looks up at him, protective.
 
-**Caption.** A Bludger screams past.
+**Caption.** A Bludger screams past. Harry looks past the Bludger, not at it, hunting. Concentration, and a flicker of thrill. The Beater looks up at him, protective.
 
 **Dialogue.** None.
 
@@ -7778,7 +7778,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the broom, startled, then at his own hands. The joy is gone. Confusion first, then the start of fear.
 
-**Caption.** The broom bucks. He clamps his knees.
+**Caption.** The broom bucks. He clamps his knees. Harry looks at the broom, startled, then at his own hands. The joy is gone. Confusion first, then the start of fear.
 
 **Dialogue.**
 
@@ -7792,7 +7792,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the ground, real fear, teeth set, not screaming. Wood looks up, horrified, wanting a stop.
 
-**Caption.** It twists harder. One hand slips.
+**Caption.** It twists harder. One hand slips. Harry looks at the ground, real fear, teeth set, not screaming. Wood looks up, horrified, wanting a stop.
 
 **Dialogue.**
 
@@ -7806,7 +7806,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks toward the staff, detective-sharp and scared. Ron looks only at Harry, begging the air. Hagrid looks at Harry, helpless, eyes wet.
 
-**Caption.** In the stands, Hermione tracks the magic.
+**Caption.** In the stands, Hermione tracks the magic. Hermione looks toward the staff, detective-sharp and scared. Ron looks only at Harry, begging the air. Hagrid looks at Harry, helpless, eyes wet.
 
 **Dialogue.**
 
@@ -7821,7 +7821,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at Harry, intense, no blink. It reads as an attack. McGonagall looks at the sky, afraid for the boy. Quirrell looks up, and his stare is the true one if anyone were looking at him. No one is.
 
-**Caption.** Snape stares up, mouth moving.
+**Caption.** Snape stares up, mouth moving. Snape looks at Harry, intense, no blink. It reads as an attack. McGonagall looks at the sky, afraid for the boy. Quirrell looks up, and his stare is the true one if anyone were looking at him. No one is.
 
 **Dialogue.**
 
@@ -7835,7 +7835,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks toward Snape's box, fierce. Ron looks at her, lost, then up at Harry, torn. A spectator looks at her wand, alarmed. Hagrid looks at her, hopeful.
 
-**Caption.** She pushes toward the staff seats.
+**Caption.** She pushes toward the staff seats. Hermione looks toward Snape's box, fierce. Ron looks at her, lost, then up at Harry, torn. A spectator looks at her wand, alarmed. Hagrid looks at her, hopeful.
 
 **Dialogue.**
 
@@ -7851,7 +7851,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the flame, not gloating, urgent. Snape looks down, shock and fury. Ron looks at the fire, horrified and impressed.
 
-**Caption.** A blue flame catches Snape's hem.
+**Caption.** A blue flame catches Snape's hem. Hermione looks at the flame, not gloating, urgent. Snape looks down, shock and fury. Ron looks at the fire, horrified and impressed.
 
 **Dialogue.**
 
@@ -7865,7 +7865,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at his robe, then snaps toward the stands, rage. Harry looks at the broom, relief that is not quite a smile. McGonagall's eyes narrow at the place Hermione was.
 
-**Caption.** Snape beats the robe. The broom goes still.
+**Caption.** Snape beats the robe. The broom goes still. Snape looks at his robe, then snaps toward the stands, rage. Harry looks at the broom, relief that is not quite a smile. McGonagall's eyes narrow at the place Hermione was.
 
 **Dialogue.**
 
@@ -7879,7 +7879,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the Snitch, astonishment, mouth opening on instinct. The Snitch is all wings and will.
 
-**Caption.** Harry hangs one-handed. Gold brushes his lips.
+**Caption.** Harry hangs one-handed. Gold brushes his lips. Harry looks at the Snitch, astonishment, mouth opening on instinct. The Snitch is all wings and will.
 
 **Dialogue.** None.
 
@@ -7891,7 +7891,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The crowd looks down, afraid. Wood looks at Harry, panicked. Harry's eyes are open, looking up, and there is a secret in his cheeks. He has not shown it.
 
-**Caption.** He hits the grass.
+**Caption.** He hits the grass. The crowd looks down, afraid. Wood looks at Harry, panicked. Harry's eyes are open, looking up, and there is a secret in his cheeks. He has not shown it.
 
 **Dialogue.**
 
@@ -7905,7 +7905,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the Snitch, then past it at the stands, a dazed laugh. Triumph, disbelief, a child's joy. The Snitch looks caught and furious.
 
-**Caption.** He pulls the Snitch out of his mouth.
+**Caption.** He pulls the Snitch out of his mouth. He looks at the Snitch, then past it at the stands, a dazed laugh. Triumph, disbelief, a child's joy. The Snitch looks caught and furious.
 
 **Dialogue.**
 
@@ -7919,7 +7919,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks toward Ron and Hermione, laughing. Wood looks at Harry, the doubt gone, delighted. Snape looks cold, mouth tight. Draco looks at the Snitch, sour.
 
-**Caption.** Gryffindor erupts. Wood lifts him.
+**Caption.** Gryffindor erupts. Wood lifts him. Harry looks toward Ron and Hermione, laughing. Wood looks at Harry, the doubt gone, delighted. Snape looks cold, mouth tight. Draco looks at the Snitch, sour.
 
 **Dialogue.**
 
@@ -7940,7 +7940,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look exhausted and wired. The castle is far lights.
 
-**Caption.** The grounds at night, the stadium dark behind.
+**Caption.** The grounds at night, the stadium dark behind. They look exhausted and wired. The castle is far lights.
 
 **Dialogue.** None.
 
@@ -7952,7 +7952,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hut looks safe. They look like they brought a question with them.
 
-**Caption.** The hut, from the pumpkin patch.
+**Caption.** The hut, from the pumpkin patch. The hut looks safe. They look like they brought a question with them.
 
 **Dialogue.** None.
 
@@ -7964,7 +7964,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks delighted to see them and is not speaking yet. Harry looks ready to accuse someone.
 
-**Caption.** They duck in.
+**Caption.** They duck in. Hagrid looks delighted to see them and is not speaking yet. Harry looks ready to accuse someone.
 
 **Dialogue.** None.
 
@@ -7976,7 +7976,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is kind. The children are small in it.
 
-**Caption.** The one warm room.
+**Caption.** The one warm room. The room is kind. The children are small in it.
 
 **Dialogue.** None.
 
@@ -7988,7 +7988,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid is proud and busy. Hermione is listening too hard. Ron eyes the cakes with fear.
 
-**Caption.** Hagrid was already pouring tea.
+**Caption.** Hagrid was already pouring tea. Hagrid is proud and busy. Hermione is listening too hard. Ron eyes the cakes with fear.
 
 **Dialogue.** None.
 
@@ -8000,7 +8000,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks set. Hagrid looks happy. The happy will not last.
 
-**Caption.** Harry's hand is a fist on the table.
+**Caption.** Harry's hand is a fist on the table. Harry looks set. Hagrid looks happy. The happy will not last.
 
 **Dialogue.** None.
 
@@ -8014,7 +8014,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at Harry, proud and misty. Harry looks at the tea, happy and tired. Ron looks at the rock cake, wary. Hermione looks at Hagrid, fond, already steering toward a question.
 
-**Caption.** Hagrid's hut, that night.
+**Caption.** Hagrid's hut, that night. Hagrid looks at Harry, proud and misty. Harry looks at the tea, happy and tired. Ron looks at the rock cake, wary. Hermione looks at Hagrid, fond, already steering toward a question.
 
 **Dialogue.**
 
@@ -8028,7 +8028,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Hagrid, sure, a little hurt that he is not believed. Hagrid looks troubled but firm. Ron looks at Hagrid, disagreeing. Hermione looks at Hagrid, noticing what he will not say.
 
-**Caption.** None.
+**Caption.** The hut table, firelight, Fang's ear in the foreground. Harry leans forward and retells the match with his hands. Harry looks at Hagrid, sure, a little hurt that he is not believed. Hagrid looks troubled but firm. Ron looks at Hagrid, disagreeing. Hermione looks at Hagrid, noticing what he will not say.
 
 **Dialogue.**
 
@@ -8043,7 +8043,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at Hagrid, not accusing, exact. Hagrid looks away, avoiding, beard hiding his mouth. Harry looks at the castle, the dog and the package waking up. Ron looks at the cake, betrayed by it.
 
-**Caption.** None.
+**Caption.** The hut. Hermione, precise, imitates a still man moving his mouth. Hermione looks at Hagrid, not accusing, exact. Hagrid looks away, avoiding, beard hiding his mouth. Harry looks at the castle, the dog and the package waking up. Ron looks at the cake, betrayed by it.
 
 **Dialogue.**
 
@@ -8058,7 +8058,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at Harry, panic, affection, and fear of having given it away by reacting. Harry looks at him, gentle and relentless. Hermione looks at Hagrid, kind, waiting. Ron freezes. Fang looks at the door and misses the point.
 
-**Caption.** Hagrid panics.
+**Caption.** Hagrid panics. Hagrid looks at Harry, panic, affection, and fear of having given it away by reacting. Harry looks at him, gentle and relentless. Hermione looks at Hagrid, kind, waiting. Ron freezes. Fang looks at the door and misses the point.
 
 **Dialogue.**
 
@@ -8073,7 +8073,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at them over his hand, pleading with them to un-hear it. Harry looks at him, the name locked in. Hermione looks at Hagrid, already spelling it in her head, eyes bright. Ron looks at Harry, a silent we-have-it.
 
-**Caption.** Hagrid claps a hand over his mouth.
+**Caption.** Hagrid claps a hand over his mouth. Hagrid looks at them over his hand, pleading with them to un-hear it. Harry looks at him, the name locked in. Hermione looks at Hagrid, already spelling it in her head, eyes bright. Ron looks at Harry, a silent we-have-it.
 
 **Dialogue.**
 
@@ -8087,7 +8087,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at her palm, concentrated, a scholar on a hunt. Harry looks at her hand, trusting her with the name. Ron looks at the castle, eager and scared. Hagrid looks at their backs, regret and love.
 
-**Caption.** Hermione is already memorizing the name.
+**Caption.** Hermione is already memorizing the name. Hermione looks at her palm, concentrated, a scholar on a hunt. Harry looks at her hand, trusting her with the name. Ron looks at the castle, eager and scared. Hagrid looks at their backs, regret and love.
 
 **Dialogue.**
 
@@ -8109,7 +8109,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like a conspiracy with homework.
 
-**Caption.** The castle at night, one lit window among stacks.
+**Caption.** The castle at night, one lit window among stacks. They look like a conspiracy with homework.
 
 **Dialogue.** None.
 
@@ -8121,7 +8121,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks certain. Ron looks sleepy already.
 
-**Caption.** The library doors.
+**Caption.** The library doors. Hermione looks certain. Ron looks sleepy already.
 
 **Dialogue.** None.
 
@@ -8133,7 +8133,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Pince looks like noise is a crime. Hermione looks approved of, almost. Ron looks guilty of future whispering.
 
-**Caption.** They go in under a glare.
+**Caption.** They go in under a glare. Pince looks like noise is a crime. Hermione looks approved of, almost. Ron looks guilty of future whispering.
 
 **Dialogue.** None.
 
@@ -8145,7 +8145,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is a machine for silence.
 
-**Caption.** The library, whole.
+**Caption.** The library, whole. The room is a machine for silence.
 
 **Dialogue.** None.
 
@@ -8157,7 +8157,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is lit up. Ron is fading. Harry is hopeful the fort will work.
 
-**Caption.** People were already reading.
+**Caption.** People were already reading. Hermione is lit up. Ron is fading. Harry is hopeful the fort will work.
 
 **Dialogue.** None.
 
@@ -8169,7 +8169,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks unstoppable. The boys look like audience.
 
-**Caption.** Her finger finds the index. She has not said his name.
+**Caption.** Her finger finds the index. She has not said his name. She looks unstoppable. The boys look like audience.
 
 **Dialogue.** None.
 
@@ -8183,7 +8183,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at a page, tireless. Harry looks at a book, hopeful and fading. Ron looks at Harry, a silent how-long. The shelves look down, indifferent.
 
-**Caption.** The library at night.
+**Caption.** The library at night. Hermione looks at a page, tireless. Harry looks at a book, hopeful and fading. Ron looks at Harry, a silent how-long. The shelves look down, indifferent.
 
 **Dialogue.**
 
@@ -8197,7 +8197,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Her finger is the expression: precise, then a small defeated tap. Harry looks at the empty page, mouth tight.
 
-**Caption.** Hermione's finger runs an index. Nothing.
+**Caption.** Hermione's finger runs an index. Nothing. Her finger is the expression: precise, then a small defeated tap. Harry looks at the empty page, mouth tight.
 
 **Dialogue.**
 
@@ -8211,7 +8211,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Pince looks at them, suspicious. Hermione looks up, apologetic. Ron yanks his elbow off a book. Harry looks at the closed book, mourning it.
 
-**Caption.** Madam Pince looms over the table.
+**Caption.** Madam Pince looms over the table. Pince looks at them, suspicious. Hermione looks up, apologetic. Ron yanks his elbow off a book. Harry looks at the closed book, mourning it.
 
 **Dialogue.**
 
@@ -8225,7 +8225,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's face is slack and peaceful. Harry looks at him, fond. Hermione looks at her page, the smile hidden.
 
-**Caption.** Ron is asleep on a book.
+**Caption.** Ron is asleep on a book. Ron's face is slack and peaceful. Harry looks at him, fond. Hermione looks at her page, the smile hidden.
 
 **Dialogue.**
 
@@ -8239,7 +8239,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks more tired and more fixed. Ron looks loyal and sick of books. Hermione looks undefeated. Snape looks at his plate.
 
-**Caption.** Empty days. Breakfast, class, library. Nothing.
+**Caption.** Empty days. Breakfast, class, library. Nothing. Harry looks more tired and more fixed. Ron looks loyal and sick of books. Hermione looks undefeated. Snape looks at his plate.
 
 **Dialogue.** None.
 
@@ -8251,7 +8251,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry meets Snape's eyes, the pain private. Snape looks at him, unreadable. Hermione looks at the scar, worried. Ron looks at Snape, the theory hardening.
 
-**Caption.** In a lesson, the scar twinges.
+**Caption.** In a lesson, the scar twinges. Harry meets Snape's eyes, the pain private. Snape looks at him, unreadable. Hermione looks at the scar, worried. Ron looks at Snape, the theory hardening.
 
 **Dialogue.**
 
@@ -8271,7 +8271,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The tower looks ordinary. The discovery is inside.
 
-**Caption.** The tower at evening.
+**Caption.** The tower at evening. The tower looks ordinary. The discovery is inside.
 
 **Dialogue.** None.
 
@@ -8283,7 +8283,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks triumphant and trying not to run.
 
-**Caption.** The portrait hole.
+**Caption.** The portrait hole. She looks triumphant and trying not to run.
 
 **Dialogue.** None.
 
@@ -8295,7 +8295,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is lazy. She is not.
 
-**Caption.** The common room, whole.
+**Caption.** The common room, whole. The room is lazy. She is not.
 
 **Dialogue.** None.
 
@@ -8307,7 +8307,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is competitive. Harry is half-playing, half-thinking about a dog.
 
-**Caption.** They were already losing a game.
+**Caption.** They were already losing a game. Ron is competitive. Harry is half-playing, half-thinking about a dog.
 
 **Dialogue.** None.
 
@@ -8319,7 +8319,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks as if the book might speak if she waits. She will not wait.
 
-**Caption.** She crosses the room.
+**Caption.** She crosses the room. She looks as if the book might speak if she waits. She will not wait.
 
 **Dialogue.** None.
 
@@ -8331,7 +8331,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's mouth opens to save the pieces. Harry leans in. She has not spoken.
 
-**Caption.** The book is an inch above the table.
+**Caption.** The book is an inch above the table. Ron's mouth opens to save the pieces. Harry leans in. She has not spoken.
 
 **Dialogue.** None.
 
@@ -8345,7 +8345,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at them, a blaze of I-found-it. Harry looks at the book, hope surging. Ron forgets the knight.
 
-**Caption.** Hermione slams down a huge book.
+**Caption.** Hermione slams down a huge book. Hermione looks at them, a blaze of I-found-it. Harry looks at the book, hope surging. Ron forgets the knight.
 
 **Dialogue.**
 
@@ -8359,7 +8359,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione's mouth is a satisfied line. Harry's eyes are wide behind his glasses. They all look at the portrait.
 
-**Caption.** Her finger finds the name.
+**Caption.** Her finger finds the name. Hermione's mouth is a satisfied line. Harry's eyes are wide behind his glasses. They all look at the portrait.
 
 **Dialogue.**
 
@@ -8373,7 +8373,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look down, breathless, together. Harry looks hungry for the answer. Hermione looks like a guide. Ron looks like he might finally enjoy a book.
 
-**Caption.** All three lean in.
+**Caption.** All three lean in. They look down, breathless, together. Harry looks hungry for the answer. Hermione looks like a guide. Ron looks like he might finally enjoy a book.
 
 **Dialogue.**
 
@@ -8387,7 +8387,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the page, awed. Harry looks at the old face, thinking of someone who does not want to die. Ron's joke fades into seriousness.
 
-**Caption.** One object has kept him alive for centuries.
+**Caption.** One object has kept him alive for centuries. Hermione looks at the page, awed. Harry looks at the old face, thinking of someone who does not want to die. Ron's joke fades into seriousness.
 
 **Dialogue.**
 
@@ -8401,7 +8401,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** No faces. The stone is the face of the chapter. It looks inert and priceless.
 
-**Caption.** A picture of a small red stone.
+**Caption.** A picture of a small red stone. No faces. The stone is the face of the chapter. It looks inert and priceless.
 
 **Dialogue.** None.
 
@@ -8413,7 +8413,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks certain and uneasy. Hermione nods slowly, connecting dog, package, and stone. Ron looks toward the floors above, a silent oh.
 
-**Caption.** None.
+**Caption.** The common room returns. Harry sits back in a red chair, one hand on the picture of the red stone, the book open on his knees. Harry looks certain and uneasy. Hermione nods slowly, connecting dog, package, and stone. Ron looks toward the floors above, a silent oh.
 
 **Dialogue.**
 
@@ -8429,7 +8429,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at them, grave. Harry looks at her fingers. Ron looks at her, a flicker of endless gold, then shame at thinking it.
 
-**Caption.** None.
+**Caption.** Closer to the fire. Hermione holds the closed book and raises two fingers, the fire painting a red glow on her hand. Hermione looks at them, grave. Harry looks at her fingers. Ron looks at her, a flicker of endless gold, then shame at thinking it.
 
 **Dialogue.**
 
@@ -8443,7 +8443,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the fire, matter-of-fact, a little sad. Harry looks at Ron, affection. Hermione looks at Ron, soft.
 
-**Caption.** None.
+**Caption.** On the hearthrug. Ron says it simply, one hand open and empty, a hole in his sock. Harry looks at that empty hand. Ron looks at the fire, matter-of-fact, a little sad. Harry looks at Ron, affection. Hermione looks at Ron, soft.
 
 **Dialogue.**
 
@@ -8457,7 +8457,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks into the fire, grief he is only learning the shape of. Ron looks at him and does not poke. Hermione gives him the silence.
 
-**Caption.** Harry is quiet, thinking of his parents.
+**Caption.** Harry is quiet, thinking of his parents. Harry looks into the fire, grief he is only learning the shape of. Ron looks at him and does not poke. Hermione gives him the silence.
 
 **Dialogue.** None.
 
@@ -8469,7 +8469,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the arrow, certain. Harry looks at it, the Halloween blood returning to his mind. Ron looks at the ink dog and remembers the teeth.
 
-**Caption.** The Stone is in the school. Someone wants it.
+**Caption.** The Stone is in the school. Someone wants it. Hermione looks at the arrow, certain. Harry looks at it, the Halloween blood returning to his mind. Ron looks at the ink dog and remembers the teeth.
 
 **Dialogue.**
 
@@ -8483,7 +8483,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks convinced, a little angry. Ron looks at Harry, nodding. Hermione looks thoughtful. She wants one more proof.
 
-**Caption.** None.
+**Caption.** Late, just the three, embers. Harry counts the case on three raised fingers. Ron grins, all in. Hermione holds the closed book and the quill and studies the third finger. Harry looks convinced, a little angry. Ron looks at Harry, nodding. Hermione looks thoughtful. She wants one more proof.
 
 **Dialogue.**
 
@@ -8497,7 +8497,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Hermione, impatient loyalty. Hermione looks at Harry, careful. Harry looks at the embers. He is not angry at her. He is decided.
 
-**Caption.** None.
+**Caption.** The fire is dying. Ron's hand slaps the table. Hermione's hand settles on the book, wait. Harry stands between them, looking at the embers. Ron looks at Hermione, impatient loyalty. Hermione looks at Harry, careful. Harry looks at the embers. He is not angry at her. He is decided.
 
 **Dialogue.**
 
@@ -8518,7 +8518,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks like a closed door. Harry looks like a decision.
 
-**Caption.** A daytime corridor from a landing.
+**Caption.** A daytime corridor from a landing. Snape looks like a closed door. Harry looks like a decision.
 
 **Dialogue.** None.
 
@@ -8530,7 +8530,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the armor and knows it is a bad plan. He is going to do it.
 
-**Caption.** Suits of armor, too narrow to hide a secret.
+**Caption.** Suits of armor, too narrow to hide a secret. Ron looks at the armor and knows it is a bad plan. He is going to do it.
 
 **Dialogue.** None.
 
@@ -8542,7 +8542,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like bad statues. No one has said so.
 
-**Caption.** They duck.
+**Caption.** They duck. They look like bad statues. No one has said so.
 
 **Dialogue.** None.
 
@@ -8554,7 +8554,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The passersby are wiser. Our three are not.
 
-**Caption.** The corridor, whole, with a teacher walking away.
+**Caption.** The corridor, whole, with a teacher walking away. The passersby are wiser. Our three are not.
 
 **Dialogue.** None.
 
@@ -8566,7 +8566,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks empty and dangerous. The children look like held breath.
 
-**Caption.** Snape pauses. He does not turn.
+**Caption.** Snape pauses. He does not turn. Snape looks empty and dangerous. The children look like held breath.
 
 **Dialogue.** None.
 
@@ -8578,7 +8578,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks unable to stay quiet. Hermione's eyes order him to. Harry watches Snape's back.
 
-**Caption.** Ron's mouth is open. The whisper is next.
+**Caption.** Ron's mouth is open. The whisper is next. Ron looks unable to stay quiet. Hermione's eyes order him to. Harry watches Snape's back.
 
 **Dialogue.** None.
 
@@ -8596,7 +8596,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks ahead, bored with his errand. Harry looks at Snape's back. Hermione hisses at Ron. Ron looks at the spear he bumped.
 
-**Caption.** They trail Snape, badly hidden.
+**Caption.** They trail Snape, badly hidden. Snape looks ahead, bored with his errand. Harry looks at Snape's back. Hermione hisses at Ron. Ron looks at the spear he bumped.
 
 **Dialogue.**
 
@@ -8610,7 +8610,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Snape looks at the armor, a flicker of contempt, then away. Harry does not breathe. Hermione sees the glint of his glasses too late. Ron sags only after the cloak has passed.
 
-**Caption.** He turns. They freeze. He walks on.
+**Caption.** He turns. They freeze. He walks on. Snape looks at the armor, a flicker of contempt, then away. Harry does not breathe. Hermione sees the glint of his glasses too late. Ron sags only after the cloak has passed.
 
 **Dialogue.** None.
 
@@ -8622,7 +8622,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell looks at Snape, fear and sweat. Snape looks through him, cold. Harry looks satisfied, which is the mistake.
 
-**Caption.** Quirrell flinches when he sees Snape.
+**Caption.** Quirrell flinches when he sees Snape. Quirrell looks at Snape, fear and sweat. Snape looks through him, cold. Harry looks satisfied, which is the mistake.
 
 **Dialogue.**
 
@@ -8636,7 +8636,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at Quirrell, uneasy, a small frown. Harry looks toward Snape, jaw set. Ron looks from one to the other, loyal to Harry, a little lost.
 
-**Caption.** Hermione notices the flinch.
+**Caption.** Hermione notices the flinch. Hermione looks at Quirrell, uneasy, a small frown. Harry looks toward Snape, jaw set. Ron looks from one to the other, loyal to Harry, a little lost.
 
 **Dialogue.**
 
@@ -8651,7 +8651,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the burning scrap, serious, protective of the secret. Hedwig looks at him, calm. Ron trusts him to still be there in the morning.
 
-**Caption.** That night he writes the name and burns it.
+**Caption.** That night he writes the name and burns it. Harry looks at the burning scrap, serious, protective of the secret. Hedwig looks at him, calm. Ron trusts him to still be there in the morning.
 
 **Dialogue.** None.
 
@@ -8663,7 +8663,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks toward the window and the castle, resolved. Young, stubborn, a little afraid. Hedwig looks at him, steady. The decision sits on his face.
 
-**Caption.** The ash curls.
+**Caption.** The ash curls. Harry looks toward the window and the castle, resolved. Young, stubborn, a little afraid. Hedwig looks at him, steady. The decision sits on his face.
 
 **Dialogue.**
 
@@ -8685,7 +8685,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The crowd is cheerful. One window high up is not.
 
-**Caption.** Hogwarts in the first snow, carriages at the door.
+**Caption.** Hogwarts in the first snow, carriages at the door. The crowd is cheerful. One window high up is not.
 
 **Dialogue.** None.
 
@@ -8697,7 +8697,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Everyone else has somewhere to go.
 
-**Caption.** The doors, a river of scarves going out.
+**Caption.** The doors, a river of scarves going out. Everyone else has somewhere to go.
 
 **Dialogue.** None.
 
@@ -8709,7 +8709,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room feels larger when it is abandoned.
 
-**Caption.** The entrance hall, suddenly too big.
+**Caption.** The entrance hall, suddenly too big. The room feels larger when it is abandoned.
 
 **Dialogue.** None.
 
@@ -8721,7 +8721,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks left. Hedwig looks out, gold eyes.
 
-**Caption.** The common room is down to embers and one boy.
+**Caption.** The common room is down to embers and one boy. He looks left. Hedwig looks out, gold eyes.
 
 **Dialogue.** None.
 
@@ -8733,7 +8733,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks awkward and kind. Harry has not turned.
 
-**Caption.** Ron was packing, and then he was not.
+**Caption.** Ron was packing, and then he was not. Ron looks awkward and kind. Harry has not turned.
 
 **Dialogue.** None.
 
@@ -8745,7 +8745,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks as if staying is a fact, not a choice. Ron looks as if he is about to make it less lonely.
 
-**Caption.** The carriages roll. He does not wave.
+**Caption.** The carriages roll. He does not wave. Harry looks as if staying is a fact, not a choice. Ron looks as if he is about to make it less lonely.
 
 **Dialogue.** None.
 
@@ -8759,7 +8759,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks down, lonely and pretending not to be. His mouth is still. Hedwig looks out too, calm. No one below is looking up for him.
 
-**Caption.** The castle empties. Harry watches from a window.
+**Caption.** The castle empties. Harry watches from a window. Harry looks down, lonely and pretending not to be. His mouth is still. Hedwig looks out too, calm. No one below is looking up for him.
 
 **Dialogue.** None.
 
@@ -8771,7 +8771,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry, shy about the kindness, a joke hiding in his eyes. Harry looks at him, surprised, then a real smile.
 
-**Caption.** Ron stays, so Harry will not be alone.
+**Caption.** Ron stays, so Harry will not be alone. Ron looks at Harry, shy about the kindness, a joke hiding in his eyes. Harry looks at him, surprised, then a real smile.
 
 **Dialogue.**
 
@@ -8785,7 +8785,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the parcel, stunned and gentle, then at Ron. Ron looks at the sweater on himself, groaning, and at Harry's face, glad.
 
-**Caption.** Christmas morning. A pile of Weasley jumpers.
+**Caption.** Christmas morning. A pile of Weasley jumpers. Harry looks at the parcel, stunned and gentle, then at Ron. Ron looks at the sweater on himself, groaning, and at Harry's face, glad.
 
 **Dialogue.**
 
@@ -8799,7 +8799,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks down at the sweater, a tight throat, a smile he does not aim at anyone. Ron looks at him, soft, a little embarrassed, and glad.
 
-**Caption.** He pulls on the first gift that is only his.
+**Caption.** He pulls on the first gift that is only his. Harry looks down at the sweater, a tight throat, a smile he does not aim at anyone. Ron looks at him, soft, a little embarrassed, and glad.
 
 **Dialogue.**
 
@@ -8813,7 +8813,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The twins look delighted with the damage. Harry, in the green sweater, laughs with his whole face. Ron coughs and laughs at the same time.
 
-**Caption.** Fred and George set off crackers.
+**Caption.** Fred and George set off crackers. The twins look delighted with the damage. Harry, in the green sweater, laughs with his whole face. Ron coughs and laughs at the same time.
 
 **Dialogue.**
 
@@ -8828,7 +8828,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Ron, bright, a thank-you without a speech. Ron looks back, pleased, ears red, a grin he cannot make smaller.
 
-**Caption.** Harry laughs with his whole face.
+**Caption.** Harry laughs with his whole face. Harry looks at Ron, bright, a thank-you without a speech. Ron looks back, pleased, ears red, a grin he cannot make smaller.
 
 **Dialogue.**
 
@@ -8848,7 +8848,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the note, the smile gone, a careful ache, then at Ron, needing a witness. Ron looks back, quiet, the jokes parked.
 
-**Caption.** One parcel has no name.
+**Caption.** One parcel has no name. Harry looks at the note, the smile gone, a careful ache, then at Ron, needing a witness. Ron looks back, quiet, the jokes parked.
 
 **Dialogue.**
 
@@ -8862,7 +8862,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the faint hand, wonder and a lump in the throat. Ron looks at the shimmer, delighted and hushed, and does not cheer.
 
-**Caption.** He lifts the cloth. The hand goes faint.
+**Caption.** He lifts the cloth. The hand goes faint. Harry looks at the faint hand, wonder and a lump in the throat. Ron looks at the shimmer, delighted and hushed, and does not cheer.
 
 **Dialogue.**
 
@@ -8876,7 +8876,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His faint face is cautious and free. The portrait looks puzzled. She can almost see a boy.
 
-**Caption.** Night. His shoes show. He is still faintly there.
+**Caption.** Night. His shoes show. He is still faintly there. His faint face is cautious and free. The portrait looks puzzled. She can almost see a boy.
 
 **Dialogue.** None.
 
@@ -8888,7 +8888,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Filch looks at the dark, suspicious, then ready to dismiss it. Mrs Norris looks at the faint boy and knows. Harry's faint face is a held breath.
 
-**Caption.** He slips past Filch.
+**Caption.** He slips past Filch. Filch looks at the dark, suspicious, then ready to dismiss it. Mrs Norris looks at the faint boy and knows. Harry's faint face is a held breath.
 
 **Dialogue.**
 
@@ -8902,7 +8902,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His faint face looks at the door, cautious. The door looks as if it has been waiting.
 
-**Caption.** A door he has never seen.
+**Caption.** A door he has never seen. His faint face looks at the door, cautious. The door looks as if it has been waiting.
 
 **Dialogue.** None.
 
@@ -8914,7 +8914,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the sheet, curious and cautious, young and unguarded. He takes a step.
 
-**Caption.** A dark room. Something tall under a sheet.
+**Caption.** A dark room. Something tall under a sheet. Harry looks at the sheet, curious and cautious, young and unguarded. He takes a step.
 
 **Dialogue.** None.
 
@@ -8932,7 +8932,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his reflection, a small frown, the hope deflating. The reflection looks back the same way. Lonely and ordinary.
 
-**Caption.** He pulls the sheet. Only himself in the glass.
+**Caption.** He pulls the sheet. Only himself in the glass. Harry looks at his reflection, a small frown, the hope deflating. The reflection looks back the same way. Lonely and ordinary.
 
 **Dialogue.**
 
@@ -8946,7 +8946,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Real Harry looks at the glass, frozen. Lily, on the viewer's left, looks at him with love. James, on the viewer's right, looks at him with pride and a gentle sadness.
 
-**Caption.** Figures appear behind his reflection.
+**Caption.** Figures appear behind his reflection. Real Harry looks at the glass, frozen. Lily, on the viewer's left, looks at him with love. James, on the viewer's right, looks at him with pride and a gentle sadness.
 
 **Dialogue.**
 
@@ -8960,7 +8960,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from the woman on the viewer's left to the man on the viewer's right.
 
-**Caption.** A woman with kind eyes. A man with his glasses.
+**Caption.** A woman with kind eyes. A man with his glasses. Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from the woman on the viewer's left to the man on the viewer's right.
 
 **Dialogue.** None.
 
@@ -8972,7 +8972,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at the empty air, wrecked, eyes wet, mouth open. He looks smaller than he did in the glass.
 
-**Caption.** He turns. The room is empty.
+**Caption.** He turns. The room is empty. He looks at the empty air, wrecked, eyes wet, mouth open. He looks smaller than he did in the glass.
 
 **Dialogue.**
 
@@ -8986,7 +8986,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his mother on the viewer's left, then his father on the viewer's right, crying without sound. They look only at him.
 
-**Caption.** He turns back. They wave.
+**Caption.** He turns back. They wave. Harry looks at his mother on the viewer's left, then his father on the viewer's right, crying without sound. They look only at him.
 
 **Dialogue.**
 
@@ -9000,7 +9000,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily, on the viewer's left, would worry. He sees only that she is there.
 
-**Caption.** He sits until the moon moves.
+**Caption.** He sits until the moon moves. Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily, on the viewer's left, would worry. He sees only that she is there.
 
 **Dialogue.** None.
 
@@ -9018,7 +9018,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his glorious self, a huge grin, wanting it. Harry looks at the glass, confused, then at Ron's real face. He is realizing the mirror is a wish.
 
-**Caption.** Another night. The mirror shows Ron a cup.
+**Caption.** Another night. The mirror shows Ron a cup. Ron looks at his glorious self, a huge grin, wanting it. Harry looks at the glass, confused, then at Ron's real face. He is realizing the mirror is a wish.
 
 **Dialogue.**
 
@@ -9033,7 +9033,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks curious, a little guilty that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. Neither mocks what the other wanted.
 
-**Caption.** The mirror is different for each of them.
+**Caption.** The mirror is different for each of them. Ron looks curious, a little guilty that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. Neither mocks what the other wanted.
 
 **Dialogue.**
 
@@ -9048,7 +9048,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at the mirror, familiar and sad, then at Harry, kind, not angry. Harry looks up, caught. Ron looks at Dumbledore, awed into silence.
 
-**Caption.** Dumbledore is suddenly there.
+**Caption.** Dumbledore is suddenly there. Dumbledore looks at the mirror, familiar and sad, then at Harry, kind, not angry. Harry looks up, caught. Ron looks at Dumbledore, awed into silence.
 
 **Dialogue.**
 
@@ -9062,7 +9062,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, tender and firm. Harry looks at him, taking it in, still wanting the glass. Ron understands his cup was a wish too.
 
-**Caption.** None.
+**Caption.** Moonlight, the three of them, and the mirror. Dumbledore indicates the glass with an open hand and does not touch it. Dumbledore looks at Harry, tender and firm. Harry looks at him, taking it in, still wanting the glass. Ron understands his cup was a wish too.
 
 **Dialogue.**
 
@@ -9076,7 +9076,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, loving, the warning real. Harry looks at the sliver of mirror, aching, and obedient anyway. Ron looks at Harry, a gentle come-on.
 
-**Caption.** None.
+**Caption.** Dumbledore stands between Harry and the glass with the dusty sheet gathered, ready to cover it. Empty chairs sit in the dust. Dumbledore looks at Harry, loving, the warning real. Harry looks at the sliver of mirror, aching, and obedient anyway. Ron looks at Harry, a gentle come-on.
 
 **Dialogue.**
 
@@ -9090,7 +9090,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back, eyes wet, a goodbye, then toward Ron, choosing the friend who is actually here. Dumbledore looks proud and sad. Ron looks patient. The parents, sides unchanged, look at their son.
 
-**Caption.** Harry looks back once.
+**Caption.** Harry looks back once. Harry looks back, eyes wet, a goodbye, then toward Ron, choosing the friend who is actually here. Dumbledore looks proud and sad. Ron looks patient. The parents, sides unchanged, look at their son.
 
 **Dialogue.**
 
@@ -9113,7 +9113,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks suspicious of surprises. Ron looks hungry. Harry looks fond.
 
-**Caption.** The path across the grounds at dusk.
+**Caption.** The path across the grounds at dusk. Hermione looks suspicious of surprises. Ron looks hungry. Harry looks fond.
 
 **Dialogue.** None.
 
@@ -9125,7 +9125,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Fang looks delighted. The children brace for the dog.
 
-**Caption.** The hut, Fang in the yard.
+**Caption.** The hut, Fang in the yard. Fang looks delighted. The children brace for the dog.
 
 **Dialogue.** None.
 
@@ -9137,7 +9137,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He is hiding a grin and an object. They are not inside the joke yet.
 
-**Caption.** They come into the heat.
+**Caption.** They come into the heat. He is hiding a grin and an object. They are not inside the joke yet.
 
 **Dialogue.** None.
 
@@ -9149,7 +9149,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The egg is the quiet center. Hermione's eyes find it at once.
 
-**Caption.** The room, and a black egg already in the fire.
+**Caption.** The room, and a black egg already in the fire. The egg is the quiet center. Hermione's eyes find it at once.
 
 **Dialogue.** None.
 
@@ -9161,7 +9161,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks shy and proud. Hermione looks like the law walking in.
 
-**Caption.** He was humming. The egg was not.
+**Caption.** He was humming. The egg was not. Hagrid looks shy and proud. Hermione looks like the law walking in.
 
 **Dialogue.** None.
 
@@ -9173,7 +9173,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks like a man about to burst. Harry almost smiles. Hermione does not.
 
-**Caption.** His hand stays behind his back. The grin escapes.
+**Caption.** His hand stays behind his back. The grin escapes. He looks like a man about to burst. Harry almost smiles. Hermione does not.
 
 **Dialogue.** None.
 
@@ -9187,7 +9187,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at them, bursting, failing at casual. Harry looks at the hidden hand, a smile starting. Hermione looks at Hagrid’s eyes, wary. Ron looks at Fang, then at Hagrid, curious. Fang looks at everyone, pure dog.
 
-**Caption.** Hagrid's hut. He is hiding a grin.
+**Caption.** Hagrid's hut. He is hiding a grin. Hagrid looks at them, bursting, failing at casual. Harry looks at the hidden hand, a smile starting. Hermione looks at Hagrid’s eyes, wary. Ron looks at Fang, then at Hagrid, curious. Fang looks at everyone, pure dog.
 
 **Dialogue.**
 
@@ -9201,7 +9201,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the egg, besotted. Harry looks at it, uneasy wonder. Ron looks at it, a grin he knows he should not have. Hermione looks at the cards, then the egg, the legal problem already on her face.
 
-**Caption.** A black egg sits in the fire.
+**Caption.** A black egg sits in the fire. Hagrid looks at the egg, besotted. Harry looks at it, uneasy wonder. Ron looks at it, a grin he knows he should not have. Hermione looks at the cards, then the egg, the legal problem already on her face.
 
 **Dialogue.**
 
@@ -9215,7 +9215,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at Hagrid, firm, worried for him more than for the rule. Hagrid looks at the egg, not at her, defensive and dreamy. Harry looks from one to the other. Ron’s grin is losing to sense.
 
-**Caption.** None.
+**Caption.** The hearth, tight. Hermione has both palms up. Hagrid lifts the egg in a folded blanket, as if its being unhatched is a defense. Hermione looks at Hagrid, firm, worried for him more than for the rule. Hagrid looks at the egg, not at her, defensive and dreamy. Harry looks from one to the other.
 
 **Dialogue.**
 
@@ -9230,7 +9230,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the crack, breathless, joy. Hermione looks at it, dread and awe fighting. Harry looks at it, wonder winning for one second. Ron looks at it, mouth open.
 
-**Caption.** The egg rocks. A crack.
+**Caption.** The egg rocks. A crack. Hagrid looks at the crack, breathless, joy. Hermione looks at it, dread and awe fighting. Harry looks at it, wonder winning for one second. Ron looks at it, mouth open.
 
 **Dialogue.**
 
@@ -9244,7 +9244,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Norbert looks at Hagrid, imprinting. Hagrid looks at him, wrecked with love, crying. Harry looks at the dragon, soft despite himself. Hermione sees the love and it complicates her. Ron looks at the claws, delighted and doomed.
 
-**Caption.** A wet little head. Hagrid names him Norbert.
+**Caption.** A wet little head. Hagrid names him Norbert. Norbert looks at Hagrid, imprinting. Hagrid looks at him, wrecked with love, crying. Harry looks at the dragon, soft despite himself. Hermione sees the love and it complicates her. Ron looks at the claws, delighted and doomed.
 
 **Dialogue.**
 
@@ -9258,7 +9258,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at one another, the same thought. Harry looks worried. Hermione looks resolute. Ron looks like he wants to laugh and hide.
 
-**Caption.** Over the flames, the three look at each other.
+**Caption.** Over the flames, the three look at each other. They look at one another, the same thought. Harry looks worried. Hermione looks resolute. Ron looks like he wants to laugh and hide.
 
 **Dialogue.**
 
@@ -9279,7 +9279,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like people visiting a problem.
 
-**Caption.** The hut from the path, a scorch on the roof.
+**Caption.** The hut from the path, a scorch on the roof. They look like people visiting a problem.
 
 **Dialogue.** None.
 
@@ -9291,7 +9291,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the scratches and slows. Hermione does not.
 
-**Caption.** The door, claw marks.
+**Caption.** The door, claw marks. Ron looks at the scratches and slows. Hermione does not.
 
 **Dialogue.** None.
 
@@ -9303,7 +9303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks like a proud father. The children look like accomplices.
 
-**Caption.** They step into a smaller room.
+**Caption.** They step into a smaller room. Hagrid looks like a proud father. The children look like accomplices.
 
 **Dialogue.** None.
 
@@ -9315,7 +9315,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid is soft. Norbert is playful. Ron is too close.
 
-**Caption.** Hagrid was already crooning.
+**Caption.** Hagrid was already crooning. Hagrid is soft. Norbert is playful. Ron is too close.
 
 **Dialogue.** None.
 
@@ -9327,7 +9327,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks helpful. Norbert looks hungry. Harry sees it.
 
-**Caption.** Ron reaches to steady a bucket.
+**Caption.** Ron reaches to steady a bucket. Ron looks helpful. Norbert looks hungry. Harry sees it.
 
 **Dialogue.** None.
 
@@ -9339,7 +9339,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's eyes go wide. Hagrid's croon is about to become a defense.
 
-**Caption.** The teeth are an inch from the hand.
+**Caption.** The teeth are an inch from the hand. Ron's eyes go wide. Hagrid's croon is about to become a defense.
 
 **Dialogue.** None.
 
@@ -9357,7 +9357,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his hand, sick. Norbert looks pleased with himself. Hagrid looks guilty and still defends the dragon. Harry looks at the green swelling, alarm. Hermione looks at the bite, clinical and furious.
 
-**Caption.** Norbert bites Ron. The hand swells green.
+**Caption.** Norbert bites Ron. The hand swells green. Ron looks at his hand, sick. Norbert looks pleased with himself. Hagrid looks guilty and still defends the dragon. Harry looks at the green swelling, alarm. Hermione looks at the bite, clinical and furious.
 
 **Dialogue.**
 
@@ -9372,7 +9372,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at Norbert, besotted, unable to hear anyone. Hermione looks at his back, frustrated and caring. Harry looks at the bandage, the fun over. Ron looks at his hand, respect replaced by pain.
 
-**Caption.** Hagrid croons and will not let him go.
+**Caption.** Hagrid croons and will not let him go. Hagrid looks at Norbert, besotted, unable to hear anyone. Hermione looks at his back, frustrated and caring. Harry looks at the bandage, the fun over. Ron looks at his hand, respect replaced by pain.
 
 **Dialogue.**
 
@@ -9387,7 +9387,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks in, triumph, the smile of a boy who has been waiting for a real rule to break. No one inside looks at the window.
 
-**Caption.** At the window, Draco's face.
+**Caption.** At the window, Draco's face. Draco looks in, triumph, the smile of a boy who has been waiting for a real rule to break. No one inside looks at the window.
 
 **Dialogue.** None.
 
@@ -9399,7 +9399,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks back, pleased and a little breathless, already composing the telling. Cold satisfaction.
 
-**Caption.** Draco slips off toward the castle.
+**Caption.** Draco slips off toward the castle. Draco looks back, pleased and a little breathless, already composing the telling. Cold satisfaction.
 
 **Dialogue.**
 
@@ -9413,7 +9413,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look frightened of a hand, not of a teacher.
 
-**Caption.** A corridor of white doors.
+**Caption.** A corridor of white doors. They look frightened of a hand, not of a teacher.
 
 **Dialogue.** None.
 
@@ -9425,7 +9425,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks tired of children. They look sorry.
 
-**Caption.** Madam Pomfrey at the door.
+**Caption.** Madam Pomfrey at the door. She looks tired of children. They look sorry.
 
 **Dialogue.** None.
 
@@ -9443,7 +9443,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room looks kind. The patient looks green.
 
-**Caption.** The wing, whole.
+**Caption.** The wing, whole. The room looks kind. The patient looks green.
 
 **Dialogue.** None.
 
@@ -9455,7 +9455,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks ill and furious. Hermione looks decided.
 
-**Caption.** The hand was already swelling.
+**Caption.** The hand was already swelling. Ron looks ill and furious. Hermione looks decided.
 
 **Dialogue.** None.
 
@@ -9467,7 +9467,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Pomfrey is professional. Hermione is plotting. Ron is in pain.
 
-**Caption.** Pomfrey was already muttering over a salve.
+**Caption.** Pomfrey was already muttering over a salve. Pomfrey is professional. Hermione is plotting. Ron is in pain.
 
 **Dialogue.** None.
 
@@ -9479,7 +9479,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks ready to write. He looks ready to beg. Harry looks at the green fingers.
 
-**Caption.** Hermione's quill is already in her pocket.
+**Caption.** Hermione's quill is already in her pocket. She looks ready to write. He looks ready to beg. Harry looks at the green fingers.
 
 **Dialogue.** None.
 
@@ -9491,7 +9491,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry, fever-bright, serious. Harry looks at the hand, then at Ron, agreeing. Hermione looks determined. The healer trusts the children less than she should, and does not hear the plot.
 
-**Caption.** The hospital wing. The dragon has to go tonight.
+**Caption.** The hospital wing. The dragon has to go tonight. Ron looks at Harry, fever-bright, serious. Harry looks at the hand, then at Ron, agreeing. Hermione looks determined. The healer trusts the children less than she should, and does not hear the plot.
 
 **Dialogue.**
 
@@ -9505,7 +9505,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the owl, focused, a little proud of the plan. Harry looks at the departing owl, hope and nerves. The owl looks at the night, businesslike.
 
-**Caption.** An owl leaves with Hermione's letter.
+**Caption.** An owl leaves with Hermione's letter. Hermione looks at the owl, focused, a little proud of the plan. Harry looks at the departing owl, hope and nerves. The owl looks at the night, businesslike.
 
 **Dialogue.**
 
@@ -9521,7 +9521,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The tower looks normal. It is not.
 
-**Caption.** The tower, daytime, after the wing.
+**Caption.** The tower, daytime, after the wing. The tower looks normal. It is not.
 
 **Dialogue.** None.
 
@@ -9533,7 +9533,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The Fat Lady looks uninterested. They look like a secret.
 
-**Caption.** The portrait hole lets them in.
+**Caption.** The portrait hole lets them in. The Fat Lady looks uninterested. They look like a secret.
 
 **Dialogue.** None.
 
@@ -9545,7 +9545,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is lazy. Their corner is not.
 
-**Caption.** The common room, sun and fire both.
+**Caption.** The common room, sun and fire both. The room is lazy. Their corner is not.
 
 **Dialogue.** None.
 
@@ -9557,7 +9557,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks certain. Ron looks like midnight is too soon and also not soon enough.
 
-**Caption.** Charlie's answer was already in her hand.
+**Caption.** Charlie's answer was already in her hand. She looks certain. Ron looks like midnight is too soon and also not soon enough.
 
 **Dialogue.** None.
 
@@ -9569,7 +9569,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like conspirators pretending to be students.
 
-**Caption.** They were whispering before the clock was said.
+**Caption.** They were whispering before the clock was said. They look like conspirators pretending to be students.
 
 **Dialogue.** None.
 
@@ -9581,7 +9581,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is the plan. Ron nods, grim. Harry looks at the bandage.
 
-**Caption.** She taps the sketch of the tower.
+**Caption.** She taps the sketch of the tower. Hermione is the plan. Ron nods, grim. Harry looks at the bandage.
 
 **Dialogue.** None.
 
@@ -9599,7 +9599,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the instructions, relieved and already scheduling the risks. Ron looks fond, a weak grin, a bit left out. Harry looks uneasy and ready.
 
-**Caption.** Charlie's friends will come at midnight.
+**Caption.** Charlie's friends will come at midnight. Hermione looks at the instructions, relieved and already scheduling the risks. Ron looks fond, a weak grin, a bit left out. Harry looks uneasy and ready.
 
 **Dialogue.**
 
@@ -9613,7 +9613,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the tail, grimacing. Hermione looks ahead. Ron looks stubborn through the pain. Norbert’s eye looks furious. They look like children moving a problem.
 
-**Caption.** A crate under the cloak. A tail sticks out.
+**Caption.** A crate under the cloak. A tail sticks out. Harry looks at the tail, grimacing. Hermione looks ahead. Ron looks stubborn through the pain. Norbert’s eye looks furious. They look like children moving a problem.
 
 **Dialogue.**
 
@@ -9627,7 +9627,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks victorious, the mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco with contempt. Ron looks from the tail to Draco, still determined to finish.
 
-**Caption.** Draco steps from a corner.
+**Caption.** Draco steps from a corner. Draco looks victorious, the mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco with contempt. Ron looks from the tail to Draco, still determined to finish.
 
 **Dialogue.**
 
@@ -9641,7 +9641,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks back, victory cracking into rage, almost falling. Harry looks at the gap, a breath of thanks, not a smile. Hermione and Ron stare at the turning flight. Ron looks dizzy, still on the landing.
 
-**Caption.** One flight pivots and carries Draco away.
+**Caption.** One flight pivots and carries Draco away. Draco looks back, victory cracking into rage, almost falling. Harry looks at the gap, a breath of thanks, not a smile. Hermione and Ron stare at the turning flight. Ron looks dizzy, still on the landing.
 
 **Dialogue.**
 
@@ -9655,7 +9655,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The sky is the picture. The riders are not faces yet.
 
-**Caption.** The tower against the stars.
+**Caption.** The tower against the stars. The sky is the picture. The riders are not faces yet.
 
 **Dialogue.** None.
 
@@ -9667,7 +9667,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look strained. The tail looks like a confession.
 
-**Caption.** The stair, a crate, a tail.
+**Caption.** The stair, a crate, a tail. They look strained. The tail looks like a confession.
 
 **Dialogue.** None.
 
@@ -9685,7 +9685,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks over the edge and regrets it. Hermione looks at the sky for the signal.
 
-**Caption.** The top, wind, battlements.
+**Caption.** The top, wind, battlements. Harry looks over the edge and regrets it. Hermione looks at the sky for the signal.
 
 **Dialogue.** None.
 
@@ -9697,7 +9697,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The children look up. The riders look like a rescue and a risk.
 
-**Caption.** The riders were already circling.
+**Caption.** The riders were already circling. The children look up. The riders look like a rescue and a risk.
 
 **Dialogue.** None.
 
@@ -9709,7 +9709,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks sorry. The eye looks curious. Hermione looks at her watch.
 
-**Caption.** Norbert's eye at the slat.
+**Caption.** Norbert's eye at the slat. Harry looks sorry. The eye looks curious. Hermione looks at her watch.
 
 **Dialogue.** None.
 
@@ -9721,7 +9721,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The rider is urgent. Harry is not ready to let go. He will.
 
-**Caption.** A rider's hand reaches down. No one has spoken.
+**Caption.** A rider's hand reaches down. No one has spoken. The rider is urgent. Harry is not ready to let go. He will.
 
 **Dialogue.** None.
 
@@ -9733,7 +9733,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The riders look at the crate, professional. Harry looks grateful, wind in his eyes. Hermione checks the lift. Ron watches with a weak proud grin.
 
-**Caption.** Midnight on the tower. Two riders take the crate.
+**Caption.** Midnight on the tower. Two riders take the crate. The riders look at the crate, professional. Harry looks grateful, wind in his eyes. Hermione checks the lift. Ron watches with a weak proud grin.
 
 **Dialogue.**
 
@@ -9747,7 +9747,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks up, relief and a pang. Hermione’s shoulders drop, the plan completed. Ron smiles, then winces. The night looks large.
 
-**Caption.** An eye at the slat, then he is gone into the sky.
+**Caption.** An eye at the slat, then he is gone into the sky. Harry looks up, relief and a pang. Hermione’s shoulders drop, the plan completed. Ron smiles, then winces. The night looks large.
 
 **Dialogue.**
 
@@ -9763,7 +9763,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look lighter and then they see the lantern.
 
-**Caption.** The tower stair, looking down.
+**Caption.** The tower stair, looking down. They look lighter and then they see the lantern.
 
 **Dialogue.** None.
 
@@ -9775,7 +9775,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks closed. Draco looks triumphant. The children look ended.
 
-**Caption.** A lantern at the bottom.
+**Caption.** A lantern at the bottom. She looks closed. Draco looks triumphant. The children look ended.
 
 **Dialogue.** None.
 
@@ -9787,7 +9787,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry sees the shiny thing and knows. Hermione's mouth is tight. Ron looks at Draco.
 
-**Caption.** They keep walking down because there is no other stair.
+**Caption.** They keep walking down because there is no other stair. Harry sees the shiny thing and knows. Hermione's mouth is tight. Ron looks at Draco.
 
 **Dialogue.** None.
 
@@ -9799,7 +9799,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Nobody is surprised except the part of Harry that hoped.
 
-**Caption.** The landing, whole.
+**Caption.** The landing, whole. Nobody is surprised except the part of Harry that hoped.
 
 **Dialogue.** None.
 
@@ -9811,7 +9811,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks hungry to tell. McGonagall looks like she does not need him and will use him anyway.
 
-**Caption.** Draco was already rehearsing the speech.
+**Caption.** Draco was already rehearsing the speech. Draco looks hungry to tell. McGonagall looks like she does not need him and will use him anyway.
 
 **Dialogue.** None.
 
@@ -9823,7 +9823,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks guilty. She looks exact. Draco looks crowned.
 
-**Caption.** They reach the last step.
+**Caption.** They reach the last step. Harry looks guilty. She looks exact. Draco looks crowned.
 
 **Dialogue.** None.
 
@@ -9837,7 +9837,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at them, disappointed more than loud. Draco looks smug, waiting for the explosion. Harry looks at her, the excuse dying. Hermione looks at the floor. Ron looks down, sick and caught.
 
-**Caption.** On the way down, McGonagall is waiting.
+**Caption.** On the way down, McGonagall is waiting. McGonagall looks at them, disappointed more than loud. Draco looks smug, waiting for the explosion. Harry looks at her, the excuse dying. Hermione looks at the floor. Ron looks down, sick and caught.
 
 **Dialogue.**
 
@@ -9852,7 +9852,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Filch looks triumphant, sour joy. Harry looks at the cloak, stricken, because it was his father’s. McGonagall looks sad under the discipline. The cat looks at Harry, unblinking.
 
-**Caption.** Filch holds the cloak Harry dropped.
+**Caption.** Filch holds the cloak Harry dropped. Filch looks triumphant, sour joy. Harry looks at the cloak, stricken, because it was his father’s. McGonagall looks sad under the discipline. The cat looks at Harry, unblinking.
 
 **Dialogue.**
 
@@ -9866,7 +9866,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks at Draco last, cool and fair. Draco looks offended as the triumph collapses. Harry sees it and does not gloat. Hermione looks straight ahead, accepting. Ron looks ready to faint.
 
-**Caption.** Detention, for all four of them.
+**Caption.** Detention, for all four of them. McGonagall looks at Draco last, cool and fair. Draco looks offended as the triumph collapses. Harry sees it and does not gloat. Hermione looks straight ahead, accepting. Ron looks ready to faint.
 
 **Dialogue.**
 
@@ -9880,7 +9880,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks younger, humiliated, and mean. The smugness is dead. McGonagall does not soften.
 
-**Caption.** Draco's smugness dies.
+**Caption.** Draco's smugness dies. Draco looks younger, humiliated, and mean. The smugness is dead. McGonagall does not soften.
 
 **Dialogue.**
 
@@ -9895,7 +9895,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room looks disappointed. Hermione’s chin is up; she will not cry here. Ron looks ill and ashamed. Harry looks at the floor. Neville looks sympathetic, which helps and hurts.
 
-**Caption.** Points pour off Gryffindor.
+**Caption.** Points pour off Gryffindor. The room looks disappointed. Hermione’s chin is up; she will not cry here. Ron looks ill and ashamed. Harry looks at the floor. Neville looks sympathetic, which helps and hurts.
 
 **Dialogue.**
 
@@ -9909,7 +9909,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the ceiling, hollow and guilty. Hedwig looks at him, steady. Ron’s face is slack with sleep, not available. The room is quiet on purpose.
 
-**Caption.** Harry lies awake. The cloak is gone.
+**Caption.** Harry lies awake. The cloak is gone. Harry looks at the ceiling, hollow and guilty. Hedwig looks at him, steady. Ron’s face is slack with sleep, not available. The room is quiet on purpose.
 
 **Dialogue.** None.
 
@@ -9929,7 +9929,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The children look punished. Hagrid looks like this is simply his Tuesday.
 
-**Caption.** The castle at night, small behind them.
+**Caption.** The castle at night, small behind them. The children look punished. Hagrid looks like this is simply his Tuesday.
 
 **Dialogue.** None.
 
@@ -9941,7 +9941,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks insulted by nature. Neville looks ready to faint in advance. Harry looks in.
 
-**Caption.** The trees are a wall.
+**Caption.** The trees are a wall. Draco looks insulted by nature. Neville looks ready to faint in advance. Harry looks in.
 
 **Dialogue.** None.
 
@@ -9953,7 +9953,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks grave, not unkind. The children wait.
 
-**Caption.** Hagrid raises the lantern. He has not briefed them.
+**Caption.** Hagrid raises the lantern. He has not briefed them. He looks grave, not unkind. The children wait.
 
 **Dialogue.** None.
 
@@ -9965,7 +9965,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The path looks like a decision.
 
-**Caption.** The path in, a throat.
+**Caption.** The path in, a throat. The path looks like a decision.
 
 **Dialogue.** None.
 
@@ -9977,7 +9977,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Whispers of fear, no lines. Hagrid listens to the trees, not to them.
 
-**Caption.** They were already huddling in the light.
+**Caption.** They were already huddling in the light. Whispers of fear, no lines. Hagrid listens to the trees, not to them.
 
 **Dialogue.** None.
 
@@ -9989,7 +9989,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Fang looks unsure. Hagrid looks sure enough for all of them. Draco looks like he will complain and has not.
 
-**Caption.** Fang looks in and wags once, then stops.
+**Caption.** Fang looks in and wags once, then stops. Fang looks unsure. Hagrid looks sure enough for all of them. Draco looks like he will complain and has not.
 
 **Dialogue.** None.
 
@@ -10007,7 +10007,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at them, apologetic and serious. Fang looks at the trees, nervous. Harry looks at the dark, alert. Hermione looks at Hagrid, trusting him and not the forest. Neville looks scared. Draco looks at the mud, disgusted.
 
-**Caption.** The forest edge. Lanterns, and Fang.
+**Caption.** Night at the edge of the Forbidden Forest. The trees are a black wall, mist at the roots, and the castle lights are small and far. Hagrid looks at them, apologetic and serious. Fang looks at the trees, nervous. Harry looks at the dark, alert. Hermione looks at Hagrid, trusting him and not the forest. Neville looks scared.
 
 **Dialogue.**
 
@@ -10021,7 +10021,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the silver, angry and sad. Harry looks at it with a chill. Hermione looks grave. Neville looks away. Draco's disgust cracks. He knows what unicorn blood means.
 
-**Caption.** Something in the trees has been hurting unicorns.
+**Caption.** Under the first trees, Hagrid crouches and shows them a bright silver splash on a root. The lantern makes the stain look too beautiful for what it means. Hagrid looks at the silver, angry and sad. Harry looks at it with a chill. Hermione looks grave. Neville looks away. Draco's disgust cracks. He knows what unicorn blood means.
 
 **Dialogue.**
 
@@ -10035,7 +10035,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks up, the sneer collapsing. Hagrid looks gentle, immovable, a little disappointed. Harry watches with quiet gratitude. Hermione looks down the path. Neville looks at his feet.
 
-**Caption.** None.
+**Caption.** On the path, Draco starts a slight and does not finish it. Hagrid, lantern and crossbow in his own hands, looks down without shouting. Draco looks up, the sneer collapsing. Hagrid looks gentle, immovable, a little disappointed. Harry watches with quiet gratitude. Hermione looks down the path. Neville looks at his feet.
 
 **Dialogue.**
 
@@ -10050,7 +10050,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Faces are small. Hagrid is sure-footed. Fang cowers. Neville bunches close. Draco stays stiff. Harry turns his head, listening. Hermione holds her lantern steady.
 
-**Caption.** The trees close. Light shrinks to lantern circles.
+**Caption.** The trees close. Light shrinks to lantern circles. Faces are small. Hagrid is sure-footed. Fang cowers. Neville bunches close. Draco stays stiff. Harry turns his head, listening. Hermione holds her lantern steady.
 
 **Dialogue.** None.
 
@@ -10062,7 +10062,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at Harry: be careful. Harry accepts the right-hand dark. Draco's contempt covers nerves. Hermione looks back, worried. Neville trusts her. Fang does not want to leave Hagrid.
 
-**Caption.** They split up.
+**Caption.** They split up. Hagrid looks at Harry: be careful. Harry accepts the right-hand dark. Draco's contempt covers nerves. Hermione looks back, worried. Neville trusts her. Fang does not want to leave Hagrid.
 
 **Dialogue.**
 
@@ -10076,7 +10076,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ahead, the dislike quiet. Draco looks at the dark, the dislike louder, and under it a fear he will not show. They do not look at each other for long.
 
-**Caption.** Harry with Draco. Neither of them likes it.
+**Caption.** Harry with Draco. Neither of them likes it. Harry looks ahead, the dislike quiet. Draco looks at the dark, the dislike louder, and under it a fear he will not show. They do not look at each other for long.
 
 **Dialogue.**
 
@@ -10097,7 +10097,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like boys who do not like each other and like the dark less.
 
-**Caption.** The path has closed.
+**Caption.** The path has closed. They look like boys who do not like each other and like the dark less.
 
 **Dialogue.** None.
 
@@ -10109,7 +10109,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks young. Harry looks listening.
 
-**Caption.** Mist, roots, the lantern circle shrinking.
+**Caption.** Mist, roots, the lantern circle shrinking. Draco looks young. Harry looks listening.
 
 **Dialogue.** None.
 
@@ -10121,7 +10121,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks like he wants the ordinary explanation. Draco looks like he wants to go home.
 
-**Caption.** A pale silver lies ahead, and it is not a gap in the trees.
+**Caption.** A pale silver lies ahead, and it is not a gap in the trees. Harry looks like he wants the ordinary explanation. Draco looks like he wants to go home.
 
 **Dialogue.** None.
 
@@ -10133,7 +10133,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's scar is quiet, for the last second. Draco's hand is tight on his own wand.
 
-**Caption.** They stop.
+**Caption.** They stop. Harry's scar is quiet, for the last second. Draco's hand is tight on his own wand.
 
 **Dialogue.** None.
 
@@ -10145,7 +10145,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks sick. Draco makes no sound yet.
 
-**Caption.** The clearing, from the edge, the shape not named.
+**Caption.** The clearing, from the edge, the shape not named. Harry looks sick. Draco makes no sound yet.
 
 **Dialogue.** None.
 
@@ -10157,7 +10157,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks hopeful and wrong. Draco looks ready to agree.
 
-**Caption.** Harry's mouth opens. The word moonlight is next.
+**Caption.** Harry's mouth opens. The word moonlight is next. Harry looks hopeful and wrong. Draco looks ready to agree.
 
 **Dialogue.** None.
 
@@ -10175,7 +10175,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks hopeful for a second, then uncertain. Draco forgets his sneer. He looks at Harry, not for friendship, for confirmation that this is bad.
 
-**Caption.** A silver shape. Harry thinks it is moonlight.
+**Caption.** A silver shape. Harry thinks it is moonlight. Harry looks hopeful for a second, then uncertain. Draco forgets his sneer. He looks at Harry, not for friendship, for confirmation that this is bad.
 
 **Dialogue.**
 
@@ -10189,7 +10189,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the unicorn with grief, one hand half raised as if he could still help. Draco is genuinely shaken. The sneer is gone. Fear is clean on him.
 
-**Caption.** A dead unicorn. The silver is its blood.
+**Caption.** A dead unicorn. The silver is its blood. Harry looks at the unicorn with grief, one hand half raised as if he could still help. Draco is genuinely shaken. The sneer is gone. Fear is clean on him.
 
 **Dialogue.**
 
@@ -10203,7 +10203,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at the blood, then at the dark, a sound he hates. Harry looks at the gap, focused. The scar is a warning. He looks calm, and he is not.
 
-**Caption.** Draco makes a small sound and steps back.
+**Caption.** Draco makes a small sound and steps back. Draco looks at the blood, then at the dark, a sound he hates. Harry looks at the gap, focused. The scar is a warning. He looks calm, and he is not.
 
 **Dialogue.**
 
@@ -10217,7 +10217,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** There is no face in the hood, only blackness. Harry looks on in horror, the scar bright under his hair. Draco's posture is gone. The figure does not look at them yet.
 
-**Caption.** A hooded figure drinks from the body.
+**Caption.** A hooded figure drinks from the body. There is no face in the hood, only blackness. Harry looks on in horror, the scar bright under his hair. Draco's posture is gone. The figure does not look at them yet.
 
 **Dialogue.** None.
 
@@ -10229,7 +10229,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes are squeezed shut. He looks at the ground, not the figure. Draco looks at Harry, then at the hood, and the calculation is simple: run. The empty hood finds Harry.
 
-**Caption.** Harry's scar tears. He drops to a knee.
+**Caption.** Harry's scar tears. He drops to a knee. Harry's eyes are squeezed shut. He looks at the ground, not the figure. Draco looks at Harry, then at the hood, and the calculation is simple: run. The empty hood finds Harry.
 
 **Dialogue.**
 
@@ -10243,7 +10243,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco's back is the expression: panic. Harry looks up, unable to stand, seeing nothing he can name. The hood looks at Harry, and the scar answers.
 
-**Caption.** The hood lifts. Draco runs.
+**Caption.** The hood lifts. Draco runs. Draco's back is the expression: panic. Harry looks up, unable to stand, seeing nothing he can name. The hood looks at Harry, and the scar answers.
 
 **Dialogue.**
 
@@ -10263,7 +10263,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the hands, terror held down by pain. He looks very small. The hood leans with a hunger that is not only for blood. There are no readable features.
 
-**Caption.** The figure glides closer. Harry cannot stand.
+**Caption.** The figure glides closer. Harry cannot stand. Harry looks at the hands, terror held down by pain. He looks very small. The hood leans with a hunger that is not only for blood. There are no readable features.
 
 **Dialogue.** None.
 
@@ -10275,7 +10275,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks at the hood, cold, no fear. The hood retreats, still hungry. Harry looks up at a savior he did not expect. Shock and relief crash together.
 
-**Caption.** Hooves. A centaur blocks the hood.
+**Caption.** Hooves. A centaur blocks the hood. Firenze looks at the hood, cold, no fear. The hood retreats, still hungry. Harry looks up at a savior he did not expect. Shock and relief crash together.
 
 **Dialogue.**
 
@@ -10289,7 +10289,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks toward the path, urgent and calm. Harry looks at the mane, then at the hood. He does not want to turn his back, and he does. The hood looks like a promise.
 
-**Caption.** Harry climbs on.
+**Caption.** Harry climbs on. Firenze looks toward the path, urgent and calm. Harry looks at the mane, then at the hood. He does not want to turn his back, and he does. The hood looks like a promise.
 
 **Dialogue.**
 
@@ -10303,7 +10303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back, the scar easing with distance, fear still high. Firenze looks ahead and does not look back. The hood looks after them, patient.
 
-**Caption.** They move. The hood does not follow.
+**Caption.** They move. The hood does not follow. Harry looks back, the scar easing with distance, fear still high. Firenze looks ahead and does not look back. The hood looks after them, patient.
 
 **Dialogue.** None.
 
@@ -10315,7 +10315,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks at the water, grieved and angry. Harry looks at him, the question waiting. He looks young, polite, and badly shaken. He does not rush the grief.
 
-**Caption.** None.
+**Caption.** They have stopped at a moonlit stream. Clean water, no silver blood. Firenze's head is bowed. Harry has slid down, cloak torn, legs unsteady, small beside the centaur. Firenze looks at the water, grieved and angry. Harry looks at him, the question waiting. He looks young, polite, and badly shaken. He does not rush the grief.
 
 **Dialogue.**
 
@@ -10329,7 +10329,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Firenze, needing the name and afraid of it. Firenze looks down, kind and severe, measuring whether a child should hear this. He decides to tell.
 
-**Caption.** None.
+**Caption.** The stream bank, moon, an owl. Harry's fingers are on the scar again. He looks up the long height of Firenze. Harry looks at Firenze, needing the name and afraid of it. Firenze looks down, kind and severe, measuring whether a child should hear this. He decides to tell.
 
 **Dialogue.**
 
@@ -10349,7 +10349,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks like an unwilling teacher. Harry looks ill, and angry on the unicorn's behalf. The horror is settling into sense.
 
-**Caption.** None.
+**Caption.** Moon on the stream. Firenze speaks, one restrained gesture. Harry listens, cloak wrapped tight, a hand on his scar. Firenze looks like an unwilling teacher. Harry looks ill, and angry on the unicorn's behalf. The horror is settling into sense.
 
 **Dialogue.**
 
@@ -10363,7 +10363,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks at Harry with pity and warning. Harry looks at the ground, imagining a half-life, then back up, braver. His eyes ask who would pay that.
 
-**Caption.** None.
+**Caption.** Close, in moonlight. Firenze's face, the sentence landing. Harry takes a step back, not from the centaur, from the idea. Firenze looks at Harry with pity and warning. Harry looks at the ground, imagining a half-life, then back up, braver. His eyes ask who would pay that.
 
 **Dialogue.**
 
@@ -10377,7 +10377,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Firenze, hoping to be told he is wrong. Firenze will not give that comfort. The hope closes. Knowledge arrives.
 
-**Caption.** None.
+**Caption.** Stillness after a dangerous word. Harry's mouth has just closed. His fists are tight. A leaf falls. Firenze, towering, gives a short nod. Harry looks at Firenze, hoping to be told he is wrong. Firenze will not give that comfort. The hope closes. Knowledge arrives.
 
 **Dialogue.**
 
@@ -10392,7 +10392,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Firenze looks at the castle, troubled for the world, not only the boy. Harry looks at the lights, pale and certain. The dog, the package, and the book are connecting.
 
-**Caption.** None.
+**Caption.** A gap in the trees. Distant castle windows. Firenze turns his head toward Hogwarts. Harry follows the look. Firenze looks at the castle, troubled for the world, not only the boy. Harry looks at the lights, pale and certain. The dog, the package, and the book are connecting.
 
 **Dialogue.**
 
@@ -10406,7 +10406,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his hands, then at the scar: fear, and a fierce no. Firenze looks at him with respect, and with sadness, because understanding is not safety.
 
-**Caption.** None.
+**Caption.** The stream, the moon. Harry's hands open. He understands the theft. Not gold. A body. A return. Firenze stands at the edge and does not interrupt. Harry looks at his hands, then at the scar: fear, and a fierce no. Firenze looks at him with respect, and with sadness, because understanding is not safety.
 
 **Dialogue.**
 
@@ -10421,7 +10421,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks past his friends toward the castle. The theory is locked, and it is the wrong face. Hermione scans him for wounds. Neville cries with relief. Hagrid looks guilty. Draco looks at the ground. Firenze is already leaving.
 
-**Caption.** Castle lights ahead.
+**Caption.** Castle lights ahead. Harry looks past his friends toward the castle. The theory is locked, and it is the wrong face. Hermione scans him for wounds. Neville cries with relief. Hagrid looks guilty. Draco looks at the ground. Firenze is already leaving.
 
 **Dialogue.**
 
@@ -10444,7 +10444,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The day looks like ordinary school. It is the last ordinary morning.
 
-**Caption.** The castle in summer, windows open.
+**Caption.** The castle in summer, windows open. The day looks like ordinary school. It is the last ordinary morning.
 
 **Dialogue.** None.
 
@@ -10456,7 +10456,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks present and gone.
 
-**Caption.** The Hall doors, quiet for once.
+**Caption.** The Hall doors, quiet for once. He looks present and gone.
 
 **Dialogue.** None.
 
@@ -10468,7 +10468,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is a test. The ceiling is a blue sky and nobody is admiring it.
 
-**Caption.** Rows of desks where the feast was.
+**Caption.** Rows of desks where the feast was. The room is a test. The ceiling is a blue sky and nobody is admiring it.
 
 **Dialogue.** None.
 
@@ -10480,7 +10480,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks alight. Ron looks hunted. Harry looks at a forest that is not on the paper.
 
-**Caption.** They were already writing.
+**Caption.** They were already writing. Hermione looks alight. Ron looks hunted. Harry looks at a forest that is not on the paper.
 
 **Dialogue.** None.
 
@@ -10492,7 +10492,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks exact. He looks elsewhere. She has not caught him yet.
 
-**Caption.** McGonagall's heels pass.
+**Caption.** McGonagall's heels pass. She looks exact. He looks elsewhere. She has not caught him yet.
 
 **Dialogue.** None.
 
@@ -10504,7 +10504,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His face is calm and not in the room.
 
-**Caption.** The quill does not move.
+**Caption.** The quill does not move. His face is calm and not in the room.
 
 **Dialogue.** None.
 
@@ -10522,7 +10522,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the parchment and does not see the question. He looks haunted and ordinary. Hermione is focused, with a glance of worry. McGonagall looks at the room, fair and watchful.
 
-**Caption.** The exam hall. Harry thinks of the forest.
+**Caption.** The exam hall. Harry thinks of the forest. Harry looks at the parchment and does not see the question. He looks haunted and ordinary. Hermione is focused, with a glance of worry. McGonagall looks at the room, fair and watchful.
 
 **Dialogue.** None.
 
@@ -10534,7 +10534,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at Harry, soft, then back at her page, discipline. Harry does not look up. His face is still in the forest.
 
-**Caption.** Hermione finishes early and checks the page twice.
+**Caption.** Hermione finishes early and checks the page twice. Hermione looks at Harry, soft, then back at her page, discipline. Harry does not look up. His face is still in the forest.
 
 **Dialogue.**
 
@@ -10548,7 +10548,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the question in despair, then at the dragon with a private grin, then at the shadow with panic. He looks like a boy at the end of a long year.
 
-**Caption.** Ron stares at a question and draws a dragon.
+**Caption.** Ron stares at a question and draws a dragon. Ron looks at the question in despair, then at the dragon with a private grin, then at the shadow with panic. He looks like a boy at the end of a long year.
 
 **Dialogue.**
 
@@ -10562,7 +10562,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look urgent. The day is bright and wrong.
 
-**Caption.** The hut in hard daylight.
+**Caption.** The hut in hard daylight. They look urgent. The day is bright and wrong.
 
 **Dialogue.** None.
 
@@ -10574,7 +10574,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look afraid of a sadness that size.
 
-**Caption.** The door is open. A sound like a saw.
+**Caption.** The door is open. A sound like a saw. They look afraid of a sadness that size.
 
 **Dialogue.** None.
 
@@ -10586,7 +10586,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks broken. They look still.
 
-**Caption.** They go in.
+**Caption.** They go in. Hagrid looks broken. They look still.
 
 **Dialogue.** None.
 
@@ -10600,7 +10600,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He cannot look at them. Hermione's hand is over her mouth. Ron looks young. Harry looks as if a floor moved.
 
-**Caption.** He was already crying before they asked.
+**Caption.** He was already crying before they asked. He cannot look at them. Hermione's hand is over her mouth. Ron looks young. Harry looks as if a floor moved.
 
 **Dialogue.** None.
 
@@ -10612,7 +10612,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry sees the mug and does not understand it. Hagrid sees Harry seeing it.
 
-**Caption.** A bottle and two mugs say there was a guest.
+**Caption.** A bottle and two mugs say there was a guest. Harry sees the mug and does not understand it. Hagrid sees Harry seeing it.
 
 **Dialogue.** None.
 
@@ -10624,7 +10624,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks gentle and relentless. Hagrid looks ashamed.
 
-**Caption.** Harry's mouth opens. The question is next.
+**Caption.** Harry's mouth opens. The question is next. Harry looks gentle and relentless. Hagrid looks ashamed.
 
 **Dialogue.** None.
 
@@ -10636,7 +10636,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks into the cloth, guilty and wrecked. Harry's alarm replaces the exam haze. Hermione is gentle and ready to ask. Ron looks at the empty hearth.
 
-**Caption.** Later, in the hut, Hagrid weeps.
+**Caption.** Later, in the hut, Hagrid weeps. Hagrid looks into the cloth, guilty and wrecked. Harry's alarm replaces the exam haze. Hermione is gentle and ready to ask. Ron looks at the empty hearth.
 
 **Dialogue.**
 
@@ -10650,7 +10650,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at them with regret. Harry feels the forest and the Stone rising. Hermione is careful and will not pounce. Ron looks at Harry. All of them are very still.
 
-**Caption.** The three go still.
+**Caption.** The three go still. Hagrid looks at them with regret. Harry feels the forest and the Stone rising. Hermione is careful and will not pounce. Ron looks at Harry. All of them are very still.
 
 **Dialogue.**
 
@@ -10664,7 +10664,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Hagrid, kind and relentless. Hagrid looks at the cloth, then at Harry. He wants to be stopped, and he will not be.
 
-**Caption.** None.
+**Caption.** Close across the table. Harry's hands are flat, a boy trying not to spook someone. Hagrid twists the huge handkerchief. Harry looks at Hagrid, kind and relentless. Hagrid looks at the cloth, then at Harry. He wants to be stopped, and he will not be.
 
 **Dialogue.**
 
@@ -10684,7 +10684,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** No child is in this memory. The picture feels told, not lived by Harry.
 
-**Caption.** A grimy wizard pub, from the street, softer at the edges.
+**Caption.** A grimy wizard pub, from the street, softer at the edges. No child is in this memory. The picture feels told, not lived by Harry.
 
 **Dialogue.** None.
 
@@ -10696,7 +10696,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks sociable and unsafe.
 
-**Caption.** The door, noise and firewhisky.
+**Caption.** The door, noise and firewhisky. He looks sociable and unsafe.
 
 **Dialogue.** None.
 
@@ -10708,7 +10708,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The stranger is a hood, not a revealed turban. Hagrid looks pleased to be waved at.
 
-**Caption.** The room, smoke, a corner table.
+**Caption.** The room, smoke, a corner table. The stranger is a hood, not a revealed turban. Hagrid looks pleased to be waved at.
 
 **Dialogue.** None.
 
@@ -10720,7 +10720,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks expansive. The hood leans in, hungry, face still hidden.
 
-**Caption.** They were already drinking.
+**Caption.** They were already drinking. Hagrid looks expansive. The hood leans in, hungry, face still hidden.
 
 **Dialogue.** None.
 
@@ -10732,7 +10732,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid is happy. The stranger is patient.
 
-**Caption.** Cards, and a smile under the hood we do not get to see.
+**Caption.** Cards, and a smile under the hood we do not get to see. Hagrid is happy. The stranger is patient.
 
 **Dialogue.** None.
 
@@ -10744,7 +10744,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks grateful. The hood looks like a lockpick.
 
-**Caption.** Another mug arrives. The question about the dog has not.
+**Caption.** Another mug arrives. The question about the dog has not. Hagrid looks grateful. The hood looks like a lockpick.
 
 **Dialogue.** None.
 
@@ -10762,7 +10762,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks glad of the company and unsuspecting. The stranger looks down, listening too well. There are no eyes to read.
 
-**Caption.** None.
+**Caption.** A memory with softer edges. A grimy wizard pub, smoke, a dark corner. A hooded stranger with a hidden face pushes a mug across the table. Hagrid looks glad of the company and unsuspecting. The stranger looks down, listening too well. There are no eyes to read.
 
 **Dialogue.**
 
@@ -10777,7 +10777,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks proud, a little drunk, about to boast. The hood tilts, hungry for the answer. No smile we can trust.
 
-**Caption.** None.
+**Caption.** The pub table, close, still a memory. A pale hand from the hood taps the wood. Hagrid leans in, proud of the dog he loves. Hagrid looks proud, a little drunk, about to boast. The hood tilts, hungry for the answer. No smile we can trust.
 
 **Dialogue.**
 
@@ -10791,7 +10791,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks at the table, ashamed. Hermione sees the thief's plan behind her eyelids. Harry looks afraid, not angry. Ron looks at the door.
 
-**Caption.** None.
+**Caption.** Back in the hut, tea gone cold. Hagrid's denial has fallen. He admits it into the handkerchief. Hermione's eyes are closed, one hand on her brow. Hagrid looks at the table, ashamed. Hermione sees the thief's plan behind her eyelids. Harry looks afraid, not angry. Ron looks at the door.
 
 **Dialogue.**
 
@@ -10805,7 +10805,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Eyes shut. Mouth tight. Fear managed by thinking. When the lids lift she will be ready to move.
 
-**Caption.** Hermione closes her eyes.
+**Caption.** Hermione closes her eyes. Eyes shut. Mouth tight. Fear managed by thinking. When the lids lift she will be ready to move.
 
 **Dialogue.**
 
@@ -10819,7 +10819,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hagrid looks into the middle distance, trying, failing, guilty. Hermione files both possibilities. Ron looks confused. Harry already wants the memory to be Snape.
 
-**Caption.** He cannot remember the face.
+**Caption.** He cannot remember the face. Hagrid looks into the middle distance, trying, failing, guilty. Hermione files both possibilities. Ron looks confused. Harry already wants the memory to be Snape.
 
 **Dialogue.**
 
@@ -10833,7 +10833,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Imagined Snape looks villainous, which is how Harry needs him. Quirrell looks frightened and purposeful. Harry looks only at Snape, convinced. Hermione does not share the certainty.
 
-**Caption.** A turban. Harry does not see it.
+**Caption.** A turban. Harry does not see it. Imagined Snape looks villainous, which is how Harry needs him. Quirrell looks frightened and purposeful. Harry looks only at Snape, convinced. Hermione does not share the certainty.
 
 **Dialogue.**
 
@@ -10853,7 +10853,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look frightened of being right.
 
-**Caption.** A sunlit corridor, late afternoon.
+**Caption.** A sunlit corridor, late afternoon. They look frightened of being right.
 
 **Dialogue.** None.
 
@@ -10865,7 +10865,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks messy from running. Harry looks urgent.
 
-**Caption.** The office door.
+**Caption.** The office door. Hermione looks messy from running. Harry looks urgent.
 
 **Dialogue.** None.
 
@@ -10877,7 +10877,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks busy with real work. They look like an interruption.
 
-**Caption.** Inside, she is already at the desk.
+**Caption.** Inside, she is already at the desk. She looks busy with real work. They look like an interruption.
 
 **Dialogue.** None.
 
@@ -10889,7 +10889,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is order. They are panic.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. The room is order. They are panic.
 
 **Dialogue.** None.
 
@@ -10901,7 +10901,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks up, not angry yet, exact. They look like a confession.
 
-**Caption.** She was writing. The cat on the windowsill watches.
+**Caption.** She was writing. The cat on the windowsill watches. She looks up, not angry yet, exact. They look like a confession.
 
 **Dialogue.** None.
 
@@ -10913,7 +10913,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks respectful and terrified. She waits, one eyebrow preparing.
 
-**Caption.** Harry finds his voice and has not used it.
+**Caption.** Harry finds his voice and has not used it. He looks respectful and terrified. She waits, one eyebrow preparing.
 
 **Dialogue.** None.
 
@@ -10927,7 +10927,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at the door, urgent. Hermione looks resolved. Harry looks angry at the time they have lost. Ron hopes the professor is in.
 
-**Caption.** They run to McGonagall's office.
+**Caption.** They run to McGonagall's office. They look at the door, urgent. Hermione looks resolved. Harry looks angry at the time they have lost. Ron hopes the professor is in.
 
 **Dialogue.**
 
@@ -10941,7 +10941,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at McGonagall, a child asking an adult to be the adult. McGonagall listens and is already bracing to refuse. Harry wills her to hear. Ron is nervous in offices.
 
-**Caption.** Hermione arrives messy, and afraid.
+**Caption.** Hermione arrives messy, and afraid. Hermione looks at McGonagall, a child asking an adult to be the adult. McGonagall listens and is already bracing to refuse. Harry wills her to hear. Ron is nervous in offices.
 
 **Dialogue.**
 
@@ -10955,7 +10955,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall looks firm, protecting children from a fight she thinks is already guarded. Hermione looks at the hand. Harry's frustration rises. Ron knew this would happen.
 
-**Caption.** None.
+**Caption.** The office, sun. McGonagall sets the exams down in a neat stack and raises a hand, not unkind, final. McGonagall looks firm, protecting children from a fight she thinks is already guarded. Hermione looks at the hand. Harry's frustration rises. Ron knew this would happen.
 
 **Dialogue.**
 
@@ -10969,7 +10969,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks earnest. He thinks the name is proof. McGonagall looks offended and worried about his certainty. The conversation closes in her eyes.
 
-**Caption.** Her face closes.
+**Caption.** Her face closes. Harry looks earnest. He thinks the name is proof. McGonagall looks offended and worried about his certainty. The conversation closes in her eyes.
 
 **Dialogue.**
 
@@ -10984,7 +10984,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** McGonagall means the promise. Harry does not feel safer. Hermione is already thinking ahead. Ron is relieved and not.
 
-**Caption.** She sends them out.
+**Caption.** She sends them out. McGonagall means the promise. Harry does not feel safer. Hermione is already thinking ahead. Ron is relieved and not.
 
 **Dialogue.**
 
@@ -10998,7 +10998,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The portrait looks thrilled with her news. Hermione feels the floor drop. Harry looks down the corridor, as if the carriage is already gone. Ron sees the mad plan arriving.
 
-**Caption.** Dumbledore has already left the school.
+**Caption.** Dumbledore has already left the school. The portrait looks thrilled with her news. Hermione feels the floor drop. Harry looks down the corridor, as if the carriage is already gone. Ron sees the mad plan arriving.
 
 **Dialogue.**
 
@@ -11018,7 +11018,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The tower looks festive and wrong.
 
-**Caption.** The tower at evening, trunks in the windows.
+**Caption.** The tower at evening, trunks in the windows. The tower looks festive and wrong.
 
 **Dialogue.** None.
 
@@ -11030,7 +11030,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look older than the morning. The Fat Lady looks merely painted.
 
-**Caption.** The portrait hole.
+**Caption.** The portrait hole. They look older than the morning. The Fat Lady looks merely painted.
 
 **Dialogue.** None.
 
@@ -11042,7 +11042,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is on holiday. They are at war.
 
-**Caption.** The common room, half packed, half party.
+**Caption.** The common room, half packed, half party. The room is on holiday. They are at war.
 
 **Dialogue.** None.
 
@@ -11054,7 +11054,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The contrast is the picture. Ron's hands are open, no sentence yet.
 
-**Caption.** Everyone else was already celebrating.
+**Caption.** Everyone else was already celebrating. The contrast is the picture. Ron's hands are open, no sentence yet.
 
 **Dialogue.** None.
 
@@ -11066,7 +11066,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at it as a key. Hermione looks at it as a plan. Ron looks at it as madness.
 
-**Caption.** A flute is on the table between them.
+**Caption.** A flute is on the table between them. Harry looks at it as a key. Hermione looks at it as a plan. Ron looks at it as madness.
 
 **Dialogue.** None.
 
@@ -11078,7 +11078,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks scared and loyal. Hermione looks decided. Harry looks at the flute.
 
-**Caption.** Ron's mouth opens on the word mad.
+**Caption.** Ron's mouth opens on the word mad. Ron looks scared and loyal. Hermione looks decided. Harry looks at the flute.
 
 **Dialogue.** None.
 
@@ -11096,7 +11096,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks scared, honest, and still here. Harry is grateful he said it. Hermione agrees it is mad. None of them look ready to go back to packing.
 
-**Caption.** Back in the Gryffindor common room.
+**Caption.** Back in the Gryffindor common room. Ron looks scared, honest, and still here. Harry is grateful he said it. Hermione agrees it is mad. None of them look ready to go back to packing.
 
 **Dialogue.**
 
@@ -11110,7 +11110,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at her own hand, certain of the logic and hating it. Harry feels the decision settle. Ron looks at the packed trunk, then back. He is not going to the train.
 
-**Caption.** None.
+**Caption.** The common-room corner, evening. Hermione's finger taps the table in a short rhythm, like counting locks. Harry and Ron watch the finger. Hermione looks at her own hand, certain of the logic and hating it. Harry feels the decision settle. Ron looks at the packed trunk, then back. He is not going to the train.
 
 **Dialogue.**
 
@@ -11124,7 +11124,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at them, not dramatic, just clear. Young, and responsible in a way he should not have to be. Hermione's last objection folds. Ron swallows, then nods.
 
-**Caption.** None.
+**Caption.** The corner, fire, other children's laughter continuing behind them. Harry says it quietly, one hand on his scar. Harry looks at them, not dramatic, just clear. Young, and responsible in a way he should not have to be. Hermione's last objection folds. Ron swallows, then nods.
 
 **Dialogue.**
 
@@ -11138,7 +11138,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Fear shared, so it is lighter. Harry looks steady. Hermione looks brave, a plan forming. Ron looks terrified and loyal, a crooked almost-smile.
 
-**Caption.** They look at each other. The argument ends.
+**Caption.** They look at each other. The argument ends. Fear shared, so it is lighter. Harry looks steady. Hermione looks brave, a plan forming. Ron looks terrified and loyal, a crooked almost-smile.
 
 **Dialogue.**
 
@@ -11153,7 +11153,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the door, the flute a strange gentle weapon. Hermione looks ready. Ron hopes Hagrid was right. All of them are afraid and finished with waiting.
 
-**Caption.** Night. Harry raises the flute.
+**Caption.** Night. Harry raises the flute. Harry looks at the door, the flute a strange gentle weapon. Hermione looks ready. Ron hopes Hagrid was right. All of them are afraid and finished with waiting.
 
 **Dialogue.**
 
@@ -11167,7 +11167,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry takes a breath. He will play. Hermione looks at the hinges, calculating. Ron looks at Harry: now. The door trembles back at them.
 
-**Caption.** A growl answers from behind the door.
+**Caption.** A growl answers from behind the door. Harry takes a breath. He will play. Hermione looks at the hinges, calculating. Ron looks at Harry: now. The door trembles back at them.
 
 **Dialogue.**
 
@@ -11190,7 +11190,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look at the wood. A growl is in the wood.
 
-**Caption.** The forbidden corridor, the door they already know.
+**Caption.** The forbidden corridor, the door they already know. They look at the wood. A growl is in the wood.
 
 **Dialogue.** None.
 
@@ -11202,7 +11202,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks steady. Ron looks ill. Harry looks at the flute.
 
-**Caption.** The door, a paw-scratch and a smell.
+**Caption.** The door, a paw-scratch and a smell. She looks steady. Ron looks ill. Harry looks at the flute.
 
 **Dialogue.** None.
 
@@ -11214,7 +11214,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The heads are waking. The children are small.
 
-**Caption.** They open it.
+**Caption.** They open it. The heads are waking. The children are small.
 
 **Dialogue.** None.
 
@@ -11226,7 +11226,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The heads look at the flute without knowing what it is. Harry looks very small.
 
-**Caption.** The room, whole, the dog the size of it.
+**Caption.** The room, whole, the dog the size of it. The heads look at the flute without knowing what it is. Harry looks very small.
 
 **Dialogue.** None.
 
@@ -11238,7 +11238,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The dog is awake. The plan is a thin wooden tube.
 
-**Caption.** They were growling before the music.
+**Caption.** They were growling before the music. The dog is awake. The plan is a thin wooden tube.
 
 **Dialogue.** None.
 
@@ -11250,7 +11250,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks desperate. Hermione watches the heads, not him. Ron watches teeth.
 
-**Caption.** The flute at his mouth. No note yet.
+**Caption.** The flute at his mouth. No note yet. Harry looks desperate. Hermione watches the heads, not him. Ron watches teeth.
 
 **Dialogue.** None.
 
@@ -11264,7 +11264,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the heads, concentrated, a boy who will not stop. The left head is going glassy. The middle head looks at him, awake. Hermione watches the paws. Ron looks at the teeth and stays.
 
-**Caption.** Notes leave the flute. One head grows sleepy.
+**Caption.** Notes leave the flute. One head grows sleepy. Harry looks at the heads, concentrated, a boy who will not stop. The left head is going glassy. The middle head looks at him, awake. Hermione watches the paws. Ron looks at the teeth and stays.
 
 **Dialogue.**
 
@@ -11279,7 +11279,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry keeps his eyes on the awake head. Hermione watches the middle lids. Ron does not move.
 
-**Caption.** The middle head gets a Zzz.
+**Caption.** The middle head gets a Zzz. Harry keeps his eyes on the awake head. Hermione watches the middle lids. Ron does not move.
 
 **Dialogue.** None.
 
@@ -11291,7 +11291,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks exhausted and still playing. Hermione looks at the paws, ready. Ron looks at the teeth, which are slack.
 
-**Caption.** All three heads. Zzz only on the dog.
+**Caption.** All three heads. Zzz only on the dog. Harry looks exhausted and still playing. Hermione looks at the paws, ready. Ron looks at the teeth, which are slack.
 
 **Dialogue.** None.
 
@@ -11303,7 +11303,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the ring, not celebrating. Harry looks grateful. Ron looks at the dark line under the door.
 
-**Caption.** The ring, and they are still in the room.
+**Caption.** The ring, and they are still in the room. Hermione looks at the ring, not celebrating. Harry looks grateful. Ron looks at the dark line under the door.
 
 **Dialogue.** None.
 
@@ -11315,7 +11315,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione swallows and does not jump yet. Ron looks down and grins crooked. Harry looks back at the heads.
 
-**Caption.** The square opens. They have not jumped.
+**Caption.** The square opens. They have not jumped. Hermione swallows and does not jump yet. Ron looks down and grins crooked. Harry looks back at the heads.
 
 **Dialogue.** None.
 
@@ -11327,7 +11327,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks down, swallows, and goes. Ron looks at Harry with a crooked brave grin. Harry looks at the sleeping heads, a flash of thanks, then he jumps. Each head is asleep.
 
-**Caption.** They haul a head aside and drop through.
+**Caption.** They haul a head aside and drop through. Hermione looks down, swallows, and goes. Ron looks at Harry with a crooked brave grin. Harry looks at the sleeping heads, a flash of thanks, then he jumps. Each head is asleep.
 
 **Dialogue.**
 
@@ -11348,7 +11348,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Ron with a breathless laugh, glasses askew. Ron looks at the leaves, pleased. Hermione looks at the vines, and her laugh dies first. She recognizes them.
 
-**Caption.** They land in something soft.
+**Caption.** They land in something soft. Harry looks at Ron with a breathless laugh, glasses askew. Ron looks at the leaves, pleased. Hermione looks at the vines, and her laugh dies first. She recognizes them.
 
 **Dialogue.**
 
@@ -11362,7 +11362,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks up at Harry, panic, unable to shout. Harry looks at the disappearing shoulder, pulling. Hermione looks at the plant, afraid and angry, thinking hard. The plant has no face. Its grip is the expression.
 
-**Caption.** Vines tighten. Ron is pulled under.
+**Caption.** Vines tighten. Ron is pulled under. Ron looks up at Harry, panic, unable to shout. Harry looks at the disappearing shoulder, pulling. Hermione looks at the plant, afraid and angry, thinking hard. The plant has no face. Its grip is the expression.
 
 **Dialogue.**
 
@@ -11376,7 +11376,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the vines, fierce and certain, a command in her eyes: stop fighting, I am here. Harry looks at her, trusting. Ron's panic pauses half a second.
 
-**Caption.** She knows the plant.
+**Caption.** She knows the plant. Hermione looks at the vines, fierce and certain, a command in her eyes: stop fighting, I am here. Harry looks at her, trusting. Ron's panic pauses half a second.
 
 **Dialogue.**
 
@@ -11390,7 +11390,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks blank with fear. Ron looks buried. Harry looks at her for the answer she already gave.
 
-**Caption.** The vines have Ron. She knows the name. She does not move.
+**Caption.** The vines have Ron. She knows the name. She does not move. She looks blank with fear. Ron looks buried. Harry looks at her for the answer she already gave.
 
 **Dialogue.** None.
 
@@ -11402,7 +11402,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron is disappearing. Harry is desperate. Hermione is blank with the fear that comes after knowing.
 
-**Caption.** She knows, and she does not move.
+**Caption.** She knows, and she does not move. Ron is disappearing. Harry is desperate. Hermione is blank with the fear that comes after knowing.
 
 **Dialogue.** None.
 
@@ -11414,7 +11414,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Her mouth is tight. The hand in the leaves is the only thing she is looking at.
 
-**Caption.** The pit waits on her.
+**Caption.** The pit waits on her. Her mouth is tight. The hand in the leaves is the only thing she is looking at.
 
 **Dialogue.** None.
 
@@ -11428,7 +11428,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Panic. Shame starting underneath it.
 
-**Caption.** Her mouth opens. Nothing comes.
+**Caption.** Her mouth opens. Nothing comes. Panic. Shame starting underneath it.
 
 **Dialogue.** None.
 
@@ -11440,7 +11440,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The fury is at her freeze, not at Ron.
 
-**Caption.** She looks at her own hands.
+**Caption.** She looks at her own hands. The fury is at her freeze, not at Ron.
 
 **Dialogue.** None.
 
@@ -11452,7 +11452,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks fierce and frightened together. The boys cannot help her remember.
 
-**Caption.** She scolds herself.
+**Caption.** She scolds herself. She looks fierce and frightened together. The boys cannot help her remember.
 
 **Dialogue.**
 
@@ -11466,7 +11466,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks like herself again, eyes on the vine, mouth mid-word. Ron looks like he has seconds. Harry looks at her wand.
 
-**Caption.** The wand comes up. No flame.
+**Caption.** The wand comes up. No flame. She looks like herself again, eyes on the vine, mouth mid-word. Ron looks like he has seconds. Harry looks at her wand.
 
 **Dialogue.** None.
 
@@ -11478,7 +11478,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione’s eyes stay on the vine, mouth still in the spell. Harry looks hopeful, trusting the thread. Ron looks under.
 
-**Caption.** A thin flame crosses the dark.
+**Caption.** A thin flame crosses the dark. Hermione’s eyes stay on the vine, mouth still in the spell. Harry looks hopeful, trusting the thread. Ron looks under.
 
 **Dialogue.** None.
 
@@ -11490,7 +11490,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the retreating vine, shaken and proud. Ron looks at her, coughing, grateful. Harry looks at Ron to be sure, then at Hermione, a nod that is a thank-you.
 
-**Caption.** The flame touches the vine. They crawl free.
+**Caption.** The flame touches the vine. They crawl free. Hermione looks at the retreating vine, shaken and proud. Ron looks at her, coughing, grateful. Harry looks at Ron to be sure, then at Hermione, a nod that is a thank-you.
 
 **Dialogue.**
 
@@ -11511,7 +11511,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look wrung out and not done.
 
-**Caption.** A door, and the sound of metal wings.
+**Caption.** A door, and the sound of metal wings. They look wrung out and not done.
 
 **Dialogue.** None.
 
@@ -11523,7 +11523,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the lock. Harry looks at the broom. Ron looks at the flock.
 
-**Caption.** The door opens on a tall room.
+**Caption.** The door opens on a tall room. Hermione looks at the lock. Harry looks at the broom. Ron looks at the flock.
 
 **Dialogue.** None.
 
@@ -11535,7 +11535,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is a storm with one quiet object, the broom.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. The room is a storm with one quiet object, the broom.
 
 **Dialogue.** None.
 
@@ -11547,7 +11547,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks offended by metal. Harry looks like a Seeker who has seen a pattern and has not said it.
 
-**Caption.** The keys were already flying before anyone named them.
+**Caption.** The keys were already flying before anyone named them. Ron looks offended by metal. Harry looks like a Seeker who has seen a pattern and has not said it.
 
 **Dialogue.** None.
 
@@ -11559,7 +11559,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks quick. Harry's hand is reaching toward the broom and not holding it.
 
-**Caption.** Hermione's eyes find the keyhole. Her mouth stays shut.
+**Caption.** Hermione's eyes find the keyhole. Her mouth stays shut. She looks quick. Harry's hand is reaching toward the broom and not holding it.
 
 **Dialogue.** None.
 
@@ -11571,7 +11571,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the broom the way he looked at the Snitch. Ron looks unconvinced. Hermione is about to explain.
 
-**Caption.** The broom waits.
+**Caption.** The broom waits. Harry looks at the broom the way he looked at the Snitch. Ron looks unconvinced. Hermione is about to explain.
 
 **Dialogue.** None.
 
@@ -11585,7 +11585,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the broom, the pitch already in his hands. Ron ducks a key. Hermione looks at the lock, then at Harry. She knows this one is his.
 
-**Caption.** A room of wings. Keys batter the air.
+**Caption.** A room of wings. Keys batter the air. Harry looks at the broom, the pitch already in his hands. Ron ducks a key. Hermione looks at the lock, then at Harry. She knows this one is his.
 
 **Dialogue.**
 
@@ -11599,7 +11599,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the lock, then at the flock, calm the way he is only in the air. Hermione looks at him, trust, a half-gesture of be careful. Ron leaves a thumbs-up up anyway.
 
-**Caption.** Harry takes the broom.
+**Caption.** Harry takes the broom. Harry looks at the lock, then at the flock, calm the way he is only in the air. Hermione looks at him, trust, a half-gesture of be careful. Ron leaves a thumbs-up up anyway.
 
 **Dialogue.**
 
@@ -11613,7 +11613,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks through the flock, searching, not swatting, Seeker-eyes. Hermione tracks one old key. Ron flinches for him.
 
-**Caption.** He flies. The keys swirl like a flock.
+**Caption.** He flies. The keys swirl like a flock. Harry looks through the flock, searching, not swatting, Seeker-eyes. Hermione tracks one old key. Ron flinches for him.
 
 **Dialogue.**
 
@@ -11627,7 +11627,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's focus narrows to the bent wing. The key, if metal can panic, panics. Hermione's face is a teammate's: a fierce go.
 
-**Caption.** One old silver key. A bent wing.
+**Caption.** Mid-air, torchlight on silver. Among the bright new keys, one heavy old silver key with a bent wing circles near the door it belongs to. Harry's focus narrows to the bent wing. The key, if metal can panic, panics. Hermione's face is a teammate's: a fierce go.
 
 **Dialogue.**
 
@@ -11641,7 +11641,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at his fist, pained and certain he has the right one. The key does not stop fighting. He looks like the boy who caught the Remembrall, older by a year of Saturdays.
 
-**Caption.** It cuts his hand. His fist closes on it.
+**Caption.** It cuts his hand. His fist closes on it. He looks at his fist, pained and certain he has the right one. The key does not stop fighting. He looks like the boy who caught the Remembrall, older by a year of Saturdays.
 
 **Dialogue.**
 
@@ -11655,7 +11655,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his cut hand, then at them, a shaky smile. Hermione looks at the cut and already at the next room. Ron looks at the door, giddy to be unpecked.
 
-**Caption.** The lock turns. They run through.
+**Caption.** The lock turns. They run through. Harry looks at his cut hand, then at them, a shaky smile. Hermione looks at the cut and already at the next room. Ron looks at the door, giddy to be unpecked.
 
 **Dialogue.**
 
@@ -11675,7 +11675,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look smaller after the flock. Ron looks, for the first time tonight, interested.
 
-**Caption.** A cold door, and the smell of stone dust.
+**Caption.** A cold door, and the smell of stone dust. They look smaller after the flock. Ron looks, for the first time tonight, interested.
 
 **Dialogue.** None.
 
@@ -11687,7 +11687,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at home and afraid. Harry looks at Ron. Hermione looks at the queen.
 
-**Caption.** They look in.
+**Caption.** They look in. Ron looks at home and afraid. Harry looks at Ron. Hermione looks at the queen.
 
 **Dialogue.** None.
 
@@ -11699,7 +11699,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The pieces look patient. Ron's mouth is shut.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. The pieces look patient. Ron's mouth is shut.
 
 **Dialogue.** None.
 
@@ -11711,7 +11711,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The pieces look hungry for a game. Ron looks like he hears rules.
 
-**Caption.** The pieces were already watching.
+**Caption.** The pieces were already watching. The pieces look hungry for a game. Ron looks like he hears rules.
 
 **Dialogue.** None.
 
@@ -11723,7 +11723,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks certain. They look willing to obey him, which is new.
 
-**Caption.** Ron puts a hand out, not touching a square.
+**Caption.** Ron puts a hand out, not touching a square. He looks certain. They look willing to obey him, which is new.
 
 **Dialogue.** None.
 
@@ -11735,7 +11735,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks respectful. Harry looks scared of a game. Hermione looks scared of Ron being good at it.
 
-**Caption.** The queen's blank face is toward them.
+**Caption.** The queen's blank face is toward them. Ron looks respectful. Harry looks scared of a game. Hermione looks scared of Ron being good at it.
 
 **Dialogue.** None.
 
@@ -11749,7 +11749,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the board, and for the first time tonight he looks at home. The fear is still there. The understanding is bigger. Harry sees it. Hermione looks at the queen, wary.
 
-**Caption.** Giant chess. The pieces are stone and armed.
+**Caption.** Giant chess. The pieces are stone and armed. Ron looks at the board, and for the first time tonight he looks at home. The fear is still there. The understanding is bigger. Harry sees it. Hermione looks at the queen, wary.
 
 **Dialogue.**
 
@@ -11763,7 +11763,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the whole board, not at his fear. Calm, bright, the best of him. Harry will go where he is told. Hermione understands she is not the clever one in this room.
 
-**Caption.** Ron places his friends on the board.
+**Caption.** Ron places his friends on the board. Ron looks at the whole board, not at his fear. Calm, bright, the best of him. Harry will go where he is told. Hermione understands she is not the clever one in this room.
 
 **Dialogue.**
 
@@ -11777,7 +11777,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks across at the far side, already moves ahead. Harry waits for the order. Hermione looks along her line, hating not knowing the plan and trusting it anyway.
 
-**Caption.** A bishop, a castle, and Ron on a knight.
+**Caption.** A bishop, a castle, and Ron on a knight. Ron looks across at the far side, already moves ahead. Harry waits for the order. Hermione looks along her line, hating not knowing the plan and trusting it anyway.
 
 **Dialogue.**
 
@@ -11791,7 +11791,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron calculates, and winces when a piece dies. He feels it. Hermione is determined, not screaming. Harry looks for the next order. The black queen's blank face is turning toward Ron's knight.
 
-**Caption.** Pieces smash each other apart.
+**Caption.** Pieces smash each other apart. Ron calculates, and winces when a piece dies. He feels it. Hermione is determined, not screaming. Harry looks for the next order. The black queen's blank face is turning toward Ron's knight.
 
 **Dialogue.**
 
@@ -11805,7 +11805,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks back with a small, serious smile. Love and terror and pride. A go-on is already in it. Harry's mouth is open on no. Hermione understands a second later, horror.
 
-**Caption.** Ron rides forward to be taken.
+**Caption.** Ron rides forward to be taken. Ron looks back with a small, serious smile. Love and terror and pride. A go-on is already in it. Harry's mouth is open on no. Hermione understands a second later, horror.
 
 **Dialogue.**
 
@@ -11821,7 +11821,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's face is slack, a ghost of the smile, unconscious. Harry looks at him, wrecked, then at the door, because Ron already told him. Hermione blinks tears away. Grief and obedience.
 
-**Caption.** The queen strikes him down.
+**Caption.** The queen strikes him down. Ron's face is slack, a ghost of the smile, unconscious. Harry looks at him, wrecked, then at the door, because Ron already told him. Hermione blinks tears away. Grief and obedience.
 
 **Dialogue.**
 
@@ -11841,7 +11841,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look unwilling to open it and more unwilling to stop.
 
-**Caption.** A door that smells like the bathroom, months later.
+**Caption.** A door that smells like the bathroom, months later. They look unwilling to open it and more unwilling to stop.
 
 **Dialogue.** None.
 
@@ -11853,7 +11853,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks ready to be efficient. He looks ready to be sick.
 
-**Caption.** The door, a snore behind it.
+**Caption.** The door, a snore behind it. She looks ready to be efficient. He looks ready to be sick.
 
 **Dialogue.** None.
 
@@ -11865,7 +11865,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The troll is asleep. They are not heroes in this room. They are people stepping past.
 
-**Caption.** They open it on a joke that is also a monster.
+**Caption.** They open it on a joke that is also a monster. The troll is asleep. They are not heroes in this room. They are people stepping past.
 
 **Dialogue.** None.
 
@@ -11877,7 +11877,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the far door, not at the troll. Harry looks at the troll because he cannot help it.
 
-**Caption.** The room, whole, and nothing to fight.
+**Caption.** The room, whole, and nothing to fight. Hermione looks at the far door, not at the troll. Harry looks at the troll because he cannot help it.
 
 **Dialogue.** None.
 
@@ -11889,7 +11889,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks focused. He looks haunted and moving.
 
-**Caption.** They were already walking the long way around the hand.
+**Caption.** They were already walking the long way around the hand. She looks focused. He looks haunted and moving.
 
 **Dialogue.** None.
 
@@ -11901,7 +11901,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione is about to refuse a delay. Harry agrees with his feet.
 
-**Caption.** The far door. Her mouth is shut.
+**Caption.** The far door. Her mouth is shut. Hermione is about to refuse a delay. Harry agrees with his feet.
 
 **Dialogue.** None.
 
@@ -11919,7 +11919,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the next door. She will not spend Ron's move on a fainted troll. Harry almost laughs, grim, then follows her back. The troll's face is slack and ignored.
 
-**Caption.** A troll, already unconscious.
+**Caption.** A troll, already unconscious. Hermione looks at the next door. She will not spend Ron's move on a fainted troll. Harry almost laughs, grim, then follows her back. The troll's face is slack and ignored.
 
 **Dialogue.**
 
@@ -11933,7 +11933,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look tired in the bones.
 
-**Caption.** The next door, after the troll.
+**Caption.** The next door, after the troll. They look tired in the bones.
 
 **Dialogue.** None.
 
@@ -11945,7 +11945,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks fed. Harry looks glad it is not another troll.
 
-**Caption.** They enter a room that wants a mind.
+**Caption.** They enter a room that wants a mind. Hermione looks fed. Harry looks glad it is not another troll.
 
 **Dialogue.** None.
 
@@ -11957,7 +11957,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is quiet on purpose.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. The room is quiet on purpose.
 
 **Dialogue.** None.
 
@@ -11969,7 +11969,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks locked in. He looks protective and useless, and knows it.
 
-**Caption.** She was already reading.
+**Caption.** She was already reading. She looks locked in. He looks protective and useless, and knows it.
 
 **Dialogue.** None.
 
@@ -11981,7 +11981,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at her the way you look at a light. She does not look back.
 
-**Caption.** He watches her, not the puzzle.
+**Caption.** He watches her, not the puzzle. He looks at her the way you look at a light. She does not look back.
 
 **Dialogue.** None.
 
@@ -11995,7 +11995,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks almost happy, which is strange here. He looks hopeful.
 
-**Caption.** Her lips move. The answer is not out.
+**Caption.** Her lips move. The answer is not out. She looks almost happy, which is strange here. He looks hopeful.
 
 **Dialogue.** None.
 
@@ -12007,7 +12007,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the bottles, the world narrowing to logic. Harry looks at her. He knows this is hers the way the keys were his. Relieved, and afraid of that relief.
 
-**Caption.** Seven bottles, and a riddle.
+**Caption.** A small cold chamber. A table. Seven bottles, different sizes, stoppers, liquids: clear, amber, gold, black, ruby, pale, and one tiny vial. Hermione looks at the bottles, the world narrowing to logic. Harry looks at her. He knows this is hers the way the keys were his. Relieved, and afraid of that relief.
 
 **Dialogue.**
 
@@ -12021,7 +12021,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She is utterly concentrated, the eager classroom girl become something quieter and stronger. A flicker of fear she will be slow. Harry's face says take the time. Ron bought it.
 
-**Caption.** She reads it once, then again.
+**Caption.** She reads it once, then again. She is utterly concentrated, the eager classroom girl become something quieter and stronger. A flicker of fear she will be slow. Harry's face says take the time. Ron bought it.
 
 **Dialogue.**
 
@@ -12035,7 +12035,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Her mouth and eyes are certain, and sad, because the amounts mean a goodbye. Harry has understood. They look at the two bottles.
 
-**Caption.** One swallow back. One swallow on.
+**Caption.** One swallow back. One swallow on. Her mouth and eyes are certain, and sad, because the amounts mean a goodbye. Harry has understood. They look at the two bottles.
 
 **Dialogue.**
 
@@ -12049,7 +12049,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at him, fierce love and fear. She hates this part, and she is practical about the cut. Harry wants to argue and does not. Gratitude. His jaw is set. Neither of them calls it a goodbye.
 
-**Caption.** She puts the forward bottle in his hand.
+**Caption.** She puts the forward bottle in his hand. Hermione looks at him, fierce love and fear. She hates this part, and she is practical about the cut. Harry wants to argue and does not. Gratitude. His jaw is set. Neither of them calls it a goodbye.
 
 **Dialogue.**
 
@@ -12065,7 +12065,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at him, brave, eyes bright: stay alive. Harry looks back, a small nod. When the door shuts, the nod is unfinished. The year of three becomes one.
 
-**Caption.** He drinks. The door shuts on her face.
+**Caption.** He drinks. The door shuts on her face. Hermione looks at him, brave, eyes bright: stay alive. Harry looks back, a small nod. When the door shuts, the nod is unfinished. The year of three becomes one.
 
 **Dialogue.**
 
@@ -12088,7 +12088,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks small and decided.
 
-**Caption.** The door after the bottles, and no friends.
+**Caption.** The door after the bottles, and no friends. He looks small and decided.
 
 **Dialogue.** None.
 
@@ -12100,7 +12100,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks for a greasy-haired man and sees a mirror.
 
-**Caption.** He opens it.
+**Caption.** He opens it. He looks for a greasy-haired man and sees a mirror.
 
 **Dialogue.** None.
 
@@ -12112,7 +12112,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks ready to accuse the wrong teacher. The room looks ready to correct him.
 
-**Caption.** The room, whole.
+**Caption.** The room, whole. Harry looks ready to accuse the wrong teacher. The room looks ready to correct him.
 
 **Dialogue.** None.
 
@@ -12124,7 +12124,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The mirror looks patient. Harry looks at it and past it, searching the corners.
 
-**Caption.** The mirror was already waiting.
+**Caption.** The mirror was already waiting. The mirror looks patient. Harry looks at it and past it, searching the corners.
 
 **Dialogue.** None.
 
@@ -12136,7 +12136,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks brave and incorrect.
 
-**Caption.** He steps in. His wand is up. He has not called a name.
+**Caption.** He steps in. His wand is up. He has not called a name. He looks brave and incorrect.
 
 **Dialogue.** None.
 
@@ -12148,7 +12148,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His face is set. The shadow does not answer yet.
 
-**Caption.** His mouth opens on the wrong name.
+**Caption.** His mouth opens on the wrong name. His face is set. The shadow does not answer yet.
 
 **Dialogue.** None.
 
@@ -12162,7 +12162,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the mirror, recognition and dread. He looks around for Snape and finds no one. His mouth is slightly open. Young, alone, not running.
 
-**Caption.** The Mirror of Erised waits at the far end.
+**Caption.** The Mirror of Erised waits at the far end. Harry looks at the mirror, recognition and dread. He looks around for Snape and finds no one. His mouth is slightly open. Young, alone, not running.
 
 **Dialogue.**
 
@@ -12176,7 +12176,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks toward the voice, expecting a hooked nose, confused when the voice is courteous. Fear changes flavor. The shadowed head tilts.
 
-**Caption.** A polite voice answers from the dark.
+**Caption.** A polite voice answers from the dark. Harry looks toward the voice, expecting a hooked nose, confused when the voice is courteous. Fear changes flavor. The shadowed head tilts.
 
 **Dialogue.**
 
@@ -12190,7 +12190,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell's own face looks at Harry, polite and cold. Pale, smooth, the same man. Harry looks at the turban, the year's theory collapsing. Shock.
 
-**Caption.** Quirrell steps out. No stutter.
+**Caption.** Quirrell steps out. No stutter. Quirrell's own face looks at Harry, polite and cold. Pale, smooth, the same man. Harry looks at the turban, the year's theory collapsing. Shock.
 
 **Dialogue.**
 
@@ -12204,7 +12204,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell likes this part, a thin smile. Harry looks at the floor, ashamed, the hatred of the year mis-aimed.
 
-**Caption.** None.
+**Caption.** Quirrell says it lightly, a teacher correcting an essay. Quirrell likes this part, a thin smile. Harry looks at the floor, ashamed, the hatred of the year mis-aimed.
 
 **Dialogue.**
 
@@ -12218,7 +12218,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell's face looks devout and calm. No Voldemort features on the front. Harry looks at that face, horror, mouth tight. He does not beg.
 
-**Caption.** Harry backs up.
+**Caption.** Harry backs up. Quirrell's face looks devout and calm. No Voldemort features on the front. Harry looks at that face, horror, mouth tight. He does not beg.
 
 **Dialogue.**
 
@@ -12232,7 +12232,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks afraid. We see Quirrell's shoulder and the start of the turn, not a second man.
 
-**Caption.** He turns. His face leaves the frame.
+**Caption.** He turns. His face leaves the frame. Harry looks afraid. We see Quirrell's shoulder and the start of the turn, not a second man.
 
 **Dialogue.** None.
 
@@ -12246,7 +12246,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at cloth. He expects a face and does not get one yet.
 
-**Caption.** Camera behind Harry. The back, and the cloth.
+**Caption.** Camera behind Harry. The back, and the cloth. Harry looks at cloth. He expects a face and does not get one yet.
 
 **Dialogue.** None.
 
@@ -12258,7 +12258,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The hands are steady, the stammer gone, the cloth ordinary.
 
-**Caption.** His hands go up. They have not pulled.
+**Caption.** His hands go up. They have not pulled. The hands are steady, the stammer gone, the cloth ordinary.
 
 **Dialogue.** None.
 
@@ -12270,7 +12270,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is waiting. The cloth is only cloth.
 
-**Caption.** Only purple cloth.
+**Caption.** Only purple cloth. Harry is waiting. The cloth is only cloth.
 
 **Dialogue.** None.
 
@@ -12282,7 +12282,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's mouth is shut. The confession was already said. No new line.
 
-**Caption.** Quirrell's own face is on the far side of the skull, out of frame.
+**Caption.** Quirrell's own face is on the far side of the skull, out of frame. Harry's mouth is shut. The confession was already said. No new line.
 
 **Dialogue.** None.
 
@@ -12294,7 +12294,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks as if the worst is the cloth. He is wrong, and the page does not correct him.
 
-**Caption.** The cloth is still on. The next picture takes it off.
+**Caption.** The cloth is still on. The next picture takes it off. Harry looks as if the worst is the cloth. He is wrong, and the page does not correct him.
 
 **Dialogue.** None.
 
@@ -12306,7 +12306,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Voldemort's face looks at Harry, hatred and a horrible fondness. Harry's hands come up. His scar goes white. He does not look away. Quirrell's face is not in the picture.
 
-**Caption.** On the back of the bald head, Voldemort's face.
+**Caption.** On the back of the bald head, Voldemort's face. Voldemort's face looks at Harry, hatred and a horrible fondness. Harry's hands come up. His scar goes white. He does not look away. Quirrell's face is not in the picture.
 
 **Dialogue.**
 
@@ -12322,7 +12322,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Voldemort's face, on the scalp, looks impatient and hungry. Harry's jaw is set. He looks at the wand, then at the glass.
 
-**Caption.** None.
+**Caption.** Side view of one head. Quirrell's profile looks away from Harry. On the opposite side of the same skull, Voldemort's face looks toward Harry. Voldemort's face, on the scalp, looks impatient and hungry. Harry's jaw is set. He looks at the wand, then at the glass.
 
 **Dialogue.**
 
@@ -12336,7 +12336,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Greed, then rage when he cannot reach. The reflection looks smug and useless. Desire without worth.
 
-**Caption.** In the glass he holds the Stone, and cannot take it.
+**Caption.** In the glass he holds the Stone, and cannot take it. Greed, then rage when he cannot reach. The reflection looks smug and useless. Desire without worth.
 
 **Dialogue.**
 
@@ -12351,7 +12351,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks into the glass, afraid of what he wants. Quirrell's face looks at the back of Harry's head, hungry. The face on the scalp looks the other way.
 
-**Caption.** He forces Harry in front of the mirror.
+**Caption.** He forces Harry in front of the mirror. Harry looks into the glass, afraid of what he wants. Quirrell's face looks at the back of Harry's head, hungry. The face on the scalp looks the other way.
 
 **Dialogue.**
 
@@ -12365,7 +12365,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Mirror-Harry looks calm, a conspirator. Real Harry's eyes widen. Understanding floods him. He wants to find the Stone, not use it.
 
-**Caption.** In the glass, the Stone slips into a pocket.
+**Caption.** In the glass, the Stone slips into a pocket. Mirror-Harry looks calm, a conspirator. Real Harry's eyes widen. Understanding floods him. He wants to find the Stone, not use it.
 
 **Dialogue.** None.
 
@@ -12377,7 +12377,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** A flash of wonder he crushes into stillness. He looks at his own hand, then schools his face. The scar hurts. He ignores it.
 
-**Caption.** The real weight drops into his pocket.
+**Caption.** The real weight drops into his pocket. A flash of wonder he crushes into stillness. He looks at his own hand, then schools his face. The scar hurts. He ignores it.
 
 **Dialogue.**
 
@@ -12391,7 +12391,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks earnest and unconvincing. Quirrell wants to believe and does not. The lie is clear.
 
-**Caption.** He lies.
+**Caption.** He lies. Harry looks earnest and unconvincing. Quirrell wants to believe and does not. The lie is clear.
 
 **Dialogue.**
 
@@ -12407,7 +12407,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The face on the scalp looks toward Harry, hatred, certainty. Harry looks at the hand coming, fear and refusal. He will not give it over.
 
-**Caption.** None.
+**Caption.** Side view of one head. Voldemort's face, on the back of the bald scalp, snarls. Quirrell's own face is the other side of that skull, and his hand shoots toward the pocket. The face on the scalp looks toward Harry, hatred, certainty. Harry looks at the hand coming, fear and refusal. He will not give it over.
 
 **Dialogue.**
 
@@ -12421,7 +12421,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry is shocked by a scream that is not his. Quirrell looks at his own smoking hand as if it betrayed him.
 
-**Caption.** Quirrell grabs his arm. The hands smoke.
+**Caption.** Quirrell grabs his arm. The hands smoke. Harry is shocked by a scream that is not his. Quirrell looks at his own smoking hand as if it betrayed him.
 
 **Dialogue.**
 
@@ -12436,7 +12436,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell looks at his palm, agony. The face on the back of the head is hate. Harry looks back, the stun becoming a choice.
 
-**Caption.** He lets go. The skin is blistered.
+**Caption.** He lets go. The skin is blistered. Quirrell looks at his palm, agony. The face on the back of the head is hate. Harry looks back, the stun becoming a choice.
 
 **Dialogue.**
 
@@ -12450,7 +12450,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Quirrell looks at Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab first.
 
-**Caption.** None.
+**Caption.** The face commands. Quirrell, more afraid of the face than of the burn, reaches again with blistered hands. Quirrell looks at Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab first.
 
 **Dialogue.**
 
@@ -12464,7 +12464,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's teeth are set. He hates this and he will not stop. The face under his hand, for the first time, looks afraid.
 
-**Caption.** Harry holds on. Both of them burn.
+**Caption.** Harry holds on. Both of them burn. Harry's teeth are set. He hates this and he will not stop. The face under his hand, for the first time, looks afraid.
 
 **Dialogue.**
 
@@ -12478,7 +12478,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes shut, open, shut. Pain. Stubbornness. He looks like someone about to pass out who has not finished. A red eye in the smoke looks afraid.
 
-**Caption.** The Stone stays a hard point in his pocket.
+**Caption.** The Stone stays a hard point in his pocket. Harry's eyes shut, open, shut. Pain. Stubbornness. He looks like someone about to pass out who has not finished. A red eye in the smoke looks afraid.
 
 **Dialogue.** None.
 
@@ -12492,7 +12492,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at what his hands are doing, horror. He wanted the hands to stop. Quirrell's remaining face is a servant at the end.
 
-**Caption.** Quirrell comes apart under Harry's hands.
+**Caption.** Quirrell comes apart under Harry's hands. Harry looks at what his hands are doing, horror. He wanted the hands to stop. Quirrell's remaining face is a servant at the end.
 
 **Dialogue.**
 
@@ -12506,7 +12506,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** That face looks at Harry, hate and fear in equal measure. Harry's eye, at the edge, looks back, crying, refusing.
 
-**Caption.** The face is furious and afraid.
+**Caption.** The face is furious and afraid. That face looks at Harry, hate and fear in equal measure. Harry's eye, at the edge, looks back, crying, refusing.
 
 **Dialogue.**
 
@@ -12520,7 +12520,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The world shakes. He is going under. The Stone is still a hard truth in the blur.
 
-**Caption.** The scar is white-hot. His vision tunnels.
+**Caption.** The scar is white-hot. His vision tunnels. The world shakes. He is going under. The Stone is still a hard truth in the blur.
 
 **Dialogue.** None.
 
@@ -12532,7 +12532,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Relief so strong it looks like surrender. If Dumbledore is there, he is urgent and gentle, too late to stop the fainting and in time for the rest.
 
-**Caption.** Far off, someone calls his name.
+**Caption.** Far off, someone calls his name. Relief so strong it looks like surrender. If Dumbledore is there, he is urgent and gentle, too late to stop the fainting and in time for the rest.
 
 **Dialogue.**
 
@@ -12546,7 +12546,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the smoke, a question he cannot hold. His face is white, the stubbornness used up.
 
-**Caption.** Quirrell falls. A dark smoke tears loose.
+**Caption.** Quirrell falls. A dark smoke tears loose. Harry looks at the smoke, a question he cannot hold. His face is white, the stubbornness used up.
 
 **Dialogue.** None.
 
@@ -12558,7 +12558,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's eyes are closed. He looks young. The mirror shows no desire. It shows a boy who did the thing and stopped.
 
-**Caption.** Harry hits the floor. The mirror is empty.
+**Caption.** Harry hits the floor. The mirror is empty. Harry's eyes are closed. He looks young. The mirror shows no desire. It shows a boy who did the thing and stopped.
 
 **Dialogue.** None.
 
@@ -12578,7 +12578,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The day looks kind. The window looks quiet.
 
-**Caption.** Summer outside a tall window.
+**Caption.** Summer outside a tall window. The day looks kind. The window looks quiet.
 
 **Dialogue.** None.
 
@@ -12590,7 +12590,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Pomfrey looks busy. The hat looks patient.
 
-**Caption.** The corridor of the wing.
+**Caption.** The corridor of the wing. Pomfrey looks busy. The hat looks patient.
 
 **Dialogue.** None.
 
@@ -12602,7 +12602,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks fond and tired. Harry looks young and gone.
 
-**Caption.** The ward, whole, and one boy asleep.
+**Caption.** The ward, whole, and one boy asleep. Dumbledore looks fond and tired. Harry looks young and gone.
 
 **Dialogue.** None.
 
@@ -12614,7 +12614,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks as if he has been there a long while and does not mind.
 
-**Caption.** He was already waiting.
+**Caption.** He was already waiting. He looks as if he has been there a long while and does not mind.
 
 **Dialogue.** None.
 
@@ -12626,7 +12626,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** She looks professional and fond. He looks grateful and still.
 
-**Caption.** Pomfrey looks in and leaves them.
+**Caption.** Pomfrey looks in and leaves them. She looks professional and fond. He looks grateful and still.
 
 **Dialogue.** None.
 
@@ -12638,7 +12638,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore leans a fraction. Harry is on the edge of the room.
 
-**Caption.** Harry's eyelids move.
+**Caption.** Harry's eyelids move. Dumbledore leans a fraction. Harry is on the edge of the room.
 
 **Dialogue.** None.
 
@@ -12652,7 +12652,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks at his hands, groggy, trying to remember why they hurt. Confused. Alive. His eyes move toward the glasses, wanting them, not reaching yet.
 
-**Caption.** White curtains. Sun. Bandaged hands.
+**Caption.** White curtains. Sun. Bandaged hands. He looks at his hands, groggy, trying to remember why they hurt. Confused. Alive. His eyes move toward the glasses, wanting them, not reaching yet.
 
 **Dialogue.** None.
 
@@ -12664,7 +12664,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, relief deep under the calm, a smile that is not a joke. He looks a little tired. Harry looks at him, trusting, a boy checking the world is still there.
 
-**Caption.** Dumbledore sits beside the bed.
+**Caption.** Dumbledore sits beside the bed. Dumbledore looks at Harry, relief deep under the calm, a smile that is not a joke. He looks a little tired. Harry looks at him, trusting, a boy checking the world is still there.
 
 **Dialogue.**
 
@@ -12678,7 +12678,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his own side, frightened, afraid he failed. Dumbledore looks at the empty hand, understanding at once, kind, about to give the answer.
 
-**Caption.** Harry reaches for the pocket. It is empty.
+**Caption.** Harry reaches for the pocket. It is empty. Harry looks at his own side, frightened, afraid he failed. Dumbledore looks at the empty hand, understanding at once, kind, about to give the answer.
 
 **Dialogue.**
 
@@ -12692,7 +12692,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's face does both: relief, then a question. Dumbledore looks gentle and sure, a little sad for the object and not for the choice. He looks at Harry's hands, grateful they are the cost and not a grave.
 
-**Caption.** None.
+**Caption.** A white curtain breathes. Harry sinks back, small in the bed. Dumbledore's hands are open and empty. There is nothing to show. Harry's face does both: relief, then a question. Dumbledore looks gentle and sure, a little sad for the object and not for the choice.
 
 **Dialogue.**
 
@@ -12706,7 +12706,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Dumbledore, earnest, a child who has seen what the Stone costs and still asks. Dumbledore looks at him, tender, the mirror-night remembered. He is not angry at the question.
 
-**Caption.** None.
+**Caption.** The bedside, sun, a bowl of grapes ordinary against the size of the question. Harry's bandaged hands rest on the blanket. Harry looks at Dumbledore, earnest, a child who has seen what the Stone costs and still asks. Dumbledore looks at him, tender, the mirror-night remembered. He is not angry at the question.
 
 **Dialogue.**
 
@@ -12720,7 +12720,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at the children outside, protective of a whole world, not only Harry. Harry looks out, then at him, a small nod. His face is tired and older than September.
 
-**Caption.** None.
+**Caption.** The hospital window onto summer lawns. Tiny students, far off, drag plain trunks. Ordinary lives. Dumbledore in profile looks out. Dumbledore looks at the children outside, protective of a whole world, not only Harry. Harry looks out, then at him, a small nod. His face is tired and older than September.
 
 **Dialogue.**
 
@@ -12736,7 +12736,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at his hands, uneasy, then at Dumbledore, afraid the answer will be that he is dangerous. Dumbledore looks at the bandages, moved, a shine in the eye he does not hide, ready to give the better truth.
 
-**Caption.** None.
+**Caption.** White linen, sun, the wing very quiet. Harry holds up both bandaged hands, the evidence. Dumbledore leans in, spectacles low on his nose. Harry looks at his hands, uneasy, then at Dumbledore, afraid the answer will be that he is dangerous. Dumbledore looks at the bandages, moved, a shine in the eye he does not hide, ready to give the better truth.
 
 **Dialogue.**
 
@@ -12750,7 +12750,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, gentle, choosing words for a child. Harry looks at him, hungry, hope and fear of hearing it wrong. His mouth is closed. He is listening harder than he has listened all year.
 
-**Caption.** Dumbledore begins with Harry's mother.
+**Caption.** Dumbledore begins with Harry's mother. Dumbledore looks at Harry, gentle, choosing words for a child. Harry looks at him, hungry, hope and fear of hearing it wrong. His mouth is closed. He is listening harder than he has listened all year.
 
 **Dialogue.**
 
@@ -12764,7 +12764,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Her face is not a portrait. The love is in the stance, the way she will not step aside. The baby's face is calm. No attacker. A person choosing.
 
-**Caption.** Lily, as light between a crib and a green curse.
+**Caption.** Lily, as light between a crib and a green curse. Her face is not a portrait. The love is in the stance, the way she will not step aside. The baby's face is calm. No attacker. A person choosing.
 
 **Dialogue.** None.
 
@@ -12776,7 +12776,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at the hand, reverent. Harry looks at it, eyes wet, the horror of the burning rewritten. He looks at Dumbledore, a question and a thank-you mixed, though the thank-you is for her.
 
-**Caption.** None.
+**Caption.** Back in the hospital, sun, the flower. Dumbledore's finger, very light, indicates Harry's bandaged hand, not the scar. Dumbledore looks at the hand, reverent. Harry looks at it, eyes wet, the horror of the burning rewritten. He looks at Dumbledore, a question and a thank-you mixed, though the thank-you is for her.
 
 **Dialogue.**
 
@@ -12790,7 +12790,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks overwhelmed, grieving and proud in a private way. Dumbledore looks at him, making sure he hears love and not a weapon. Kind, serious. The shame of the burning eases.
 
-**Caption.** None.
+**Caption.** The quiet wing, a white curtain. Harry pulls the blanket a little higher, both hands bandaged. Dumbledore sits beside him. Harry looks overwhelmed, grieving and proud in a private way. Dumbledore looks at him, making sure he hears love and not a weapon. Kind, serious. The shame of the burning eases.
 
 **Dialogue.**
 
@@ -12804,7 +12804,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His mouth is soft. Wonder. Sorrow. He looks at his hands the way he looked at the cloak. Inheritance.
 
-**Caption.** He looks at his bandaged hands.
+**Caption.** He looks at his bandaged hands. His mouth is soft. Wonder. Sorrow. He looks at his hands the way he looked at the cloak. Inheritance.
 
 **Dialogue.** None.
 
@@ -12818,7 +12818,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Dumbledore, checking if he is allowed to say the name. He is. Serious. Dumbledore looks at the scar, studying, gentle, and nods.
 
-**Caption.** Harry touches the scar.
+**Caption.** Harry touches the scar. Harry looks at Dumbledore, checking if he is allowed to say the name. Serious. Dumbledore looks at the scar, studying, gentle, and nods.
 
 **Dialogue.**
 
@@ -12832,7 +12832,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, honest. He will not pretend the scar is only a mark. Harry looks back, a little afraid, steadied by being believed. No one smiles. Respect.
 
-**Caption.** None.
+**Caption.** The chair and the bed. Dumbledore nods once. A plate of plain chocolate frogs waits on the table, a child-thing beside a large truth. Dumbledore looks at Harry, honest. He will not pretend the scar is only a mark. Harry looks back, a little afraid, steadied by being believed. No one smiles. Respect.
 
 **Dialogue.**
 
@@ -12846,7 +12846,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at him, pleading, plain. He wants the reason the way he wanted the letter. Dumbledore looks at Harry, love and a gate. He looks older. He looks sorry.
 
-**Caption.** None.
+**Caption.** The summer window is too bright. Harry's bandaged hands are loose fists. He looks very eleven. Dumbledore's face goes still. Harry looks at him, pleading, plain. He wants the reason the way he wanted the letter. Dumbledore looks at Harry, love and a gate. He looks older. He looks sorry.
 
 **Dialogue.**
 
@@ -12860,7 +12860,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Dumbledore, hope thinning into patience. Dumbledore looks at his own hands, then at the boy, choosing. Sad. Certain. Kind.
 
-**Caption.** Silence, held.
+**Caption.** Silence, held. Harry looks at Dumbledore, hope thinning into patience. Dumbledore looks at his own hands, then at the boy, choosing. Sad. Certain. Kind.
 
 **Dialogue.** None.
 
@@ -12872,7 +12872,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Harry, loving, immovable. Harry looks at him, disappointed, trusting anyway. A small nod. His eyes are wet and he is not arguing.
 
-**Caption.** None.
+**Caption.** Close at the bedside. Dumbledore's hand covers Harry's bandaged fist, brief. Beard, spectacles, the promise and the refusal in the same lean. Dumbledore looks at Harry, loving, immovable. Harry looks at him, disappointed, trusting anyway. A small nod. His eyes are wet and he is not arguing.
 
 **Dialogue.**
 
@@ -12886,7 +12886,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks like a man changing the subject with a sweet. Harry looks tired and curious.
 
-**Caption.** A small box, after the hard answers.
+**Caption.** A small box, after the hard answers. He looks like a man changing the subject with a sweet. Harry looks tired and curious.
 
 **Dialogue.** None.
 
@@ -12900,7 +12900,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks mischievous and kind. Harry looks wary, because Ron told him about a train.
 
-**Caption.** He offers one.
+**Caption.** He offers one. Dumbledore looks mischievous and kind. Harry looks wary, because Ron told him about a train.
 
 **Dialogue.**
 
@@ -12914,7 +12914,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks polite and done with foul sweets. Dumbledore looks understanding.
 
-**Caption.** Harry does not take it.
+**Caption.** Harry does not take it. Harry looks polite and done with foul sweets. Dumbledore looks understanding.
 
 **Dialogue.**
 
@@ -12928,7 +12928,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks game. Harry looks braced for him.
 
-**Caption.** Dumbledore takes one himself.
+**Caption.** Dumbledore takes one himself. Dumbledore looks game. Harry looks braced for him.
 
 **Dialogue.** None.
 
@@ -12940,7 +12940,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks betrayed by a sweet and determined to be civil.
 
-**Caption.** His face changes.
+**Caption.** His face changes. He looks betrayed by a sweet and determined to be civil.
 
 **Dialogue.** None.
 
@@ -12952,7 +12952,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks rueful. Harry looks like he might laugh and does not, much.
 
-**Caption.** Earwax.
+**Caption.** Earwax. He looks rueful. Harry looks like he might laugh and does not, much.
 
 **Dialogue.**
 
@@ -12966,7 +12966,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks back, a small smile, the twinkle returning carefully. Harry looks at him, a smaller smile, thank you and not yet. Pomfrey looks on with professional tenderness. The unfinished question sits in Harry's eyes after the smile.
 
-**Caption.** Chocolate frogs. The answer stays unfinished.
+**Caption.** Chocolate frogs. The answer stays unfinished. Dumbledore looks back, a small smile, the twinkle returning carefully. Harry looks at him, a smaller smile, thank you and not yet. Pomfrey looks on with professional tenderness. The unfinished question sits in Harry's eyes after the smile.
 
 **Dialogue.**
 
@@ -12986,7 +12986,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's joy abandons the whisper. Hermione scans Harry for damage, then smiles so hard. Harry's face opens all the way. Pomfrey looks fond and exasperated.
 
-**Caption.** Ron and Hermione burst in.
+**Caption.** Ron and Hermione burst in. Ron's joy abandons the whisper. Hermione scans Harry for damage, then smiles so hard. Harry's face opens all the way. Pomfrey looks fond and exasperated.
 
 **Dialogue.**
 
@@ -13002,7 +13002,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at Harry, proud, needing him to have seen the move. Harry looks at the bandage, gratitude that hurts, the smile watery. Hermione looks at Ron, fond, a smile she is not hiding well.
 
-**Caption.** Ron's head is bandaged. He is proud of it.
+**Caption.** Ron's head is bandaged. He is proud of it. Ron looks at Harry, proud, needing him to have seen the move. Harry looks at the bandage, gratitude that hurts, the smile watery. Hermione looks at Ron, fond, a smile she is not hiding well.
 
 **Dialogue.**
 
@@ -13016,7 +13016,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks down, guilty, precise about her own limits. Harry shakes his head. She is wrong to hate it. Ron looks at her, kind. He knows what it is to be the one who stays behind.
 
-**Caption.** None.
+**Caption.** A quieter panel. Hermione looks at her hands. The cake leans, plain. Ron goes quieter under his bandage. Hermione looks down, guilty, precise about her own limits. Harry shakes his head. She is wrong to hate it. Ron looks at her, kind. He knows what it is to be the one who stays behind.
 
 **Dialogue.**
 
@@ -13030,7 +13030,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks from one to the other, insisting, bright. Hermione laughs, the guilt loosening. Ron looks fake-offended and delighted. They look like the trio the door tried to split.
 
-**Caption.** They argue, happy.
+**Caption.** They argue, happy. Harry looks from one to the other, insisting, bright. Hermione laughs, the guilt loosening. Ron looks fake-offended and delighted. They look like the trio the door tried to split.
 
 **Dialogue.**
 
@@ -13045,7 +13045,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at them, tired, sure. Hermione looks into the middle distance, rearranging the year, a shiver. Ron's Snape-theory falls off his face. Understanding. No joke.
 
-**Caption.** Both go still.
+**Caption.** Both go still. Harry looks at them, tired, sure. Hermione looks into the middle distance, rearranging the year, a shiver. Ron's Snape-theory falls off his face. Understanding. No joke.
 
 **Dialogue.**
 
@@ -13060,7 +13060,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the frog, then at them, content, the unfinished question set down for now. Ron looks at Harry's hands, careful. Hermione looks at the card, then at the lake, a small peaceful smile. They look like children again.
 
-**Caption.** The three of them, and a bright lake outside.
+**Caption.** The three of them, and a bright lake outside. Harry looks at the frog, then at them, content, the unfinished question set down for now. Ron looks at Harry's hands, careful. Hermione looks at the card, then at the lake, a small peaceful smile. They look like children again.
 
 **Dialogue.**
 
@@ -13083,7 +13083,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like people who know the score and hate it.
 
-**Caption.** The castle on a summer night.
+**Caption.** The castle on a summer night. They look like people who know the score and hate it.
 
 **Dialogue.** None.
 
@@ -13095,7 +13095,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron's ears are red. Hermione's mouth is tight. Harry looks in.
 
-**Caption.** The Hall doors.
+**Caption.** The Hall doors. Ron's ears are red. Hermione's mouth is tight. Harry looks in.
 
 **Dialogue.** None.
 
@@ -13107,7 +13107,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room sounds like a victory already given. It has not been given.
 
-**Caption.** The Hall, whole, four houses, one color winning.
+**Caption.** The Hall, whole, four houses, one color winning. The room sounds like a victory already given. It has not been given.
 
 **Dialogue.** None.
 
@@ -13119,7 +13119,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks crowned. Harry looks level. Dumbledore looks mild, which is a warning nobody reads.
 
-**Caption.** They were already toasting.
+**Caption.** They were already toasting. Draco looks crowned. Harry looks level. Dumbledore looks mild, which is a warning nobody reads.
 
 **Dialogue.** None.
 
@@ -13131,7 +13131,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at the glass, not at a speech.
 
-**Caption.** The hourglasses, green far ahead.
+**Caption.** The hourglasses, green far ahead. Harry looks at the glass, not at a speech.
 
 **Dialogue.** None.
 
@@ -13143,7 +13143,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks delighted. Harry looks tired of him. Ron looks murderous over a pudding.
 
-**Caption.** Draco finds him across the room.
+**Caption.** Draco finds him across the room. Draco looks delighted. Harry looks tired of him. Ron looks murderous over a pudding.
 
 **Dialogue.** None.
 
@@ -13157,7 +13157,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at the cup as if he already owns it. Harry looks at his plate, quiet, the hospital still in his posture. He is not sulking.
 
-**Caption.** The Great Hall, dressed green and silver.
+**Caption.** The Great Hall, dressed green and silver. Draco looks at the cup as if he already owns it. Harry looks at his plate, quiet, the hospital still in his posture. He is not sulking.
 
 **Dialogue.**
 
@@ -13171,7 +13171,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at Harry, sweet and poisonous. Harry looks back, tired of him, unshaken. Ron looks furious. Hermione looks at Ron: not now.
 
-**Caption.** Draco lifts a goblet toward Harry.
+**Caption.** Draco lifts a goblet toward Harry. Draco looks at Harry, sweet and poisonous. Harry looks back, tired of him, unshaken. Ron looks furious. Hermione looks at Ron: not now.
 
 **Dialogue.**
 
@@ -13185,7 +13185,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks over the hall, benign, holding a secret. Draco looks impatient for the cup. The students turn, quiet attention.
 
-**Caption.** Dumbledore stands. The room settles.
+**Caption.** Dumbledore stands. The room settles. Dumbledore looks over the hall, benign, holding a secret. Draco looks impatient for the cup. The students turn, quiet attention.
 
 **Dialogue.**
 
@@ -13199,7 +13199,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks warm and formal. Snape looks at the cloth, sour, ready to endure it. McGonagall looks as if she may already know.
 
-**Caption.** Snape looks sour.
+**Caption.** Snape looks sour. Dumbledore looks warm and formal. Snape looks at the cloth, sour, ready to endure it. McGonagall looks as if she may already know.
 
 **Dialogue.**
 
@@ -13214,7 +13214,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks stunned, then proud, a smile she tries to make modest. Harry looks at her, proud. Ron looks at her with the whole adventure in his cheer.
 
-**Caption.** Points for Hermione.
+**Caption.** Points for Hermione. Hermione looks stunned, then proud, a smile she tries to make modest. Harry looks at her, proud. Ron looks at her with the whole adventure in his cheer.
 
 **Dialogue.**
 
@@ -13228,7 +13228,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at the green glass, the smirk returning. Hermione looks at the gap, biting her lip. Harry looks on, waiting. The jewels are a verdict that is still moving.
 
-**Caption.** Gryffindor shifts. Slytherin is still ahead.
+**Caption.** Gryffindor shifts. Slytherin is still ahead. Draco looks at the green glass, the smirk returning. Hermione looks at the gap, biting her lip. Harry looks on, waiting. The jewels are a verdict that is still moving.
 
 **Dialogue.**
 
@@ -13245,7 +13245,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks overwhelmed, a grin breaking. The twins look at him with wild pride. Harry looks at Ron, the chessboard in his eyes. Thank you.
 
-**Caption.** Points for Ron.
+**Caption.** Points for Ron. Ron looks overwhelmed, a grin breaking. The twins look at him with wild pride. Harry looks at Ron, the chessboard in his eyes. Thank you.
 
 **Dialogue.**
 
@@ -13259,7 +13259,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at his brothers, laughing, embarrassed, proud. Fred and George look at him with no joke for once, or the joke is the love.
 
-**Caption.** Ron goes red. The twins pound his shoulders.
+**Caption.** Ron goes red. The twins pound his shoulders. Ron looks at his brothers, laughing, embarrassed, proud. Fred and George look at him with no joke for once, or the joke is the love.
 
 **Dialogue.**
 
@@ -13274,7 +13274,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry's face is not a victory face yet. It is a waiting face. Hermione looks at him, proud. Ron looks at him, grinning.
 
-**Caption.** Points for Harry.
+**Caption.** Points for Harry. Harry's face is not a victory face yet. It is a waiting face. Hermione looks at him, proud. Ron looks at him, grinning.
 
 **Dialogue.**
 
@@ -13288,7 +13288,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** His face looks intent, hopeful, guarded. He looks young. The glass looks like it is deciding.
 
-**Caption.** Harry watches the hourglasses and does not smile.
+**Caption.** Harry watches the hourglasses and does not smile. His face looks intent, hopeful, guarded. He looks young. The glass looks like it is deciding.
 
 **Dialogue.**
 
@@ -13302,7 +13302,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks at the tie, a shared cup already failing him. Dumbledore looks faintly pleased. The pause is before the last name.
 
-**Caption.** The totals land even. The hall holds its breath.
+**Caption.** The totals land even. The hall holds its breath. Draco looks at the tie, a shared cup already failing him. Dumbledore looks faintly pleased. The pause is before the last name.
 
 **Dialogue.** None.
 
@@ -13314,7 +13314,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks delighted, a smile beginning. Harry looks puzzled, the wrong direction. Neville looks at his pudding, unaware, innocent.
 
-**Caption.** One student is left.
+**Caption.** One student is left. Dumbledore looks delighted, a smile beginning. Harry looks puzzled, the wrong direction. Neville looks at his pudding, unaware, innocent.
 
 **Dialogue.**
 
@@ -13330,7 +13330,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks up, pure bewilderment. Harry's grin is starting: yes. Hermione understands before Neville does. Ron looks delighted.
 
-**Caption.** Points for Neville Longbottom.
+**Caption.** Points for Neville Longbottom. Neville looks up, pure bewilderment. Harry's grin is starting: yes. Hermione understands before Neville does. Ron looks delighted.
 
 **Dialogue.**
 
@@ -13344,7 +13344,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks lost, then toward his friends, the start of belief. Embarrassed. Bright. Harry looks at the spill, then at Neville's face, fond.
 
-**Caption.** Neville drops his goblet.
+**Caption.** Neville drops his goblet. Neville looks lost, then toward his friends, the start of belief. Embarrassed. Bright. Harry looks at the spill, then at Neville's face, fond.
 
 **Dialogue.**
 
@@ -13358,7 +13358,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Dumbledore looks at Neville with respect, no joke in the sentence. Neville looks back, the memory hurting in a good way, eyes wet.
 
-**Caption.** None.
+**Caption.** Dumbledore speaks, and a soft memory opens beside them: Neville in a nightshirt, arms spread in a doorway at night, terrified and brave, trying to stop his friends. Dumbledore looks at Neville with respect, no joke in the sentence. Neville looks back, the memory hurting in a good way, eyes wet.
 
 **Dialogue.**
 
@@ -13372,7 +13372,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks at the glass in awe. Draco looks pale with fury. Snape looks at nothing, sour, contained. McGonagall looks on with fierce joy. Harry looks at Neville.
 
-**Caption.** Jewels pour. Gryffindor passes Slytherin.
+**Caption.** Jewels pour. Gryffindor passes Slytherin. Neville looks at the glass in awe. Draco looks pale with fury. Snape looks at nothing, sour, contained. McGonagall looks on with fierce joy. Harry looks at Neville.
 
 **Dialogue.**
 
@@ -13386,7 +13386,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Neville looks down at his friends, laughing, the boy who fell off the broom. Hermione's hands are together. Harry looks up at him. Hagrid is undone. Joy, loud, earned.
 
-**Caption.** The hall erupts. Neville is lifted.
+**Caption.** The hall erupts. Neville is lifted. Neville looks down at his friends, laughing, the boy who fell off the broom. Hermione's hands are together. Harry looks up at him. Hagrid is undone. Joy, loud, earned.
 
 **Dialogue.**
 
@@ -13401,7 +13401,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Draco looks across the hall, envy and humiliation, alone inside his house. The goblet is a toast nobody joined. Still, small, mean, and sad.
 
-**Caption.** Draco still holds his goblet.
+**Caption.** Draco still holds his goblet. Draco looks across the hall, envy and humiliation, alone inside his house. The goblet is a toast nobody joined. Still, small, mean, and sad.
 
 **Dialogue.** None.
 
@@ -13419,7 +13419,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look tired and happy. The train looks the same as September.
 
-**Caption.** The scarlet train, summer, at the platform.
+**Caption.** The scarlet train, summer, at the platform. They look tired and happy. The train looks the same as September.
 
 **Dialogue.** None.
 
@@ -13431,7 +13431,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks at the seats like old friends. Harry looks like he might sleep.
 
-**Caption.** Their compartment, from the corridor.
+**Caption.** Their compartment, from the corridor. Ron looks at the seats like old friends. Harry looks like he might sleep.
 
 **Dialogue.** None.
 
@@ -13443,7 +13443,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** The room is theirs. The year is in the clutter.
 
-**Caption.** The compartment, whole.
+**Caption.** The compartment, whole. The room is theirs. The year is in the clutter.
 
 **Dialogue.** None.
 
@@ -13455,7 +13455,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look easy with each other. That is the change.
 
-**Caption.** They were already sitting before anyone joked.
+**Caption.** They were already sitting before anyone joked. They look easy with each other. That is the change.
 
 **Dialogue.** None.
 
@@ -13467,7 +13467,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Ron looks fond of a useless rat. Harry looks fond of the owl. Hermione looks fond of both boys and will not say it that way.
 
-**Caption.** Scabbers sleeps. Hedwig blinks.
+**Caption.** Scabbers sleeps. Hedwig blinks. Ron looks fond of a useless rat. Harry looks fond of the owl. Hermione looks fond of both boys and will not say it that way.
 
 **Dialogue.** None.
 
@@ -13479,7 +13479,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** He looks happy. Harry looks like he might agree. Hermione looks like she is saving a correction.
 
-**Caption.** The countryside starts. Ron's mouth opens.
+**Caption.** The countryside starts. Ron's mouth opens. He looks happy. Harry looks like he might agree. Hermione looks like she is saving a correction.
 
 **Dialogue.** None.
 
@@ -13497,7 +13497,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks at Ron, mid-laugh. Ron looks at Scabbers, fond. Hermione looks at them, a smile that includes the book and the boys. Nobody looks like a first-day stranger.
 
-**Caption.** The train home. The same compartment.
+**Caption.** The train home. The same compartment. Harry looks at Ron, mid-laugh. Ron looks at Scabbers, fond. Hermione looks at them, a smile that includes the book and the boys. Nobody looks like a first-day stranger.
 
 **Dialogue.**
 
@@ -13512,7 +13512,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks at the page, content. Ron looks at the sandwich, a boy with enough. Harry looks at them, quiet happiness, the cupboard far. He looks full. Accompanied.
 
-**Caption.** A book, a real sandwich, and both friends.
+**Caption.** A book, a real sandwich, and both friends. Hermione looks at the page, content. Ron looks at the sandwich, a boy with enough. Harry looks at them, quiet happiness, the cupboard far. He looks full. Accompanied.
 
 **Dialogue.**
 
@@ -13527,7 +13527,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Hermione looks earnest, a little bossy, loving. Ron will write badly and truly. Harry looks at Hedwig, a smile. He has a way to reach them. Hedwig looks steady, regal, fond.
 
-**Caption.** Hedwig blinks.
+**Caption.** Hedwig blinks. Hermione looks earnest, a little bossy, loving. Ron will write badly and truly. Harry looks at Hedwig, a smile. He has a way to reach them. Hedwig looks steady, regal, fond.
 
 **Dialogue.**
 
@@ -13543,7 +13543,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look like veterans of a wall.
 
-**Caption.** The train slows. The brick is ahead.
+**Caption.** The train slows. The brick is ahead. They look like veterans of a wall.
 
 **Dialogue.** None.
 
@@ -13555,7 +13555,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Molly looks busy and warm. Harry looks like he is delaying the other side.
 
-**Caption.** The barrier, from the wizard side.
+**Caption.** The barrier, from the wizard side. Molly looks busy and warm. Harry looks like he is delaying the other side.
 
 **Dialogue.** None.
 
@@ -13567,7 +13567,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** They look unafraid of brick.
 
-**Caption.** They run at the wall.
+**Caption.** They run at the wall. They look unafraid of brick.
 
 **Dialogue.** None.
 
@@ -13585,7 +13585,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks struck by how small it is. Ron looks cheerful. Hermione looks already writing letters in her head.
 
-**Caption.** The Muggle station, sudden and loud.
+**Caption.** The Muggle station, sudden and loud. Harry looks struck by how small it is. Ron looks cheerful. Hermione looks already writing letters in her head.
 
 **Dialogue.** None.
 
@@ -13597,7 +13597,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Molly looks like Harry is one of hers. Harry looks unprepared for the reach.
 
-**Caption.** Molly's arms are already opening.
+**Caption.** Molly's arms are already opening. Molly looks like Harry is one of hers. Harry looks unprepared for the reach.
 
 **Dialogue.** None.
 
@@ -13609,7 +13609,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon looks stiff. Harry has not walked to him. He looks back at the Weasleys first, in the next pages.
 
-**Caption.** Vernon waits by the barrier, the same man.
+**Caption.** Vernon waits by the barrier, the same man. Vernon looks stiff. Harry has not walked to him. He looks back at the Weasleys first, in the next pages.
 
 **Dialogue.** None.
 
@@ -13621,7 +13621,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Molly looks at Harry, maternal, decided. Harry leans into the hug, a boy learning what it is for. Ron looks pleased with the world. Ginny looks curious, not afraid.
 
-**Caption.** King's Cross. Molly hugs Harry.
+**Caption.** King's Cross. Molly hugs Harry. Molly looks at Harry, maternal, decided. Harry leans into the hug, a boy learning what it is for. Ron looks pleased with the world. Ginny looks curious, not afraid.
 
 **Dialogue.**
 
@@ -13635,7 +13635,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Vernon looks at Harry, a warning already, the same small angry eyes. Harry looks back, unafraid, polite, chin up. He does not look at the floor. That is the change.
 
-**Caption.** Vernon waits. Harry does not hurry.
+**Caption.** Vernon waits. Harry does not hurry. Vernon looks at Harry, a warning already, the same small angry eyes. Harry looks back, unafraid, polite, chin up. He does not look at the floor. That is the change.
 
 **Dialogue.**
 
@@ -13650,7 +13650,7 @@ One place, one stretch of time. Wardrobe holds for the scene unless a panel show
 
 **Faces.** Harry looks back, a real smile, small and sure. Ron's wave is big and loyal. Hermione's wave says see you soon. Harry's face is still a child's face. He is coming back.
 
-**Caption.** He looks back, touches the scar, and goes.
+**Caption.** He looks back, touches the scar, and goes. Harry looks back, a real smile, small and sure. Ron's wave is big and loyal. Hermione's wave says see you soon. Harry's face is still a child's face. He is coming back.
 
 **Dialogue.**
 
