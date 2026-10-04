@@ -44,7 +44,7 @@ The Hogwarts Express is scarlet. That is the train, not a house robe. Do not put
 - **Hermione.** Her own Muggle traveling clothes: a white blouse, a plain brown cardigan, a gray skirt, dark shoes, books hugged to her chest. No robe, no Gryffindor tie, no crest.
 - **Draco, Crabbe, and Goyle.** They have not been Sorted either. Draco wears an expensive plain black coat: no green lining, no silver snake, no house tie. Crabbe and Goyle wear bulky dark coats, the same two builds, no green and no snake.
 - **Neville and the other children.** Mixed Muggle clothes and wizard travel cloaks in brown, gray, and plain black. No house colors. No ties, crests, or scarves. Fred, George, and Percy are in ordinary travel clothes too. A prefect badge is not a house crest.
-- **Last beat of the ride only.** The panel where the train slows and they change (“Robes on”) may show plain black uncrested robes going on, with no house tie, no crest, and no scarf. Do not add another robe panel. Every earlier Express panel stays in travel clothes. The platform just after that beat keeps those same plain black robes. It does not add a tie.
+- **The whole ride, including the platform.** First years stay in travel clothes until the Sorting. No plain black school robes on the train, and none on the night platform. No ties, crests, or scarves. House robes start when they have been Sorted.
 
 ## Harry
 

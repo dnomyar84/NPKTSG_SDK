@@ -152,13 +152,13 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** Draco mocks the scar in the corridor, and they go down the dungeon stair. That is the way down.
 - **Scripted, not yet drawn.** The room before he starts: they walk in, they see the jars, they sit, and he is not teaching yet. No picture file.
 - **Present.** Snape's first speech, bottling fame and stoppering death. He ignores Hermione, says "Potter," and asks a question Harry cannot answer. Points come off for arrogance, and more points because Harry could not answer. Afterwards Ron says Snape hates him. That private surname is already the right register for Ron. The corridor after is its own page.
-- **Missing.** Neville's melted cauldron, the smoke, and the class disaster that lets Snape blame the wrong boy. Potions here is only Harry's humiliation. If a later pass adds the cauldron, it sits in this chapter, not in the troll.
+- **Present.** Neville’s cauldron smokes, the potion climbs the iron with no wand thread, the iron melts, and the mess follows. Snape blames Harry. It sits in The Potions Master, not in the troll chapter.
 
 ### Chapter 9 — Flying class and the Seeker
 
 - **Present.** Dawn, two lines, brooms on the grass. Madam Hooch tells them to say up and not to kick off until she says.
 - **Present.** Neville shouts the word too soon, the broom hauls him into the sky, he circles, he falls, and his wrist breaks. The Remembrall rolls out of his pocket.
-- **Missing.** The face-hit. In the film the class shouts the word together and a broom shoots up off the grass into a student's face. In the book Harry's own broom comes cleanly to his hand. Keep Neville's crash, because that is the story. Also keep the face-hit, because it is the laugh the user named. One does not replace the other. Do not delete the smack in order to be faithful to the book.
+- **Present.** The class shouts the word together, one broom shoots up, and it hits a face. That student is not Neville. Neville’s crash is the next page. One does not replace the other.
 - **Present.** Draco takes the Remembrall, mounts, and tells Harry to come and get it. Hermione says he will be expelled. Harry kicks off, dives, and closes his hand on the ball just above the stone.
 - **Present.** McGonagall, icy, takes Potter inside. It is not an expulsion. She has found Oliver Wood a Seeker.
 
