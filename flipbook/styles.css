@@ -98,21 +98,70 @@ body.reader {
 }
 
 body.reader .topbar {
-  padding: 6px 14px;
+  flex-wrap: nowrap;
+  gap: 10px;
+  align-items: center;
+  padding: 2px 12px;
+  line-height: 1.15;
 }
 
 body.reader .footer-note {
   padding: 2px 14px 4px;
 }
 
+body.reader .brand {
+  flex-direction: row;
+  align-items: baseline;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+}
+
 body.reader .brand strong {
-  font-size: 1.12rem;
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 0.88rem;
+  line-height: 1.15;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body.reader .brand span {
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: 42%;
+  font-size: 0.72rem;
+  line-height: 1.15;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body.reader .nav {
+  flex: 0 0 auto;
+  flex-wrap: nowrap;
+  gap: 0;
+}
+
+body.reader .nav button.ghost {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  padding: 0;
+  min-height: 0;
+  font: 700 0.75rem/1.15 var(--sans);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  white-space: nowrap;
 }
 
 .stage {
   height: calc(100vh - 118px);
   display: grid;
   place-items: center;
+  align-content: center;
+  justify-content: center;
   padding: 0 16px 8px;
 }
 
@@ -261,6 +310,7 @@ body.reader .stage {
 }
 
 .lines {
+  flex: 0 0 auto;
   margin: 0;
   padding: 2px 4px 3px;
   background: rgba(255, 250, 242, 0.96);
@@ -272,6 +322,15 @@ body.reader .stage {
   font-size: 12.5px;
   line-height: 1.28;
   color: var(--ink);
+}
+
+.lines p.caption {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 560;
+  font-size: 11px;
+  line-height: 1.2;
+  color: var(--ink-soft);
 }
 
 .lines p + p { margin-top: 2px; }
@@ -435,6 +494,11 @@ dd { margin: 2px 0 0; line-height: 1.45; }
 @media (max-width: 800px) {
   .chars, .notes-grid { grid-template-columns: 1fr; }
   .topbar { flex-direction: column; align-items: flex-start; }
+  body.reader .topbar {
+    flex-direction: row;
+    align-items: center;
+  }
+  body.reader .brand span { display: none; }
   .stage { height: auto; }
   .book-wrap { transform: none !important; width: 100%; height: auto; }
   .book {
