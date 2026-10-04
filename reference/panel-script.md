@@ -6,7 +6,7 @@ Image generation has not been started. Panels with no file stay empty frames. Th
 
 A scene is one place and one stretch of time, and it takes at least one page. A new place opens with the outside, then the threshold, then what people were already doing, then talk. Magic is a sequence: who aims, the thin link, the result, and a follow-through when a body changes.
 
-Counts: 21 chapters, 209 pages, 1219 panels.
+Counts: 21 chapters, 210 pages, 1219 panels.
 
 ## Chapters
 
@@ -25,7 +25,7 @@ Counts: 21 chapters, 209 pages, 1219 panels.
 - 13. Nicolas Flamel — 11 pages
 - 14. The Mirror of Erised — 7 pages
 - 15. Norbert the Norwegian Ridgeback — 12 pages
-- 16. The Forbidden Forest — 6 pages
+- 16. The Forbidden Forest — 7 pages
 - 17. They decide to protect the Stone — 12 pages
 - 18. Through the Trapdoor — 12 pages
 - 19. The Man with Two Faces — 9 pages
@@ -42,13 +42,11 @@ A wet suburban street seen from the corner, identical brick houses stepping away
 
 Faces: The street is empty. Even the windows look asleep.
 
-
 **Panel 2.** Number four, from the gate.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The nearest house, number four, square and proud of its hedge. A milk bottle waits on the step. One window is warm. The door is shut and ordinary.
 
 Faces: A closed house. Nothing welcomes anyone.
-
 
 **Panel 3.** Through the glass, the room, not the people yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -56,13 +54,11 @@ From the garden side of the window: a floral sofa, a television, too many baby p
 
 Faces: The room looks pleased with itself.
 
-
 **Panel 4.** They were asleep before anyone arrived.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Closer through the glass, still outside. Vernon is slumped in a brown suit. Petunia is asleep in a mint housedress. Baby Dudley sleeps in a frilly crib. None of them faces the window.
 
 Faces: All three are slack, mouths open, dead to the street.
-
 
 **Panel 5.** A tabby has been on the wall for hours.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -70,13 +66,11 @@ A thin brown tabby with spectacle markings sits on the low garden wall, no colla
 
 Faces: The cat is perfectly still, ears forward, disgusted by the window and patient with the street.
 
-
 **Panel 6.** Someone tall steps into the far end of the street.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 At the dark end of Privet Drive, a very tall thin figure in a plum cloak and a pointed hat comes into the lamplight. A silver lighter-shaped device is closed in his hand. He has not raised it. The cat sees him first.
 
 Faces: Dumbledore looks along the lamps, calm, not yet at the cat. The cat's eyes lock on him.
-
 
 ### Page 2 — The lamps go out
 
@@ -86,13 +80,11 @@ Privet Drive just before midnight. Wet pavement, identical brick houses, fog at 
 
 Faces: The cat stares down the street, ears forward, perfectly still.
 
-
 **Panel 8.** He aims the silver lighter. No ribbon yet.. Art file: `art/c1-p1-p2.jpg`.
 
 Dumbledore stands at the left edge of Privet Drive, plum cloak and pointed hat. The silver Deluminator, a cigarette-lighter, not a wand, is raised toward the nearest street lamp. Nothing has left it. That lamp is still fully lit. Lamps farther down the street are still lit. A thin brown tabby watches from the wall. His wand stays in his sleeve.
 
 Faces: Dumbledore is intent on the lamp. The cat is patient.
-
 
 **Panel 801.** A thin ribbon runs from the lamp into the lighter.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -100,20 +92,17 @@ The same lamp, a moment later. A thin ribbon of warm yellow runs from the globe 
 
 Faces: Dumbledore watches the ribbon. The cat does not blink.
 
-
 **Panel 802.** The lamp is out. The street dies in one direction.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 That lamp is dark. Lamps behind him are already out. Lamps farther ahead are still lit, so the street dies in one direction. The Deluminator is lowered. No ribbon remains. The tabby's eyes hold the last of the yellow.
 
 Faces: The street is quieter. The cat is a witness.
 
-
 **Panel 9.** The cat watches the last lamp go out.. Art file: `art/c1-p1-p3.jpg`.
 
 Tight on the tabby’s face. The last lamp’s light is leaving the globe, a bright coin in each eye, then half gone. Wet brick and a few pale flowers.
 
 Faces: Eyes wide and knowing. The cat stares toward where Dumbledore stands, out of frame.
-
 
 **Panel 10.** Dumbledore turns and notices the cat.. Art file: `art/c1-p1-p4.jpg`.
 
@@ -133,7 +122,6 @@ On the garden wall, the tabby is halfway to a woman. The same eyes. The spectacl
 
 Faces: The changing face is McGonagall's, stern already. Dumbledore waits.
 
-
 **Panel 11.** The cat becomes Professor McGonagall.. Art file: `art/c1-p1-p5.jpg`.
 
 The wall is empty. McGonagall stands on the pavement where the cat was, emerald robes still settling, a wisp of tabby mist at her hem.
@@ -147,7 +135,6 @@ Faces: She looks up, stern and worried, mouth already open to argue.
 They have left the wall. Plum cloak and emerald robes, the hem still settling, cross a few paces of wet pavement to the dark door. A milk bottle sits on the step. They have not started the step conversation yet.
 
 Faces: Both are grave. The house is ordinary.
-
 
 **Panel 12.** McGonagall and Dumbledore on the doorstep of number four. Art file: `art/c1-p1-p6.jpg`.
 
@@ -166,7 +153,6 @@ Faces: She looks at him, exasperated and afraid. He looks at the door, gentle an
 Dumbledore and McGonagall stand at the dark door of number four, where they have already been talking. He reaches into the plum cloak and brings out a small paper twist. The street behind them is already lamp-dark.
 
 Faces: He looks mildly hopeful. She is still stern, eyes on the door, not on his hand.
-
 
 **Panel 14.** A lemon sweet, offered.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -190,20 +176,17 @@ He puts the lemon sweet in his own mouth. A small sour wince, almost a smile, an
 
 Faces: The wince is tiny. The sadness was already there. She does not smile.
 
-
 **Panel 17.** The twist goes back into the cloak.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He folds the paper away. His other hand is empty. He looks at the door, the decision already made. She looks through the window at the sleepers.
 
 Faces: He is gentle and finished with the sweet. She is back to disgust.
 
-
 **Panel 18.** They turn to the glass.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The two of them are small against the house. The next thing the reader sees is the family inside. No motorcycle yet. The sweet is over.
 
 Faces: McGonagall's mouth is tight. Dumbledore's eyes are sad, not joking.
-
 
 ### Page 5 — The wrong family
 
@@ -212,7 +195,6 @@ Faces: McGonagall's mouth is tight. Dumbledore's eyes are sad, not joking.
 Through the front window: Vernon asleep in a brown suit, Petunia asleep in a mint housedress, baby Dudley in a frilly crib. Warm light, a floral sofa, too many baby photos.
 
 Faces: All three are slack with sleep. None of them look toward the window.
-
 
 **Panel 20.** McGonagall in profile outside the window, one hand half-raised, the warm room soft behind the glass. Art file: `art/c1-p2-p2.jpg`.
 
@@ -245,7 +227,6 @@ Faces: McGonagall looks alarmed, eyes up. Dumbledore looks up with recognition, 
 A huge flying motorcycle drops through the fog above the hedge, headlamp cutting the dark, about to touch down. Hagrid cradles a green bundle.
 
 Faces: Hagrid looks wrecked, eyes red, staring at the doorstep, not at the two wizards.
-
 
 **Panel 24.** Hagrid lands with the baby.. Art file: `art/c1-p2-p6.jpg`.
 
@@ -317,13 +298,11 @@ A memory, edges jagged. Exterior only: a small stone cottage, one warm window, a
 
 Faces: The house looks lived in.
 
-
 **Panel 806.** The doorway. A figure aims nothing yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The cottage threshold. A tall figure stands at the gate with his back to us, wand lowered, face unreadable, no turban and no name. The door is shut. Lily and James are not in this frame.
 
 Faces: The figure is still. The house does not know.
-
 
 **Panel 807.** They were already inside with the baby.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -331,13 +310,11 @@ Inside the nursery, before the curse. Lily, long dark-red hair, pale gown, is on
 
 Faces: Lily is afraid and planted. James is turning.
 
-
 **Panel 808.** The wand comes up. No green yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the nursery doorway, the same unreadable figure raises a wand toward the room. No green has left the tip. Lily stays on the viewer's left. James stays on the viewer's right. The baby is between them.
 
 Faces: The figure's mouth is hidden. The parents have seen the wand.
-
 
 **Panel 809.** A thin green spear leaves the wand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -345,13 +322,11 @@ A thin spear of green light leaves the wand tip and crosses the nursery toward L
 
 Faces: Lily's mouth is open. The green is a thread.
 
-
 **Panel 26.** The cottage is open. James is down. Lily is by the crib.. Art file: `art/c1-p3-p2.jpg`.
 
 The result, still the cottage and not the drive. The roof is blown open. James lies face-down, glasses aside, on the viewer's right of the crib. Lily has collapsed by the crib on the viewer's left, one arm reaching, long dark-red hair, a pale gown. The green spear is gone. The baby is a small shape in the crib. No second room.
 
 Faces: No living faces to read. The reaching hand is the feeling of the picture.
-
 
 ### Page 8 — The letter
 
@@ -369,20 +344,17 @@ Close on a hand sliding a thick sealed envelope into the green blanket, beside t
 
 Faces: Harry does not react. The hand is careful, almost reluctant.
 
-
 **Panel 34.** Harry is set on the doorstep, eyes open.. Art file: `art/c1-p4-p4.jpg`.
 
 From the doormat: Harry is small against the big black door, the letter peeking from the blanket. Three pairs of feet stand back.
 
 Faces: Harry looks up, calm, toward the people leaving. Only their feet are in the frame.
 
-
 **Panel 35.** They leave in three directions.. Art file: `art/c1-p4-p5.jpg`.
 
 High over the street. Harry is a tiny green mark on the step. The motorcycle lifts, the tabby glances back from a wall, and Dumbledore walks into the dark.
 
 Faces: Hagrid’s back is all we see. The cat’s eyes flash once. Dumbledore’s face is hidden by the hat brim.
-
 
 ### Page 9 — The lamps come back
 
@@ -392,13 +364,11 @@ At the far corner of Privet Drive he stops. The silver Deluminator is raised tow
 
 Faces: Dumbledore is calm. The street is blind.
 
-
 **Panel 811.** Ribbons run from the lighter back into the lamps.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Thin ribbons of warm yellow run from the Deluminator up into the street-lamp globes, the reverse of the ribbon that emptied them. The lamps have not flared. No wand line. Harry is still a small green shape on the step.
 
 Faces: The ribbons are the only bright thing.
-
 
 **Panel 812.** The lamps flare. The ribbons are gone.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -406,13 +376,11 @@ The lamps flare on, one after another, down Privet Drive. Dumbledore is small at
 
 Faces: The street looks ordinary again.
 
-
 **Panel 36.** The baby lies alone in the returned light.. Art file: `art/c1-p4-p6.jpg`.
 
 Close on the step of number four. Harry lies alone in the new yellow light, eyes open, green blanket, the letter tucked beside his fist. The lightning scar is on his anatomical right brow, the viewer's left. The door has not opened. No Deluminator, no ribbon, and no adult is in the frame.
 
 Faces: Harry looks toward the street, eyes open, not crying. Dumbledore is already leaving at the edge. The light is warm and the picture is lonely.
-
 
 **Panel 813.** The lit street, and one green bundle.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -420,13 +388,11 @@ High over Privet Drive. Every lamp is warm again. Harry is one green bundle on t
 
 Faces: The baby is awake. The street is empty.
 
-
 **Panel 814.** Morning has not come. The door stays shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door of number four, brass numbers, milk bottle, the green blanket at the bottom of the frame. A line of yellow lamp light crosses the step. No hand reaches for the bell.
 
 Faces: The house sleeps. The baby does not.
-
 
 ## Chapter 2 — Harry’s life with the Dursleys
 
@@ -438,13 +404,11 @@ The same brick house, now morning. A neat lawn, the same hedge, a car in the dri
 
 Faces: A proud, ordinary house.
 
-
 **Panel 2.** The front door, from the path.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door of number four, brass numbers, a mail slot, a doormat. Petunia's shadow moves behind the frosted glass, busy, not opening the door.
 
 Faces: The house is already in a rush that does not include a small boy.
-
 
 **Panel 3.** The hall, before the cupboard opens.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -452,13 +416,11 @@ Inside the hall: floral carpet, a row of Dudley's framed photos climbing the sta
 
 Faces: The hall is crowded with one child's life and a locked door.
 
-
 **Panel 4.** Dudley was already counting in the kitchen.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Through the kitchen doorway, Dudley sits in a striped shirt among a mountain of bright parcels, mouth open, mid-count, delighted with himself. Vernon beams over a newspaper. The table is a feast.
 
 Faces: Dudley is greedy and happy. Vernon is proud. Neither looks toward the hall.
-
 
 **Panel 5.** Petunia sets one slice of toast.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -466,13 +428,11 @@ At the end of the table, away from the parcels, one plate holds a single slice o
 
 Faces: She is brisk and blank. The toast is an afterthought.
 
-
 **Panel 6.** The cupboard door, still shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Back in the hall, close on the cupboard under the stairs. The bolt. A thin line of dark inside. A small movement, not yet a hand. The kitchen noise is far away.
 
 Faces: The door looks like a cupboard. It is a bedroom.
-
 
 ### Page 2 — The cupboard
 
@@ -482,13 +442,11 @@ A small hand pushes the cupboard door from inside. Dusty light cuts across cobwe
 
 Faces: Sleepy and wary. He looks out into the hall light as if checking whether it is safe.
 
-
 **Panel 8.** He sits up under the stairs.. Art file: `art/c2-p1-p2.jpg`.
 
 Harry sits under the stairs, knees up, the ceiling too low to stand. The open door frames a polished banister and a bright kitchen.
 
 Faces: He looks at his own knees, resigned. This is an ordinary morning.
-
 
 **Panel 9.** Dudley counts a mountain of presents.. Art file: `art/c2-p1-p3.jpg`.
 
@@ -522,7 +480,6 @@ A framed photo of Vernon, Petunia, and Dudley hangs on floral wallpaper. Harry s
 
 Faces: The photo-family looks delighted. Harry looks quiet and hurt.
 
-
 ### Page 3 — The zoo, from the gate
 
 **Panel 13.** The zoo gates, a bright cold day.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -531,13 +488,11 @@ A municipal zoo entrance, balloons, a sign, families queueing. Vernon marches in
 
 Faces: Dudley is already bored and loud. Harry is small and quiet. Vernon looks as if the outing is a duty.
 
-
 **Panel 14.** The reptile house from the path.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A low brick reptile house, steamed windows, a painted snake on a board. Other families drift toward the penguins. Dudley points at this door and pulls.
 
 Faces: Dudley wants something to bang. Harry looks at the door, curious, not yet inside.
-
 
 **Panel 15.** They cross into the heat.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -545,13 +500,11 @@ The doorway. Outside is gray daylight. Inside is green glass, wet air, and a his
 
 Faces: Harry's glasses fog. Dudley wrinkles his nose. Petunia already dislikes the smell.
 
-
 **Panel 16.** Tanks, and people already tapping glass.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hall of enclosures. Visitors drift. A child taps a lizard tank and is pulled away. At the far end, one large tank is darker than the others.
 
 Faces: Strangers are casual. Harry is the one who looks properly.
-
 
 **Panel 17.** One boa, already there, ignoring everyone.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -559,13 +512,11 @@ The far tank. One large green-brown boa with darker saddles fills the floor of t
 
 Faces: The snake is bored with the public. It has not looked at Harry yet.
 
-
 **Panel 18.** Dudley arrives at the glass. He has not banged yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dudley reaches the tank, both hands rising, mouth open, about to hit the glass. Harry stands a step back, looking at the gold eye. Vernon is a mustache in the background, checking his watch.
 
 Faces: Dudley is impatient. Harry is quiet and already on the snake's side. The snake has not moved.
-
 
 ### Page 4 — The boa
 
@@ -583,7 +534,6 @@ Through the glass, the same boa's pale gold eye is aimed past Dudley toward Harr
 
 Faces: The snake looks only at Harry. Dudley does not understand he has been dismissed. Harry looks back, startled and pleased.
 
-
 **Panel 21.** The snake answers by moving.. Art file: `art/c2-p2-p3.jpg`.
 
 Harry is close to the glass, one hand spread on the pane. The same green-brown boa, still longer than he is tall, has slid nearer, tongue almost touching the spot opposite his fingers.
@@ -598,13 +548,11 @@ Inside the reptile house, the same tank. Harry, in Dudley's old gray clothes, lo
 
 Faces: Harry is on the snake's side. The boa is still.
 
-
 **Panel 802.** A thin crack runs across the pane.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same tank. A thin crack leaves the glass in front of Harry's face and runs toward the boa. It is a line, not a hole. The boa has not come through. Dudley’s hands are on Harry’s shoulder.
 
 Faces: Harry looks startled. Dudley looks greedy.
-
 
 **Panel 22.** Dudley shoves Harry. The glass is gone.. Art file: `art/c2-p2-p4.jpg`.
 
@@ -638,13 +586,11 @@ The reptile-house aisle. The same green-brown boa, darker saddles, one gold eye,
 
 Faces: Vernon is furious. Harry is sorry and not sorry.
 
-
 **Panel 804.** Outside the reptile house. The day is ordinary.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The zoo path, daylight, the reptile-house door behind them. Vernon marches Harry away. Petunia clutches wet Dudley. No second boa. The sign is the same painted snake.
 
 Faces: Petunia is shrill. Harry is small.
-
 
 **Panel 805.** The gates, going out.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -652,13 +598,11 @@ The municipal gates, balloons, the family leaving. Harry trails in the same gray
 
 Faces: Vernon will not speak until the car.
 
-
 **Panel 806.** The car. Harry is in the middle.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The back seat of the Dursley car, daytime. Harry is wedged between the door and Dudley’s wet shoulder. The zoo is a sign in the rear window. No letter yet. This is still the same afternoon.
 
 Faces: Dudley smirks. Harry watches the road.
-
 
 ### Page 6 — The kitchen, before the owl
 
@@ -668,13 +612,11 @@ The brick house from the street, morning, chimney smoke. A tawny owl is a speck 
 
 Faces: An ordinary street, if you miss the owl.
 
-
 **Panel 26.** The kitchen window from the garden.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Through the window: the breakfast table, eggs, Vernon's paper, Dudley's large plate, Harry's small one. The window is shut. The owl is closer, a blur above the hedge.
 
 Faces: Inside, they are eating. Nobody has looked up.
-
 
 **Panel 27.** They cross nothing. We are already in the smell of eggs.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -682,13 +624,11 @@ The kitchen as a whole. Toast, eggs, a teapot, Dudley's empty wrappers from yest
 
 Faces: Vernon is buried in the paper. Petunia is serving Dudley. Harry is hungry and careful.
 
-
 **Panel 28.** Dudley talks with his mouth full. Harry does not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dudley waves a fork, telling a story nobody needs. Crumbs on his chin. Harry watches the window, not the feast. His plate is eggs and nothing extra.
 
 Faces: Dudley is loud. Harry is elsewhere. Petunia watches Dudley, not Harry.
-
 
 **Panel 29.** Vernon turns a page. The house is pleased with itself.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -696,13 +636,11 @@ Vernon snaps the newspaper flat. A headline about ordinary news. His mustache is
 
 Faces: He looks satisfied. He has not gone white yet.
 
-
 **Panel 30.** A shadow crosses the eggs.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A wing-shadow slides over the tablecloth and the eggs. Harry's eyes go up. Dudley's fork stops halfway. The owl is at the glass and has not dropped the letter.
 
 Faces: Harry is startled and hopeful. Dudley is confused. Vernon has not looked up from the paper.
-
 
 ### Page 7 — The letter on the eggs
 
@@ -738,20 +676,17 @@ Close on the open letter in Vernon’s fist, a crest at the top, the kitchen bul
 
 Faces: Vernon has gone white. Harry’s hand is still open.
 
-
 **Panel 808.** They will not let him finish it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The kitchen, same breakfast. Vernon folds the letter into his pocket. Petunia’s mouth is a line. Dudley has forgotten the owl and wants the eggs. Harry stands by his single slice of toast.
 
 Faces: Petunia is afraid. Dudley is bored again.
 
-
 **Panel 809.** The window the owl left by.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The kitchen window from inside, the tawny owl already a speck over the hedge. The letter is out of sight in Vernon’s pocket. The same morning. No mail slot yet.
 
 Faces: Harry watches the bird. Vernon draws the curtain.
-
 
 ### Page 8 — The mail slot
 
@@ -761,13 +696,11 @@ Number four from the path, the next morning. The brass slot is already thick wit
 
 Faces: The street is curious. The door is not.
 
-
 **Panel 811.** Letters push through before the hammer.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hall side of the door. Three thick letters shove through the slot and land on the mat. Vernon is in the frame with the hammer, not swung. Harry is on the stairs in the gray clothes.
 
 Faces: Harry wants the letters. Vernon wants them gone.
-
 
 **Panel 34.** The next day, Vernon nails the mail slot shut.. Art file: `art/c2-p3-p4.jpg`.
 
@@ -783,20 +716,17 @@ The front door from the path again. The mail slot is nailed shut. One envelope c
 
 Faces: The house has decided.
 
-
 **Panel 813.** Inside, the hammer is put away.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hall. The hammer is on the stair. The cupboard door is still bolted. Harry looks at the nailed slot. Dudley laughs from the kitchen doorway. Same day as the nails, not the chimney yet.
 
 Faces: Dudley enjoys it. Harry does not.
 
-
 **Panel 814.** Evening. No owl can use the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dusk on Privet Drive. An owl wheels once over number four and does not land. The slot is a row of nail heads. A warm window. The chimney is still open. That comes next, and it is not this picture.
 
 Faces: The owl is persistent. The house is smug.
-
 
 ### Page 9 — The chimney
 
@@ -805,7 +735,6 @@ Faces: The owl is persistent. The house is smug.
 The sitting room fireplace, cold and ordinary, floral wallpaper, Dudley’s photos. Vernon has not brought the plank yet. Harry stands in the doorway of the room.
 
 Faces: The room thinks it has won.
-
 
 **Panel 35.** Letters pour down the chimney.. Art file: `art/c2-p3-p5.jpg`.
 
@@ -829,20 +758,17 @@ Close on the plank Vernon has just nailed. Envelopes strain the wood. A wax seal
 
 Faces: Vernon is sweating. Harry will not give the letter up.
 
-
 **Panel 817.** Dudley hides in the apron.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Petunia’s apron fills the right of the frame. Dudley’s face is in it. The paper storm has settled to the carpet. Vernon stands with the hammer. Same sitting room.
 
 Faces: Dudley is crying. Petunia is rigid.
 
-
 **Panel 818.** The room, boarded, and not yet the car.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide on the sitting room. The fireplace is a crate of wood. Letters are a drift. Nobody has gone to the car. The night and the rock are a later page.
 
 Faces: The family is exhausted. Harry is still holding a letter.
-
 
 ### Page 10 — They leave the house
 
@@ -852,13 +778,11 @@ Night, rain, the house from the street. Plywood on the fireplace chimney side is
 
 Faces: The house looks like it is under siege by paper.
 
-
 **Panel 38.** Vernon throws bags into the boot.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Vernon in a knit vest over his shirt, hair wet, heaves a bag into the boot as if the bag had insulted him. Petunia holds a coat over her hair. Dudley is a round shape under a jacket, already climbing in.
 
 Faces: Vernon is purple with effort and fury. Petunia is pinched. Dudley is cross.
-
 
 **Panel 39.** Harry is put in last.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -866,13 +790,11 @@ Harry stands on the wet step with nothing of his own, Dudley's old jacket too th
 
 Faces: Harry is used to being luggage. He is also watching the sky.
 
-
 **Panel 819.** The boot shuts. The house is behind them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Night, rain. The car boot shuts on bags. Number four is boarded and small behind Vernon. Petunia holds a coat over her hair. Harry is already a shape in the back seat. They have not reached the sea.
 
 Faces: Vernon is done with the house. Harry looks back.
-
 
 **Panel 820.** Privet Drive in the mirrors.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -880,13 +802,11 @@ From the driver’s seat, the wet street in the mirror, identical houses, one wi
 
 Faces: Vernon will not meet the boy’s eyes.
 
-
 **Panel 821.** The last lamp of the street.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The car passes the last Privet Drive lamp. Rain. No owl in this frame. The sea is not visible yet. Harry’s forehead rests on the glass.
 
 Faces: Harry is awake. Dudley is not.
-
 
 ### Page 11 — The sea road
 
@@ -896,13 +816,11 @@ Through the rain-smeared back window, Privet Drive shrinks. A letter flaps again
 
 Faces: Harry looks back. Vernon looks only forward. We do not hear them yet.
 
-
 **Panel 41.** The road becomes a sea road.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Outside the car, a causeway, black water both sides, rain sideways. The car is small. Waves hit the rail. No hut yet, only the rock ahead as a dark lump.
 
 Faces: The weather is the face of this panel. The family is a shape inside the car.
-
 
 **Panel 42.** The rock, closer, the hut still a shut box.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -910,13 +828,11 @@ A shack on a rock, waves at the walls, one weak bulb maybe unlit. The car crawls
 
 Faces: The hut looks like a place letters should not find. Harry's face is small in the car window, watching it.
 
-
 **Panel 822.** Waves hit the rail. The hut is a lump.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A causeway at night, black water both sides, the car small, rain sideways. The rock ahead is a dark lump with no lit window yet. They have not got out.
 
 Faces: Petunia hates the water. Vernon leans on the wheel.
-
 
 **Panel 823.** The car stops. Nobody opens a door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -924,13 +840,11 @@ The shack on the rock, the car nosed up to it, headlights on wet stone. Four sha
 
 Faces: They are waiting for the storm to blink.
 
-
 **Panel 824.** Headlights die. The bulb inside stays dark.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same rock, headlights off. One weak window of the hut, unlit. A car door opens a crack. Spray. The interior page is next, and it is not this picture.
 
 Faces: Vernon is about to run for the door.
-
 
 ### Page 12 — The hut
 
@@ -950,13 +864,11 @@ A tiny hut on a rock in black water. The car is parked at a mad angle. A wave ex
 
 Faces: Too small for detail, but Harry is the only one looking back at the sky.
 
-
 **Panel 45.** The hut door from the wind.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They have arrived. The shack door, swollen wood, a simple latch, spray on the step. Vernon shoulders it. The sea is white behind him. This is the outside of the room they are about to enter.
 
 Faces: Vernon is triumphant and wet. The others huddle.
-
 
 **Panel 46.** They cross into one bare room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -964,20 +876,17 @@ The interior, whole: one room, a cot, a stove, a table, a hanging bulb unlit at 
 
 Faces: Petunia looks betrayed by the furniture. Dudley looks at the cot as if it owes him.
 
-
 **Panel 47.** Dudley takes the only cot.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dudley is already on the cot, shoes muddy, eating something he saved. Petunia spreads a handkerchief to sit on, and fails. Harry is on the floor near the wall, knees up.
 
 Faces: Dudley is settled, selfish, fine. Harry is quiet. Petunia is offended by the damp.
 
-
 **Panel 48.** Vernon watches the door. The rifle leans in the corner.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Vernon stands at the shut door, mustache wet, listening to the wind as if it were an intruder. A rifle leans in the corner, still straight, not in his hands. He has not boasted yet. He has not grabbed it.
 
 Faces: He looks fierce and foolish. His eyes are small and angry. The gun is waiting for the knock.
-
 
 ### Page 13 — Inside the hut
 
@@ -987,13 +896,11 @@ Harry against the damp wall, a watchless wrist, lips moving in a count he has no
 
 Faces: He is hopeful and tired. Nobody is looking at him.
 
-
 **Panel 50.** The room holds its breath.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide again: the cot, the rifle, the stove, four people, and the door. No knock yet. The next sound belongs to the old page. Here, there is only weather.
 
 Faces: Vernon stares at the wood. Harry stares at nothing. Dudley is almost asleep, still chewing.
-
 
 **Panel 51.** Inside the hut, Vernon spreads his arms. Art file: `art/c2-p4-p3.jpg`.
 
@@ -1016,7 +923,6 @@ Faces: Harry looks at his own fingers, a private birthday, a tiny hopeful pull a
 The storm holds still. A shadow too big to be an ordinary man crosses the salt-crusted window. The bulb stops flickering.
 
 Faces: Harry looks at the window, afraid and ready. No one else is awake.
-
 
 **Panel 54.** The door booms. Vernon grabs a rifle.. Art file: `art/c2-p4-p6.jpg`.
 
@@ -1112,13 +1018,11 @@ The same hut, a second later. Vernon is purple in the face at the table, the kno
 
 Faces: Vernon is furious and still denying. Harry is small and watchful. Hagrid’s kindness is thinning.
 
-
 **Panel 11.** The umbrella comes up.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid turns from the cake tin. The pink umbrella comes up. Dudley, blond and heavy, frosting on his mouth, is still laughing with his back half turned. No spark yet. Rain in the doorway. Petunia’s pinned blonde hair, long neck, mint or night clothes, hands not yet in her hair.
 
 Faces: Hagrid’s beetle-black eyes lock on Dudley. Dudley is delighted with himself. Harry’s mouth is not smiling yet.
-
 
 **Panel 12.** He aims. No spark yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1160,20 +1064,17 @@ The doorway of the hut, rain. Dudley sprints onto the rock with the curly pink t
 
 Faces: Dudley howls into the weather. Petunia’s mind has broken. Harry’s real smile is starting. Hagrid looks satisfied and a bit guilty.
 
-
 **Panel 17.** The spark is over. The tail is not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Back inside, the umbrella lowered. The thin thread is gone. Dudley is a wet shape outside. Vernon has sat down hard, the knotted rifle across his knees. Harry covers the smile with the letter. The hut is the same room.
 
 Faces: Harry smiles despite himself. Hagrid softens when he sees it. Vernon looks defeated. Petunia is still in the door, shrieking.
 
-
 **Panel 18.** The hut settles. The story has not started.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide on the hut from just inside. One room, one lamp, rain. The cake tin is empty. The umbrella hangs at Hagrid’s side. Nobody is glowing. The next talk is the story of Harry’s parents, still in this room.
 
 Faces: The room is quieter and worse. Harry looks at Hagrid, ready to hear it. Hagrid looks sorry for the fun he just had.
-
 
 ### Page 4 — The story
 
@@ -1269,13 +1170,11 @@ From inside the hut, looking out. Harry and Hagrid walk onto the rock in the rai
 
 Faces: Harry looks back, not waving, not forgiving. Petunia watches, unreadable. Hagrid does not look back.
 
-
 **Panel 30.** A giant and a boy walk toward the city glow.. Art file: `art/c3-p4-p6.jpg`.
 
 The shack is tiny behind them. Ahead, a dirty gold glow of the city under the clouds. A giant and a boy walk the coastal path. Gulls. Puddles.
 
 Faces: Seen mostly from the path. Harry looks up at Hagrid, hope still there. Hagrid looks ahead, at ease.
-
 
 ## Chapter 4 — Diagon Alley
 
@@ -1286,7 +1185,6 @@ Faces: Seen mostly from the path. Harry looks up at Hagrid, hope still there. Ha
 An ordinary London shopping street, daytime, bags, a bus, pigeons. Hagrid is huge in the moleskin coat, Harry small beside him in Dudley's old clothes. They are not at the pub yet.
 
 Faces: Harry looks up at signs he cannot read as magic. Hagrid looks like he knows the turn.
-
 
 **Panel 2.** The Leaky Cauldron, unseen by the street.. Art file: `art/c4-p1-p1.jpg`.
 
@@ -1302,13 +1200,11 @@ The door of the Leaky Cauldron, dark wood, a brass handle worn shiny. Hagrid fil
 
 Faces: Harry hesitates. Hagrid is already home.
 
-
 **Panel 4.** The room, before anyone notices the boy.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside, the pub is low and crowded. Smoke, crooked beams, a bar, witches in pointed hats, a warlock with a newspaper. The room is whole. Nobody has looked at the door yet.
 
 Faces: The regulars are mid-drink, mid-argument, ordinary to themselves.
-
 
 **Panel 5.** They were already talking over their drinks.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1316,13 +1212,11 @@ A table of old wizards leans together, laughing at a story. A witch feeds someth
 
 Faces: The room is busy with its own life. Harry is overwhelmed and has not been seen.
 
-
 **Panel 6.** Hagrid steers him in. Still no greeting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid's hand is a roof over Harry's shoulder, guiding him one step into the room. Faces are about to turn. They have not. Harry's scar is visible and nobody has said his name.
 
 Faces: Harry wants to be smaller. Hagrid looks proud and gentle.
-
 
 ### Page 2 — Inside the pub
 
@@ -1350,13 +1244,11 @@ The same pub, low beams, fire, copper pans. Hagrid’s moleskin shoulder steers 
 
 Faces: Harry looks smaller after the touching. Hagrid looks protective and ready to leave. The room is no longer reaching.
 
-
 **Panel 10.** Daylight in the crack of the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The back door of the pub, still inside. A crack of ordinary daylight, bins hinted beyond. Harry’s hand is not on it yet. The firelight stays on their backs. No alley.
 
 Faces: Harry looks at the crack, curious. Hagrid looks sure of the way.
-
 
 **Panel 11.** His hand on the latch. The wall is not open.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1364,13 +1256,11 @@ Harry’s hand on the latch, Hagrid’s huge hand above it. They are still in th
 
 Faces: Harry is nervous of another room. Hagrid is gentle and impatient.
 
-
 **Panel 12.** The pub lets them go.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They have not gone out. One last look back into the Leaky Cauldron: beams, smoke, a few faces that have already forgotten them. The door is a bright slit.
 
 Faces: Harry looks back once, overwhelmed and leaving. Hagrid does not.
-
 
 ### Page 3 — The wall opens
 
@@ -1379,7 +1269,6 @@ Faces: Harry looks back once, overwhelmed and leaving. Hagrid does not.
 The courtyard, just outside. Bins, a dripping pipe, the plain brick wall filling the frame. They have come out of the pub door behind them. Daylight, no Diagon Alley yet. Hagrid is huge in the moleskin coat. Harry is small in the castoffs.
 
 Faces: Harry looks at a blank wall and does not understand. Hagrid looks at the bricks the way someone looks at a lock.
-
 
 **Panel 14.** The umbrella tip touches one brick.. Art file: `art/c4-p1-p4.jpg`.
 
@@ -1395,13 +1284,11 @@ The same wall, same daylight. A thin seam of warm light runs along the mortar fr
 
 Faces: Hagrid watches the mortar, satisfied. Harry looks startled. The cat on the bins watches.
 
-
 **Panel 16.** The wall folds open.. Art file: `art/c4-p1-p5.jpg`.
 
 The brick wall folds open like a puzzle. A hole widens into light, with a hint of cauldrons, an owl, and a striped awning.
 
 Faces: Harry's eyes are huge, fear gone for a second. Hagrid looks at Harry's face, not at the street.
-
 
 **Panel 17.** Diagon Alley opens. Harry's eyes go wide.. Art file: `art/c4-p1-p6.jpg`.
 
@@ -1419,7 +1306,6 @@ A few steps onto the cobbles. Cauldrons, an owl cage, a striped awning, same day
 
 Faces: Harry’s eyes are wide and he cannot walk yet. Hagrid looks down, pleased and careful.
 
-
 ### Page 4 — The white bank
 
 **Panel 19.** Diagon Alley, the white building at the end.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -1428,13 +1314,11 @@ The wizard street in daylight, cauldrons and broomsticks in windows, and at the 
 
 Faces: Harry is dazzled. Hagrid walks as if the marble were a familiar errand.
 
-
 **Panel 20.** The bronze doors, from the steps.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Gringotts' doors, tall, bronze, a goblin in uniform at the side. The steps are white. Wizards queue with keys and nervous faces. Harry looks very small on the marble.
 
 Faces: Harry is awed. The goblin guard is bored and sharp.
-
 
 **Panel 21.** They pass the doors.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1442,13 +1326,11 @@ The threshold: outside is the alley noise, inside is cool marble and a deeper qu
 
 Faces: Harry's mouth is slightly open. Hagrid ducks, out of habit, though the door clears even him.
 
-
 **Panel 22.** The hall, whole, before their key is asked.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A long marble hall, chandeliers, high counters, goblins in crimson working ledgers. Wizards wait in lines. The scale makes Harry a child again.
 
 Faces: Goblins look down because the counters are high, not because they have seen him yet.
-
 
 **Panel 23.** A teller is already weighing coins.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1456,13 +1338,11 @@ One goblin teller, long fingers, counts a stack and ticks a book. A witch collec
 
 Faces: The teller is precise and unimpressed by wizards. He has not looked up.
 
-
 **Panel 24.** Hagrid sets a hand on the marble. He has not spoken.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid's huge hand on the high counter, a key about to come out of the coat. Harry stands on tiptoe. The teller's eyes are still on the ledger.
 
 Faces: Harry is nervous. Hagrid is matter-of-fact. The goblin is not curious yet.
-
 
 ### Page 5 — The marble hall
 
@@ -1482,13 +1362,11 @@ The same white hall, chandeliers, crimson goblins. Hagrid’s hand is on the mar
 
 Faces: The goblin is unimpressed. Harry is small.
 
-
 **Panel 802.** A key is set on the counter.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on a long silver key on the high counter. The goblin’s fingers leave it. Hagrid’s hand comes in to take it. Harry’s pouch is not open yet. Still the hall.
 
 Faces: Hagrid is respectful. The goblin is bored.
-
 
 **Panel 803.** They turn toward the carts.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1496,20 +1374,17 @@ The hall behind them, the way down ahead: a bronze door and a rail. They have no
 
 Faces: Harry is not ready for the drop.
 
-
 **Panel 804.** The bronze door, from the hall.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A round bronze door at the end of the counters. A goblin with a lantern waits. Hagrid and Harry are ten paces away. No cave yet.
 
 Faces: The lantern is the only small light.
 
-
 **Panel 805.** They reach the door. The hall stays behind.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Threshold. Marble under their shoes, dark rail beyond the bronze. Harry’s hand finds Hagrid’s coat. The goblin does not look back.
 
 Faces: Harry holds on. Hagrid ducks.
-
 
 ### Page 6 — The tunnel
 
@@ -1537,13 +1412,11 @@ The same cart, the same caverns. An underground lake flashes under the rail. Har
 
 Faces: Harry is terrified and grinning.
 
-
 **Panel 807.** A vault door rushes past.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Bronze doors blur on both sides of the cart. Numbers they cannot read. The goblin’s lantern is steady. They have not stopped.
 
 Faces: The goblin is used to this.
-
 
 **Panel 808.** The cart slows. A small door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1551,13 +1424,11 @@ The cart brakes at a modest round vault. The door is shut. Harry is peeling his 
 
 Faces: Harry is pale. Hagrid is cheerful.
 
-
 **Panel 809.** The goblin fits the key.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on the long key in a goblin hand, the vault door, greenish cave light. The door has not opened. Harry and Hagrid wait in the cart.
 
 Faces: The goblin is precise.
-
 
 ### Page 7 — Harry's vault
 
@@ -1577,13 +1448,11 @@ Inside the small vault. Harry’s shoe meets the heap. Gold, silver, and bronze.
 
 Faces: Harry is stunned. Hagrid is proud.
 
-
 **Panel 811.** A pouch. Not the dirty parcel.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid tips a modest scoop into a pouch and knots it. There is no dirty paper parcel in this vault. That is a colder door, next.
 
 Faces: Hagrid is matter-of-fact.
-
 
 **Panel 812.** They back out. The door shuts.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1591,20 +1460,17 @@ The round door closing, the heap still bright in the crack, Harry clutching the 
 
 Faces: Harry looks at the pouch as if it might vanish.
 
-
 **Panel 813.** Another door, colder.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A higher, narrower vault door, no welcome in it. The goblin uses a different key. Harry stays by the cart. Hagrid has taken his hat off in his hands, awkward.
 
 Faces: Hagrid is nervous. Harry is curious.
 
-
 **Panel 814.** The door opens on one table.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Threshold of the high-security vault. One stone table. One small dirty parcel. They have not touched it. Torchlight. No heap of coins.
 
 Faces: Hagrid knows this one. Harry does not.
-
 
 ### Page 8 — The parcel
 
@@ -1622,13 +1488,11 @@ The same cold vault. The table is empty. The parcel is a square under Hagrid’s
 
 Faces: Hagrid will not explain.
 
-
 **Panel 816.** Harry asks. Hagrid will not say.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They stand by the empty table. Harry looks at the coat. Hagrid shakes his head, gentle and final. The cave is the same. The cart is the way out, not this picture.
 
 Faces: Harry is frustrated. Hagrid is loyal.
-
 
 ### Page 9 — The climb
 
@@ -1648,13 +1512,11 @@ The cart climbs. A crack of daylight shows at the top of the rail. Stalactites t
 
 Faces: Harry is glad of the sky.
 
-
 **Panel 818.** The marble hall, coming back.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They step out of the bronze door into the white hall again. Chandeliers. The caves are behind them. The parcel does not show except as a square in the coat.
 
 Faces: The goblins do not wave.
-
 
 **Panel 819.** The bronze doors, and the alley waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1662,13 +1524,11 @@ The bank’s bronze doors from inside, daylight beyond. Hagrid steers Harry towa
 
 Faces: Harry is richer and confused.
 
-
 **Panel 820.** On the steps. The alley is bright.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The white steps of Gringotts. Cauldrons and broomsticks in the windows down the street. They have left the bank. The wand shop is not this corner.
 
 Faces: Harry’s eyes are wide again.
-
 
 ### Page 10 — Shopfronts
 
@@ -1678,13 +1538,11 @@ Diagon Alley after the bank, daylight, the white bank behind them. Shop signs cr
 
 Faces: Harry looks at every window. Hagrid looks like a man with a list.
 
-
 **Panel 32.** An owl stares from a shop window.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Eeylops or the owl window: snowy owls, tawny owls, one snowy owl very still, gold eyes on Harry through the glass. He stops. Hagrid almost walks past, then waits.
 
 Faces: The snowy owl looks at Harry as if she already chose. Harry looks back, startled to be chosen.
-
 
 **Panel 33.** Madam Malkin's door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1692,13 +1550,11 @@ A robe shop, bolts of black cloth in the window, the door open on a bell. A boy 
 
 Faces: Harry looks uncertain about being fitted. Hagrid nods him at the door.
 
-
 **Panel 34.** The shop, mirrors and black cloth.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside, the whole shop: mirrors, pins in a cushion, black cloth stacked to the ceiling, a window back onto the alley. Madam Malkin, tapes around her neck, is pinning a hem that is not Harry's.
 
 Faces: She is cheerful and busy. Harry is a new arrival in the mirror, small.
-
 
 **Panel 35.** A tape is already moving for someone else.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1706,13 +1562,11 @@ A measuring tape zips around the other student's arms with nobody holding it. Pi
 
 Faces: Harry is delighted and scared of the floating tape. Madam Malkin has not spoken to him.
 
-
 **Panel 36.** She turns, tape in hand, and sees a new pair of arms.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Madam Malkin looks over her shoulder at Harry. An empty stool waits. The tape pauses in the air. He has not stepped onto it. Hagrid's bulk is a shadow in the doorway, too big for the shop.
 
 Faces: She is about to be kind. Harry is about to be measured. No line yet.
-
 
 ### Page 11 — Supplies
 
@@ -1729,7 +1583,6 @@ Faces: Harry looks down at the tape, delighted and ticklish, a real grin.
 Flourish and Blotts, crowded, ladders, dust in sunbeams. Harry's hand rests on a heavy book in a stack up to his chin. The cover has a dark, unsmiling face. He does not open it.
 
 Faces: Harry looks at the dark cover, uneasy, then looks away on purpose. The clerk looks bored. Hagrid waves from outside, too big for the shop.
-
 
 **Panel 39.** A snowy owl stares at him.. Art file: `art/c4-p3-p3.jpg`.
 
@@ -1763,7 +1616,6 @@ A shop window of brass telescopes. The glass shows a wizard boy with an owl. Har
 
 Faces: He looks at the reflection, wondering, a little frightened of how much he wants this. The reflection looks braver than he feels.
 
-
 ### Page 12 — The wand shop
 
 **Panel 43.** A narrow shop, dusty gold lettering.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -1772,13 +1624,11 @@ Ollivander's from the alley: a thin front, peeling gold letters, a window of lon
 
 Faces: Harry looks smaller under the new robe. The shop looks like it has been waiting.
 
-
 **Panel 44.** The door, a bell that might not ring.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry's hand on a narrow door. Inside is dim, one lamp, shelves vanishing upward. Hagrid stays on the street, too large and somehow not invited by the door.
 
 Faces: Harry is nervous. Hagrid looks oddly respectful of a shop.
-
 
 **Panel 45.** Thousands of boxes, and no shopkeeper yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1786,13 +1636,11 @@ The interior, whole: floor to ceiling thin boxes, a ladder, dust, one chair, a c
 
 Faces: The room feels like it is looking, even with nobody in it.
 
-
 **Panel 46.** He was already among the shelves.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Deep in the aisle, a thin man with wispy silver hair and a dark old-fashioned suit, not wizard robes, has his back to Harry. Pale hands touch a box as if greeting it. He has not turned.
 
 Faces: Ollivander is absorbed. Harry has not been startled yet.
-
 
 **Panel 47.** Harry turns, looking for the counter, and finds only boxes.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1800,13 +1648,11 @@ Harry in the middle of the shop, new robe a little long, head tipping up at the 
 
 Faces: He looks lost and polite. He is about to be too close to someone.
 
-
 **Panel 48.** A tape lifts on its own, behind him.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The measuring tape rises off the counter with no hand. Harry has not seen it. Somewhere the silver-haired man is no longer where Harry looked. The next panel is the face, inches away.
 
 Faces: Harry's back is to the tape. His face is still only curious.
-
 
 ### Page 13 — The wrong wands
 
@@ -1832,13 +1678,11 @@ Ollivander’s narrow shop. Harry holds a maple wand at arm’s length, new robe
 
 Faces: Ollivander is patient. Harry is hopeful.
 
-
 **Panel 822.** A thin spark runs from the wand to the vase.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same shop. A thin bright spark leaves the maple wand’s tip and crosses to a vase on a shelf. The vase is still whole. The spark does not fill the room. Boxes are still stacked.
 
 Faces: Harry flinches. Ollivander does not.
-
 
 **Panel 51.** The vase is already in pieces.. Art file: `art/c4-p4-p3.jpg`.
 
@@ -1854,13 +1698,11 @@ Harry holds a different dark wand. A thin thread of smoke runs from its tip into
 
 Faces: Ollivander is more interested. Harry’s arm is tired.
 
-
 **Panel 824.** The boxes come down.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The stack of thin boxes avalanches. Dust. Harry coughs, the rejected wand lowered. Hagrid’s eye is still at the window. No gold light. The right wand has not been offered.
 
 Faces: Hagrid winces in sympathy.
-
 
 ### Page 14 — The wand that stays
 
@@ -1870,13 +1712,11 @@ Ollivander sets a slim holly wand into Harry’s hand. Eleven inches, the phoeni
 
 Faces: The shop goes quiet.
 
-
 **Panel 826.** A thin gold thread leaves the holly tip.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A thin gold-white thread leaves the holly wand’s tip and stops in the dust. It has not filled the shop. The lamp is still the brighter light. Ollivander’s mouth is opening.
 
 Faces: Ollivander looks hungry for the answer. Harry is still.
-
 
 **Panel 52.** One wand stays. Warm light fills the shop.. Art file: `art/c4-p4-p4.jpg`.
 
@@ -1900,13 +1740,11 @@ The wand lies in its box between their hands. The gold thread is gone. Dust sett
 
 Faces: Ollivander is grave. Harry understands he is tied to the scar.
 
-
 **Panel 828.** He pays with the pouch, badly.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry tips the Gringotts pouch onto the counter and does not know the coins. Ollivander takes what is owed and slides the rest back. The wand box is under Harry’s arm. Still inside.
 
 Faces: Harry is embarrassed. Ollivander is kind about money.
-
 
 ### Page 15 — Outside the wand shop
 
@@ -1916,13 +1754,11 @@ The alley outside the narrow shop, peeling gold letters, late light. Harry and H
 
 Faces: Harry is dazed. Hagrid is pleased.
 
-
 **Panel 830.** The alley was already busy.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Cauldrons, a broom in a window, witches passing. Draco is a pale head farther down, not at them yet. Crabbe and Goyle are shapes. Harry has not been spoken to.
 
 Faces: The street does not care.
-
 
 **Panel 54.** Harry steps back.. Art file: `art/c4-p4-p6.jpg`.
 
@@ -1942,20 +1778,17 @@ Hagrid steps beside Harry, the trunk in one hand, and Draco’s offered handshak
 
 Faces: Draco withdraws. Hagrid is a wall.
 
-
 **Panel 832.** They walk. The shop bell is behind them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The alley, going toward the pub wall. Harry looks once at the wand box. Draco is a sulk in the background. Hagrid talks with his free hand. No new shop.
 
 Faces: Harry is thinking about the phoenix feather.
 
-
 **Panel 833.** The brick wall, waiting to close.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The courtyard and the plain brick wall that opened earlier. Hagrid’s umbrella is in his coat, not raised. Harry holds the cage. The day in London is the next chapter, not this panel.
 
 Faces: Harry does not want to leave. He does.
-
 
 ## Chapter 5 — The Journey from Platform Nine and Three-Quarters
 
@@ -1967,13 +1800,11 @@ The station exterior, daytime, the brick facade, taxis, a pigeon. A beige car pu
 
 Faces: The station is busy and ordinary. The car does not belong to a celebration.
 
-
 **Panel 2.** The boot opens on a cage and a trunk.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Vernon hauls a heavy trunk onto a trolley and sets a covered cage beside it as if both were rubbish. Harry stands on the pavement in Dudley's old clothes, no robe, no tie. Dudley smirks from the car window.
 
 Faces: Vernon is done with this. Dudley is pleased. Harry looks at the station doors.
-
 
 **Panel 3.** The concourse, a tide of Muggles.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1981,13 +1812,11 @@ Inside the station: the board, the announcement, crowds with ordinary suitcases.
 
 Faces: Harry is lost and trying not to show it. Strangers ignore him.
 
-
 **Panel 4.** Platforms nine and ten, and a solid brick barrier.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The space between platforms nine and ten. A brick dividing wall. Pigeons. A guard with a thinner mustache than Vernon's, not Vernon, somewhere down the platform, not yet spoken to. Harry stops the trolley and stares at the brick.
 
 Faces: Harry looks as if the number has failed him. The barrier looks very solid.
-
 
 **Panel 5.** People walk through ordinary doors. None walk through brick.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -1995,13 +1824,11 @@ Travelers stream onto platforms nine and ten. Nobody aims at the wall. Harry's h
 
 Faces: He is hopeful and embarrassed already.
 
-
 **Panel 6.** The beige car is still at the curb, in his memory of the last minute.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Cut back, brief, to the pavement: Vernon turned in the driver's seat, mouth about to open, Petunia facing forward, Dudley grinning. Harry is on the pavement with the trolley. The line has not been said. The car has not driven off.
 
 Faces: Vernon is contemptuous. Harry is braced.
-
 
 ### Page 2 — The barrier
 
@@ -2051,7 +1878,6 @@ Harry shuts his eyes and runs. The trolley charges. The brick swallows the front
 
 Faces: His eyes are shut, so the feeling is in his mouth: braced, brave, a little sick. Molly's hand lifts behind him, out of focus.
 
-
 ### Page 3 — The hidden platform
 
 **Panel 13.** He comes through the brick, eyes shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -2060,13 +1886,11 @@ Harry stumbles out of the barrier onto a platform that should not be there, trol
 
 Faces: He looks shocked and then hungry for all of it.
 
-
 **Panel 14.** The platform, whole, and a scarlet engine.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Platform nine and three-quarters in one wide picture. The Hogwarts Express is scarlet and huge. Steam rolls under the roof. The scarlet is the train, not a robe.
 
 Faces: Harry is tiny at the edge of the wonder.
-
 
 **Panel 15.** Families were already saying goodbye.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2074,13 +1898,11 @@ Students in mixed travel clothes, not house robes, hug parents. An owl hoots in 
 
 Faces: Everyone else knows how this works. Harry is still holding the trolley like a shield.
 
-
 **Panel 16.** A boy with dirt on his nose argues with a twin.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Farther along, Ron, tall and thin, red hair, maroon hand-knit with a gold R, dirt on his nose, scuffed shoes, is being fussed toward a door. Fred and George are already laughing ahead of him. Harry has not met them.
 
 Faces: Ron looks anxious and secondhand. The twins look delighted. Harry is not in their group yet.
-
 
 **Panel 17.** An empty compartment waits.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2088,13 +1910,11 @@ Through a carriage window: an empty compartment, seats, a small table. Harry see
 
 Faces: He looks relieved and shy.
 
-
 **Panel 18.** The conductor is a small figure in the steam, mouth not yet open.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Down the platform, the conductor raises a hand as if the shout is next. Harry grips the trolley. The train breathes. No line yet.
 
 Faces: Harry is ready to board and does not know the rules.
-
 
 ### Page 4 — Ron
 
@@ -2111,7 +1931,6 @@ Faces: Harry looks up at the train, relief and awe. He looks for the red-haired 
 An empty compartment. The train lurches and Hedwig's cage slides. Harry catches it. He is still in Dudley's faded shirt and rolled jeans, taped glasses, no school robe. Children in travel clothes and trunks pass in the corridor. The platform slides away outside.
 
 Faces: He looks at the empty seat opposite, lonely and proud he managed the trolley. A small smile for Hedwig. She looks back, unruffled.
-
 
 **Panel 21.** Ron slides the door, shy.. Art file: `art/c5-p2-p3.jpg`.
 
@@ -2147,7 +1966,6 @@ Ron puts the bean in his mouth. For a second he looks pleased with himself. Harr
 
 Faces: Ron is cocky for one second. Harry waits.
 
-
 ### Page 5 — Beans and a frog
 
 **Panel 25.** The flavor is not food.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -2163,7 +1981,6 @@ Faces: Disgust, then betrayal. Harry looks horrified and a little sorry he offer
 Harry lifts the lid of a chocolate frog box. The chocolate inside is shaped like a frog, too perfect, on a card he has not taken. Ron is still green.
 
 Faces: Harry thinks it is only chocolate. Ron knows better and is too late.
-
 
 **Panel 27.** The frog leaps.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2207,13 +2024,11 @@ A slice of the train's side, the corridor door sliding, other students passing i
 
 Faces: The corridor is busy. Our compartment is one door among many.
 
-
 **Panel 32.** The corridor, whole, trunks and owls.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The narrow corridor, rocking. Cages, a cat basket, a boy patting his pockets in a panic farther down. Compartment doors shut and half shut.
 
 Faces: People are settling. One sandy-haired boy is already searching the floor.
-
 
 **Panel 33.** Neville was already on his knees.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2221,13 +2036,11 @@ Neville peers under a seat in the corridor, toadless, ears red. A girl with bush
 
 Faces: Neville is desperate. Hermione is determined. They have not reached Harry's door.
 
-
 **Panel 34.** Their door, from the corridor side.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry and Ron inside, seen through the glass of the sliding door, mid-sweet, the frog maybe still on the rack. Dirt on Ron's nose. They do not see the corridor yet.
 
 Faces: They look comfortable. The interruption has not arrived.
-
 
 **Panel 35.** She stops at the door. She has not opened it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2235,13 +2048,11 @@ Hermione at their door, books clutched, mouth about to ask a question, hand on t
 
 Faces: She looks mission-first, not starstruck yet. Neville looks hopeful that anyone might help.
 
-
 **Panel 36.** The handle moves.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door begins to slide. Harry looks up. Ron has a napkin in his fist from the bean. No one has spoken the toad line. The next panel is her question.
 
 Faces: Harry is polite and surprised. Ron is wary. Hermione is about to fill the doorway.
-
 
 ### Page 7 — Hermione and Draco
 
@@ -2363,13 +2174,11 @@ From the edge of the grounds, night, the castle is a cluster of lit windows acro
 
 Faces: The castle does the feeling. The children are small and cold.
 
-
 **Panel 2.** The steep path, from above.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A muddy path down through trees, roots, lanterns in a chain. Neville is already slipping and catching himself. Draco picks his way as if the mud were a personal insult. Harry and Ron are near the front, still in the clothes they wore on the train.
 
 Faces: Neville is frightened of the slope. Draco is disdainful. Harry is staring ahead.
-
 
 **Panel 3.** The lake opens.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2377,13 +2186,11 @@ Black water, a fleet of small boats waiting with nobody in them, the castle doub
 
 Faces: The boats are the new room. Harry looks as if the castle became real.
 
-
 **Panel 4.** Hagrid was already counting heads.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid moves along the shore, lamp high, lips moving in a count, a hand the size of a plate hovering over a boat. He has not given the order. Fang is not the point here. The boats knock softly.
 
 Faces: He looks careful with them, which is new. The children whisper.
-
 
 **Panel 5.** They talk in little knots, not to Hagrid yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2391,13 +2198,11 @@ Hermione tells a nervous girl the boats are traditional, from a book. Ron tells 
 
 Faces: Whispers, cold breath. Hagrid is still counting, out of earshot of the punchline.
 
-
 **Panel 6.** A boat bumps the shingle at Harry's shoes.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 One empty boat noses the shore at Harry's feet. He looks at Hagrid, waiting for the word. The word has not come. The next panel is Hagrid telling them to mind the path, or the boats, as the old page starts.
 
 Faces: Harry is ready. Ron is grinning at the water. Neville is not ready.
-
 
 ### Page 2 — The lake
 
@@ -2451,7 +2256,6 @@ Quiet on the water. Only Harry’s chin and hands show at the top of the panel. 
 
 Faces: The reflection looks wonderstruck and a little scared of wanting this. Both of them are silent.
 
-
 ### Page 3 — The castle doors
 
 **Panel 13.** The castle doors, from the steps.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -2460,13 +2264,11 @@ Hogwarts' great doors, night, oak and iron, torches. The first years climb the l
 
 Faces: They look up and go quiet. McGonagall looks exact.
 
-
 **Panel 14.** The entrance hall, a pause.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A vast stone hall, torches, a staircase, the noise of a feast behind another set of doors. The first years bunch and drip mud. McGonagall faces them. She has not begun the house speech. This is only the waiting room.
 
 Faces: Harry's neck is bent back. Ron's ears are red. Hermione is memorizing the room.
-
 
 **Panel 15.** The Hall doors open on candlelight.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2474,13 +2276,11 @@ The far doors swing. Gold light, floating candles, a slice of four long tables. 
 
 Faces: Awe. Even Draco's mouth forgets to sneer for a second.
 
-
 **Panel 16.** The Hall, whole, four houses already in it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Great Hall at night. Enchanted ceiling, stars. Four long tables, four banners: Gryffindor red and gold lion, Hufflepuff yellow and black badger, Ravenclaw blue and bronze eagle, Slytherin green and silver snake. Older students in those colors. The staff table is at the far end. September, not the leaving feast.
 
 Faces: The room is loud with people who already belong. The first years are a muddy line at the door.
-
 
 **Panel 17.** Older students were already talking and pointing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2488,13 +2288,11 @@ At the tables, students twist to see the new ones, whispering, pumpkin juice in 
 
 Faces: The older students are curious. Harry looks at the red and the green and does not know which is his.
 
-
 **Panel 18.** They step under the candles.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The first years walk a few paces in. Candles hang above them. Plates gleam. Four hourglasses of jewels stand at the side, unreadable at this distance. No names. No song yet.
 
 Faces: Harry is about to speak and has not. Ron is about to answer and has not.
-
 
 ### Page 4 — The Hat’s rules
 
@@ -2532,20 +2330,17 @@ Nick's pale hands close on his own head, gentle, like a man adjusting a hat. The
 
 Faces: He is proud. Hermione leans in, forensic. Ron leans back.
 
-
 **Panel 23.** The neck is one strip.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He tips the head. The cut is almost through. A single strip of pearly neck holds the head on. It is gross and it is the joke. Not a wobbly hint. The head is truly hanging.
 
 Faces: Nick looks mild, as if this were manners. Neville goes green.
 
-
 **Panel 24.** The head hangs.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The head hangs aside by that strip, ruff askew, still talking-capable, still polite. A drop of nothing, because ghosts do not drip, but the picture is still disgusting. Students who know it grin. First years do not.
 
 Faces: Nick is cheerful. Neville looks like he might sit down on the floor. Harry stares. Hermione stares and does not scream. Draco looks as if being shocked is beneath him, and fails.
-
 
 ### Page 5 — Nearly Headless Nick
 
@@ -2563,7 +2358,6 @@ Nick drifts higher, proud, head on badly. McGonagall is a stern emerald shape wi
 
 Faces: McGonagall is not amused for long. The first years pull themselves together.
 
-
 **Panel 27.** McGonagall stands before the first years with a scroll, indicating the banners. Art file: `art/c6-p2-p3.jpg`.
 
 McGonagall stands before the first years with a scroll, indicating the banners. Behind her a stool and an old patched hat wait, not yet alive. The four house colors frame her.
@@ -2578,13 +2372,11 @@ Close on the Sorting Hat. The brim ripples. A tear near the brim opens like a mo
 
 Faces: The rip shapes a sly, knowing almost-smile. A first year flinches.
 
-
 **Panel 29.** He stands at the staff table, hands open.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dumbledore stands, very tall and thin, long silver hair and beard, half-moon spectacles, deep purple robes with silver stars, pointed hat. Both hands open toward the Hall. He is speaking to the children as a group. No one is walking to the stool yet.
 
 Faces: He looks along the first years, kind and public, not chatting to one boy.
-
 
 **Panel 30.** Four tables, and he indicates them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2602,13 +2394,11 @@ Ron, travel clothes, maroon jumper, looks at the red and gold table with hope he
 
 Faces: Ron is hopeful. Harry is unsure. A red-table twin mouths something rude and fond.
 
-
 **Panel 32.** Hermione looks at Dumbledore. Draco looks at green.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hermione, books against her chest, watches Dumbledore, attentive, not performing. Draco looks past him at the green and silver table as if the speech were a delay.
 
 Faces: Hermione is locked on the speaker. Draco has already chosen a color with his eyes.
-
 
 **Panel 33.** McGonagall looks at the scroll, waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2616,13 +2406,11 @@ McGonagall, formal, emerald, square spectacles, eyes on the roll of names. She i
 
 Faces: She is patient and exact. The Hat is not singing in this picture.
 
-
 **Panel 34.** The welcome ends. The list has not started.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dumbledore's hands lower. The four tables murmur. The first years stay a knot. The painful-death warning is not this speech and does not happen here. The next old panel can be the Hat's song, and the first name is still ahead.
 
 Faces: Dumbledore looks kind and finished. Harry looks at the Hat. No one has said Potter.
-
 
 **Panel 35.** The Hat sings.. Art file: `art/c6-p2-p5.jpg`.
 
@@ -2665,7 +2453,6 @@ Faces: Draco looks past the Hat at Harry, a cool smile. Snape looks satisfied. H
 Draco is seated among the Slytherins, a goblet in his hand, turned fully around. The unsorted line is far off. Harry is the one in focus between Ron and Neville.
 
 Faces: Draco’s smile is thin, a challenge and an invitation. Harry looks forward at the hat and will not look back. Ron scowls.
-
 
 **Panel 40.** Neville trips. Then the Hat shouts Gryffindor.. Art file: `art/c6-p3-p4.jpg`.
 
@@ -2749,7 +2536,6 @@ Across the feast, through steam and candles, Snape’s face is locked on Harry. 
 
 Faces: Snape does not blink. The dislike feels personal. Harry looks back, the belonging of the last moment punctured. He does not look away first.
 
-
 ## Chapter 7 — First Lessons
 
 ### Page 1 — Morning in the stairwell
@@ -2760,13 +2546,11 @@ Hogwarts in the morning, high windows, stone, portraits dozing in their frames. 
 
 Faces: Harry is determined. Ron is already unsure of the map.
 
-
 **Panel 2.** The stairwell from a landing, and the flight is still.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A tall stairwell, three-quarter view from a landing, low enough that a whole flight is visible, bottom and top. The flight is still. Both railings are part of it. Students climb it normally. No gap. No swing. Other flights are still too.
 
 Faces: The climbers look bored, late, ordinary. Nobody is losing balance.
-
 
 **Panel 3.** They step toward the flight they want.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2774,13 +2558,11 @@ Harry checks a timetable. The landing they need is across one still flight. A su
 
 Faces: Ron looks hopeful. Harry looks at the far landing.
 
-
 **Panel 4.** Other students were already chatting on the way to class.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Two older students on the stairs compare ink stains and laugh. A girl runs with a telescope. The castle is awake and unhelpful. Harry and Ron wait for a gap in the traffic.
 
 Faces: The older students are at home. The first years are not.
-
 
 **Panel 5.** A portrait snores. The armor does not help.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2788,13 +2570,11 @@ A painted knight sleeps in his frame, helmet down. The armor's visor is dark. Ro
 
 Faces: Ron looks like he nearly asked a painting for directions. Harry is already moving.
 
-
 **Panel 6.** They put a foot on the still flight.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry's shoe on the first step. The flight is one solid object, hinged somewhere below, but it has not moved. Ron follows. Students on the other landings are not staring yet. The next picture is the swing.
 
 Faces: They look ordinary, about to be late, not yet alarmed.
-
 
 ### Page 2 — The flight turns
 
@@ -2814,13 +2594,11 @@ Same stairwell, same morning, the camera still low and three-quarter so the bott
 
 Faces: Harry is almost falling, eyes on the gap. Ron’s grin is panic. The students on the landing stare, nobody calm on the flight.
 
-
 **Panel 9.** He grabs the rail that turns with him.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Harry’s hand locked on the railing that is turning with him. Robe sleeve, taped glasses at the edge of frame, scar on the right brow. The hinge is still visible at the bottom of the wider shot’s logic: the rail is part of the flight, not a separate bar. Steps stay fixed to each other.
 
 Faces: His knuckles are white. He is not walking. He is holding on.
-
 
 **Panel 10.** The flight stops against the wrong arch.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2836,13 +2614,11 @@ They step off onto the wrong landing. The flight is still, hinged at the bottom,
 
 Faces: Harry looks back at the stopped flight, working it out. Ron is half a grin and half late. They are off it.
 
-
 **Panel 12.** The stair stays behind them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The stairwell behind them, one flight still. Ahead, the mouth of a portrait corridor. They have not entered it. Morning light from a high window. Hats still on. Books clutched.
 
 Faces: Harry looks at the next corridor, not relieved. Ron looks at the stair as if it might follow.
-
 
 ### Page 3 — The portrait corridor
 
@@ -2852,13 +2628,11 @@ They come into a corridor of portraits, high above the grounds, morning. Gilt fr
 
 Faces: The portraits look down, nosy. Harry is polite and lost. Ron is offended in advance.
 
-
 **Panel 14.** They were already lost.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same corridor. They were already looking for a door. A painted wizard in a ruff is still inside his frame, watching, not leaning out yet. Other frames yawn.
 
 Faces: Harry scans doors that are not there. Ron talks to a painting that has not answered.
-
 
 **Panel 15.** A portrait leans out and blocks the way.. Art file: `art/c7-p1-p2.jpg`.
 
@@ -2874,20 +2648,17 @@ The same frame. The painted wizard is still out to the waist, finger still waggi
 
 Faces: The portrait is not finished scolding. Harry waits it out. Ron’s mouth is open to answer.
 
-
 **Panel 17.** They edge past.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They edge past the frame. The painted finger follows them. The corridor continues, same morning, same frames.
 
 Faces: Harry looks ahead, done being polite. Ron looks back at the paint, still insulted.
 
-
 **Panel 18.** The frame is behind them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The frame is behind them. They are small in the portrait corridor. The scolding face is a pink spot in the gilt. They have not reached a junction.
 
 Faces: Both look forward, late, and a little braver.
-
 
 ### Page 4 — Peeves
 
@@ -2897,13 +2668,11 @@ A junction under one chandelier, morning. They come around the corner. Peeves, o
 
 Faces: Peeves looks delighted. Harry and Ron look up, already ducking in their minds. Books are still in their arms.
 
-
 **Panel 20.** The bin is still in his hands.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Same junction. They are kneeling for a dropped quill. The bin is still in Peeves’s hands above them. The chandelier does not move.
 
 Faces: Ron looks up, suspicious. Harry reaches for the quill and knows it is a mistake. Peeves waits for the joke.
-
 
 **Panel 21.** Peeves drops a wastebasket on their heads.. Art file: `art/c7-p1-p3.jpg`.
 
@@ -2929,13 +2698,11 @@ Same junction, trash in their hair. They shake paper out. Peeves is a bell and a
 
 Faces: Harry is annoyed and late. Ron splutters and is not hurt. Both are humiliated.
 
-
 **Panel 24.** They gather the books. Not a classroom yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They gather the books under the chandelier. Robes dusty, ties crooked. The junction is empty of Peeves. They have not reached Transfiguration.
 
 Faces: Harry looks at the time they do not have. Ron looks at a wastebasket he is somehow still holding.
-
 
 ### Page 5 — Outside Transfiguration
 
@@ -2953,13 +2720,11 @@ From the corridor, a narrow window in the door: desks, sunlight, a blackboard, s
 
 Faces: The seated students look attentive. The teacher is not clearly a woman yet.
 
-
 **Panel 27.** The room, whole, from the back corner.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside, without Harry: rows of desks, cats that might be teapots in chalk on the board, sun. Hermione is already perfect in the front row. Neville hides behind a book. Draco, green lining now that they are Sorted, looks bored at the back.
 
 Faces: Hermione is ready. Draco is performing boredom. The room is waiting on a teacher who seems to be a cat.
-
 
 **Panel 28.** A tabby sits on the desk, washing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -2967,20 +2732,17 @@ A thin tabby with spectacle markings around the eyes sits on the teacher's desk,
 
 Faces: The cat is precise and unhurried. Hermione looks as if she has already guessed. A student whispers.
 
-
 **Panel 29.** They were whispering before the door bangs.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Two students trade a look: is the cat the professor? Draco smirks as if he knew. Neville's toad shifts in a pocket. The cat stops washing and stares at the door, ears forward.
 
 Faces: The cat looks at the door before the boys arrive. Hermione's hand is down, for once.
 
-
 **Panel 30.** Footsteps in the corridor, too fast.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door is still shut. A wastebasket's metal rim flashes past the door glass. Ron's red hair. They have not fallen in. The cat's eyes are on that glass. The next panel is the tumble and her first line.
 
 Faces: The cat is unsurprised. The class turns toward the door.
-
 
 ### Page 6 — The cat on the desk
 
@@ -2989,7 +2751,6 @@ Faces: The cat is unsurprised. The class turns toward the door.
 The Transfiguration classroom door bangs. Harry and Ron fall in dusty, the wastebasket still on Ron’s head. On the teacher’s desk the thin tabby is still a cat, spectacle markings around the eyes, no woman and no wand. Sunlight, desks. Hermione winces in the front row. Neville hides a smile. Draco, at the back, is delighted.
 
 Faces: McGonagall looks at them with cold disappointment, not surprise. Hermione is embarrassed for them. Draco is smug. Harry is apologetic. Ron is muffled inside the bin.
-
 
 **Panel 32.** Same eyes. The markings are becoming spectacles.. Art file: `art/c7-p1-p5.jpg`.
 
@@ -3023,13 +2784,11 @@ McGonagall places one matchstick on the front desk, wand lowered. The class has 
 
 Faces: The room leans in.
 
-
 **Panel 803.** Wands come up. Hers is the example.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Every wand is rising. Hers is already aimed, still with no thread, the picture before the link. Same classroom, same matchsticks. Draco looks bored. Neville looks worried.
 
 Faces: Hermione is ready. Ron is not.
-
 
 ### Page 7 — Matchsticks
 
@@ -3046,7 +2805,6 @@ Faces: McGonagall looks at the class, challenging and precise. Hermione looks re
 The same classroom. A thin bright thread of spell-light leaves McGonagall’s wand tip and touches her matchstick. The matchstick is still wood. It has not become a needle. The thread does not fill the room.
 
 Faces: Her eyes are on the wood. The class holds still.
-
 
 **Panel 35.** Hermione's matchstick is a needle.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3070,13 +2828,11 @@ Ron’s desk, same sunlight. His wand is aimed and nothing links it to the wood.
 
 Faces: Ron is embarrassed. Hermione does not gloat.
 
-
 **Panel 806.** The bell is not the point. They are still here.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The classroom from the back. Matchsticks, one needle, sunlight, the cat-and-teapot board. Nobody has stood to leave. The corridor is the next page.
 
 Faces: McGonagall is not finished with them.
-
 
 ### Page 8 — Outside Charms
 
@@ -3086,13 +2842,11 @@ A Hogwarts corridor, afternoon sun stripes. A classroom door stands open. A tiny
 
 Faces: Hermione is early in her head. Ron is late in his feet. Harry is between them.
 
-
 **Panel 38.** The door, feathers already on the desks.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the threshold, not crossed: desks with one feather each, sun, a pile of books at the front with a tiny white-haired wizard standing on them, arranging the pile so he can see.
 
 Faces: Flitwick looks delighted with his books. He has not greeted them.
-
 
 **Panel 39.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3100,13 +2854,11 @@ The classroom: rows, feathers, wands out on some desks already, Flitwick small a
 
 Faces: Students already inside look nervous of their own wands. Flitwick looks kind.
 
-
 **Panel 40.** Seamus was already poking his feather.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A sandy-haired boy, Seamus, leans over his feather as if it might explode from being looked at. His wand is in a loose fist. The feather is whole. Nothing has burst.
 
 Faces: Seamus looks eager and unsafe. His neighbor leans away.
-
 
 **Panel 41.** They talk in whispers. Class has not been called to order.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3114,13 +2866,11 @@ Ron shows Harry his wand and shrugs. Hermione has the pronunciation already in h
 
 Faces: Ron is casual. Hermione is containing herself. Harry looks at his feather.
 
-
 **Panel 42.** Flitwick turns, about to see them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The tiny professor turns on the books, smile starting, not speaking. Feathers wait. Our three are in the doorway. The next line is his good afternoon.
 
 Faces: He looks pleased the class is full. Hermione looks ready. Ron looks at his wand, not at the teacher.
-
 
 ### Page 9 — Wands and feathers
 
@@ -3138,7 +2888,6 @@ The same classroom, a moment later. Several wands are aimed at feathers. A few t
 
 Faces: Flitwick looks encouraging. Harry looks too tight. Ron looks worried about his own hair. Hermione’s mouth is already shaping the word.
 
-
 **Panel 45.** A feather twitches. Harry's lies still.. Art file: `art/c7-p2-p1.jpg`.
 
 The Charms classroom in the afternoon, warm, hats off, black robes, red-and-gold ties. Two desks. A classmate’s feather hops at the end of a thin bright thread from that student’s wand. Harry’s feather is a dead shape, his wand aimed and no thread leaving it. Ron’s wand is aimed at his feather and a thin line of smoke runs from the wand tip to the quill, which smokes and singes a bit of red hair. Professor Flitwick, tiny and cheerful, stands on a pile of books.
@@ -3155,7 +2904,6 @@ Close on Ron’s desk. His wand stays pointed. The thin smoke-thread still links
 
 Faces: Ron looks at the singed hair, offended by his own spell. Harry stares at a feather that will not help him.
 
-
 **Panel 47.** Seamus aims. Nothing has left the wand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Seamus Finnigan, sandy hair, freckles, Gryffindor robe and red-and-gold tie, stands at his desk. His wand is aimed at his own feather. His mouth is open mid-spell. His eyes are on the quill. No thread yet. No soot. Flitwick has not looked at him.
@@ -3169,7 +2917,6 @@ Faces: Seamus looks sure he has it. The feather looks ordinary. Harry watches fr
 The same desk. A thin bright thread leaves Seamus’s wand tip and touches one barb of the feather. The barb glows. The feather has not exploded. The thread is a line, not a flash that fills the classroom.
 
 Faces: Seamus looks triumphant too early. Flitwick’s head is turning. Hermione has already seen the force in it.
-
 
 ### Page 10 — The explosion and the word
 
@@ -3205,7 +2952,6 @@ A thin bright thread leaves Hermione’s wand and touches the feather. The feath
 
 Faces: Flitwick is delighted. Harry stares.
 
-
 **Panel 51.** The thread is gone. The feather stays up.. Art file: `art/c7-p2-p2.jpg`.
 
 Hermione’s feather hangs at eye level. Her wand lies beside her book and her hands are folded, as if it were easy. Harry’s feather is still flat. Ron’s hair is singed at one tip. Flitwick claps from his stack of books. Other feathers are disasters. A thin bright thread runs from her wand tip up to the floating feather. The thread is readable and does not fill the room.
@@ -3240,7 +2986,6 @@ The same desks. Hermione’s smile is gone. She looks at her floating feather an
 
 Faces: Hermione looks hurt and finished helping. Ron looks pleased with the voice and does not see it. Harry looks at Ron, uneasy.
 
-
 ### Page 11 — The path to the greenhouse
 
 **Panel 55.** The vegetable gardens, glasshouses in a row.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -3249,13 +2994,11 @@ Hogwarts grounds, afternoon, the castle behind, a row of greenhouses fogged with
 
 Faces: Hermione looks interested. Ron looks as if a plant might be personal.
 
-
 **Panel 56.** Greenhouse Three, from the wet path.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door of Greenhouse Three, wet glass, dripping frame, a patched hat moving inside among leaves. Mandrake leaves press the pane. The three stop on the path.
 
 Faces: Neville's shape is already calm inside. Ron is not.
-
 
 **Panel 57.** They step onto the duckboard. They are not in yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3263,13 +3006,11 @@ The threshold: outside air, then warm wet green. Sprout, stout, earth on her cuf
 
 Faces: Sprout is at home. Harry is curious. Ron lifts a foot as if the floor might bite.
 
-
 **Panel 58.** The greenhouse, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wet glass, tables of pots, dripping plants, earmuffs on a hook, earth smell, light turned green. The room is one jungle with a walkway.
 
 Faces: The plants look busy. The students look edible.
-
 
 **Panel 59.** Neville was already sure of a seedling.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3277,13 +3018,11 @@ Neville, sleeves rolled, dirt on his hands, smiles at a small grabbing plant as 
 
 Faces: Neville looks taller. Ron looks betrayed by botany.
 
-
 **Panel 60.** Sprout turns and sees three more pairs of boots.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She turns, earth on her cuffs, about to point at the mat. She has not spoken. Ron's shoe is still clean and about to stop being. The next panel is her line.
 
 Faces: She looks welcoming and practical. Ron looks doomed.
-
 
 ### Page 12 — Herbology
 
@@ -3347,13 +3086,11 @@ Afternoon, a stone corridor of windows, and at the end the mouth of a stair that
 
 Faces: Hermione is checking the time. Ron is suspicious of any stair that goes down. Harry looks at the dark.
 
-
 **Panel 2.** The stair, from the top, before they take it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Looking down the dungeon stair: damp stone, torches guttering, cold air coming up. No classroom yet. The three stand at the lip.
 
 Faces: Hermione is certain this is right. Ron is certain it is unpleasant.
-
 
 **Panel 3.** They have not crossed onto the first step.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3361,13 +3098,11 @@ Harry's shoe at the edge. Torchlight on the walls below. A drip. The bright corr
 
 Faces: Harry hesitates half a second. Hermione does not.
 
-
 **Panel 4.** Below, a landing and a shut door, the room not entered.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Far down, a heavy door, iron ring, the Potions room still closed. Jars are not visible. The stair is the whole picture, with a few older students already at the bottom, waiting, not talking much.
 
 Faces: The waiting students look grim, as if the teacher were a weather system.
-
 
 **Panel 5.** Draco was already lounging where the light ends.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3375,13 +3110,11 @@ On a landing, Draco, platinum hair, green-lined robes, Crabbe and Goyle bulky an
 
 Faces: Draco looks as if the stair were a stage. Ron's ears go red. Nobody has spoken.
 
-
 **Panel 6.** Hermione looks at the dark and is about to say they are not late.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She points down, mouth closed, the sentence not out. Ron glares past Draco. Harry touches his scar without drama. The next panel is her line, then the old page's corridor sting.
 
 Faces: She is practical. Ron is angry in advance. Harry is quiet.
-
 
 ### Page 2 — The way down
 
@@ -3425,13 +3158,11 @@ Lower on the same dungeon stair. The windows are gone. Greenish torches, wet sto
 
 Faces: Harry looks colder and more uneasy. Ron watches the dark. Hermione counts the steps, determined.
 
-
 **Panel 12.** The door. He has not started.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The foot of the same stair. A heavy dungeon door, shut. Torchlight on iron. Harry, Ron, and Hermione stand in front of it, not through it. The corridor they left is far above. Class has not started.
 
 Faces: Harry looks at the door, wary. Hermione looks ready. Ron looks at Harry, loyal and unimpressed by dungeons.
-
 
 ### Page 3 — Before he starts
 
@@ -3441,13 +3172,11 @@ They come through the dungeon door into the Potions room. Long tables, cold caul
 
 Faces: Harry looks around, alert. Hermione takes it in, already respectful. Ron wrinkles his nose. The room looks back with jars.
 
-
 **Panel 14.** The room, before anyone teaches.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same room, wider. Jars of pale things, unlit cauldrons, damp stone, torches. Gryffindors and Slytherins are choosing tables. No one stands at the front. The blackboard is blank.
 
 Faces: Draco looks at home and smug. Neville looks nervous. Harry looks at the jars. Hermione looks at the blank board and keeps her book closed.
-
 
 **Panel 15.** They wait. Class has not started.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3543,7 +3272,6 @@ A close profile of Snape at the board. The chalk is only a scribble, not words. 
 
 Faces: Snape’s mouth is neutral. His eye is not. He looks at Harry with an old grievance Harry has not earned this week.
 
-
 ### Page 5 — The melted cauldron
 
 **Panel 801.** Neville stirs. Snape is looking at Harry.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -3552,13 +3280,11 @@ The Potions dungeon, same torches, no windows. Neville, round face, sandy hair, 
 
 Faces: Neville is trying. Snape is not watching him.
 
-
 **Panel 802.** The potion climbs the iron. No wand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Neville’s cauldron. The potion crawls up the inside of the iron in a thick tongue, higher than the stir should allow. No wand is pointed at it. No spell thread. His hands are still on the spoon. Harry’s cauldron, beside it, is quiet.
 
 Faces: Neville’s ears are going red.
-
 
 **Panel 25.** Neville’s cauldron starts to smoke.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3566,20 +3292,17 @@ The Potions dungeon, same torches, no windows, same long tables. Class has moved
 
 Faces: Neville looks terrified of his own potion. Harry looks at the smoke, not guilty. Hermione’s eyes are on the cauldron, already worried.
 
-
 **Panel 26.** The cauldron melts.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Neville’s cauldron. The iron slumps. A thick potion runs over the rim and the metal folds like hot wax. Smoke boils up. His hands are off it. Harry’s hands are on his own untouched cauldron. No wand thread. This is the potion failing.
 
 Faces: Neville’s mouth is open and nothing comes out. The cauldron looks ruined. Harry looks innocent and too near it.
 
-
 **Panel 27.** The mess. Harry did not touch it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The mess across the dungeon stones: melted iron, spilled potion, smoke at table height. Neville is horrified, ears scarlet, robe speckled. Seamus and the nearer Gryffindors lean away. Harry did not touch the cauldron. His own is cold and whole.
 
 Faces: Neville looks like he might cry. Harry looks at his own clean hands. Draco’s smile is starting.
-
 
 **Panel 28.** Snape blames the wrong boy.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3595,13 +3318,11 @@ The Gryffindor table. Harry sits, points gone, jaw tight. Draco, at the green ta
 
 Faces: Harry is humiliated and angry. Neville is ashamed. Hermione is furious and silent. Draco enjoys the smoke.
 
-
 **Panel 30.** The smoke thins. They are still in the dungeon.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Same dungeon, smoke thinning. They are still at the table. The ruined cauldron sits between Neville’s elbows. Torches. No windows. They have not left. Snape’s back is a black shape at the board.
 
 Faces: The class looks exhausted. Harry looks at Neville, not at Snape. Neville will not look up.
-
 
 ### Page 6 — The corridor after
 
@@ -3610,7 +3331,6 @@ Faces: The class looks exhausted. Harry looks at Neville, not at Snape. Neville 
 They step out of the dungeon door onto the stair they came down. The dark room is behind them. Afternoon light is somewhere above. Harry, Ron, and Hermione are at the bottom, just out, bags on shoulders. This is the walk out. Snape is not in the frame yet.
 
 Faces: Ron is already talking, angry. Hermione is indignant and precise. Harry looks smaller than he did at breakfast.
-
 
 **Panel 32.** After class.. Art file: `art/c7-p4-p4.jpg`.
 
@@ -3627,7 +3347,6 @@ Faces: Ron looks at Harry with loyal outrage. Hermione agrees and corrects him a
 The same stair from dark to a window, a little higher. Other students pass and glance. Ron is still using both hands. Hermione still has the book. Harry is still quiet between them. The dungeon door is below, out of the nice light.
 
 Faces: Ron looks outraged on Harry's behalf. Hermione agrees with him and is about to correct the wording. A passing student looks curious and keeps walking.
-
 
 **Panel 34.** They stop at a corridor window. Art file: `art/c7-p4-p5.jpg`.
 
@@ -3647,13 +3366,11 @@ They walk on from the window along the bright corridor. Lawns still show through
 
 Faces: Harry looks ahead, troubled. Ron looks at him, frustrated that a joke was not enough. Hermione looks sorry and still without an answer.
 
-
 **Panel 36.** Down the corridor, Snape watches them go.. Art file: `art/c7-p4-p6.jpg`.
 
 A long corridor, light at their end and dark at his, torches between. From behind, Snape is a black shape in the doorway, hands hidden, head turned toward Harry. The three friends are small in the window light, walking away in their robes, not seeing him. Ron’s red hair is the only warm color.
 
 Faces: A slice of Snape’s face is cold, watching Harry’s back. He does not blink. The three look toward the day. Harry’s profile is troubled.
-
 
 ## Chapter 9 — Flying class and the Seeker
 
@@ -3665,13 +3382,11 @@ Hogwarts from the lawn, dawn, dew, the castle pink. A class of first years trail
 
 Faces: They look sleepy and nervous. The day is beautiful and unhelpful.
 
-
 **Panel 2.** Brooms in two neat rows on the wet grass.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wooden school brooms lie flat in two lines. Madam Hooch walks the row, yellow hawk eyes, short gray hair, whistle, dark flying cloak, setting a broom straight with her boot. She has not said good morning.
 
 Faces: She looks strict and wide awake. The brooms look like they might misbehave.
-
 
 **Panel 3.** They come onto the grass.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3679,13 +3394,11 @@ Harry steps from the path onto the lawn, cloak hem dark with wet. Neville looks 
 
 Faces: Neville is afraid. Draco is smug. Harry is curious. Hooch has not spoken.
 
-
 **Panel 4.** The class, whole, two lines, nobody in the air.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: two rows of first years behind the brooms, castle behind, mist. All feet on the ground. A broom twitches and is still. Hooch stands at the end, whistle down.
 
 Faces: The group is cold and whispering. She is about to make them stop.
-
 
 **Panel 5.** They were already arguing about who could fly.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -3693,13 +3406,11 @@ Draco tells Crabbe the school brooms are a joke, without a full line we need. Ro
 
 Faces: Whispers. Hooch is still out of hearing, fixing the last broom.
 
-
 **Panel 6.** Hooch turns. The whistle is still down.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She faces them, yellow eyes, the class gone quiet by instinct. Brooms at their feet. Nobody has said up. The next panel is her good morning.
 
 Faces: She looks ready. Neville looks ill. Harry looks straight ahead.
-
 
 ### Page 2 — Brooms
 
@@ -3725,7 +3436,6 @@ The class in cloaks, each right hand over a broom on the grass, the way she has 
 
 Faces: They are tense. Hooch's hand is up, not yet a stop.
 
-
 **Panel 10.** They shout it together.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Mouths open across the line. The word leaves them in a lump. Brooms jump off the grass all at once, badly, a hedge of sticks.
@@ -3740,13 +3450,11 @@ A single school broom launches vertically off the dew, too fast, handle first, t
 
 Faces: The victim has no time. Neville looks horrified that brooms do this.
 
-
 **Panel 12.** It hits him full in the face.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The broom smacks the student's face. His head snaps. Hat askew. The laugh is the impact, not an injury that lingers past this morning. He sits down hard in the dew.
 
 Faces: Shock, then a wail starting. The class flinches. Draco almost laughs and thinks better of it when Hooch looks.
-
 
 ### Page 3 — Up, and a face
 
@@ -3763,7 +3471,6 @@ Faces: He looks offended by physics. Hooch looks furious and not surprised.
 Hooch points the class back, whistle at her lips, not yet the speech she gives Neville. Neville, round face, sandy hair, has his mouth open for his own up. His broom is eager. The face-hit does not replace his crash. The next panel is Neville too soon.
 
 Faces: Neville looks like he cannot stop the word. Hooch has not reached him. Harry sees it coming.
-
 
 **Panel 15.** Neville kicks off. The broom shoots up.. Art file: `art/c8-p1-p3.jpg`.
 
@@ -3839,7 +3546,6 @@ Harry rises. The lawn falls away. His body knows the broom. Hair and robes strea
 
 Faces: Harry looks forward with a wild gladness, like someone who has just found the sky. There is no fear in him.
 
-
 **Panel 24.** He levels with Draco above the towers.. Art file: `art/c8-p2-p6.jpg`.
 
 Two boys level above the towers. The lake is a dark coin below, a bird under them, morning gold on the battlements. Harry's broom is an extension of his arms. Draco's platinum hair is finally disturbed. The Remembrall is clenched in Draco's fist between them.
@@ -3864,7 +3570,6 @@ Harry arrows down. Wind tears at him. His glasses slide and he jams them back wi
 
 Faces: Harry's eyes water from the wind. The look is concentration, not a pose for an audience.
 
-
 **Panel 27.** The courtyard rushes up.. Art file: `art/c8-p3-p3.jpg`.
 
 From the courtyard floor, Hermione covers her mouth and Ron cranes his neck, white under his freckles. Other students scatter. Harry is a blur at the top of the frame, hand outstretched. The Remembrall is inches from the flagstones. It looks too late.
@@ -3880,7 +3585,6 @@ Faces: Hermione is terrified. Ron cannot blink. Harry's distant face is all focu
 Extreme low on the flagstones. Harry's fingers close around the intact glass ball inches above the stone. White smoke swirls inside it. The broom's bristles skim a flagstone and spark. His knee almost hits. A slice of his face shows the scar, the glasses, and gritted teeth.
 
 Faces: He looks at the ball in his fist, shocked that it is there. Not triumph yet. Disbelief and grip.
-
 
 **Panel 29.** He pulls up. Grass and dust flatten.. Art file: `art/c8-p3-p5.jpg`.
 
@@ -3908,20 +3612,17 @@ Harry on the stone steps, Remembrall in his fist, grass on his cloak, following 
 
 Faces: He is sure he is finished. She is icy and unreadable.
 
-
 **Panel 32.** A long gallery of armor and a red banner.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside, a gallery, morning light, suits of armor, one Gryffindor banner. Her heels are precise. He trots. He has not started the excuse. The old page starts with that excuse.
 
 Faces: She does not look back. He looks at her shoulders.
 
-
 **Panel 33.** A door, noise of a team behind it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A door with a scuff from brooms. Behind it, a mutter of tactics. McGonagall's hand goes to the handle. Harry stops, the Remembrall sweaty in his hand.
 
 Faces: He looks doomed. She looks purposeful.
-
 
 ### Page 7 — The team room, before the name
 
@@ -3931,20 +3632,17 @@ Inside: Oliver Wood, older, brown hair, Gryffindor practice robes, a leather gua
 
 Faces: Wood looks interrupted and intense. The teammates look curious. Harry is not in the room yet.
 
-
 **Panel 35.** They were arguing about a feint.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wood taps the board, mid-plan, mouth shut for our purposes, a piece of chalk. A teammate shrugs. The Golden Snitch is not drawn yet. They are busy before a professor arrives.
 
 Faces: Wood is absorbed. He has not seen a Seeker.
 
-
 **Panel 36.** The door opens. She has not said his name.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 McGonagall in the doorway, Harry small behind her with the ball. Wood looks up. The next panel is Harry's excuse and her silence. Here, nobody has spoken.
 
 Faces: Wood looks wary. Harry looks small. McGonagall looks like Christmas.
-
 
 ### Page 8 — Inside the team room
 
@@ -4000,7 +3698,6 @@ Still the room. Wood’s grin. Harry has understood. They have not left. The cha
 
 Faces: Harry looks frightened and lit up. Wood looks sure. McGonagall allows one small almost-smile.
 
-
 ### Page 9 — The cloister
 
 **Panel 43.** The team-room door is behind them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -4008,7 +3705,6 @@ Faces: Harry looks frightened and lit up. Wood looks sure. McGonagall allows one
 The team-room door behind them. A stone cloister ahead, morning sun, a red banner. Wood walks. Harry trots in black school robes over the morning, Remembrall in his fist. Ron and Hermione are not in this panel.
 
 Faces: Wood is already talking with his hands. Harry nods before the sentence ends.
-
 
 **Panel 44.** On the walk, Wood sketches the Snitch.. Art file: `art/c8-p4-p5.jpg`.
 
@@ -4024,13 +3720,11 @@ The same cloister, same sun, same arches. Harry trots and nods too fast. Wood wa
 
 Faces: Harry looks like he might leave the ground again. Wood looks amused and already coaching.
 
-
 **Panel 46.** They are not at the corner yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Farther along the cloister, a sunny corner visible ahead. Ron and Hermione are small against a pillar, braced, and have not seen Harry. Wood and Harry are in the foreground.
 
 Faces: Ron looks ready for bad news. Hermione holds her book like armor. Harry has not called out.
-
 
 **Panel 47.** The corner, before the news.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4038,13 +3732,11 @@ They reach the sunny corner. Ron and Hermione turn. Harry is still a step away, 
 
 Faces: Ron’s face is the question. Hermione looks at McGonagall’s absence and fears expulsion. Harry is about to show them.
 
-
 **Panel 48.** He has not shown it yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Same corner. Harry has not opened his hand. Ron’s fists are half up. Hermione’s book is against her chest. The arches and the morning stay.
 
 Faces: They wait. Harry looks like he might laugh or be sick.
-
 
 ### Page 10 — The sunny corner
 
@@ -4066,7 +3758,6 @@ The same sunny corner. Ron’s fists finish the yell, not a punch. Hermione’s 
 
 Faces: Ron looks disbelieving and proud. Hermione looks glad the rules bent. Harry looks at them, sure he is not expelled.
 
-
 **Panel 51.** The corner celebrates.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Ron has Harry by the shoulders. Same sun, same pillar. The Remembrall is between them, catching light. Hermione is in the hug sideways, book and all.
@@ -4081,20 +3772,17 @@ Wide on the cloister corner. Three first years and Wood. The lawn shows through 
 
 Faces: Harry looks small and chosen. Wood looks at a Seeker. The friends look at Harry.
 
-
 **Panel 53.** He looks back at the lawn.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry looks back through the arch at the empty lawn. The Remembrall is lowered. Scar on the right brow, tie crooked, robe dusty from the dive.
 
 Faces: He looks grateful and a little sick with luck. Ron and Hermione watch him, not the grass.
 
-
 **Panel 54.** Wood leaves them the corner.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They turn toward the castle door together. Wood peels off toward the team room with a wave. The three stay a set. Same morning, same cloister.
 
 Faces: Wood looks satisfied. The three look like a day that started with a broken wrist and did not end that way.
-
 
 ## Chapter 10 — The Midnight Duel
 
@@ -4106,13 +3794,11 @@ The entrance hall doors from the steps, sun, students crossing between classes i
 
 Faces: The hall is ordinary traffic. Harry is mid-laugh at something Ron said, not a line we need.
 
-
 **Panel 2.** The hall, whole, sun on the flags.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide interior: the stone hall, the staircase, the doors open, banners. People cross. A pale boy with platinum hair is already posted by a pillar with two bulky friends, hands behind his back.
 
 Faces: Draco is waiting. Harry has not seen him.
-
 
 **Panel 3.** They reach the floor.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4120,13 +3806,11 @@ Harry and Ron step off the stair into the traffic. Draco's eyes track them. Herm
 
 Faces: Draco looks prepared. Ron looks unbothered until he notices.
 
-
 **Panel 4.** Draco was already practicing the smile.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close enough to see the small superior mouth, the slicked hair, Crabbe and Goyle blank. Draco watches Harry the way a boy watches a pocket he means to pick. No words.
 
 Faces: Draco looks delighted with his own plan. The other two look like furniture.
-
 
 **Panel 5.** Students flow around the block in the path.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4134,13 +3818,11 @@ People part around the three Slytherins without quite meaning to. Harry's path l
 
 Faces: Harry sees the block and loses the laugh. He has not been hailed.
 
-
 **Panel 6.** Draco steps out. His mouth is shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Draco moves into Harry's path, hands still behind his back. The next panel is the word Potter. Here, the step is the picture.
 
 Faces: Draco looks silky. Harry looks wary. Ron looks ready to be insulted.
-
 
 ### Page 2 — The challenge
 
@@ -4184,13 +3866,11 @@ The same entrance hall, same afternoon sun on the flags. Ron nods. Harry’s sat
 
 Faces: Ron is loyal and reckless. Harry is worried and agreed. Hermione is right and unheard.
 
-
 **Panel 12.** Afternoon. Nobody is out of bed.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hall empties. Afternoon light, armor, open doors to the lawn. No portrait hole, no pajamas, no toad. The three are small, walking toward the stair, the decision already made.
 
 Faces: The hall looks ordinary. They look like students between classes. The night is not here.
-
 
 ### Page 3 — Night in the tower
 
@@ -4200,13 +3880,11 @@ Gryffindor Tower from the grounds, one window still gold, the rest of the castle
 
 Faces: The castle looks asleep. It is not.
 
-
 **Panel 14.** The common room, fire low.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside the common room: red hangings, armchairs, a dying fire, most students gone up. Harry and Ron in gray pajamas too big, shoes in their hands, at the portrait hole. Hermione is not here. She is already ahead, on the old page.
 
 Faces: They look guilty and determined. The room looks warm and sensible.
-
 
 **Panel 15.** Shoes in their hands.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4214,13 +3892,11 @@ Inside Gryffindor Tower, the stair to the dorms. Harry and Ron in oversized gray
 
 Faces: They look guilty and determined. The dormitory looks sensible and asleep.
 
-
 **Panel 16.** They cross the common room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The common room again, from the boys’ stair. Red hangings, dying fire, empty armchairs. They cross it. Hermione is not in the room. The Fat Lady’s frame is ahead, not opened.
 
 Faces: The room looks warm. They look like they are about to be cold.
-
 
 **Panel 17.** The Fat Lady, and they have not gone out.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4236,7 +3912,6 @@ They look at each other under the frame. Pajamas, shoes, wands. The fire is a re
 
 Faces: Harry looks resolved. Ron looks excited and scared. The Fat Lady looks unconvinced.
 
-
 ### Page 4 — Out of bed
 
 **Panel 19.** The Fat Lady's portrait, from inside.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -4245,13 +3920,11 @@ The portrait hole, the Fat Lady in pink silk, painted, eyeing them. The corridor
 
 Faces: She looks arch. They look like boys who know this is stupid.
 
-
 **Panel 20.** Other students were already asleep upstairs.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A glimpse up the dormitory stair: snores, a bedcurtain, Neville's empty bed, toad on a pillow, Neville himself not in it. The empty bed is a seed, not the stuck leg yet.
 
 Faces: The dormitory is peaceful. Neville's absence is a small wrong note.
-
 
 **Panel 21.** They climb through.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4259,13 +3932,11 @@ Harry swings a leg through the portrait hole. Ron follows, pajama cuff, wand in 
 
 Faces: They look cold the instant the corridor hits them.
 
-
 **Panel 22.** The corridor, and a bushy shadow already waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The passage outside, torches low. Hermione stands farther along in a dressing gown, arms folded, the picture of a girl who came to stop them. She has not called them idiots yet. That is the old panel.
 
 Faces: She looks furious and frightened. They look caught.
-
 
 **Panel 23.** Night. Two boys slip out of Gryffindor.. Art file: `art/c9-p1-p5.jpg`.
 
@@ -4291,13 +3962,11 @@ The portrait hole from the cold corridor. The Fat Lady, pink, swings like a door
 
 Faces: Neville is desperate. The Fat Lady is offended.
 
-
 **Panel 26.** One leg through.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Neville's leg goes through the hole, nightshirt riding, the other foot on the corridor stones. Trevor dangles. The frame is swinging back toward the knee.
 
 Faces: He looks hopeful for one second. The frame looks hungry.
-
 
 **Panel 27.** The frame shuts on his leg.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4313,7 +3982,6 @@ Neville on one bare foot, the other leg trapped, nightshirt flapping, toad clutc
 
 Faces: Neville is pleading with a painting. The three look horrified and guilty.
 
-
 **Panel 29.** He pops free. The hole stays shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The leg comes out, red at the knee. He stumbles against the wall. The portrait is shut and smug. He is locked out, nightshirt, toad, one foot bare, which is how the old panel finds him.
@@ -4327,7 +3995,6 @@ Faces: He looks wrecked and hopeful they will not leave him. The Fat Lady will n
 Neville clutches Ron's sleeve in the next second, but here his hand is only reaching. Mouth open, the plea not said. The toad croaks. The next old panel is the plea itself.
 
 Faces: Neville is terrified of being left. Ron looks like he already lost the argument.
-
 
 ### Page 6 — The trap
 
@@ -4345,13 +4012,11 @@ Night, a castle corridor, glass cases glinting, silver cups, a plaque. Harry, Ro
 
 Faces: They look small and illegal. Neville looks like he wants the password back.
 
-
 **Panel 33.** The trophy room door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A tall door, slightly ajar, moonlight on silver beyond. Draco is not in the crack. They pause.
 
 Faces: Harry looks ready. Hermione looks like a person attending her own bad idea. Ron peers.
-
 
 **Panel 34.** They slip in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4359,20 +4024,17 @@ The threshold. Cases, shields, a Quidditch cup, moonlight, dust. The room is a s
 
 Faces: Relief starts and does not finish.
 
-
 **Panel 35.** The room, whole, and empty.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: glass, silver, banners, a polished floor, four children, and nobody waiting with a wand. The duel is not here. The emptiness is the picture.
 
 Faces: Ron is about to say so and has not. Harry's shoulders drop. Hermione's mouth is a line.
 
-
 **Panel 36.** They were whispering before they admitted it was a trick.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Neville hugs Trevor. Hermione listens at the door they came through. Harry scans the cases. Ron mouths a count, as if Draco might still appear.
 
 Faces: They are tense and starting to feel foolish. No teacher yet.
-
 
 ### Page 7 — The trophy room
 
@@ -4381,7 +4043,6 @@ Faces: They are tense and starting to feel foolish. No teacher yet.
 Through the door crack, down the corridor, a caretaker's lamp is a small yellow eye, not yet turned their way. Mrs Norris is a darker eye at floor level. The children have not run. The next old panels are the empty-room line and then the lamp.
 
 Faces: Hermione sees it first, eyes wide, no words yet.
-
 
 **Panel 38.** The trophy room is empty.. Art file: `art/c9-p2-p2.jpg`.
 
@@ -4435,13 +4096,11 @@ Inside a dark stone room. The door is shut. Harry's hand is still on it. Filch i
 
 Faces: Harry looks relieved at the wood. Relief is wrong.
 
-
 **Panel 44.** The room is the size of a breathing thing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide, too dark: a shape that fills the walls, the ceiling close to a back, the floor mostly paw. They are small at the door. No light from a wand yet.
 
 Faces: They have not turned. The shape is patient.
-
 
 **Panel 45.** Three snores, three heights.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4449,13 +4108,11 @@ In the dark, three muzzles at three heights, collars with a glint, drool. One he
 
 Faces: The heads are asleep or nearly. The children are about to stop being lucky.
 
-
 **Panel 46.** A paw covers a square in the floor.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 One paw the size of a door, planted. Under the claws, a trapdoor's edge, barely a line. Hermione's eyes find it and she has not said so. That line is old and later.
 
 Faces: She looks sharp even in fear. Ron looks only at teeth.
-
 
 **Panel 47.** Neville makes a small sound and does not faint yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4463,13 +4120,11 @@ Neville sways, toad crushed gently to his nightshirt, eyes enormous. He is still
 
 Faces: Neville is green. Harry puts a hand out, no spell.
 
-
 **Panel 48.** Hermione's wand rises. It is not lit.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Her wand comes up. No light yet. The next old panel is Lumos and Ron's line. The heads are a wall of possible teeth. Nobody has spoken on this page.
 
 Faces: She is terrified and practical. Ron's mouth is open with no word. Harry stares.
-
 
 ### Page 9 — Lumos
 
@@ -4519,7 +4174,6 @@ The shut door, the dog filling the room behind them, Hermione’s light on the l
 
 Faces: Four faces want the latch.
 
-
 ### Page 10 — The corridor after the dog
 
 **Panel 53.** The door slams. A head hits the wood.. Art file: `art/c9-p3-p5.jpg`.
@@ -4527,7 +4181,6 @@ Faces: Four faces want the latch.
 The door is shut. A huge impact bursts dust from the wood. On the safe side the four of them are a heap against it. Harry's hands stay on the latch. The toad hops clear. Moonlight comes through a high window. Neville is still out of it.
 
 Faces: Harry looks at the booming wood, panting, alive. Hermione checks the latch. Ron checks Neville. Neville's face is slack, missing everything.
-
 
 **Panel 54.** They listen until the growling fades.. Art file: `art/c9-p3-p6.jpg`.
 
@@ -4563,13 +4216,11 @@ A memory. The white bank in daylight, edges faded. Harry is small in a Muggle ja
 
 Faces: The memory is Hagrid’s errand.
 
-
 **Panel 804.** The bronze door, and a lantern.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The bank’s bronze door, a goblin lantern, the same faded edges. They are about to go down. No parcel in view yet.
 
 Faces: Harry, months younger, is curious.
-
 
 **Panel 805.** The cart, and a colder door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4577,13 +4228,11 @@ The cavern rail, faded. A high-security door ahead. Hagrid’s hat is in his han
 
 Faces: Hagrid is nervous in the memory too.
 
-
 **Panel 57.** A flash of Hagrid hiding the parcel.. Art file: `art/c9-p4-p3.jpg`.
 
 A memory, softer and faded at the edges. Blue lantern light in a deep stone vault. Hagrid's big hands hold a grubby wrapped package at the mouth of his overcoat. Harry, small in a Muggle jacket, stands in the doorway with a coin pouch and watches.
 
 Faces: Hagrid looks at the package, serious. Memory-Harry is curious. The feeling of the present is that this is the thing under the dog.
-
 
 **Panel 806.** The coat hides it. The memory ends.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4591,13 +4240,11 @@ The parcel is a square under the coat. The vault table is empty. The edges of th
 
 Faces: Hagrid will not meet the boy’s eyes, even in memory.
 
-
 **Panel 807.** Only the memory of a square of paper.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on the dirty paper and string, faded. No dog. No castle. Harry’s Muggle jacket at the edge of the frame.
 
 Faces: The parcel is ordinary and not ordinary.
-
 
 ### Page 12 — Back in the corridor
 
@@ -4623,13 +4270,11 @@ A long night corridor. Hermione, Neville with the toad, and Ron with the torn sl
 
 Faces: The others look ahead, exhausted. Harry looks back, thoughtful, the package and the trapdoor in his eyes. His mouth is closed.
 
-
 **Panel 808.** The tapestry. The dust drawing is still there.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same alcove, moonlight, the paw print Hermione drew. They are standing now. The vault is not in the picture. Neville sways with the toad.
 
 Faces: Hermione has decided. Ron is rattled.
-
 
 **Panel 809.** The common-room arch, far and warm.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4637,13 +4282,11 @@ A long corridor. The warm arch home is ahead. Harry is last, one slipper, and he
 
 Faces: They want bed. He does not.
 
-
 **Panel 810.** He looks up. The others do not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry alone in the moonlight of that corridor, chin lifted toward the dark stair. Ron, Hermione, and Neville are smaller, farther, toward the light. Same stretch of corridor.
 
 Faces: Harry is already going back in his head.
-
 
 ## Chapter 11 — Hallowe’en
 
@@ -4655,13 +4298,11 @@ Hogwarts courtyard, sun, arches, students between lessons. Pumpkins are not out 
 
 Faces: They look like a group. Hermione is a half-step ahead with a book.
 
-
 **Panel 2.** Draco already has an audience.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Under an arch, Draco, platinum hair, green lining, flings his arms out for Crabbe, Goyle, and a knot of Slytherins. He has not fallen. He is only setting the stage.
 
 Faces: He looks theatrical. His friends look ready to laugh on cue.
-
 
 **Panel 3.** Harry's group comes through the arch.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4669,13 +4310,11 @@ They enter the sun. Hermione slows near a stone bench, book open, not behind a c
 
 Faces: Ron is already angry. Hermione has not heard herself discussed. Harry is wary.
 
-
 **Panel 4.** The courtyard, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: arches, sun, the two groups, a few Hufflepuffs eating pumpkin pasties, not the feast. Draco is the loudest shape. Our three are the quieter one.
 
 Faces: The yard is casual. The trick has not landed.
-
 
 **Panel 5.** People were already laughing at nothing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4683,13 +4322,11 @@ A Slytherin laughs before the joke, to be safe. Hermione sits on the end of a be
 
 Faces: She is absorbed. Ron is winding up. Draco is delighted.
 
-
 **Panel 6.** Draco's knees bend. He has not hit the floor.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He starts the fake swoon, one hand on his chest, platinum hair catching sun, not yet on the flagstones. The next old panel is the fall and the line. Hermione is still behind the bench, unrevealed.
 
 Faces: Draco looks mock-heroic. Harry looks tired of it. Ron looks dangerous to furniture.
-
 
 ### Page 2 — The fake fall
 
@@ -4707,13 +4344,11 @@ The same courtyard, same sun, same cloisters. Students laugh because it is easie
 
 Faces: The crowd looks at Draco. Harry does not flinch. Ron’s ears go red.
 
-
 **Panel 9.** He stays down, pleased.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Draco stays down, one hand on his forehead, making sure Harry still sees. The circle has not broken.
 
 Faces: Draco looks at Harry while he pretends to be hurt. Harry looks tired of it.
-
 
 **Panel 10.** They are at the edge, not laughing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4721,20 +4356,17 @@ Harry and Ron at the edge of the circle, bags, school robes, red-and-gold ties, 
 
 Faces: Harry looks at the performance and will not give it a smile. Ron looks angry on his behalf.
 
-
 **Panel 11.** They leave the arch.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They walk out under the arch. Draco is a shape still on the ground behind them, milking it. The courtyard stays daytime.
 
 Faces: Harry looks ahead. Ron looks back once, disgusted.
 
-
 **Panel 12.** The courtyard keeps the joke.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The arch from the yard. The joke is behind them. Empty flagstones in the foreground, the circle still laughing out of focus. Daytime. They are gone from the frame’s center.
 
 Faces: The yard looks ordinary again. The laugh is the last of it.
-
 
 ### Page 3 — The insult
 
@@ -4744,20 +4376,17 @@ Evening. The Fat Lady’s gold frame from the corridor, pink silk, swinging open
 
 Faces: The Fat Lady looks bored. They look ready to sit down. The insult has not happened.
 
-
 **Panel 14.** They were already by the fire.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside the common room: red hangings, fire, armchairs. They were already here. Ron is dropping into a chair. Harry has homework. Hermione is not visible. She is behind the chair the next panels will show.
 
 Faces: Ron looks careless and comfortable. Harry looks at a quill. The room looks warm.
 
-
 **Panel 15.** The common room, before he says it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The room, wider, before the line. Other Gryffindors read. A paper bat hangs crooked. Ron’s mouth is shut. Hermione is a book and bushy hair just hidden by the chair back, not revealed yet.
 
 Faces: The room is ordinary. The joke is still in Ron’s mouth.
-
 
 **Panel 16.** The Gryffindor common room, evening, fire and red hangings, a paper bat crooked near the ceiling. Art file: `art/c10-p1-p2.jpg`.
 
@@ -4772,7 +4401,6 @@ Faces: Ron looks at Harry, expecting agreement, careless. Harry looks at his par
 The chair back splits the picture. Ron's laughing profile is on one side, freckles, no glasses, mouth still shaped like a joke. On the other side Hermione hugs a book too hard, bushy hair, school robe and tie, the words still hitting.
 
 Faces: Hermione looks at the chair, eyes bright with held tears, mouth small and furious. Ron has not taken it back. A hand reaches in too late.
-
 
 **Panel 18.** She runs. Ron looks sick.. Art file: `art/c10-p1-p4.jpg`.
 
@@ -4790,13 +4418,11 @@ Hogwarts exterior, dusk, jack-o'-lantern glow in the Hall windows. Bats or just 
 
 Faces: Harry looks incomplete. Ron looks guilty and will not say why yet.
 
-
 **Panel 20.** The Hall doors, carved with the noise of a feast.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The doors of the Great Hall, open, candlelight, a smell of feast. They pause because an empty place is a kind of door too.
 
 Faces: They both look for a bushy head and do not find it.
-
 
 **Panel 21.** The doorway. Four tables.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4804,13 +4430,11 @@ They are in the doorway of the Great Hall, not seated. Candlelight, pumpkins, fo
 
 Faces: Harry looks for a bushy head and does not find it. Ron looks guilty and will not say why in a crowd.
 
-
 **Panel 22.** They were already eating.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the door, the Gryffindor table is already eating. Two gaps. Halloween bats and pumpkins. The other three houses are full and visible. No teacher is fainting.
 
 Faces: The feast looks complete without her. Harry looks incomplete.
-
 
 **Panel 23.** Her seat stays empty.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4818,13 +4442,11 @@ They sit in the gaps. Plates, pumpkin juice. Hermione’s place stays empty. Ron
 
 Faces: Harry looks at the door. Ron looks at his plate. The empty seat is the point.
 
-
 **Panel 24.** The feast, and she is not in it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hall from their bench, wide. Four houses, candles, the staff table small at the end. Quirrell has not come in. The side door stays ordinary.
 
 Faces: Harry cannot enjoy it. Ron is quiet. The hall is loud around them.
-
 
 ### Page 5 — The Halloween feast
 
@@ -4834,13 +4456,11 @@ Interior, whole: floating candles, pumpkins, bats in the enchanted ceiling, four
 
 Faces: The room is loud and happy. One seat is a problem.
 
-
 **Panel 26.** They were already eating.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Plates fill. Seamus laughs. Neville fights a pudding. Draco, at the green table, says something that makes his end of the table smirk. Hermione's seat at Gryffindor is empty, a plate waiting.
 
 Faces: The feast is underway. Harry sees the gap. Ron sees it and looks sick.
-
 
 **Panel 27.** Harry watches the door she does not come through.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4848,20 +4468,17 @@ He twists toward the doors. Students pass. None of them is Hermione. Ron pushes 
 
 Faces: Harry is worried. Ron is ashamed. The Hall is cheerful around them.
 
-
 **Panel 28.** A door at the side stays ordinary.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Staff talk. Quirrell is at the staff table, purple turban neat, face only, no second face, picking at a plate, not crashing in. Dumbledore laughs at a far remark we do not hear. The panic is not this panel.
 
 Faces: The teachers look at ease. Harry does not.
 
-
 **Panel 29.** The Halloween feast. Pumpkins and candles.. Art file: `art/c10-p1-p5.jpg`.
 
 Halloween night in the Great Hall. Pumpkins the size of desks, floating candles, paper bats, plates full. Harry sits at the Gryffindor table with his fork idle. Ron keeps glancing along an empty stretch of bench. Neville eats a pie. Draco watches from the green table. At the staff table Dumbledore sits in purple and stars, Snape in black, and Quirrell in a purple turban.
 
 Faces: Harry looks at his plate, guilty. Ron looks miserable. Neville looks at the pie, content. Draco looks toward the staff, then the food.
-
 
 **Panel 30.** Harry watches the door she does not come through.. Art file: `art/c10-p1-p6.jpg`.
 
@@ -4903,20 +4520,17 @@ The Hall doors from inside, the feast breaking up. Prefects’ backs. Harry and 
 
 Faces: Ron looks for Hermione. Harry has already decided.
 
-
 **Panel 802.** They stand. Plates stay.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Their bench. Two plates abandoned. Hermione’s place still empty. They are on their feet, wands not out yet. The Hall, not the passage.
 
 Faces: Harry’s jaw is set.
 
-
 **Panel 803.** A side door, still in the Hall.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A small door at the side of the Hall, torchlight beyond, not taken. Snape’s black robes go through it. Harry watches that door and does not follow him.
 
 Faces: Snape is already gone. The boys are not.
-
 
 ### Page 7 — Out of the hall
 
@@ -4936,7 +4550,6 @@ A long torchlit corridor. The house lines go one way, small in the distance, a p
 
 Faces: Harry looks ahead, determined. Ron looks at Harry, keeping up, mouth tight. The portrait looks after them, worried.
 
-
 **Panel 36.** A smell, then a shadow too big for the hall.. Art file: `art/c10-p2-p6.jpg`.
 
 They stop in a lower corridor. Harry's sleeve is over his nose. Wavy smell lines hang in the air. At the end of the passage a huge gray-green shape with a club fills a doorway, too big for a student. A plain wooden door stands ajar nearby. Torch flames lean away.
@@ -4951,20 +4564,17 @@ The lower corridor, torches. Harry’s sleeve is over his nose. Wavy smell lines
 
 Faces: Both boys slow down.
 
-
 **Panel 805.** The shadow fills a doorway.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 At the end of the passage a gray-green shadow with a club fills a doorway. They stop. The bathroom door is the next page.
 
 Faces: Ron whispers nothing useful.
 
-
 **Panel 806.** They look at each other.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Harry and Ron in torchlight, wands half up, the smell between them. The troll is a blur at the end. They have not reached the door.
 
 Faces: Harry is going anyway.
-
 
 ### Page 8 — The bathroom door
 
@@ -4974,13 +4584,11 @@ Stone corridor, torches, Halloween night, a smell like a closed shed. Harry and 
 
 Faces: They look sick from the smell and still running.
 
-
 **Panel 38.** The bathroom door, too small for what is inside.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A door splintered at the hinge. A club's end, wood and iron, sticks out. White tile reflects on the wet floor. The boys reach it.
 
 Faces: Harry looks afraid and does not stop. Ron looks like his wand is heavier than it was.
-
 
 **Panel 39.** They are in the doorway. The room is whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -4988,13 +4596,11 @@ Interior from the threshold: white tile, smashed stall, puddles, sinks. A mounta
 
 Faces: The troll is slow and huge. Hermione is trapped and tear-streaked. The boys have arrived.
 
-
 **Panel 40.** The troll was already hunting the small sound.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The troll's head turns toward the sinks, club dragging. Hermione's hands are on the porcelain. A book is in a puddle. She is not alone in the frame. Harry's shoulder is in the door.
 
 Faces: She is terrified. The troll is dim and focused. Harry has not thrown the tap.
-
 
 **Panel 41.** Ron shakes. The wand stays down.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5002,13 +4608,11 @@ Ron in the doorway, wand pointed at the floor, not at the club yet. Harry's eyes
 
 Faces: Ron is shaking. Harry is thinking. Hermione sees them and is about to tell them not to come in.
 
-
 **Panel 42.** The smell, the puddle, the club, all in one frame.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A last wide picture: troll, club, sinks, girl with tears, two boys in the door, water on the floor. No heroism yet. Then she speaks.
 
 Faces: All three children look small. The troll looks like the room.
-
 
 ### Page 9 — The bathroom
 
@@ -5042,20 +4646,17 @@ The same bathroom. A thin bright thread leaves Ron’s wand tip and crosses the 
 
 Faces: Ron is astonished it left the wand.
 
-
 **Panel 808.** The club lifts. The thread holds it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The great club rises off the troll’s shoulder at the end of Ron’s thread. The troll’s dull eyes follow it. Harry is too close to the feet. The wand is not in the nostril yet.
 
 Faces: The troll is confused. Ron’s arm shakes.
 
-
 **Panel 46.** The troll has turned. Harry is too close.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 After the tap, the troll's face is down at Harry's height, huge nostrils, dull eyes, club half lifted. Harry's wand is in his fist. Ron is behind, wand up toward the club, the levitation already said on the old panel.
 
 Faces: Harry looks terrified and committed. The troll looks confused.
-
 
 ### Page 10 — The wand and the nostril
 
@@ -5065,13 +4666,11 @@ Harry shoves his wand up the troll's nostril. The wand disappears to the handle.
 
 Faces: Harry's eyes are shut. The troll's eye crosses. Ron stares in horror and does not stop his own spell.
 
-
 **Panel 48.** The troll makes a sound the room hates.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The huge head rears, wand still in the nose, a roar that blows Harry's hair. Mucus is a gleam, not the withdrawal yet. The club wobbles as Ron's spell takes it.
 
 Faces: The troll is offended. Harry hangs on. Ron is shouting with his face, the spell already spoken.
-
 
 **Panel 49.** He cannot pull it yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5079,13 +4678,11 @@ Harry's feet slip on wet tile. Both hands on the wand handle. The nostril holds 
 
 Faces: Harry is stuck in his own idea. Ron looks up at the club.
 
-
 **Panel 50.** Hermione sees both things.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the sinks: the wand in the nose, the club in the air. She is small, tears on her face, not saved yet.
 
 Faces: She looks aghast and alive.
-
 
 **Panel 809.** Both hands. The nostril will not give it back.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5093,13 +4690,11 @@ Low on the wet tile. Harry’s sneakers slip. Both hands lock on the wand handle
 
 Faces: Harry is gagging and not letting go.
 
-
 **Panel 810.** Hermione sees the club and the wand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the sinks: the wand in the nose, the club overhead, Ron’s thread still on the wood. She is small, tears on her face, not saved yet. Same bathroom.
 
 Faces: She is calculating and terrified.
-
 
 ### Page 11 — The club
 
@@ -5109,13 +4704,11 @@ The club tips out of the hover toward the troll's skull. Harry is still attached
 
 Faces: Harry braces. Ron's wand arm drops. The troll does not understand.
 
-
 **Panel 52.** The club drops on the troll's own head.. Art file: `art/c10-p3-p4.jpg`.
 
 The club comes down on the troll's own skull. Water and dust burst. A mirror cracks. Harry is crouched underneath with his arms over his head. Ron still holds the wand out. Hermione has cleared the sinks and watches.
 
 Faces: The troll's eyes squeeze shut, knees buckling. Ron looks on with wild hope. Harry looks up through his arms. Hermione looks at Ron, amazed.
-
 
 **Panel 53.** The club has landed. The wand is still in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5123,13 +4716,11 @@ The troll staggers, club on its own head, the old impact just happened. Harry's 
 
 Faces: Harry is revolted and pulling. The troll is dizzy.
 
-
 **Panel 54.** The wand comes out.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry yanks the wand free. A string of mucus follows it. The wand is coated. This is the second missing picture. No gore. Slime is the joke and the horror.
 
 Faces: Harry looks like he has made a lifelong mistake. Ron's face collapses.
-
 
 **Panel 811.** The thread snaps. The club is loose.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5137,13 +4728,11 @@ Ron’s thin thread breaks. The club is free above the troll’s own head, start
 
 Faces: Ron grabs air. Harry cannot dodge.
 
-
 **Panel 812.** Impact. Water and a cracked mirror.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The club meets the troll’s skull. Water and dust burst. A mirror cracks. Harry is crouched with his arms over his head, the wand still in the nose. Ron still holds his wand out.
 
 Faces: The room rings.
-
 
 ### Page 12 — Covered in mucus
 
@@ -5152,7 +4741,6 @@ Faces: The room rings.
 Close on the wand in Harry's hand, wood lost under thick mucus. A drop falls toward the wet floor. His fingers are in it.
 
 Faces: His mouth is a straight line of regret.
-
 
 **Panel 56.** He holds it away from himself.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5168,20 +4756,17 @@ The troll's eyes cross. The club slides off its shoulder. It has not hit the flo
 
 Faces: The troll looks finished. The children do not believe it yet.
 
-
 **Panel 58.** They are alive enough to be disgusted.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A beat of the three, the filthy wand, the swaying troll. Then the old panel drops the troll. Nobody is heroic. They are wet and appalled.
 
 Faces: Harry looks at the wand, not at a medal. Hermione's tears are still there, and new shock on top.
 
-
 **Panel 59.** The troll falls. Water, dust, and silence.. Art file: `art/c10-p3-p5.jpg`.
 
 The troll is a fallen hill on the tile, face-down, the club rolled away. Water patters from a broken tap. Harry, Ron, and Hermione stand in a triangle around it, dripping, too surprised to celebrate. Hermione's book lies ruined in the puddle.
 
 Faces: They look at the troll, panting. Harry is exhausted. Ron looks as if he might be sick or laugh. Hermione is safe and shaking, tears mixing with tap water.
-
 
 **Panel 60.** They are alive. Not heroic yet.. Art file: `art/c10-p3-p6.jpg`.
 
@@ -5227,20 +4812,17 @@ The bathroom, teachers in the doorway, the troll a hill behind the children. Her
 
 Faces: Hermione’s chin is up. Ron stops talking.
 
-
 **Panel 814.** The teachers have not answered.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on three adult faces in the bathroom door: McGonagall stern, Snape unconvinced, Quirrell’s own face pale, turban on, no second face. The lie is hanging. No points yet.
 
 Faces: Quirrell looks faint. Snape looks hungry for a fault.
 
-
 **Panel 815.** The troll does not get up.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide on the tile. The troll stays down. Water patters. The children are a line in front of it, small. The teachers fill the door. Nobody has left the room.
 
 Faces: The bravery is over. The trouble is not.
-
 
 ### Page 14 — Points in the corridor
 
@@ -5268,13 +4850,11 @@ The corridor side of the bathroom door. Wet footprints. The door closes on the t
 
 Faces: Hermione is ready to be punished.
 
-
 **Panel 817.** Snape’s hem. The stain is the clue.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Farther down the same torchlit corridor. Snape walks away. The dark red stain at his calf is the picture. Harry has stopped. Ron and Hermione are ahead and have not seen it.
 
 Faces: Harry files the blood in the wrong drawer.
-
 
 **Panel 818.** They do not follow the stain.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5282,13 +4862,11 @@ Harry, in the corridor, turns back toward Ron and Hermione. The stain is behind 
 
 Faces: He will tell them later, and he will be wrong.
 
-
 **Panel 819.** A staircase. Not the common room yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They climb a stair, dripping, the bathroom corridor below. No portrait hole in this frame. The lie is going home with them.
 
 Faces: Ron is guilty. Hermione is quiet.
-
 
 ### Page 15 — Later, the common room
 
@@ -5298,20 +4876,17 @@ Gryffindor Tower exterior, one window still gold, Halloween over. This is later.
 
 Faces: The castle has gone back to sleep.
 
-
 **Panel 821.** The portrait hole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Fat Lady’s frame, pink silk, swinging. The three are damp and tired in the corridor. They have not sat down.
 
 Faces: The Fat Lady is unimpressed.
 
-
 **Panel 822.** The common room was already quiet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside: red hangings, a low fire, empty chairs. A few older students sleep over books. The three have not pulled the chairs close yet.
 
 Faces: The room is done with the feast.
-
 
 **Panel 66.** Later, the three of them sit together.. Art file: `art/c10-p4-p6.jpg`.
 
@@ -5329,13 +4904,11 @@ The same chairs, closer. Towel, mugs, a blanket. They are talking without lookin
 
 Faces: Ron’s ears are red. Hermione has forgiven the insult.
 
-
 **Panel 824.** The fire. Nobody comes to fetch them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The common-room fire, three pairs of shoes drying. The night can end. The blood on a trouser leg is still in Harry’s head, and it is not drawn here.
 
 Faces: They are friends again.
-
 
 ## Chapter 12 — Quidditch
 
@@ -5347,13 +4920,11 @@ The pitch, day, four houses already in the stands: red and gold, yellow and blac
 
 Faces: He looks swallowed by the robe and the noise.
 
-
 **Panel 2.** The changing-room door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A low stone door, red cloth hung inside, the roar muffled. Harry's hand on the jamb. Wood's voice is a shape, not the plan yet.
 
 Faces: Harry looks like he might be sick. He goes in anyway.
-
 
 **Panel 3.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5361,13 +4932,11 @@ Cramped stone, benches, scarlet robes, a high window, brooms on a rack including
 
 Faces: The older players look tall. Harry looks eleven.
 
-
 **Panel 4.** Wood was already on one knee with a chalkboard.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Oliver Wood, brown hair, leather guard on one arm, kneels with a slate of arrows. He has not given Harry the order about the Snitch. The team leans in. Harry is still standing in the door with the robe pooling on his shoes.
 
 Faces: Wood is intense. The team is listening. Harry is extra.
-
 
 **Panel 5.** They argue about the wind, quietly.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5375,13 +4944,11 @@ A Beater taps a bat into his palm. A Chaser ties a glove. Someone nods at the wi
 
 Faces: The team is busy. Harry is alone inside a group.
 
-
 **Panel 6.** Wood looks up and sees the first year.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wood's eyes find Harry. The chalk stops. The next old panel is the plan, spoken. Here, the look is the picture.
 
 Faces: Wood looks like a captain about to trust a child. Harry tries to look taller and fails.
-
 
 ### Page 2 — The plan
 
@@ -5407,13 +4974,11 @@ The changing room, red cloth, benches. Wood’s wet finger finishes the circle t
 
 Faces: Wood is intense. Harry is listening.
 
-
 **Panel 802.** The whistle, nearer the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same room. A whistle sounds beyond the door. The team stands. Harry’s scarlet robes still pool on his shoes. They have not gone out.
 
 Faces: The older players are ready. Harry is not sure.
-
 
 **Panel 803.** Gloves. The door is still shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5421,13 +4986,11 @@ Close on Harry’s too-new gloves on the broom handle. Wood’s hand leaves his 
 
 Faces: Harry swallows.
 
-
 **Panel 804.** They face the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The team in a line, Wood first, Harry last, the stone door ahead. Daylight is a crack. They have not stepped into it.
 
 Faces: Wood nods once.
-
 
 ### Page 3 — Brooms up
 
@@ -5436,7 +4999,6 @@ Faces: Wood nods once.
 The tunnel mouth. Dark stone, then a blast of daylight. Harry steps out small in too-long scarlet robes, broom in hand. Wood is ahead of him on the grass. Packed wooden stands, banners of four houses: red and gold, yellow and black, blue and bronze, green and silver, goal hoops, the castle beyond, a bright cold sky.
 
 Faces: Harry looks up at the roar, eyes wide, one step hitching then landing. He looks at the sky, which he trusts more than the crowd. Wood looks back with a nod.
-
 
 **Panel 10.** Green below. Draco points from the stands.. Art file: `art/c11-p1-p4.jpg`.
 
@@ -5460,20 +5022,17 @@ Bird's eye. The daytime stadium is Wood's diagram come alive: an oval pitch, hoo
 
 Faces: Faces are not readable. The picture is scale. Harry is small and the sky is his.
 
-
 **Panel 805.** Harry is a scarlet speck above the diagram.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The pitch from the grass. Harry is already higher than the hoops, one scarlet figure. Four house banners lean: red and gold, yellow and black, blue and bronze, green and silver. The jinx has not started.
 
 Faces: The crowd is happy. He is looking for gold.
 
-
 **Panel 806.** Madam Hooch’s whistle, the game begun.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hooch on the grass, yellow eyes, whistle down, the Quaffle already in a Chaser’s hands. Harry is out of this low frame. Four houses in the stands behind her.
 
 Faces: She is watching the fouls, not the sky.
-
 
 ### Page 4 — The jinx
 
@@ -5482,7 +5041,6 @@ Faces: She is watching the fouls, not the sky.
 Mid-air. Harry banks low over his broom, scarlet robes streaming. A black iron Bludger tears past his ear. He does not chase it. His eyes search the air. A goal hoop and a color-smear of crowd below. A red-haired Beater swings a bat far beneath him.
 
 Faces: Harry looks past the Bludger, not at it, hunting. Concentration, and a flicker of thrill. The Beater looks up at him, protective.
-
 
 **Panel 14.** The broom bucks. He clamps his knees.. Art file: `art/c11-p2-p2.jpg`.
 
@@ -5516,7 +5074,6 @@ The teachers’ box, a railing and the pitch beyond. Snape sits rigid in black, 
 
 Faces: Snape looks at Harry, intense, no blink. It reads as an attack. McGonagall looks at the sky, afraid for the boy. Quirrell looks up, and his stare is the true one if anyone were looking at him. No one is.
 
-
 **Panel 18.** She pushes toward the staff seats.. Art file: `art/c11-p2-p6.jpg`.
 
 The packed outdoor stand, stairs and house colors, the staff box getting closer. Hermione is a determined wedge through scarves and elbows, wand already in her fist. Ron stumbles after her, still looking back at the sky. Hagrid shifts his bulk to let her pass.
@@ -5541,13 +5098,11 @@ A thin blue thread leaves Hermione’s wand and crosses the rail to Snape’s he
 
 Faces: Ron sees the thread. The crowd does not.
 
-
 **Panel 19.** The blue flame bites the hem.. Art file: `art/c11-p3-p1.jpg`.
 
 The edge of the staff seats, daylight, a wooden rail. The thin blue thread has reached the cloth. A tiny precise blue flame bites the hem of Snape’s black robe. His concentration snaps. Ron gasps behind Hermione. Quirrell flinches at the edge, a sweat drop, not the source of a line. No bright thread from Quirrell.
 
 Faces: Hermione looks at the flame, not gloating, urgent. Snape looks down, shock and fury. Ron looks at the fire, horrified and impressed.
-
 
 **Panel 20.** Snape beats the robe. Hermione ducks.. Art file: `art/c11-p3-p2.jpg`.
 
@@ -5563,13 +5118,11 @@ Close on the scorched hem and Snape’s hands beating it. A little smoke. His ey
 
 Faces: He is furious and interrupted.
 
-
 **Panel 810.** Quirrell’s bead of sweat. No line.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The end of the staff box. Quirrell’s purple turban, his own face, a bead of sweat, mouth closed now. No bright line from him. Snape is a black shape out of focus, still beating the robe.
 
 Faces: Quirrell looks shaken and easy to miss.
-
 
 ### Page 6 — The Snitch
 
@@ -5579,13 +5132,11 @@ Open air above the pitch, no stands in the frame. Harry’s broom stops fighting
 
 Faces: He does not know why it stopped.
 
-
 **Panel 21.** Harry hangs one-handed. Gold brushes his lips.. Art file: `art/c11-p3-p3.jpg`.
 
 Open air, sun, the pitch a miniature far below. Harry is still recovering on the broom when the Snitch, tiny and gold with silver wings, flicks against his mouth as if choosing him. No one else is near.
 
 Faces: Harry looks at the Snitch, astonishment, mouth opening on instinct. The Snitch is all wings and will.
-
 
 **Panel 22.** He hits the grass.. Art file: `art/c11-p3-p4.jpg`.
 
@@ -5619,7 +5170,6 @@ The stands in one wide picture: Gryffindor red and gold on their feet, Hufflepuf
 
 Faces: Draco is not cheering. Wood is.
 
-
 ### Page 7 — The hut after the match
 
 **Panel 25.** The grounds at night, the stadium dark behind.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -5628,13 +5178,11 @@ After the match, the pitch is a dark bowl. A path leads to a hut with one warm w
 
 Faces: They look exhausted and wired. The castle is far lights.
 
-
 **Panel 26.** The hut, from the pumpkin patch.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid's hut, wooden, chimney smoke, Fang's nose at the door crack. The forest edge is black. The window is gold.
 
 Faces: The hut looks safe. They look like they brought a question with them.
-
 
 **Panel 27.** They duck in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5642,13 +5190,11 @@ The doorway. Hagrid's head nearly touches the lintel inside. Firelight. The thre
 
 Faces: Hagrid looks delighted to see them and is not speaking yet. Harry looks ready to accuse someone.
 
-
 **Panel 28.** The one warm room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Interior, whole: fire, enormous mugs, a kettle like a cauldron, herbs, a crossbow on the wall, a table too high, Fang's tail thumping. The grounds are a black square of window.
 
 Faces: The room is kind. The children are small in it.
-
 
 **Panel 29.** Hagrid was already pouring tea.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5656,13 +5202,11 @@ He pours from the huge kettle. Rock cakes sit like weapons on a plate. Fang puts
 
 Faces: Hagrid is proud and busy. Hermione is listening too hard. Ron eyes the cakes with fear.
 
-
 **Panel 30.** Harry's hand is a fist on the table.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Snitch is not the subject. His face is. He is about to say Snape tried to kill him. He has not. Hagrid sets down a mug the size of a bucket. The next line is Hagrid's warning about the cakes, on the old page.
 
 Faces: Harry looks set. Hagrid looks happy. The happy will not last.
-
 
 ### Page 8 — The name
 
@@ -5718,7 +5262,6 @@ The hut, firelight. Hagrid’s huge hand is still over his beard. The name has b
 
 Faces: Hagrid is miserable. Hermione is memorizing.
 
-
 ### Page 9 — Outside the hut
 
 **Panel 814.** The hut door, shut, from the path.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -5726,7 +5269,6 @@ Faces: Hagrid is miserable. Hermione is memorizing.
 Night on the grounds. The hut door is shut. Hagrid’s worried face is a small shape in the warm window. The three are on the cold path, not walking yet. The forest is black. Harry is still in the too-big scarlet robes.
 
 Faces: They are not going back in.
-
 
 **Panel 36.** Hermione is already memorizing the name.. Art file: `art/c11-p4-p6.jpg`.
 
@@ -5742,13 +5284,11 @@ The path. Hermione’s finger still traces the name on her palm. Harry and Ron f
 
 Faces: Hermione will not lose the spelling.
 
-
 **Panel 816.** A window in the castle, and they do not know which.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Far off, the castle, one band of windows. They look at it because Hagrid did. They do not point at a teacher. The path is the place.
 
 Faces: Harry wants the answer to be Snape.
-
 
 **Panel 817.** The palm. The letters are invisible.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5756,13 +5296,11 @@ Close on Hermione’s palm in the dark, the finger just finishing a shape. No in
 
 Faces: She has it.
 
-
 **Panel 818.** They go in. The night is not over.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A castle side door, the three small against it, scarlet and school robes. The hut’s window is a gold dot behind them. They have not reached the library.
 
 Faces: Ron is hungry. Hermione is not done.
-
 
 ## Chapter 13 — Nicolas Flamel
 
@@ -5774,13 +5312,11 @@ Hogwarts at night, a tall window that is the library, lamps greenish. Three smal
 
 Faces: They look like a conspiracy with homework.
 
-
 **Panel 2.** The library doors.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Tall doors, a silence seeping out. A sign they do not need to read. Hermione reaches the handle first. Madam Pince is a tall suspicion somewhere inside, not at the door.
 
 Faces: Hermione looks certain. Ron looks sleepy already.
-
 
 **Panel 3.** They go in under a glare.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5788,13 +5324,11 @@ The threshold. Shelves tower. Green-shaded lamps. Madam Pince, tall, tight bun, 
 
 Faces: Pince looks like noise is a crime. Hermione looks approved of, almost. Ron looks guilty of future whispering.
 
-
 **Panel 4.** The library, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Aisles, ladders, a few older students bent over books, dust, the restricted section a rope in the distance they do not cross. The three are small.
 
 Faces: The room is a machine for silence.
-
 
 **Panel 5.** People were already reading.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5802,13 +5336,11 @@ A Ravenclaw turns a page. Someone sleeps on a fist and is not Ron yet. Pince sta
 
 Faces: Hermione is lit up. Ron is fading. Harry is hopeful the fort will work.
 
-
 **Panel 6.** Her finger finds the index. She has not said his name.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hermione opens a heavy book to the back. Her finger is ready. The name Nicolas Flamel is not found. She is about to declare she will find him. The next panel is that line.
 
 Faces: She looks unstoppable. The boys look like audience.
-
 
 ### Page 2 — The search
 
@@ -5850,13 +5382,11 @@ The library table under the green lamp, later the same night. More closed books.
 
 Faces: She is angry at the index.
 
-
 **Panel 802.** Pince’s shadow, and they whisper.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Madam Pince’s shadow crosses the green lamp. They duck. Same aisle. The restricted rope is in the distance and they do not cross it.
 
 Faces: Ron is suddenly awake.
-
 
 ### Page 3 — Empty mornings
 
@@ -5866,13 +5396,11 @@ The Great Hall at breakfast, one morning of the empty days. Four house tables. H
 
 Faces: Harry looks more tired and more fixed. Ron looks loyal and sick of books. Hermione looks undefeated. Snape looks at his plate.
 
-
 **Panel 803.** Snape does not look at him.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The high table, breakfast. Snape’s black eyes pass over the Hall and do not stop. Harry’s fork is still. Four houses eat. Same morning as the stare.
 
 Faces: Harry wants a flinch and does not get one.
-
 
 **Panel 804.** Ron eats. The question waits.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5880,13 +5408,11 @@ The Gryffindor table. Ron’s mouth is full. Hermione taps a blank notebook. Har
 
 Faces: Hermione is already planning the next book.
 
-
 **Panel 805.** They leave the Hall with the question.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Hall doors, morning. The three walk out with bags. The high table is behind them. Class is next, and it is not this door.
 
 Faces: Harry looks back once.
-
 
 **Panel 806.** A corridor of morning. Not a classroom yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5894,13 +5420,11 @@ A stone corridor, students changing class. The three walk. No feather and no cau
 
 Faces: Hermione sets the pace.
 
-
 **Panel 807.** The library doors again, shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The library doors at dusk, another day, the sign, the silence. They are outside. This is the empty-day library, not the search we already saw from inside.
 
 Faces: Ron groans before they go in.
-
 
 ### Page 4 — A feather, another day
 
@@ -5910,13 +5434,11 @@ The Charms classroom door, afternoon, a different day from the library night. Fe
 
 Faces: Harry’s mind is not on feathers.
 
-
 **Panel 809.** They sit. Flitwick is on the books.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Inside Charms. Flitwick on his pile of books. A feather in the air that is not theirs. Hermione’s hand is up. Harry’s mind is elsewhere. One room.
 
 Faces: Flitwick is cheerful. Harry is not here.
-
 
 **Panel 810.** His feather does not matter.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5924,13 +5446,11 @@ Harry’s feather, flat. He is not looking at it. He is looking at the window, t
 
 Faces: Ron notices. He does not understand.
 
-
 **Panel 811.** Class ends. The question does not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The corridor outside Charms, books hugged. Hermione is already talking about the restricted section. They are not in the dungeon.
 
 Faces: She will not drop it.
-
 
 **Panel 812.** Stairs. The dungeon smell is not here.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5938,13 +5458,11 @@ A bright stair. They are going to Potions and have not reached the dark mouth. T
 
 Faces: Harry’s scar has not twinged yet.
 
-
 **Panel 813.** The daylight ends at a landing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A landing, the last window. The dungeon stair is a dark mouth ahead, not taken. The scar picture is the next page.
 
 Faces: Hermione slows. She hates being late.
-
 
 ### Page 5 — The scar in Potions
 
@@ -5953,7 +5471,6 @@ Faces: Hermione slows. She hates being late.
 The Potions door, torchlight, steam already leaking. They are outside it. Snape’s voice is a murmur, not a line.
 
 Faces: Harry’s hand is near his forehead and not touching yet.
-
 
 **Panel 12.** In a lesson, the scar twinges.. Art file: `art/c12-p1-p6.jpg`.
 
@@ -5969,13 +5486,11 @@ The same dungeon. Snape looks away. Harry’s hand drops from the scar. The caul
 
 Faces: Snape files the flinch. Harry files the stare.
 
-
 **Panel 816.** They do not speak in his class.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Their table, low. Hermione’s note is blank because she will not write this here. Ron’s eyebrows ask. Harry shakes his head, small. Same torches.
 
 Faces: The question waits for a corridor.
-
 
 **Panel 817.** The board. He writes nothing they can use.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -5983,13 +5498,11 @@ Snape’s handwriting on the blackboard, a recipe, his back to the class. Harry 
 
 Faces: The class copies. Harry does not.
 
-
 **Panel 818.** The bell. Steam thins.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Students stand. Steam thins. They are still in the dungeon, gathering bags. The corridor after class is not this frame.
 
 Faces: Hermione is ready to talk the moment the door shuts.
-
 
 ### Page 6 — The common room book
 
@@ -5999,13 +5512,11 @@ Gryffindor Tower, evening, one gold window. Snow is not required. This is the ev
 
 Faces: The tower looks ordinary. The discovery is inside.
 
-
 **Panel 14.** The portrait hole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Fat Lady swings. Hermione climbs through with a book the size of a hearthstone hugged shut, bushy hair, robes. She has not slammed it down.
 
 Faces: She looks triumphant and trying not to run.
-
 
 **Panel 15.** The common room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6013,13 +5524,11 @@ Red curtains, fire, armchairs, students at essays. Harry and Ron are on the floo
 
 Faces: The room is lazy. She is not.
 
-
 **Panel 16.** They were already losing a game.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Ron frowns at a knight. Harry's king is in trouble. Scabbers sleeps on a captured pawn. They do not see the book yet.
 
 Faces: Ron is competitive. Harry is half-playing, half-thinking about a dog.
-
 
 **Panel 17.** She crosses the room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6027,13 +5536,11 @@ Hermione walks the book through the common room like a verdict. A first year duc
 
 Faces: She looks as if the book might speak if she waits. She will not wait.
 
-
 **Panel 18.** The book is an inch above the table.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She holds it over the chessboard, both hands, about to slam. Dust is ready. The slam and the line are the next old panel. Here, the inch of air is the picture.
 
 Faces: Ron's mouth opens to save the pieces. Harry leans in. She has not spoken.
-
 
 ### Page 7 — The book
 
@@ -6075,7 +5582,6 @@ The engraving fills the panel. A small, irregular, deep-red stone glows on blank
 
 Faces: No faces. The stone is the face of the chapter. It looks inert and priceless.
 
-
 **Panel 24.** The common room returns. Art file: `art/c12-p2-p6.jpg`.
 
 The common room returns. Harry sits back in a red chair, one hand on the picture of the red stone, the book open on his knees. Hermione watches the conclusion land. Ron looks up, a chess piece tugging his sock.
@@ -6107,7 +5613,6 @@ Faces: Ron looks at the fire, matter-of-fact, a little sad. Harry looks at Ron, 
 Harry is small in the chair, knees up, a forgotten mug. He looks into the fire. In the flames only, not a second room: a woman on the viewer’s left of the firelight, long straight dark-red hair, a pale-green dress, and a man on the viewer’s right, messy black hair, round glasses, no beard, a dark jacket. They are warm light, not quite people, and they do not swap sides. Ron and Hermione stay behind him, out of focus, and do not poke.
 
 Faces: Harry looks into the fire, grief he is only learning the shape of. Ron looks at him and does not poke. Hermione gives him the silence.
-
 
 **Panel 28.** The Stone is in the school. Someone wants it.. Art file: `art/c12-p3-p4.jpg`.
 
@@ -6143,13 +5648,11 @@ High windows, daytime, a long corridor. Snape sweeps far ahead, black robes, gre
 
 Faces: Snape looks like a closed door. Harry looks like a decision.
 
-
 **Panel 32.** Suits of armor, too narrow to hide a secret.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A row of armor, spears, sunlight. One suit is not wide enough for three children. They eye it anyway. Snape turns a corner ahead and does not look back.
 
 Faces: Ron looks at the armor and knows it is a bad plan. He is going to do it.
-
 
 **Panel 33.** They duck.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6157,13 +5660,11 @@ Three heads and six feet try to become a statue. The spear is in the way. Ron is
 
 Faces: They look like bad statues. No one has said so.
 
-
 **Panel 34.** The corridor, whole, with a teacher walking away.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: windows, armor, Snape's back, three badly hidden children, a few real students passing who glance and decide not to know.
 
 Faces: The passersby are wiser. Our three are not.
-
 
 **Panel 35.** Snape pauses. He does not turn.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6171,13 +5672,11 @@ He stops at a window, profile, hooked nose, black eyes on the grounds. The three
 
 Faces: Snape looks empty and dangerous. The children look like held breath.
 
-
 **Panel 36.** Ron's mouth is open. The whisper is next.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Ron is about to say they are bad statues. He has not. Snape walks on. The next old panel is the whisper. Here, the freeze is the picture.
 
 Faces: Ron looks unable to stay quiet. Hermione's eyes order him to. Harry watches Snape's back.
-
 
 ### Page 10 — Watching
 
@@ -6194,7 +5693,6 @@ Faces: Snape looks ahead, bored with his errand. Harry looks at Snape's back. He
 Snape half-turns in the sun, cloak swinging, blank papers in his hand, eyes sliding toward the armor. The three are frozen in the arch beside it. A bead of sweat on Ron. Snape chooses to walk on.
 
 Faces: Snape looks at the armor, a flicker of contempt, then away. Harry does not breathe. Hermione sees the glint of his glasses too late. Ron sags only after the cloak has passed.
-
 
 **Panel 39.** Quirrell flinches when he sees Snape.. Art file: `art/c12-p4-p3.jpg`.
 
@@ -6220,13 +5718,11 @@ The same daytime corridor. Snape and Quirrell are gone, one each way, not in the
 
 Faces: Hermione is connecting it. Ron is not.
 
-
 **Panel 820.** They do not follow either man.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A window on the grounds. The three stand at it, arguing without a conclusion. Same afternoon corridor.
 
 Faces: Harry’s eyes are on the black-cloak direction.
-
 
 ### Page 11 — The name, burned
 
@@ -6236,20 +5732,17 @@ A tower window at night, four-poster silhouettes. This is a new room. The corrid
 
 Faces: The castle is quiet.
 
-
 **Panel 822.** The door. Ron is already asleep.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The dormitory door from inside. Ron is a shape in a bed, asleep. Harry is not in bed. A candle is lit.
 
 Faces: Hedwig is awake.
 
-
 **Panel 41.** That night he writes the name and burns it.. Art file: `art/c12-p4-p5.jpg`.
 
 The boys' dormitory after lights out. Moonlight, four-posters, one candle. Harry kneels in gray pajamas and puts a blank scrap into the flame. Ash curls. Hedwig watches from the window perch, gold eyes open. Ron sleeps, mouth open. A toad sits on the bedpost.
 
 Faces: Harry looks at the burning scrap, serious, protective of the secret. Hedwig looks at him, calm. Ron trusts him to still be there in the morning.
-
 
 **Panel 42.** The ash curls.. Art file: `art/c12-p4-p6.jpg`.
 
@@ -6265,13 +5758,11 @@ The candle. The scrap is gone. Ash on Harry’s thumb. He does not write the nam
 
 Faces: He looks older by an hour.
 
-
 **Panel 824.** Hedwig watches him sleep.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry in the four-poster at last, gray pajamas, glasses off. Hedwig’s gold eyes stay open. The candle is out. The name is not in the room.
 
 Faces: The owl keeps it.
-
 
 ## Chapter 14 — The Mirror of Erised
 
@@ -6283,13 +5774,11 @@ The castle exterior, pale winter sun, first snow, horseless carriages in a line 
 
 Faces: The crowd is cheerful. One window high up is not.
 
-
 **Panel 2.** The doors, a river of scarves going out.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Four house scarves in the outflow, trunks, a mother already hugging someone at the bottom step. Harry is not in the river. He is inside, above.
 
 Faces: Everyone else has somewhere to go.
-
 
 **Panel 3.** The entrance hall, suddenly too big.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6297,13 +5786,11 @@ Inside, the hall is half empty, wet footprints, a last trunk. The noise is leavi
 
 Faces: The room feels larger when it is abandoned.
 
-
 **Panel 4.** The common room is down to embers and one boy.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Gryffindor common room, almost empty, tree not the point yet or a small tree undecorated. Harry stands at the high window with Hedwig on his shoulder, watching the carriages. This is the interior before the old closer panel.
 
 Faces: He looks left. Hedwig looks out, gold eyes.
-
 
 **Panel 5.** Ron was packing, and then he was not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6311,13 +5798,11 @@ Ron's trunk is open and then half unpacked again, maroon jumper, a letter in his
 
 Faces: Ron looks awkward and kind. Harry has not turned.
 
-
 **Panel 6.** The carriages roll. He does not wave.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Through the glass, carriages shrink into the snow. Harry's hand is up and not quite a wave. The old panel is this watch, closer. Here we see the room around him, empty chairs, and Ron about to speak.
 
 Faces: Harry looks as if staying is a fact, not a choice. Ron looks as if he is about to make it less lonely.
-
 
 ### Page 2 — Staying
 
@@ -6326,7 +5811,6 @@ Faces: Harry looks as if staying is a fact, not a choice. Ron looks as if he is 
 A high corridor window inside the castle, pale winter sun, first snow. Harry stands with one hand toward the cold glass and Hedwig on his shoulder. Below, horseless carriages and tiny students leave across the snowy lawn toward the iron-gray lake. He does not wave.
 
 Faces: Harry looks down, lonely and pretending not to be. His mouth is still. Hedwig looks out too, calm. No one below is looking up for him.
-
 
 **Panel 8.** Ron stays, so Harry will not be alone.. Art file: `art/c13-p1-p2.jpg`.
 
@@ -6394,13 +5878,11 @@ The common room, fire low, Christmas. Harry stands in gray pajamas with the silv
 
 Faces: Ron is delighted. Harry is testing it.
 
-
 **Panel 802.** He takes it off. He is solid again.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same armchair. The cloak is a silver pool in his hands. He is fully visible, green jumper, pajamas. Ron leans in. They have not left the tower.
 
 Faces: They are planning a night they should not have.
-
 
 **Panel 803.** The note, read twice.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6408,13 +5890,11 @@ The blank note in Harry’s hands, the fire, Ron’s chin on his knee. No portra
 
 Faces: Harry is quiet about his father.
 
-
 **Panel 804.** The common room door, later.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They bank the fire. Harry folds the cloak. The portrait hole is a gold edge, not gone through. The night walk is the next page.
 
 Faces: Ron is told to stay. He hates it.
-
 
 ### Page 4 — The sleeping castle
 
@@ -6424,13 +5904,11 @@ Exterior, night, snow, a Gryffindor window going dark. The grounds are white. Ha
 
 Faces: The castle sleeps.
 
-
 **Panel 15.** Night. His shoes show. He is still faintly there.. Art file: `art/c13-p2-p3.jpg`.
 
 A sleeping corridor at night. Suits of armor, low torches, a window of snow. Harry's sneakers are solid under the hem. The rest of him is 90% transparent, only about 10% opacity: a faint but clearly Harry figure, face, hair, scar side, glasses, and the green jumper still readable, with a sheer silver-gray cloak edge. A portrait's eyes follow him.
 
 Faces: His faint face is cautious and free. The portrait looks puzzled. She can almost see a boy.
-
 
 **Panel 16.** He slips past Filch.. Art file: `art/c13-p2-p4.jpg`.
 
@@ -6446,20 +5924,17 @@ A forgotten stretch of castle. Dust, moonlight, a tapestry of a chess game with 
 
 Faces: His faint face looks at the door, cautious. The door looks as if it has been waiting.
 
-
 **Panel 806.** Filch turns the corner. The faint boy is still.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The corridor. Filch’s lantern goes away. Harry, 90% transparent, shoes solid, face still readable, does not move until the light is gone. Same passage.
 
 Faces: Mrs Norris looks back. She does not see him as the reader does.
 
-
 **Panel 807.** A staircase he does not know.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A minor stair, dust, moonlight. Harry’s faint figure climbs. The classroom door is not here yet.
 
 Faces: He is lost and glad.
-
 
 ### Page 5 — The unused classroom
 
@@ -6469,13 +5944,11 @@ The corridor’s end. A tall unused door, ajar. Dust and a chess tapestry. Harry
 
 Faces: The door feels like it was waiting.
 
-
 **Panel 18.** A dark room. Something tall under a sheet.. Art file: `art/c13-p2-p6.jpg`.
 
 An unused classroom. Desks pushed aside, cobwebs, one high window, Harry's breath in the cold. He is visible again in the green sweater and gray pajamas, the silver cloak bundled against his chest. A tall shape stands in the center under a dusty white sheet.
 
 Faces: Harry looks at the sheet, curious and cautious, young and unguarded. He takes a step.
-
 
 **Panel 19.** He pulls the sheet. Only himself in the glass.. Art file: `art/c13-p3-p1.jpg`.
 
@@ -6498,7 +5971,6 @@ Faces: Real Harry looks at the glass, frozen. Lily, on the viewer's left, looks 
 Close inside the glass, a warm light that does not match the moon. Same sides as every other frame. Lily, on the viewer's left, long straight dark-red hair, green eyes, the same pale-green dress, lifts one hand. James, on the viewer's right, glasses, untidy black hair, no beard, the same dark jacket, rests a hand on mirror-Harry's shoulder. Harry stands between them.
 
 Faces: Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from the woman on the viewer's left to the man on the viewer's right.
-
 
 **Panel 22.** He turns. The room is empty.. Art file: `art/c13-p3-p4.jpg`.
 
@@ -6524,13 +5996,11 @@ The moon has traveled in the window. Harry sits solid and visible, the cloak onl
 
 Faces: Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily, on the viewer's left, would worry. He sees only that she is there.
 
-
 **Panel 809.** The moon moves. He does not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same unused classroom, later the same night. The moon has crossed the high window. Harry sits on the floor, cloak around his shoulders, fully visible now, still facing the glass. Lily stays on the viewer’s left. James stays on the viewer’s right. No one has come for him.
 
 Faces: He is not ready to leave.
-
 
 **Panel 810.** The sheet stays on the floor.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6538,20 +6008,17 @@ The dusty sheet, the carved frame, his shoes. Same room. The door is still ajar.
 
 Faces: The mirror is patient.
 
-
 **Panel 811.** He stands at last.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry stands, stiff, the cloak in his arms, back mostly toward us. The parents are still in the glass, sides unchanged. He has not walked out.
 
 Faces: Leaving hurts.
 
-
 **Panel 812.** The corridor, going back, still that night.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The dusty corridor outside the classroom. He is faint again under the cloak, shoes solid, face readable. The classroom door is behind him. This is the walk home, not the later night with Ron.
 
 Faces: The castle is still asleep.
-
 
 ### Page 7 — The warning
 
@@ -6619,13 +6086,11 @@ Mud, green lawn going dark, the forest a wall, the hut's window gold. Harry, Ron
 
 Faces: Hermione looks suspicious of surprises. Ron looks hungry. Harry looks fond.
 
-
 **Panel 2.** The hut, Fang in the yard.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The wooden hut, Hagrid's head nearly at the lintel inside, but the door is only opening. Fang, a huge boarhound, tails the yard and thumps. Pumpkins. A smile too big is hidden behind the door, not seen full.
 
 Faces: Fang looks delighted. The children brace for the dog.
-
 
 **Panel 3.** They come into the heat.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6633,13 +6098,11 @@ The threshold: cold grounds behind, fire ahead, bacon and dog and something hott
 
 Faces: He is hiding a grin and an object. They are not inside the joke yet.
 
-
 **Panel 4.** The room, and a black egg already in the fire.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Interior, whole: table, crossbow, herbs, Fang's bed, and in the grate a black egg the size of a pumpkin, sitting in the flames as if that were normal. Hagrid has not announced it.
 
 Faces: The egg is the quiet center. Hermione's eyes find it at once.
-
 
 **Panel 5.** He was humming. The egg was not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6647,13 +6110,11 @@ Hagrid hums and nudges a log so the egg sits better. Fang watches the egg with r
 
 Faces: Hagrid looks shy and proud. Hermione looks like the law walking in.
 
-
 **Panel 6.** His hand stays behind his back. The grin escapes.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He turns, the grin too big, the hand still hidden as if the egg were not already visible. The next old panel is come in, and the surprise. Here, they are already in, and the egg is already there, and he has not spoken.
 
 Faces: He looks like a man about to burst. Harry almost smiles. Hermione does not.
-
 
 ### Page 2 — The egg
 
@@ -6717,13 +6178,11 @@ Days later, daylight, the same hut, a blackened patch near the chimney, a curtai
 
 Faces: They look like people visiting a problem.
 
-
 **Panel 14.** The door, claw marks.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The wooden door, fresh pale scratches at Hagrid's knee height and higher. A bucket of something meaty by the step. Ron's hand is still his own color, for one more minute.
 
 Faces: Ron looks at the scratches and slows. Hermione does not.
-
 
 **Panel 15.** They step into a smaller room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6731,13 +6190,11 @@ Interior: beams scorched, daylight through a gap, the table pushed back. Norbert
 
 Faces: Hagrid looks like a proud father. The children look like accomplices.
 
-
 **Panel 16.** Hagrid was already crooning.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid dangles a dead something. Norbert's head, about a big dog's head, follows it. The tail knocks a cup. Hermione has a speech ready and has not given it. The bite is the old first panel of this stretch.
 
 Faces: Hagrid is soft. Norbert is playful. Ron is too close.
-
 
 **Panel 17.** Ron reaches to steady a bucket.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6745,13 +6202,11 @@ Ron, red hair, secondhand robes, reaches past the dragon for a tipped bucket. No
 
 Faces: Ron looks helpful. Norbert looks hungry. Harry sees it.
 
-
 **Panel 18.** The teeth are an inch from the hand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Norbert's mouth opens, small sharp teeth, Ron's hand in the wrong place. No green swelling yet. The next old panel is the bite and the yell.
 
 Faces: Ron's eyes go wide. Hagrid's croon is about to become a defense.
-
 
 ### Page 4 — The problem grows
 
@@ -6781,7 +6236,6 @@ Dusk outside the hut. Draco’s pale face is pressed to a small high window, pla
 
 Faces: Draco looks in, triumph, the smile of a boy who has been waiting for a real rule to break. No one inside looks at the window.
 
-
 **Panel 22.** Draco slips off toward the castle.. Art file: `art/c14-p2-p4.jpg`.
 
 Nightfall on the grounds. Draco runs across the dark lawn toward the lit castle, robes gathered, looking back once. The hut is one orange window behind him. Forest edge. No teachers outside.
@@ -6796,13 +6250,11 @@ The castle, daytime, a clean corridor, the hospital wing door ajar. The smell of
 
 Faces: They look frightened of a hand, not of a teacher.
 
-
 **Panel 24.** Madam Pomfrey at the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Madam Pomfrey, brisk, white apron, a trolley of bottles, blocks half the door and then allows them because the damage is already in a bed. She has not given a speech.
 
 Faces: She looks tired of children. They look sorry.
-
 
 ### Page 5 — The hospital wing
 
@@ -6812,13 +6264,11 @@ White curtains, empty wooden beds, a high window, flowers, a jug. One bed occupi
 
 Faces: The room looks kind. The patient looks green.
 
-
 **Panel 26.** The hand was already swelling.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Ron's hand on the sheet, green, puffed, fang marks. He stares at it. Hermione stares at it. Harry stares at it. Hagrid is not here. Norbert is not here.
 
 Faces: Ron looks ill and furious. Hermione looks decided.
-
 
 **Panel 27.** Pomfrey was already muttering over a salve.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6826,13 +6276,11 @@ She works, not looking at their conspiracy. A bottle. A frown. Ron hisses. The p
 
 Faces: Pomfrey is professional. Hermione is plotting. Ron is in pain.
 
-
 **Panel 28.** Hermione's quill is already in her pocket.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She touches the pocket. Ron is about to say get rid of the dragon tonight. He has not. The next old panel is that line.
 
 Faces: She looks ready to write. He looks ready to beg. Harry looks at the green fingers.
-
 
 **Panel 29.** The hospital wing. The dragon has to go tonight.. Art file: `art/c14-p2-p5.jpg`.
 
@@ -6858,13 +6306,11 @@ Gryffindor Tower in afternoon sun, red curtains in a window. No dragon in the sk
 
 Faces: The tower looks normal. It is not.
 
-
 **Panel 32.** The portrait hole lets them in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Fat Lady, bored, swings. Hermione has a letter that is mostly a sketch of a tower. Ron's hand is bandaged. Harry follows.
 
 Faces: The Fat Lady looks uninterested. They look like a secret.
-
 
 **Panel 33.** The common room, sun and fire both.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6872,13 +6318,11 @@ Interior: red and gold, students at tables, a chess game that is not theirs, the
 
 Faces: The room is lazy. Their corner is not.
 
-
 **Panel 34.** Charlie's answer was already in her hand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hermione holds the letter shut. A pencil sketch of the Astronomy Tower shows at the edge. Ron, pale, bandaged, leans in. Harry watches the room in case of Draco.
 
 Faces: She looks certain. Ron looks like midnight is too soon and also not soon enough.
-
 
 **Panel 35.** They were whispering before the clock was said.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6886,13 +6330,11 @@ Heads together. A first year passes and they smile as if it were homework. The w
 
 Faces: They look like conspirators pretending to be students.
 
-
 **Panel 36.** She taps the sketch of the tower.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Her finger on the drawn tower. Mouth closed. The next old panel says midnight and the cloak. Here, the tap is the picture.
 
 Faces: Hermione is the plan. Ron nods, grim. Harry looks at the bandage.
-
 
 **Panel 37.** Charlie's friends will come at midnight.. Art file: `art/c14-p3-p1.jpg`.
 
@@ -6938,7 +6380,6 @@ The Astronomy Tower exterior, night, too tall, a crate somewhere on the stair in
 
 Faces: The sky is the picture. The riders are not faces yet.
 
-
 ### Page 10 — The Astronomy Tower
 
 **Panel 42.** The stair, a crate, a tail.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -6947,13 +6388,11 @@ Inside the tower stair, Harry and Hermione haul a crate. A tail sticks out. The 
 
 Faces: They look strained. The tail looks like a confession.
 
-
 **Panel 43.** The top, wind, battlements.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They come out onto the tower top. Wind. The grounds far below. The crate thumps. Stars. No riders on the stone yet.
 
 Faces: Harry looks over the edge and regrets it. Hermione looks at the sky for the signal.
-
 
 **Panel 44.** The riders were already circling.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -6961,20 +6400,17 @@ Two brooms drop out of the dark, strangers, scarves over their faces, Charlie's 
 
 Faces: The children look up. The riders look like a rescue and a risk.
 
-
 **Panel 45.** Norbert's eye at the slat.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A bronze eye at a gap in the crate, smoke, the tail lashing once. Harry's hand on the wood. Goodbye is the old panel, later. Here the eye is the picture.
 
 Faces: Harry looks sorry. The eye looks curious. Hermione looks at her watch.
 
-
 **Panel 46.** A rider's hand reaches down. No one has spoken.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A gloved hand comes into the frame for the crate. The next old panel is the line about Charlie and the tower alight. Here, the hand is enough.
 
 Faces: The rider is urgent. Harry is not ready to let go. He will.
-
 
 **Panel 47.** Midnight on the tower. Two riders take the crate.. Art file: `art/c14-p3-p5.jpg`.
 
@@ -7000,13 +6436,11 @@ From a landing, the spiral goes down into torchlight. Harry and Hermione, and Ro
 
 Faces: They look lighter and then they see the lantern.
 
-
 **Panel 50.** A lantern at the bottom.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 McGonagall stands at the foot of the stair like a gate, emerald robe, tall green hat, spectacles, lantern. Draco is beside her, platinum hair, chin up. They have not spoken. The children are still high.
 
 Faces: She looks closed. Draco looks triumphant. The children look ended.
-
 
 **Panel 51.** They keep walking down because there is no other stair.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7014,13 +6448,11 @@ Feet on stone, the lantern rising toward them as they descend. Draco's smile get
 
 Faces: Harry sees the shiny thing and knows. Hermione's mouth is tight. Ron looks at Draco.
 
-
 **Panel 52.** The landing, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: the bottom of the stair, the professor, the rival, the caretaker, three first years in night clothes or cloaks over pajamas, caught in a composition that is already a punishment.
 
 Faces: Nobody is surprised except the part of Harry that hoped.
-
 
 **Panel 53.** Draco was already rehearsing the speech.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7028,13 +6460,11 @@ Draco's mouth is closed, the dragon sentence not out. McGonagall's finger is not
 
 Faces: Draco looks hungry to tell. McGonagall looks like she does not need him and will use him anyway.
 
-
 **Panel 54.** They reach the last step.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry's shoe on the bottom step. Her lantern lights his face. The next old panel is her line and Draco's accusation. Here, the arrival is silent.
 
 Faces: Harry looks guilty. She looks exact. Draco looks crowned.
-
 
 ### Page 12 — Caught
 
@@ -7088,7 +6518,6 @@ The boys’ dormitory, moonlight, four-posters. Harry lies on his back, eyes ope
 
 Faces: Harry looks at the ceiling, hollow and guilty. Hedwig looks at him, steady. Ron’s face is slack with sleep, not available. The room is quiet on purpose.
 
-
 ## Chapter 16 — The Forbidden Forest
 
 ### Page 1 — The forest edge
@@ -7099,13 +6528,11 @@ Night, the grounds, four students and a half-giant walking away from the lit cas
 
 Faces: The children look punished. Hagrid looks like this is simply his Tuesday.
 
-
 **Panel 2.** The trees are a wall.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The edge of the Forbidden Forest, trunks, mist at the roots, no path that looks friendly. They stop. The lanterns make a small day.
 
 Faces: Draco looks insulted by nature. Neville looks ready to faint in advance. Harry looks in.
-
 
 **Panel 3.** Hagrid raises the lantern. He has not briefed them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7113,13 +6540,11 @@ He faces the trees, lamp up, mouth shut. The old panel is the detention line. He
 
 Faces: He looks grave, not unkind. The children wait.
 
-
 **Panel 4.** The path in, a throat.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A narrow dark between trunks. Mist. Something could be a path. Fang's tail is down. No unicorn yet. No silver.
 
 Faces: The path looks like a decision.
-
 
 **Panel 5.** They were already huddling in the light.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7127,13 +6552,11 @@ Neville stands in Hagrid's shadow. Hermione holds her wand and does not light it
 
 Faces: Whispers of fear, no lines. Hagrid listens to the trees, not to them.
 
-
 **Panel 6.** Fang looks in and wags once, then stops.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The dog faces the dark, wag dying. Hagrid's mouth is about to open. The next line is the start of detention. Nobody has spoken on this page.
 
 Faces: Fang looks unsure. Hagrid looks sure enough for all of them. Draco looks like he will complain and has not.
-
 
 ### Page 2 — Into the trees
 
@@ -7169,7 +6592,6 @@ Deep in the forest the sky is gone. Huge trunks and fog. The group moves in smal
 
 Faces: Faces are small. Hagrid is sure-footed. Fang cowers. Neville bunches close. Draco stays stiff. Harry turns his head, listening. Hermione holds her lantern steady.
 
-
 **Panel 11.** They split up.. Art file: `art/c15-p1-p5.jpg`.
 
 A fork in the path, roots like stairs, two darknesses. Hagrid points, sorry about the pairs. Hermione and Neville go left with Fang. Harry and Draco take the right, one lantern between the two boys who hate each other.
@@ -7196,13 +6618,11 @@ Deeper night, the trees knit overhead. Harry and Draco, alone together, one lant
 
 Faces: They look like boys who do not like each other and like the dark less.
 
-
 **Panel 14.** Mist, roots, the lantern circle shrinking.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The ground is roots and damp. The light is a puddle around their shoes. Beyond it, nothing. Draco's sneer is thinner.
 
 Faces: Draco looks young. Harry looks listening.
-
 
 **Panel 15.** A pale silver lies ahead, and it is not a gap in the trees.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7210,13 +6630,11 @@ Between trunks, a silver glow on the ground. No sky-hole above it. Harry lifts t
 
 Faces: Harry looks like he wants the ordinary explanation. Draco looks like he wants to go home.
 
-
 **Panel 16.** They stop.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Both boys still. The silver does not flicker like fire. It lies there. The lantern feels yellow and rude.
 
 Faces: Harry's scar is quiet, for the last second. Draco's hand is tight on his own wand.
-
 
 **Panel 17.** The clearing, from the edge, the shape not named.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7224,13 +6642,11 @@ A clearing. A pale body on the leaves, silver pooling. We do not need the word u
 
 Faces: Harry looks sick. Draco makes no sound yet.
 
-
 **Panel 18.** Harry's mouth opens. The word moonlight is next.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He is about to lie to himself out loud. Draco is about to believe him because he wants to. The hood is not here. The next old panel is the line.
 
 Faces: Harry looks hopeful and wrong. Draco looks ready to agree.
-
 
 ### Page 4 — The blood
 
@@ -7264,7 +6680,6 @@ A hooded figure is crouched over the unicorn, tattered cloak, no face, pale hand
 
 Faces: There is no face in the hood, only blackness. Harry looks on in horror, the scar bright under his hair. Draco's posture is gone. The figure does not look at them yet.
 
-
 **Panel 23.** Harry's scar tears. He drops to a knee.. Art file: `art/c15-p2-p5.jpg`.
 
 Harry drops to one knee, a hand clamped to his forehead, glasses askew, the lantern fallen. The hood straightens and turns toward him. Draco is still standing, barely. The unicorn lies still in the silver light.
@@ -7289,7 +6704,6 @@ The hooded figure glides closer, pale hands out, silver light where a mouth woul
 
 Faces: Harry looks at the hands, terror held down by pain. He looks very small. The hood leans with a hunger that is not only for blood. There are no readable features.
 
-
 **Panel 26.** Hooves. A centaur blocks the hood.. Art file: `art/c15-p3-p2.jpg`.
 
 Hooves crash into the clearing. Firenze rears between Harry and the hood: palomino body, long blond hair, bow up. The hood recoils from the centaur, not from Harry's wand. Harry is on the ground behind the centaur's legs.
@@ -7311,7 +6725,6 @@ Faces: Firenze looks toward the path, urgent and calm. Harry looks at the mane, 
 The forest streaks. Firenze gallops. Harry clings and looks back once. At the edge of the silver clearing the hood stands still, unwilling to follow. Then the trees take the view.
 
 Faces: Harry looks back, the scar easing with distance, fear still high. Firenze looks ahead and does not look back. The hood looks after them, patient.
-
 
 **Panel 29.** They have stopped at a moonlit stream. Art file: `art/c15-p3-p5.jpg`.
 
@@ -7375,6 +6788,8 @@ Faces: Harry looks at his hands, then at the scar: fear, and a fierce no. Firenz
 
 **Firenze:** You understand quickly. I am sorry that you do.
 
+### Page 7 — The forest edge, coming out
+
 **Panel 36.** Castle lights ahead.. Art file: `art/c15-p4-p6.jpg`.
 
 The forest edge, castle windows blazing, safety looking close and false. Hermione and Neville and Hagrid have reached him. Draco stands apart, not meeting eyes. Fang is at Harry's hand. Firenze, half in the trees, looks back once.
@@ -7395,13 +6810,11 @@ Hogwarts exterior, late spring or exam morning, green lawn, bright windows. Stud
 
 Faces: The day looks like ordinary school. It is the last ordinary morning.
 
-
 **Panel 2.** The Hall doors, quiet for once.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Great Hall doors. Inside, no feast smell. Scratch of quills. McGonagall's heels. Harry pauses with a blank face and a blank parchment ahead of him.
 
 Faces: He looks present and gone.
-
 
 **Panel 3.** Rows of desks where the feast was.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7409,13 +6822,11 @@ The Hall as an exam room, morning, summer at the windows. Four houses still, but
 
 Faces: The room is a test. The ceiling is a blue sky and nobody is admiring it.
 
-
 **Panel 4.** They were already writing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hermione writes, two desks away, already ahead. Ron bites his quill. A Hufflepuff turns a page. Snape drifts a side aisle like a draft. Harry's quill is on blank parchment.
 
 Faces: Hermione looks alight. Ron looks hunted. Harry looks at a forest that is not on the paper.
-
 
 **Panel 5.** McGonagall's heels pass.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7423,13 +6834,11 @@ She walks the aisle, square spectacles, emerald. Harry's blank page is a crime s
 
 Faces: She looks exact. He looks elsewhere. She has not caught him yet.
 
-
 **Panel 6.** The quill does not move.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Harry's blank parchment and the still quill. The old panel is this thought of the forest, and then Hermione's line. Here, the stillness is before anyone speaks.
 
 Faces: His face is calm and not in the room.
-
 
 ### Page 2 — Exams
 
@@ -7438,7 +6847,6 @@ Faces: His face is calm and not in the room.
 The Great Hall as an exam room, morning, summer at the windows. Rows of desks. Harry's quill lies on a blank parchment. Hermione writes two desks away. Ron bites his quill. McGonagall prowls the aisle in emerald.
 
 Faces: Harry looks at the parchment and does not see the question. He looks haunted and ordinary. Hermione is focused, with a glance of worry. McGonagall looks at the room, fair and watchful.
-
 
 **Panel 8.** Hermione finishes early and checks the page twice.. Art file: `art/c16-p1-p2.jpg`.
 
@@ -7462,20 +6870,17 @@ Harry’s parchment, blank, the quill, summer at the window. Hermione does not s
 
 Faces: McGonagall’s shadow is a verdict he ignores.
 
-
 **Panel 802.** The bell. Papers in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Hall as students stand, four houses stretching. Harry’s blank page is taken. The hut is not in this picture.
 
 Faces: Hermione looks sick with someone else’s failure.
 
-
 **Panel 803.** The entrance, exams over.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The castle doors, summer, students spilling onto the lawn with bags, not trunks. The three peel away toward the grounds. The hut is a walk, not this step.
 
 Faces: Ron is free. Harry is not.
-
 
 ### Page 3 — The hut
 
@@ -7485,13 +6890,11 @@ After the exam, the path, the hut looking smaller, Fang at the door whining. The
 
 Faces: They look urgent. The day is bright and wrong.
 
-
 **Panel 11.** The door is open. A sound like a saw.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Sobbing, huge, from inside. The door ajar. They stop on the step. Hagrid is a shape at the table, shoulders shaking.
 
 Faces: They look afraid of a sadness that size.
-
 
 **Panel 12.** They go in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7499,13 +6902,11 @@ The room, daylight, a mess of mugs. Hagrid sits, enormous, face in a handkerchie
 
 Faces: Hagrid looks broken. They look still.
 
-
 **Panel 13.** He was already crying before they asked.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The handkerchief, his beetle-black eyes red, the beard wet. He has not said he told. That confession is the old panel. Here he is only weeping, and they do not know the shape of it.
 
 Faces: He cannot look at them. Hermione's hand is over her mouth. Ron looks young. Harry looks as if a floor moved.
-
 
 **Panel 14.** A bottle and two mugs say there was a guest.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7513,13 +6914,11 @@ On the table, an extra mug, a ring, a bottle. The stranger is not here. The pub 
 
 Faces: Harry sees the mug and does not understand it. Hagrid sees Harry seeing it.
 
-
 **Panel 15.** Harry's mouth opens. The question is next.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He is about to ask, slowly. Hagrid is about to confess on the old page. Here, the open mouth and the sail of a handkerchief.
 
 Faces: Harry looks gentle and relentless. Hagrid looks ashamed.
-
 
 ### Page 4 — The confession
 
@@ -7553,20 +6952,17 @@ The hut table. The sail of a handkerchief. Three children waiting. Fang’s eye.
 
 Faces: Hagrid is about to make it worse.
 
-
 **Panel 805.** He nods. That is the confession.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hagrid’s red eyes over the cloth, a tiny nod. Hermione’s eyes close. Same hut.
 
 Faces: She has understood. Ron has not.
 
-
 **Panel 806.** The extra mug stays on the table.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The extra mug, the bottle, the ring of water. Nobody drinks. The stranger is not in the hut. Same table.
 
 Faces: The evidence is ordinary and terrible.
-
 
 ### Page 5 — The pub, remembered
 
@@ -7576,13 +6972,11 @@ A memory: the edges are softer than the present. A pub on a side street, night, 
 
 Faces: No child is in this memory. The picture feels told, not lived by Harry.
 
-
 **Panel 20.** The door, noise and firewhisky.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The pub door open on heat, cards slapping, a fireplace. Hagrid's back fills the frame, months or weeks ago, coat, umbrella, already a little flushed.
 
 Faces: He looks sociable and unsafe.
-
 
 **Panel 21.** The room, smoke, a corner table.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7590,13 +6984,11 @@ Interior, whole: low ceiling, witches, a card game, smoke. A hooded stranger sit
 
 Faces: The stranger is a hood, not a revealed turban. Hagrid looks pleased to be waved at.
 
-
 **Panel 22.** They were already drinking.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Mugs on the table, Hagrid mid-story with his hands, the stranger pushing another drink across. No dog has been mentioned. The useful sentence is the old panel.
 
 Faces: Hagrid looks expansive. The hood leans in, hungry, face still hidden.
-
 
 **Panel 23.** Cards, and a smile under the hood we do not get to see.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7604,13 +6996,11 @@ The stranger's hands are pale and careful. The hood stays up. It might be a turb
 
 Faces: Hagrid is happy. The stranger is patient.
 
-
 **Panel 24.** Another mug arrives. The question about the dog has not.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The stranger's hand on a fresh mug, sliding it. Hagrid's mouth is shut, about to talk about Fluffy on the old page. Here, the drink is the picture.
 
 Faces: Hagrid looks grateful. The hood looks like a lockpick.
-
 
 ### Page 6 — The stranger
 
@@ -7672,13 +7062,11 @@ Castle corridor, late afternoon, trunks starting to appear because term is endin
 
 Faces: They look frightened of being right.
 
-
 **Panel 32.** The office door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Oak, a brass plate, a cat-shaped knocker that is only a knocker. Hermione's hand goes up to knock. She has not. Harry is about to speak and the old panel is that plea.
 
 Faces: Hermione looks messy from running. Harry looks urgent.
-
 
 **Panel 33.** Inside, she is already at the desk.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7686,13 +7074,11 @@ Through the opening door: the office, shelves, a tartan tin, papers, McGonagall 
 
 Faces: She looks busy with real work. They look like an interruption.
 
-
 **Panel 34.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A stern tidy office, window onto the grounds, a chair for students that is not comfortable, house-point notes, the square spectacles catching light. They tumble in. She finishes a word on the page.
 
 Faces: The room is order. They are panic.
-
 
 **Panel 35.** She was writing. The cat on the windowsill watches.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7700,13 +7086,11 @@ A tabby with spectacle marks sits on the sill, or it is only the light. Do not s
 
 Faces: She looks up, not angry yet, exact. They look like a confession.
 
-
 **Panel 36.** Harry finds his voice and has not used it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He stands in front of the desk, scarf crooked, mouth open. The next word is Professor McGonagall. Here, the open mouth.
 
 Faces: He looks respectful and terrified. She waits, one eyebrow preparing.
-
 
 ### Page 8 — The warning refused
 
@@ -7758,7 +7142,6 @@ McGonagall’s hand on the open door. The bright corridor is a slice. The three 
 
 Faces: She is finished. They are not.
 
-
 ### Page 9 — The portrait
 
 **Panel 42.** Dumbledore has already left the school.. Art file: `art/c16-p3-p6.jpg`.
@@ -7775,13 +7158,11 @@ The same sunlit corridor. The old witch in the lace cap is halfway out of the fr
 
 Faces: The witch loves bad news.
 
-
 **Panel 809.** Their faces fall.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Harry, Ron, and Hermione in the gold afternoon. The portrait is a lace cap at the edge. Dumbledore is not in the castle, and they know it now.
 
 Faces: Harry looks at the third-floor direction.
-
 
 **Panel 810.** They do not go back into the office.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7789,20 +7170,17 @@ The stern door, shut, brass plate. They walk away down the corridor. Trunks in t
 
 Faces: Hermione is afraid. She goes with them anyway.
 
-
 **Panel 811.** A window onto the empty sky.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A corridor window. No headmaster on the lawn, no carriage they can see. Harry’s hand is on the stone. Same hour.
 
 Faces: The sky is the wrong kind of empty.
 
-
 **Panel 812.** The tower stair, ahead.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They reach the stair to Gryffindor. They have not climbed in. The common room is the next page.
 
 Faces: Ron says nothing. That is new.
-
 
 ### Page 10 — The corner of the common room
 
@@ -7812,13 +7190,11 @@ Gryffindor Tower, evening, end of term, trunks stacked in a window. Gold firelig
 
 Faces: The tower looks festive and wrong.
 
-
 **Panel 44.** The portrait hole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They climb in, dusty from running to the office and from the portrait's news. The Fat Lady says nothing we need. The common room noise hits them.
 
 Faces: They look older than the morning. The Fat Lady looks merely painted.
-
 
 **Panel 45.** The common room, half packed, half party.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7826,13 +7202,11 @@ Interior: trunks, jumpers, people laughing, a wizard wireless or just noise, fir
 
 Faces: The room is on holiday. They are at war.
 
-
 **Panel 46.** Everyone else was already celebrating.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Seamus throws a paper dart. Neville looks for Trevor and smiles. Fred deals cards. Our three lean in and do not join.
 
 Faces: The contrast is the picture. Ron's hands are open, no sentence yet.
-
 
 **Panel 47.** A flute is on the table between them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7840,13 +7214,11 @@ Hagrid's small flute, wooden, on a trunk. Harry's hand near it, not raised to hi
 
 Faces: Harry looks at it as a key. Hermione looks at it as a plan. Ron looks at it as madness.
 
-
 **Panel 48.** Ron's mouth opens on the word mad.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He is about to say this is mad. He has not. The next old panel is that line. The fire pops. The party goes on behind them.
 
 Faces: Ron looks scared and loyal. Hermione looks decided. Harry looks at the flute.
-
 
 ### Page 11 — The choice
 
@@ -7890,13 +7262,11 @@ The common-room corner. The portrait hole is behind the three. A nod each. They 
 
 Faces: The argument is over.
 
-
 **Panel 814.** Wands on the table. The flute in his hand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same corner. Wands are picked up. The wooden flute is in Harry’s hand, not at his mouth. The party goes on behind them. They have not left.
 
 Faces: Seamus does not look over.
-
 
 ### Page 12 — The third-floor door
 
@@ -7905,7 +7275,6 @@ Faces: Seamus does not look over.
 Night. The top of a stair, a moonlit corridor, a huge plain door at the end. The three are small on the stair. They have not reached the door.
 
 Faces: Ron’s shoulders are up.
-
 
 **Panel 53.** Night. Harry raises the flute.. Art file: `art/c16-p4-p5.jpg`.
 
@@ -7931,20 +7300,17 @@ The same door, closer. Harry’s lips are at the flute. No note has left it. Her
 
 Faces: He is about to be bad at a lullaby.
 
-
 **Panel 817.** Dust sifts down.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on the door. Dust falls from the frame with the growl. Three shadows. No dog in sight. The next chapter is the room.
 
 Faces: The castle does not wake.
 
-
 **Panel 818.** They look at the latch.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Hermione’s hand hovers at the latch. Ron’s wand is out and unlit. Harry lowers nothing. Same door, same night.
 
 Faces: Nobody is brave. They are going in.
-
 
 ## Chapter 18 — Through the Trapdoor
 
@@ -7956,13 +7322,11 @@ Night, the third-floor corridor, the door from the end of the last chapter. Moon
 
 Faces: They look at the wood. A growl is in the wood.
 
-
 **Panel 2.** The door, a paw-scratch and a smell.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on the door: scratches, a draft that smells like dog and cellar. Hermione's hand on the latch. Ron's wand out. No light spell required in this picture.
 
 Faces: She looks steady. Ron looks ill. Harry looks at the flute.
-
 
 **Panel 3.** They open it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7970,13 +7334,11 @@ The door swings. The room beyond is the dog's room, moonlight from a high slit. 
 
 Faces: The heads are waking. The children are small.
 
-
 **Panel 4.** The room, whole, the dog the size of it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: three heads, teeth, collars, a body that is the furniture, a paw on the trapdoor. Not asleep. Not drooling into a lullaby yet. Angry or alert.
 
 Faces: The heads look at the flute without knowing what it is. Harry looks very small.
-
 
 **Panel 5.** They were growling before the music.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -7984,13 +7346,11 @@ One head snarls, one sniffs, one stares at Ron's sleeve as if it remembers teari
 
 Faces: The dog is awake. The plan is a thin wooden tube.
 
-
 **Panel 6.** The flute at his mouth. No note yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry's lips at the flute, fingers wrong, about to be bad at a lullaby. The heads lean. The next old panel is the bad playing and her line not to stop. Here, silence.
 
 Faces: Harry looks desperate. Hermione watches the heads, not him. Ron watches teeth.
-
 
 ### Page 2 — The notes
 
@@ -8010,13 +7370,11 @@ The same room, same moonlight. A few more thin notes travel from the flute to th
 
 Faces: Harry keeps his eyes on the awake head. Hermione watches the middle lids. Ron does not move.
 
-
 **Panel 9.** All three heads. Zzz only on the dog.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Same room. Notes reach the right head. All three heads now have heavy lids and a small Zzz each. No notes on Harry, Ron, or Hermione. The trapdoor is still shut under the paws. The flute is at Harry’s mouth.
 
 Faces: Harry looks exhausted and still playing. Hermione looks at the paws, ready. Ron looks at the teeth, which are slack.
-
 
 **Panel 10.** The ring, and they are still in the room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8024,13 +7382,11 @@ The paws have gone heavy. Hermione’s hand is on the trapdoor ring. The heads s
 
 Faces: Hermione looks at the ring, not celebrating. Harry looks grateful. Ron looks at the dark line under the door.
 
-
 **Panel 11.** The square opens. They have not jumped.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 She lifts the ring. A dark square opens. The heads stay asleep above it, Zzz in the moonlight. Ron sits on the edge. Harry has the flute in his belt. Camera still in the room, the pit only a black square.
 
 Faces: Hermione swallows and does not jump yet. Ron looks down and grins crooked. Harry looks back at the heads.
-
 
 **Panel 12.** They haul a head aside and drop through.. Art file: `art/c17-p1-p2.jpg`.
 
@@ -8074,20 +7430,17 @@ Devil's Snare, the soft plant now tight, Ron pulled under, Harry reaching. Hermi
 
 Faces: She looks blank with fear. Ron looks buried. Harry looks at her for the answer she already gave.
 
-
 **Panel 17.** She knows, and she does not move.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The pit, wand-light only. Ron is under to the chin. Harry has both hands on his wrist and is losing. Hermione’s wand points at the floor. She has the name and has not said the scold. No flame.
 
 Faces: Ron is disappearing. Harry is desperate. Hermione is blank with the fear that comes after knowing.
 
-
 **Panel 18.** The pit waits on her.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on her wand, still down, and Ron’s freckled hand. The plant creaks. The next page is the scold and the fire. Same pit, same dark.
 
 Faces: Her mouth is tight. The hand in the leaves is the only thing she is looking at.
-
 
 ### Page 4 — I'm a witch
 
@@ -8097,13 +7450,11 @@ Close on Hermione, wand at her side, eyes on Ron disappearing. She is the one wh
 
 Faces: Panic. Shame starting underneath it.
 
-
 **Panel 20.** She looks at her own hands.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Her hands, empty of fire, the wand in one of them pointing at the floor. The plant creaks. She is furious at herself.
 
 Faces: The fury is at her freeze, not at Ron.
-
 
 **Panel 21.** She scolds herself.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8127,7 +7478,6 @@ The same pit. A thin tongue of flame has left the tip of Hermione’s wand and i
 
 Faces: Hermione’s eyes stay on the vine, mouth still in the spell. Harry looks hopeful, trusting the thread. Ron looks under.
 
-
 **Panel 24.** The flame touches the vine. They crawl free.. Art file: `art/c17-p1-p6.jpg`.
 
 The edge of the pit, a stone passage beginning. The thin flame touches the vine and only that vine recoils, like a burned finger. Smoke sits where flame met plant, not a room of fire. Ron surges up onto the lip, coughing, leaves in his red hair. Harry pulls him. The flute is still in Harry’s belt. The rest of the plant sulks.
@@ -8144,13 +7494,11 @@ After the snare, a door, the next chamber. A whirring like cutlery in a storm. T
 
 Faces: They look wrung out and not done.
 
-
 **Panel 26.** The door opens on a tall room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Threshold: hundreds of winged keys, gold and silver, battering the air. The far door is locked. A slim broom leans by the near wall. They have not entered.
 
 Faces: Hermione looks at the lock. Harry looks at the broom. Ron looks at the flock.
-
 
 **Panel 27.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8158,13 +7506,11 @@ Wide: height, wings, a keyhole in old wood, the broom, three children small at t
 
 Faces: The room is a storm with one quiet object, the broom.
 
-
 **Panel 28.** The keys were already flying before anyone named them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The flock turns as one, then breaks. A key dings off the stone near Ron's ear. He ducks. No strategy spoken.
 
 Faces: Ron looks offended by metal. Harry looks like a Seeker who has seen a pattern and has not said it.
-
 
 **Panel 29.** Hermione's eyes find the keyhole. Her mouth stays shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8172,13 +7518,11 @@ She looks from the flock to the lock. The sentence about winged keys is the next
 
 Faces: She looks quick. Harry's hand is reaching toward the broom and not holding it.
 
-
 **Panel 30.** The broom waits.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The slim broom against the wall, Harry beside it, not mounted. Keys scream past. The next line is hers. This page stays silent.
 
 Faces: Harry looks at the broom the way he looked at the Snitch. Ron looks unconvinced. Hermione is about to explain.
-
 
 ### Page 6 — The keys
 
@@ -8238,13 +7582,11 @@ The next door after the keys. Harry's hand is cut from the key, a line of blood 
 
 Faces: They look smaller after the flock. Ron looks, for the first time tonight, interested.
 
-
 **Panel 38.** They look in.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A hall of black and white squares that are the floor. Pieces taller than the children, carved, armed, heads turning. A queen with a blank terrible face. They have not stepped on a square.
 
 Faces: Ron looks at home and afraid. Harry looks at Ron. Hermione looks at the queen.
-
 
 **Panel 39.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8252,13 +7594,11 @@ Wide: the board, the king, the queen, knights like monuments, three children at 
 
 Faces: The pieces look patient. Ron's mouth is shut.
 
-
 **Panel 40.** The pieces were already watching.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A knight's head turns. A pawn's stone eyes track Hermione. Dust falls from a shoulder. Nobody has invited them. They are the invitation.
 
 Faces: The pieces look hungry for a game. Ron looks like he hears rules.
-
 
 **Panel 41.** Ron puts a hand out, not touching a square.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8266,13 +7606,11 @@ His bandaged or nicked hand, or simply his chess hand, hovers over the first squ
 
 Faces: He looks certain. They look willing to obey him, which is new.
 
-
 **Panel 42.** The queen's blank face is toward them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The queen, huge, sword down, face empty, looking at the three. Ron meets that look. The next line is his. This page has no dialogue.
 
 Faces: Ron looks respectful. Harry looks scared of a game. Hermione looks scared of Ron being good at it.
-
 
 ### Page 8 — The chessboard
 
@@ -8336,13 +7674,11 @@ After the chess, Harry and Hermione, Ron left behind on the board, unconscious a
 
 Faces: They look unwilling to open it and more unwilling to stop.
 
-
 **Panel 50.** The door, a snore behind it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wood, a snore like a drain. Hermione's hand on the ring. No wand fire. No chess pieces.
 
 Faces: She looks ready to be efficient. He looks ready to be sick.
-
 
 **Panel 51.** They open it on a joke that is also a monster.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8350,13 +7686,11 @@ The room: a mountain troll on its back, the same kind as the bathroom, tongue ou
 
 Faces: The troll is asleep. They are not heroes in this room. They are people stepping past.
 
-
 **Panel 52.** The room, whole, and nothing to fight.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: the troll, the club, the tongue, a far door, two children small at the near door. The problem is already finished by someone else.
 
 Faces: Hermione looks at the far door, not at the troll. Harry looks at the troll because he cannot help it.
-
 
 **Panel 53.** They were already walking the long way around the hand.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8364,13 +7698,11 @@ Hermione steps wide of the fingers. Harry follows, chess-dust on his robes, the 
 
 Faces: She looks focused. He looks haunted and moving.
 
-
 **Panel 54.** The far door. Her mouth is shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 They reach the next door. The line about a solved room is the next old panel. Here, the sleeping troll behind them and the shut door ahead.
 
 Faces: Hermione is about to refuse a delay. Harry agrees with his feet.
-
 
 ### Page 10 — The troll is already down
 
@@ -8388,7 +7720,6 @@ A door with no smell of troll, cooler, a purple flicker under it. Harry and Herm
 
 Faces: They look tired in the bones.
 
-
 ### Page 11 — The room of bottles
 
 **Panel 57.** They enter a room that wants a mind.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
@@ -8397,13 +7728,11 @@ Threshold: a table, seven bottles of different sizes, a flame or a purple fire i
 
 Faces: Hermione looks fed. Harry looks glad it is not another troll.
 
-
 **Panel 58.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: stone, the table of seven bottles, the writing, two children, a door ahead and the door behind. Nothing moves except fire.
 
 Faces: The room is quiet on purpose.
-
 
 **Panel 59.** She was already reading.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8411,13 +7740,11 @@ Hermione's eyes move on the riddle. Her finger does not touch a cork. Harry stan
 
 Faces: She looks locked in. He looks protective and useless, and knows it.
 
-
 **Panel 60.** He watches her, not the puzzle.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 His cut hand, her profile, the seven corks. No swallow yet. The explanation is the old page.
 
 Faces: He looks at her the way you look at a light. She does not look back.
-
 
 ### Page 12 — Seven bottles
 
@@ -8426,7 +7753,6 @@ Faces: He looks at her the way you look at a light. She does not look back.
 She reads it once in silence, about to read it again aloud on the old panel. No cork is pulled. The next line is hers.
 
 Faces: She looks almost happy, which is strange here. He looks hopeful.
-
 
 **Panel 62.** Seven bottles, and a riddle.. Art file: `art/c17-p4-p2.jpg`.
 
@@ -8484,13 +7810,11 @@ Harry alone, dusty school robes, glasses, scar, the forward potion just drunk, t
 
 Faces: He looks small and decided.
 
-
 **Panel 2.** He opens it.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The door swings on a round cold chamber. Torches in a ring. At the far end, the Mirror of Erised, tall, ornate, uncovered. No dog, no chess, no Hermione, no Ron.
 
 Faces: He looks for a greasy-haired man and sees a mirror.
-
 
 **Panel 3.** The room, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8498,13 +7822,11 @@ Wide: round stone, torches, the mirror, one boy. A shadow near the mirror could 
 
 Faces: Harry looks ready to accuse the wrong teacher. The room looks ready to correct him.
 
-
 **Panel 4.** The mirror was already waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The glass is dark and does not show Lily and James. It shows torchlight and the hint of a boy. The mirror is uncovered and quiet.
 
 Faces: The mirror looks patient. Harry looks at it and past it, searching the corners.
-
 
 **Panel 5.** He steps in. His wand is up. He has not called a name.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8512,13 +7834,11 @@ Harry a few paces in, wand out, dusty, the flute maybe gone, the pocket empty of
 
 Faces: He looks brave and incorrect.
 
-
 **Panel 6.** His mouth opens on the wrong name.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 He faces the shadow and the mirror. The next old panel is Professor Snape, I know you are in here. Here, he has not said it. The turban reveal is much later, after the confession, on its own page.
 
 Faces: His face is set. The shadow does not answer yet.
-
 
 ### Page 2 — The wrong teacher
 
@@ -8552,20 +7872,17 @@ The chamber. Harry’s back is to the glass. Quirrell is in the torchlight, turb
 
 Faces: Harry expected black robes.
 
-
 **Panel 802.** Quirrell’s hands stay folded.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Quirrell, shoulders straight, hands folded, the stammer gone. The turban is neat. Same room. The confession of the match is the next page, still here, not a flash.
 
 Faces: He is enjoying the correction.
 
-
 **Panel 803.** Harry’s scar answers.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on Harry’s face, the scar whitening, glasses, dust. Quirrell is a purple blur. The mirror frame is at the edge. One room.
 
 Faces: The scar knows before Harry does.
-
 
 ### Page 3 — What he says about the match
 
@@ -8583,13 +7900,11 @@ Wider on the two of them. Torches. Quirrell’s mouth moving, Harry’s wand bet
 
 Faces: Harry is rewriting the year and getting it wrong still.
 
-
 **Panel 805.** He does not look at the glass yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Quirrell’s own face, turban on, a small smile. He has not turned. Harry is small. Same cold room.
 
 Faces: The smile is the worst part.
-
 
 **Panel 806.** The staff box is not here.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8597,20 +7912,17 @@ Harry’s eyes flick as if he could see the match. The picture does not cut away
 
 Faces: He wants the broom memory. The room will not give it.
 
-
 **Panel 807.** Quirrell taps the turban. It stays wrapped.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 One hand rises and taps the purple cloth. The wrap does not loosen. His own face is still toward Harry. Same chamber.
 
 Faces: Harry understands the cloth is wrong.
 
-
 **Panel 808.** The torches lean in a draft.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The ring of torches, the two figures, the mirror. No dog, no chess, no friend. The turn has not started.
 
 Faces: The room is a trap that has already shut.
-
 
 ### Page 4 — He turns
 
@@ -8628,13 +7940,11 @@ After the confession, spoken to Harry's face on the old panel. Quirrell turns. P
 
 Faces: Harry looks afraid. We see Quirrell's shoulder and the start of the turn, not a second man.
 
-
 **Panel 809.** His back is half toward Harry. The turban stays.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Quirrell in the middle of the turn. Purple robes, brown belt. His own face is leaving. The turban is still on. No bald scalp. No second face.
 
 Faces: Harry does not run.
-
 
 **Panel 810.** The turn finishes. Cloth, and a back.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8642,20 +7952,17 @@ The turn is complete. We see shoulders and the wrapped turban. Quirrell’s face
 
 Faces: Harry’s wand shakes.
 
-
 **Panel 811.** Harry is small in front of that back.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Camera behind Harry. The wrapped turban fills the far side. No hands in the cloth yet. Same chamber.
 
 Faces: He is eleven. The back is a teacher’s.
 
-
 **Panel 812.** The mirror, still empty.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Past Harry’s shoulder, the Mirror of Erised shows torchlight and no parents. Quirrell’s back is a purple edge. The unwrap has not started.
 
 Faces: The glass refuses the wish.
-
 
 ### Page 5 — The turban comes off
 
@@ -8665,13 +7972,11 @@ Harry is small in the foreground, facing Quirrell's back. The large purple turba
 
 Faces: Harry looks at cloth. He expects a face and does not get one yet.
 
-
 **Panel 14.** His hands go up. They have not pulled.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Quirrell's hands rise to the turban. Fingers in the purple cloth. The wrap stays. Nothing bald. Nothing red-eyed.
 
 Faces: The hands are steady, the stammer gone, the cloth ordinary.
-
 
 **Panel 15.** Only purple cloth.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8679,13 +7984,11 @@ Close on the back of the head: the turban, folds, no face, no mouth, no slit nos
 
 Faces: Harry is waiting. The cloth is only cloth.
 
-
 **Panel 16.** Quirrell's own face is on the far side of the skull, out of frame.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 We see the back of the shoulders and the turban. We do not see his face. We do not see Voldemort. The mirror behind Harry stays empty of parents.
 
 Faces: Harry's mouth is shut. The confession was already said. No new line.
-
 
 **Panel 17.** The cloth is still on. The next picture takes it off.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8693,13 +7996,11 @@ Hands tighten in the wrap and do not unwind it. The reveal, the bald scalp, the 
 
 Faces: Harry looks as if the worst is the cloth. He is wrong, and the page does not correct him.
 
-
 **Panel 813.** The cloth comes away. The face is not readable yet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Quirrell’s hands unwind the purple turban. A crescent of bald scalp shows. The cloth is ordinary, no face on the cloth. The back of the head is not fully bare, and no red eyes, no slit mouth, no second man. Harry watches. The mirror stays empty of parents.
 
 Faces: Harry cannot look away.
-
 
 ### Page 6 — The face
 
@@ -8717,13 +8018,11 @@ Side view of one head in the chamber. Quirrell’s own profile looks away from H
 
 Faces: The face is hungry. Harry cannot find a second body to fight.
 
-
 **Panel 815.** The cloth is only cloth.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Close on the unwound turban in Quirrell’s hands. Ordinary purple cloth. No face on it. The bald scalp is out of focus behind it, the face a blur of red eyes. Same room.
 
 Faces: The disguise is a rag.
-
 
 **Panel 816.** Harry’s scar goes white.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8731,20 +8030,17 @@ Harry’s face, dust, glasses, the scar white. The bald head is a soft shape bey
 
 Faces: Pain, and he stays standing.
 
-
 **Panel 817.** The mirror is still behind him.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide: round stone, torches, Quirrell’s back to Harry, the face on the scalp looking at the boy, the mirror dark of wishes. No friends. No dog.
 
 Faces: The room has become the end of the year.
 
-
 **Panel 818.** Voldemort speaks from the scalp.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Camera on the back of the bald head. The face, flat and lipless, speaks. Quirrell’s own face is not in the frame. Harry’s wand is a small line at the bottom.
 
 Faces: The mouth on the scalp moves. Quirrell’s shoulders flinch.
-
 
 ### Page 7 — The mirror’s test
 
@@ -8779,7 +8075,6 @@ Faces: Harry looks into the glass, afraid of what he wants. Quirrell's face look
 Inside the glass, Harry sees himself find the Stone and put it away, safe, not used. The reflection drops the red Stone into a pocket. It is a small motion. Quirrell, behind, does not see what Harry sees.
 
 Faces: Mirror-Harry looks calm, a conspirator. Real Harry's eyes widen. Understanding floods him. He wants to find the Stone, not use it.
-
 
 **Panel 23.** The real weight drops into his pocket.. Art file: `art/c18-p2-p5.jpg`.
 
@@ -8847,7 +8142,6 @@ Amid the smoke, a small still detail: the pocket, the round hardness of the Ston
 
 Faces: Harry's eyes shut, open, shut. Pain. Stubbornness. He looks like someone about to pass out who has not finished. A red eye in the smoke looks afraid.
 
-
 ### Page 9 — Collapse
 
 **Panel 31.** Quirrell comes apart under Harry's hands.. Art file: `art/c18-p4-p1.jpg`.
@@ -8872,7 +8166,6 @@ From inside Harry's eyes. The room narrows to a circle. Smoke at the edges. The 
 
 Faces: The world shakes. He is going under. The Stone is still a hard truth in the blur.
 
-
 **Panel 34.** Far off, someone calls his name.. Art file: `art/c18-p4-p4.jpg`.
 
 The circle of vision is almost black. A hint of a pointed hat and a silver beard at the edge of the dark, maybe real, maybe the last thing he wants. His fingers loosen. A heap of robe and smoke.
@@ -8887,13 +8180,11 @@ The body collapses, a ruined robe. A stream of black smoke rips free, passes thr
 
 Faces: Harry looks at the smoke, a question he cannot hold. His face is white, the stubbornness used up.
 
-
 **Panel 36.** Harry hits the floor. The mirror is empty.. Art file: `art/c18-p4-p6.jpg`.
 
 He falls. The glasses skid. Dust. In the mirror, the room is empty of wishes: no parents, no Cup, no thief. Just a fallen boy. The empty robes lie nearby. Silence.
 
 Faces: Harry's eyes are closed. He looks young. The mirror shows no desire. It shows a boy who did the thing and stopped.
-
 
 ## Chapter 20 — The hospital wing and the explanation
 
@@ -8905,13 +8196,11 @@ The castle in summer daylight, a high hospital window, white curtain moving. The
 
 Faces: The day looks kind. The window looks quiet.
 
-
 **Panel 2.** The corridor of the wing.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A clean corridor, Madam Pomfrey far down it with a trolley, not at the bed. A door to the ward. Dumbledore's hat is a starry point already inside, seen through the crack. He is waiting. He has not greeted anyone.
 
 Faces: Pomfrey looks busy. The hat looks patient.
-
 
 **Panel 3.** The ward, whole, and one boy asleep.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8919,13 +8208,11 @@ White curtains, empty wooden beds, flowers, a jug of water, summer light. Harry 
 
 Faces: Dumbledore looks fond and tired. Harry looks young and gone.
 
-
 **Panel 4.** He was already waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Dumbledore's hands folded on the cane or the knee, beard, the chair too small. A box of sweets is not out yet. The earwax is later. Here he only waits.
 
 Faces: He looks as if he has been there a long while and does not mind.
-
 
 **Panel 5.** Pomfrey looks in and leaves them.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -8933,13 +8220,11 @@ She glances, approves the quiet, and goes. The curtain falls. Dumbledore does no
 
 Faces: She looks professional and fond. He looks grateful and still.
 
-
 **Panel 6.** Harry's eyelids move.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The bandaged hands on the sheet. His eyes have not opened. The next old panel is the waking, white curtains, sun. Here, the moment before.
 
 Faces: Dumbledore leans a fraction. Harry is on the edge of the room.
-
 
 ### Page 2 — Waking
 
@@ -8948,7 +8233,6 @@ Faces: Dumbledore leans a fraction. Harry is on the edge of the room.
 The hospital wing in summer daylight. White curtains, a high window, empty wooden beds, flowers, a jug of water. Harry wakes in a pale shirt, hair flat on one side, both hands bandaged on a clean blanket. His glasses sit on the side table. The underground is gone.
 
 Faces: He looks at his hands, groggy, trying to remember why they hurt. Confused. Alive. His eyes move toward the glasses, wanting them, not reaching yet.
-
 
 **Panel 8.** Dumbledore sits beside the bed.. Art file: `art/c19-p1-p2.jpg`.
 
@@ -9014,13 +8298,11 @@ The hospital wing, summer, white curtain. Harry holds up both bandaged hands. Du
 
 Faces: Harry wants a spell he can name. There isn’t one.
 
-
 **Panel 802.** Dumbledore begins with the name Lily.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same bedside. A white flower. Dumbledore’s hands are folded. Harry goes still. The memory has not opened.
 
 Faces: Dumbledore is gentle and certain.
-
 
 **Panel 803.** The wing stays quiet.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9028,13 +8310,11 @@ The empty beds, the jug, the sun. They are still in the hospital. No green light
 
 Faces: Pomfrey is not in the room.
 
-
 **Panel 804.** He waits for the picture he cannot have.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Harry’s eyes on the flower, bandages on the blanket. Dumbledore is about to give him the nursery, and the panel stays here.
 
 Faces: Harry is eleven and very still.
-
 
 ### Page 4 — The nursery, remembered
 
@@ -9044,13 +8324,11 @@ A memory, soft at the edges. Exterior: the stone cottage, one window lit, night.
 
 Faces: The house is about to end.
 
-
 **Panel 806.** The nursery door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The cottage threshold, a dark hall, a crib-room beyond. A figure at the far door is unreadable, wand lowered. No green yet.
 
 Faces: The house is holding its breath.
-
 
 **Panel 807.** Lily was already between the crib and the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9058,13 +8336,11 @@ The nursery. Lily, long dark-red hair, pale gown, stands on the viewer’s left 
 
 Faces: She has chosen.
 
-
 **Panel 808.** A thin green spear leaves the doorway.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 From the nursery doorway an unreadable figure aims a wand. A thin green spear leaves the tip and crosses the room toward Lily. It has not reached her. It does not fill the room. She is still on the viewer’s left.
 
 Faces: Her hand is rising.
-
 
 **Panel 15.** Lily, as light between a crib and a green curse.. Art file: `art/c19-p2-p3.jpg`.
 
@@ -9072,13 +8348,11 @@ A dim cottage nursery, memory-soft. A crib. A young woman with long dark-red hai
 
 Faces: Her face is not a portrait. The love is in the stance, the way she will not step aside. The baby's face is calm. No attacker. A person choosing.
 
-
 **Panel 809.** The green stops. The baby stays.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same nursery. The green spear has stopped at Lily and gone out. She is down. The baby in the crib is awake, a small lightning cut already on his anatomical right brow. No hospital sun.
 
 Faces: The curse failed. She did not.
-
 
 ### Page 5 — Back in the wing
 
@@ -9104,13 +8378,11 @@ A quiet close view. Bandaged hands on white linen, a bit of soot at the wrist. T
 
 Faces: His mouth is soft. Wonder. Sorrow. He looks at his hands the way he looked at the cloak. Inheritance.
 
-
 **Panel 810.** His hands, the soot at the wrist.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The hospital again. Bandaged hands, a bit of soot, summer linen. No cottage. Dumbledore’s spectacles at the edge.
 
 Faces: Harry looks at the bandages as if they belong to someone else.
-
 
 **Panel 811.** The flower. The explanation can stop.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9118,13 +8390,11 @@ The white flower and the two of them. The hard question about why a baby is the 
 
 Faces: Dumbledore is not finished. He will be, soon.
 
-
 **Panel 812.** A curtain moves.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The white curtain, the lawn a green blur. Harry pulls the blanket higher. Same bed.
 
 Faces: The castle is ordinary outside.
-
 
 ### Page 6 — The question he is not ready for
 
@@ -9158,7 +8428,6 @@ No speech. The curtain moves. A bird crosses the window. Dumbledore's hands stay
 
 Faces: Harry looks at Dumbledore, hope thinning into patience. Dumbledore looks at his own hands, then at the boy, choosing. Sad. Certain. Kind.
 
-
 **Panel 23.** Close at the bedside. Art file: `art/c19-p3-p5.jpg`.
 
 Close at the bedside. Dumbledore's hand covers Harry's bandaged fist, brief. Beard, spectacles, the promise and the refusal in the same lean.
@@ -9172,7 +8441,6 @@ Faces: Dumbledore looks at Harry, loving, immovable. Harry looks at him, disappo
 The same bed, summer light, bandaged hands. The Stone talk and the mother talk are done or pausing. Dumbledore produces a Bertie Bott's box, not a Chocolate Frog. The frogs can stay later, with the friends.
 
 Faces: He looks like a man changing the subject with a sweet. Harry looks tired and curious.
-
 
 ### Page 7 — Earwax
 
@@ -9198,13 +8466,11 @@ He chooses a bean, solemn, and puts it in his mouth. The beard moves. Harry watc
 
 Faces: Dumbledore looks game. Harry looks braced for him.
 
-
 **Panel 28.** His face changes.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 A slow wince, polite, enormous, the flavor arriving. Not a joke that fills the wing. One bean.
 
 Faces: He looks betrayed by a sweet and determined to be civil.
-
 
 **Panel 29.** Earwax.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9292,13 +8558,11 @@ Hogwarts exterior, summer night, the Hall windows glowing greenish. Students in 
 
 Faces: They look like people who know the score and hate it.
 
-
 **Panel 2.** The Hall doors.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Doors open on a wash of green and silver. Not the September ceiling's neutrality. The room has been dressed for Slytherin. They pause on the threshold.
 
 Faces: Ron's ears are red. Hermione's mouth is tight. Harry looks in.
-
 
 **Panel 3.** The Hall, whole, four houses, one color winning.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9306,13 +8570,11 @@ Interior: candles, summer night sky for a ceiling, four tables, but the banners 
 
 Faces: The room sounds like a victory already given. It has not been given.
 
-
 **Panel 4.** They were already toasting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Slytherin goblets up, Draco's platinum head bright, the toast not yet aimed at Harry. Food, puddings. Gryffindor eats without tasting.
 
 Faces: Draco looks crowned. Harry looks level. Dumbledore looks mild, which is a warning nobody reads.
-
 
 **Panel 5.** The hourglasses, green far ahead.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9320,13 +8582,11 @@ At the side of the Hall, four hourglasses: Gryffindor rubies low, Slytherin emer
 
 Faces: Harry looks at the glass, not at a speech.
 
-
 **Panel 6.** Draco finds him across the room.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Draco's goblet is raised, his eyes on Harry, the insult not spoken. The next old panel is the line about green and silver. Here, the look.
 
 Faces: Draco looks delighted. Harry looks tired of him. Ron looks murderous over a pudding.
-
 
 ### Page 2 — Slytherin’s night
 
@@ -9424,7 +8684,6 @@ The jewels stop. Red and green, equal. The hall is one held breath, mouths open,
 
 Faces: Draco looks at the tie, a shared cup already failing him. Dumbledore looks faintly pleased. The pause is before the last name.
 
-
 **Panel 18.** One student is left.. Art file: `art/c20-p2-p6.jpg`.
 
 Dumbledore lifts one finger. One more. The Gryffindor table searches the wrong way. Neville, round-faced and sandy-haired, looks at his spoon, a smear of cream, not searching.
@@ -9465,20 +8724,17 @@ The hourglasses at the side of the Hall. Red is about to rush. Neville is a smal
 
 Faces: The Hall is holding its breath.
 
-
 **Panel 802.** Dumbledore’s hand is still raised.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The high table. Dumbledore, public, purple and stars, one hand up. He has not said the last name again. The Hall, not a corridor.
 
 Faces: He is enjoying the pause.
 
-
 **Panel 803.** Four tables, waiting.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Wide on the Hall: Slytherin green and silver, Gryffindor red and gold, Hufflepuff yellow and black, Ravenclaw blue and bronze. Nobody has stood on a bench yet.
 
 Faces: Draco’s smirk is thinning.
-
 
 ### Page 5 — The night Neville stood in the door
 
@@ -9488,13 +8744,11 @@ A memory with softer edges. The tower corridor at night, not the Hall. Torches. 
 
 Faces: The castle was asleep.
 
-
 **Panel 805.** The portrait, open.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The Fat Lady’s frame swinging, that night. Harry, Ron, and Hermione in pajamas are about to go through. Neville is not in the hole yet.
 
 Faces: They think they are unseen.
-
 
 **Panel 806.** Neville was already in the doorway.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9502,13 +8756,11 @@ Neville in a nightshirt, toad against his chest, arms starting to spread, blocki
 
 Faces: He is braver than he feels.
 
-
 **Panel 807.** His arms finish the door.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Neville’s arms are spread in the doorway, nightshirt, bare feet, the toad dangling. The three friends have stopped. No professor yet. One corridor.
 
 Faces: Ron is annoyed. Neville will not move.
-
 
 **Panel 808.** They will not get past him without hurting him.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9516,13 +8768,11 @@ The narrow hole. Neville shaking and planted. Harry’s hand is not a blow. Same
 
 Faces: Harry sees the bravery and hates the obstacle.
 
-
 **Panel 809.** The memory lets go.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The corridor softens at the edges. Neville is still in the nightshirt, arms still spread. No summer feast leaks into the frame.
 
 Faces: This is the picture Dumbledore means.
-
 
 ### Page 6 — The cup
 
@@ -9550,13 +8800,11 @@ A quiet cutaway inside the noise. Slytherin groans and sits down hard. Draco has
 
 Faces: Draco looks across the hall, envy and humiliation, alone inside his house. The goblet is a toast nobody joined. Still, small, mean, and sad.
 
-
 **Panel 810.** Neville does not know where to look.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Back in the Hall. Neville on the bench, juice, the red jewels past the green in the background. He is astonished. Same feast as the count.
 
 Faces: He laughs because everyone else does.
-
 
 **Panel 811.** Hagrid’s handkerchief, enormous.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9564,13 +8812,11 @@ The side of the Hall. Hagrid blows his nose into a handkerchief the size of a sa
 
 Faces: He is proud enough to leak.
 
-
 **Panel 812.** Snape’s eyes stay shut.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The high table. Snape’s eyes are shut. McGonagall smiles. The cup is a gleam. Same Hall.
 
 Faces: Snape will not clap.
-
 
 ### Page 7 — The train home
 
@@ -9580,13 +8826,11 @@ Hogsmeade station or the village platform, day, summer, the Hogwarts Express sca
 
 Faces: They look tired and happy. The train looks the same as September.
 
-
 **Panel 26.** Their compartment, from the corridor.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The same compartment as September, seen from the corridor. Empty for a second. Then they fall into it.
 
 Faces: Ron looks at the seats like old friends. Harry looks like he might sleep.
-
 
 **Panel 27.** The compartment, whole.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9594,13 +8838,11 @@ Seats, the small table, Hedwig's cage, Scabbers, a thick sandwich already out, a
 
 Faces: The room is theirs. The year is in the clutter.
 
-
 **Panel 28.** They were already sitting before anyone joked.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Shoes up, Ron's sandwich thick, not the dry September one. Hermione has a book open and is not reading it. Harry watches the window. No line yet. The old panel is Ron saying it is the same compartment.
 
 Faces: They look easy with each other. That is the change.
-
 
 **Panel 29.** Scabbers sleeps. Hedwig blinks.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
@@ -9608,13 +8850,11 @@ The rat on Ron's knee, the owl in the cage, a chocolate frog wrapper that does n
 
 Faces: Ron looks fond of a useless rat. Harry looks fond of the owl. Hermione looks fond of both boys and will not say it that way.
 
-
 **Panel 30.** The countryside starts. Ron's mouth opens.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Fields blur. He is about to say it is the same compartment and a better year. He has not. The next old panel is that line.
 
 Faces: He looks happy. Harry looks like he might agree. Hermione looks like she is saving a correction.
-
 
 ### Page 8 — Home, for now
 
@@ -9656,20 +8896,17 @@ The scarlet train pulling into the Muggle side's hidden platform, summer. Steam.
 
 Faces: They look like veterans of a wall.
 
-
 **Panel 35.** The barrier, from the wizard side.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 The brick, ordinary, impossible, with trolleys aimed at it. Molly Weasley is a red-haired shape organizing a tribe. Harry's trolley is in the queue.
 
 Faces: Molly looks busy and warm. Harry looks like he is delaying the other side.
 
-
 **Panel 36.** They run at the wall.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Trolley, cage, Harry's eyes open this time. The brick takes them. Ron is beside him, sandwich finished. Hermione's book is in the trunk.
 
 Faces: They look unafraid of brick.
-
 
 ### Page 9 — The barrier, coming back
 
@@ -9679,20 +8916,17 @@ King's Cross concourse, announcements, ordinary suitcases, no candles. They come
 
 Faces: Harry looks struck by how small it is. Ron looks cheerful. Hermione looks already writing letters in her head.
 
-
 **Panel 38.** Molly's arms are already opening.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Molly Weasley sees Harry and her arms open before the hug. The hug is the old panel. Here, the opening arms, the thin boy, Ron grinning. Vernon is not in this frame. He is farther, stiff, waiting, not yet the boot.
 
 Faces: Molly looks like Harry is one of hers. Harry looks unprepared for the reach.
 
-
 **Panel 39.** Vernon waits by the barrier, the same man.. No art file yet. The frame stays empty and still shows this caption and any dialogue.
 
 Farther along, Vernon, large and beefy, very little neck, big black mustache, small angry eyes, brown suit, arms folded. Not a new uncle. Petunia, thin, long neck, blonde hair pinned, belted coat. Dudley, blond, round, heavier, bored. They have not called the trunk. The next old panels are the hug, then Vernon.
 
 Faces: Vernon looks stiff. Harry has not walked to him. He looks back at the Weasleys first, in the next pages.
-
 
 **Panel 40.** King's Cross. Molly hugs Harry.. Art file: `art/c20-p4-p4.jpg`.
 

@@ -10712,6 +10712,10 @@ window.BOOK = {
         {
           "n": 6,
           "title": "The curse"
+        },
+        {
+          "n": 7,
+          "title": "The forest edge, coming out"
         }
       ],
       "panels": [
@@ -11143,7 +11147,7 @@ window.BOOK = {
         },
         {
           "n": 36,
-          "page": 6,
+          "page": 7,
           "scene": "The forest edge, castle windows blazing, safety looking close and false. Hermione and Neville and Hagrid have reached him. Draco stands apart, not meeting eyes. Fang is at Harry's hand. Firenze, half in the trees, looks back once.",
           "expressions": "Harry looks past his friends toward the castle. The theory is locked, and it is the wrong face. Hermione scans him for wounds. Neville cries with relief. Hagrid looks guilty. Draco looks at the ground. Firenze is already leaving.",
           "caption": "Castle lights ahead.",
