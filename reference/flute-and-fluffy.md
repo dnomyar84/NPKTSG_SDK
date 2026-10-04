@@ -8,4 +8,4 @@ The notes are the cause. The Zzz is the result.
 
 Do not cover the panel in notes. A few notes along the path are enough.
 
-This is the same still-magic idea as the rest of the book. A wand spell needs a faint line from the wand to the target. Chanted magic needs eyes and a moving mouth. Flute magic needs notes from the instrument to the three heads.
+This is the same still-magic idea as the rest of the book. The full rule is in [rules.md](rules.md). A wand spell needs a faint line from the wand to the target. Chanted magic needs eyes and a moving mouth. Flute magic needs notes from the instrument to the three heads.

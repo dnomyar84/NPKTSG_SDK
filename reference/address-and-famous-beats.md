@@ -1,6 +1,6 @@
 # Address culture and famous beats
 
-Music notes and sleepy Zzz for Fluffy are in [flute-and-fluffy.md](flute-and-fluffy.md).
+Music notes and sleepy Zzz for Fluffy are in [flute-and-fluffy.md](flute-and-fluffy.md). Costume, creature, prop, and spell-readability locks are in [rules.md](rules.md).
 
 Planning note for later dialogue and panel passes. It does not rewrite the storyboard, and it does not invent lines. Speech in the book should follow the rules below. The beat list says what is already drawn in `harry-potter-philosophers-stone-panels.md` and what is still missing. Paraphrase only. Do not paste the film script or the novel.
 
