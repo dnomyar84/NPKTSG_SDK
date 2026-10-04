@@ -4,6 +4,8 @@ Reference storyboard for the first film, told in original wording. It is a readi
 
 How people address each other, and which funny, embarrassing, and disgusting beats must be kept, is in [address-and-famous-beats.md](address-and-famous-beats.md). Later dialogue should follow that note. This storyboard is not rewritten there.
 
+Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, and a visible link when someone casts a spell. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
+
 - **20 chapters**, the names kept from the chapter pass.
 - **4 pages** in every chapter.
 - **6 panels** on every page.
@@ -47,7 +49,7 @@ Each panel has:
 
 ## People and clothes
 
-These looks stay the same unless a panel says otherwise.
+These looks stay the same unless a panel says otherwise. If a panel is brief, use the lock in [wardrobes.md](wardrobes.md). Harry’s scar stays on his right brow. The winter jumpers are locked there too.
 
 - **Baby Harry.** A small infant with a tuft of jet-black hair, wrapped in a soft green blanket. A fresh lightning-shaped cut on his forehead.
 - **Harry, age 10–11.** Small for his age, messy black hair that will not lie flat, round wire glasses often taped at the bridge, a lightning scar. Before Diagon Alley he wears Dudley’s faded castoffs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, no coat that fits. After Diagon Alley: black Hogwarts robes over a white shirt, gray V-neck sweater, red-and-gold striped tie, black trousers, black shoes. In the castle he often adds a red-and-gold scarf. At night: a plain gray pajama set, too big.
