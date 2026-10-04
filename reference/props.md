@@ -20,7 +20,15 @@ A wand spell needs a thin line from that wand’s tip to the target. See [rules.
 - **Hagrid.** The pink umbrella is the wand. Slightly worn, a curved handle, the same pink every time. It lives in the moleskin coat or in his fist. The spark, the brick taps, and any spell leave from the umbrella tip. He does not also carry a separate wand.
 - **Other witches and wizards.** One wand each, the same stick every time. Dumbledore’s is long and pale. Snape’s is thin and dark. McGonagall’s is straight and dark. Do not add ornaments you are not sure of.
 
-The silver device Dumbledore uses on street lamps is a lighter shape, not his wand. The wand lights a lamp. The device puts lamps out.
+## Deluminator (Put-Outer)
+
+Paste this when Dumbledore darkens a street lamp, or sends that light back.
+
+A small silver device the shape of a cigarette lighter, held in the hand. It is the Put-Outer, later called the Deluminator. It is not his wand. Do not draw a line from the wand. Do not draw him lighting a lamp with a wand.
+
+Darkening: the device is aimed at one street lamp. A thin ribbon of warm yellow light runs from that lamp’s glass globe into the device. A few sparks along the ribbon are enough. The lamp he is clicking is going dark. Lamps he has already passed are out. Lamps ahead may still be lit, so the street is dying in one direction. His eyes and his hand are on that lamp. The cat may watch. Do not flood the panel with glow.
+
+Returning the lights at the end of the night: the same silver device in the same hand. The ribbon reverses and runs from the device up into the lamp globes. The lamps flare on. Do not flood the panel with glow.
 
 ## Remembrall
 
