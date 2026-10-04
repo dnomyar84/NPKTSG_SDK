@@ -1,6 +1,6 @@
 # Harry Potter and the Philosopher’s Stone
 
-A flip book of the panel script. Twenty-one chapters, 88 scenes, and 165 pages. Every page has 6 panels. A scene is one place and one stretch of time, and it takes more than one page when the walk-in and the action need the room. Pictures may be missing or wrong until each chapter's art is added.
+A flip book of the panel script. Twenty-one chapters, 210 pages, 1,219 panels. A scene is one place and one stretch of time, and it takes at least one page. Pictures may be missing or wrong until each chapter's art is added. Image generation uses each panel's picture brief (what they do, feel, and show on the face). The balloon is not the drawing instruction. See Balloons and picture briefs in [rules.md](../reference/rules.md).
 
 Chapters in the book:
 
