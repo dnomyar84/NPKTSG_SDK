@@ -7,12 +7,12 @@ How people address each other, and which funny, embarrassing, and disgusting bea
 Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, a visible link when someone casts a spell, and a moving staircase as one rigid flight hinged at the bottom. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
 
 - **21 chapters**. Where a comic chapter matches a novel chapter, it uses the novel name. First Lessons is our name, because that chapter was split out of the classes.
-- **4 pages** in every chapter.
+- **114 scenes** and **137 pages** in the flipbook. A scene is one place and one stretch of time. It is no longer locked at four pages. A scene takes as many pages as the walk-in and the action need.
 - **6 panels** on every page.
-- **504 panels** in all.
+- **822 panels** in the flipbook (`flipbook/story.js`). That file is the live page list. Older page breaks in this storyboard are not the book.
 - A code such as `C1-P2-P6` names that picture and the file `art/c1-p2-p6.jpg`. Codes stay with the picture. Inserting a chapter does not rename them, so later chapters still contain `C8-` and `C12-` codes. A panel marked not drawn has no file and must not reuse a jpg.
 
-Read each page left to right, top to bottom, in a grid of three columns and two rows. Panel 6 is always the bottom-right page-turn. The last panel of page 4 closes the chapter.
+Read each page left to right, top to bottom, in a grid of three columns and two rows. Panel 6 is always the bottom-right page-turn. The last panel of a chapter's last page closes the chapter.
 
 Each panel has:
 
