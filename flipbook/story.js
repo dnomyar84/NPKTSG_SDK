@@ -6478,6 +6478,376 @@ window.BOOK = {
           "art": "art/c19-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 20,
+      "title": "The House Cup",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "Slytherin’s night"
+        },
+        {
+          "n": 2,
+          "title": "The count"
+        },
+        {
+          "n": 3,
+          "title": "Neville"
+        },
+        {
+          "n": 4,
+          "title": "Home, for now"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "The leaving feast. The Great Hall is a wash of green and silver, candles under a summer night sky. A large plain cup waits by the staff table. Slytherin looks loud. Gryffindor is quieter.",
+          "expressions": "Draco looks at the cup as if he already owns it. Harry looks at his plate, quiet, the hospital still in his posture. He is not sulking.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "Green and silver, Potter. The House Cup is Slytherin's. Do try to clap."
+            }
+          ],
+          "art": "art/c20-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Across the hall Draco raises a goblet in a toast that is a taunt. Crabbe and Goyle grin. Harry does not lift his own goblet. Ron starts to stand. Hermione's hand settles him.",
+          "expressions": "Draco looks at Harry, sweet and poisonous. Harry looks back, tired of him, unshaken. Ron looks furious. Hermione looks at Ron: not now.",
+          "dialogue": [
+            {
+              "who": "Draco",
+              "line": "To Slytherin. And to first years who go adventuring and still come second."
+            }
+          ],
+          "art": "art/c20-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Dumbledore rises at the high table, hat off, hands resting on the wood. The hall's noise thins. Even Draco's goblet lowers a fraction. The cup sits beside him. Stars show through the arch.",
+          "expressions": "Dumbledore looks over the hall, benign, holding a secret. Draco looks impatient for the cup. The students turn, quiet attention.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "One moment, before the puddings vanish. The House Cup has not yet been given."
+            }
+          ],
+          "art": "art/c20-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "Dumbledore's hand opens toward the students. Beside him Snape's contained smile dies. McGonagall has a gleam. An empty chair leaves a gap at the high table.",
+          "expressions": "Dumbledore looks warm and formal. Snape looks at the cloth, sour, ready to endure it. McGonagall looks as if she may already know.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Certain recent events were never entered in the books. I intend to repair that."
+            },
+            {
+              "who": "Snape",
+              "line": "Headmaster."
+            }
+          ],
+          "art": "art/c20-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Hermione's name. She blinks, then smiles, cheeks red. Behind her a giant hourglass pours red jewels. Harry grins. Ron bangs the table, delighted for her.",
+          "expressions": "Hermione looks stunned, then proud, a smile she tries to make modest. Harry looks at her, proud. Ron looks at her with the whole adventure in his cheer.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "To Miss Hermione Granger, for cool logic under the most unpleasant pressure, fifty points to Gryffindor."
+            }
+          ],
+          "art": "art/c20-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Four giant hourglasses. Green is a mountain of jewels. Red has grown and is still short. Yellow and blue are out of it. The hall looks at the gap.",
+          "expressions": "Draco looks at the green glass, the smirk returning. Hermione looks at the gap, biting her lip. Harry looks on, waiting. The jewels are a verdict that is still moving.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Still short of Slytherin."
+            },
+            {
+              "who": "Hermione",
+              "line": "I know the sum. Don't cheer yet."
+            }
+          ],
+          "art": "art/c20-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "Ron's name. He goes scarlet under his freckles. Fred and George pound his shoulders. More red jewels climb in the hourglass behind them. Harry and Hermione clap.",
+          "expressions": "Ron looks overwhelmed, a grin breaking. The twins look at him with wild pride. Harry looks at Ron, the chessboard in his eyes. Thank you.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "To Mr Ronald Weasley, for the finest game of wizard chess this Hall has seen in many years, fifty points."
+            }
+          ],
+          "art": "art/c20-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Close. Three redheads. The twins' hands on Ron's shoulders, his ears blazing, a goblet tipped, pumpkin juice spilled. The hall is loud for his mind.",
+          "expressions": "Ron looks at his brothers, laughing, embarrassed, proud. Fred and George look at him with no joke for once, or the joke is the love.",
+          "dialogue": [
+            {
+              "who": "Fred",
+              "line": "That's our brother!"
+            },
+            {
+              "who": "George",
+              "line": "Say chess. Say it like you invented it."
+            }
+          ],
+          "art": "art/c20-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Harry's name. He does not lift his hands. He looks at the red jewels, not at the applause. Hermione's hand finds his sleeve. Ron is still grinning, still red.",
+          "expressions": "Harry's face is not a victory face yet. It is a waiting face. Hermione looks at him, proud. Ron looks at him, grinning.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "To Mr Harry Potter, for nerve, and for outstanding courage, fifty points to Gryffindor."
+            }
+          ],
+          "art": "art/c20-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Two giant hourglasses, green and red, almost of a height. Harry stands before them and does not smile. He is counting. He will not celebrate a tie.",
+          "expressions": "His face looks intent, hopeful, guarded. He looks young. The glass looks like it is deciding.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It's level. Red and green. Only level."
+            }
+          ],
+          "art": "art/c20-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "The jewels stop. Red and green, equal. The hall is one held breath, mouths open, no sound. Draco's hand tightens on the goblet. Dumbledore, between the glasses, is not frozen.",
+          "expressions": "Draco looks at the tie, a shared cup already failing him. Dumbledore looks faintly pleased. The pause is before the last name.",
+          "dialogue": [],
+          "art": "art/c20-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "Dumbledore lifts one finger. One more. The Gryffindor table searches the wrong way. Neville, round-faced and sandy-haired, looks at his spoon, a smear of cream, not searching.",
+          "expressions": "Dumbledore looks delighted, a smile beginning. Harry looks puzzled, the wrong direction. Neville looks at his pudding, unaware, innocent.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "There is one student still to be counted."
+            }
+          ],
+          "art": "art/c20-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "Neville's name. His spoon stops. Cream on his chin. He looks up as if the hall has spoken a different language. Harry, Ron, and Hermione turn toward him.",
+          "expressions": "Neville looks up, pure bewilderment. Harry's grin is starting: yes. Hermione understands before Neville does. Ron looks delighted.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "To Mr Neville Longbottom. Ten points."
+            }
+          ],
+          "art": "art/c20-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "The goblet tips. Pumpkin juice spills, a small disaster, very Neville. His hands are open. Friends lean in, cheering toward him. Nobody is laughing at the spill.",
+          "expressions": "Neville looks lost, then toward his friends, the start of belief. Embarrassed. Bright. Harry looks at the spill, then at Neville's face, fond.",
+          "dialogue": [
+            {
+              "who": "Neville",
+              "line": "Me? I didn't do any... oh. The goblet."
+            }
+          ],
+          "art": "art/c20-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Dumbledore speaks, and a soft memory opens beside them: Neville in a nightshirt, arms spread in a doorway at night, terrified and brave, trying to stop his friends. In the present, juice is on the table and his eyes shine.",
+          "expressions": "Dumbledore looks at Neville with respect, no joke in the sentence. Neville looks back, the memory hurting in a good way, eyes wet.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "It takes courage to face an enemy. It takes more to face your friends when they are about to do something foolish. Neville Longbottom chose the harder bravery."
+            }
+          ],
+          "art": "art/c20-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The red jewels rush and pass the green. The tie breaks. Draco's smirk is dead. Snape's eyes are shut. McGonagall smiles. Neville stares at the red glass.",
+          "expressions": "Neville looks at the glass in awe. Draco looks pale with fury. Snape looks at nothing, sour, contained. McGonagall looks on with fierce joy. Harry looks at Neville.",
+          "dialogue": [
+            {
+              "who": "Seamus",
+              "line": "We're past them! Gryffindor has passed Slytherin!"
+            }
+          ],
+          "art": "art/c20-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "The hall detonates. Neville is lifted onto shoulders, terrified and laughing. Hermione cries and laughs at once. Harry and Ron shout. At the edge Hagrid blows his nose into an enormous handkerchief.",
+          "expressions": "Neville looks down at his friends, laughing, the boy who fell off the broom. Hermione's hands are together. Harry looks up at him. Hagrid is undone. Joy, loud, earned.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "Neville! You did that!"
+            },
+            {
+              "who": "Harry",
+              "line": "Up you come, Neville!"
+            }
+          ],
+          "art": "art/c20-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "A quiet cutaway inside the noise. Slytherin groans and sits down hard. Draco has not moved. The goblet is still raised from the toast that curdled. Far off, Harry looks at Neville, not at him.",
+          "expressions": "Draco looks across the hall, envy and humiliation, alone inside his house. The goblet is a toast nobody joined. Still, small, mean, and sad.",
+          "dialogue": [],
+          "art": "art/c20-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "The scarlet train, the same compartment as September. Summer countryside runs past the window. A chocolate frog, a rat on a knee, a blank book, a white owl in a cage. They fit.",
+          "expressions": "Harry looks at Ron, mid-laugh. Ron looks at Scabbers, fond. Hermione looks at them, a smile that includes the book and the boys. Nobody looks like a first-day stranger.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Same compartment as September. Better year."
+            },
+            {
+              "who": "Harry",
+              "line": "Speak for Scabbers. He slept through most of it."
+            }
+          ],
+          "art": "art/c20-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "A small still life that is a victory. Hermione's book is open on blank pages. Ron holds a thick sandwich in both hands. Harry sits between them with nothing in his hands, looking at the fact of them. Hedwig preens. A plain green sweater is folded on the seat.",
+          "expressions": "Hermione looks at the page, content. Ron looks at the sandwich, a boy with enough. Harry looks at them, quiet happiness, the cupboard far. He looks full. Accompanied.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "Mum's sandwiches. Not dry. That's how you know she missed me."
+            },
+            {
+              "who": "Hermione",
+              "line": "And I have a book. Balance is restored."
+            }
+          ],
+          "art": "art/c20-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "A pact. Hermione holds up a quill. Ron nods, mouth full, sincere. Harry puts a hand on Hedwig's cage. The white owl blinks, gold eyes, already accepting the job.",
+          "expressions": "Hermione looks earnest, a little bossy, loving. Ron will write badly and truly. Harry looks at Hedwig, a smile. He has a way to reach them. Hedwig looks steady, regal, fond.",
+          "dialogue": [
+            {
+              "who": "Hermione",
+              "line": "We write. Proper letters, not only at Christmas."
+            },
+            {
+              "who": "Harry",
+              "line": "Hedwig already thinks she has the post."
+            },
+            {
+              "who": "Ron",
+              "line": "I'll write. The spelling will be tragic. But I'll write."
+            }
+          ],
+          "art": "art/c20-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "The platform, steam, the scarlet train. Molly Weasley, red hair and a homemade cardigan, gathers Harry in with the same arms she uses for Ron. Ron grins with a suitcase. Hermione waves. Ginny peeks.",
+          "expressions": "Molly looks at Harry, maternal, decided. Harry leans into the hug, a boy learning what it is for. Ron looks pleased with the world. Ginny looks curious, not afraid.",
+          "dialogue": [
+            {
+              "who": "Molly",
+              "line": "Harry, dear, come here. You're as thin as Ron, and that is saying something. You write to me if those Muggles are foul to you."
+            }
+          ],
+          "art": "art/c20-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "Through the barrier, the ordinary station. Vernon waits, mustache, brown suit, arms folded. Petunia is thin beside him. Dudley is bored in a striped shirt. Harry walks toward them with a trunk and Hedwig's cage, no hurry.",
+          "expressions": "Vernon looks at Harry, a warning already. Harry looks back, unafraid, polite, chin up. He does not look at the floor. That is the change.",
+          "dialogue": [
+            {
+              "who": "Vernon",
+              "line": "Trunk in the boot. And no funny business until September."
+            },
+            {
+              "who": "Harry",
+              "line": "Hello, Uncle Vernon."
+            }
+          ],
+          "art": "art/c20-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "Harry at the edge of the Muggle station, one hand on the trunk, the owl's cage beside him. He looks back. Ron and Hermione are still waving. Vernon waits, stiff, by the car. Summer. A beginning disguised as an ending.",
+          "expressions": "Harry looks back, a real smile, small and sure. Ron's wave is big and loyal. Hermione's wave says see you soon. Harry's face is still a child's face. He is coming back.",
+          "dialogue": [
+            {
+              "who": "Ron",
+              "line": "See you, Harry!"
+            },
+            {
+              "who": "Hermione",
+              "line": "Write!"
+            },
+            {
+              "who": "Harry",
+              "line": "I will. I'm coming back."
+            }
+          ],
+          "art": "art/c20-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
