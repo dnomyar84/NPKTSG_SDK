@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#102433">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Harry Potter and the Philosopher’s Stone</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,10 +16,16 @@
 <body class="reader">
   <header class="topbar">
     <div class="brand">
-      <strong>Harry Potter and the Philosopher’s Stone</strong>
-      <span>Twenty chapters in the book</span>
+      <strong id="chapterLine">Harry Potter and the Philosopher’s Stone</strong>
+      <span id="sceneLine"></span>
     </div>
     <nav class="nav">
+      <span class="font-control" role="group" aria-label="Font size">
+        <button type="button" class="chrome-btn" id="fontDown" aria-label="Smaller font">−</button>
+        <span class="font-label">Font</span>
+        <button type="button" class="chrome-btn" id="fontUp" aria-label="Larger font">+</button>
+      </span>
+      <button type="button" class="chrome-btn" id="fullBtn">Full</button>
       <button type="button" class="ghost" id="notesBtn">Show script notes</button>
     </nav>
   </header>

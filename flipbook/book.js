@@ -30,9 +30,16 @@
   const status = document.getElementById("status");
   const notes = document.getElementById("notes");
   const notesBtn = document.getElementById("notesBtn");
+  const chapterLine = document.getElementById("chapterLine");
+  const sceneLine = document.getElementById("sceneLine");
+  const fontDown = document.getElementById("fontDown");
+  const fontUp = document.getElementById("fontUp");
+  const fullBtn = document.getElementById("fullBtn");
   const wrap = document.querySelector(".book-wrap");
   const book = document.getElementById("book");
   const turnSheet = document.getElementById("mobileTurn");
+  const FONT_KEY = "flipbook-font-step";
+  const FONT_STEPS = [0.88, 1, 1.14, 1.3];
 
   let spread = 0;
   let busy = false;
@@ -45,19 +52,52 @@
     return (catalog[page] && catalog[page].panels) || [];
   }
 
-  function showChapter(page) {
-    const info = catalog[page];
-    if (!info) return;
-    const strong = document.querySelector(".brand strong");
-    const sub = document.querySelector(".brand span");
-    if (strong) {
-      strong.textContent = `Chapter ${info.chapter.n} — ${info.chapter.title}`;
-      document.title = strong.textContent;
+  function openPages() {
+    const leftPage = spread * 2 + 1;
+    const rightPage = leftPage + 1;
+    if (mobile()) {
+      const current = document.body.classList.contains("mobile-right") ? rightPage : leftPage;
+      return catalog[current] ? [catalog[current]] : [];
     }
-    if (sub) {
-      const word = chapters.length === 1 ? "chapter" : "chapters";
-      sub.textContent = `${data.book} · ${chapters.length} ${word} in the book`;
+    const pages = [];
+    if (catalog[leftPage]) pages.push(catalog[leftPage]);
+    if (rightPage <= pageCount && catalog[rightPage]) pages.push(catalog[rightPage]);
+    return pages;
+  }
+
+  function chapterLabel(pages) {
+    if (!pages.length) return data.book || "End of the book";
+    const first = pages[0].chapter;
+    const last = pages[pages.length - 1].chapter;
+    if (first.n === last.n) return `Chapter ${first.n} — ${first.title}`;
+    return `Chapter ${first.n} — ${first.title} · ${last.n} — ${last.title}`;
+  }
+
+  function sceneLabel(pages) {
+    if (!pages.length) return "End of the book";
+    const one = (info) => `Scene ${info.local}, page ${info.local} of ${info.chapterPages}`;
+    if (pages.length === 1) return one(pages[0]);
+    const [a, b] = pages;
+    if (a.chapter.n !== b.chapter.n) return `${one(a)} · ${one(b)}`;
+    return `Scenes ${a.local}–${b.local}, pages ${a.local}–${b.local} of ${a.chapterPages}`;
+  }
+
+  function positionLabel(pages) {
+    if (!pages.length) return "End of the book";
+    if (pages.length === 1) return `Page ${pages[0].local} of ${pages[0].chapterPages}`;
+    const [a, b] = pages;
+    if (a.chapter.n !== b.chapter.n) {
+      return `Page ${a.local} of ${a.chapterPages}, then page ${b.local} of ${b.chapterPages}`;
     }
+    return `Pages ${a.local}–${b.local} of ${a.chapterPages}`;
+  }
+
+  function showPlace() {
+    const pages = openPages();
+    const title = chapterLabel(pages);
+    if (chapterLine) chapterLine.textContent = title;
+    if (sceneLine) sceneLine.textContent = sceneLabel(pages);
+    document.title = title;
   }
 
   // Place and wide-view panels. A row stays half and half unless one of these
@@ -105,7 +145,7 @@
     const rows = rowPlan(items).map((row) =>
       `<div class="row ${row.split} ${row.grow}">${row.panels.map(panelHtml).join("")}</div>`
     ).join("");
-    return `<div class="page-inner"><header><span>Chapter ${info.chapter.n} · Page ${info.local} of ${info.chapterPages}</span><strong>${escapeHtml(info.title)}</strong></header><div class="rows">${rows}</div></div>`;
+    return `<div class="page-inner"><header><strong>${escapeHtml(info.title)}</strong></header><div class="rows">${rows}</div></div>`;
   }
 
   function escapeHtml(value) {
@@ -121,26 +161,16 @@
     const rightPage = leftPage + 1;
     leftEl.innerHTML = pageHtml(leftPage);
     rightEl.innerHTML = rightPage <= pageCount ? pageHtml(rightPage) : pageHtml(rightPage);
-    showChapter(mobile() && document.body.classList.contains("mobile-right") ? rightPage : leftPage);
+    const pages = openPages();
+    showPlace();
+    const hint = mobile()
+      ? "Tap the left half to turn back, the right half to turn forward."
+      : "Click the right page to turn forward, the left page to turn back.";
+    status.textContent = pages.length ? `${positionLabel(pages)}. ${hint}` : "End of the book.";
     if (mobile()) {
-      const showingRight = document.body.classList.contains("mobile-right");
-      const current = showingRight ? rightPage : leftPage;
-      const info = catalog[current];
-      status.textContent = info
-        ? `Chapter ${info.chapter.n}, page ${info.local} of ${info.chapterPages}. Tap the left half to turn back, the right half to turn forward.`
-        : "End of the book.";
       leftEl.title = "Left half turns back. Right half turns forward.";
       rightEl.title = "Left half turns back. Right half turns forward.";
     } else {
-      const leftInfo = catalog[leftPage];
-      const rightInfo = catalog[rightPage];
-      let label = `Chapter ${leftInfo.chapter.n}, page ${leftInfo.local} of ${leftInfo.chapterPages}`;
-      if (rightInfo && rightInfo.chapter.n === leftInfo.chapter.n) {
-        label = `Chapter ${leftInfo.chapter.n}, pages ${leftInfo.local}–${rightInfo.local} of ${leftInfo.chapterPages}`;
-      } else if (rightInfo) {
-        label = `Chapter ${leftInfo.chapter.n} page ${leftInfo.local}, then Chapter ${rightInfo.chapter.n} page ${rightInfo.local}`;
-      }
-      status.textContent = `${label}. Click the right page to turn forward, the left page to turn back.`;
       leftEl.title = "Turn back";
       rightEl.title = "Turn page";
     }
@@ -338,6 +368,107 @@
     });
   }
 
+  let fontStep = 1;
+  try {
+    const raw = localStorage.getItem(FONT_KEY);
+    const saved = raw === null ? NaN : Number(raw);
+    if (Number.isInteger(saved) && saved >= 0 && saved < FONT_STEPS.length) fontStep = saved;
+  } catch (error) {
+    fontStep = 1;
+  }
+
+  function applyFont() {
+    document.documentElement.style.setProperty("--panel-scale", String(FONT_STEPS[fontStep]));
+    if (fontDown) fontDown.disabled = fontStep === 0;
+    if (fontUp) fontUp.disabled = fontStep === FONT_STEPS.length - 1;
+  }
+
+  function storeFont() {
+    try {
+      localStorage.setItem(FONT_KEY, String(fontStep));
+    } catch (error) {
+      /* private mode can block storage */
+    }
+  }
+
+  if (fontDown) {
+    fontDown.addEventListener("click", () => {
+      if (fontStep === 0) return;
+      fontStep -= 1;
+      storeFont();
+      applyFont();
+    });
+  }
+  if (fontUp) {
+    fontUp.addEventListener("click", () => {
+      if (fontStep === FONT_STEPS.length - 1) return;
+      fontStep += 1;
+      storeFont();
+      applyFont();
+    });
+  }
+  applyFont();
+
+  function fullscreenElement() {
+    return document.fullscreenElement || document.webkitFullscreenElement || null;
+  }
+
+  function syncFullButton() {
+    if (!fullBtn) return;
+    const on = Boolean(fullscreenElement());
+    fullBtn.textContent = on ? "Exit" : "Full";
+    fullBtn.setAttribute("aria-label", on ? "Exit full screen" : "Full screen");
+  }
+
+  // iOS Safari often rejects Fullscreen for a page. A short scroll still
+  // asks the browser to collapse the URL bar where it allows that.
+  function collapseUrlBar() {
+    if (!mobile()) return;
+    document.documentElement.classList.add("url-nudge");
+    const nudge = () => window.scrollTo(0, 1);
+    nudge();
+    requestAnimationFrame(nudge);
+    window.setTimeout(() => {
+      window.scrollTo(0, 0);
+      document.documentElement.classList.remove("url-nudge");
+      fit();
+    }, 300);
+  }
+
+  function requestPageFullscreen() {
+    const el = document.documentElement;
+    if (el.requestFullscreen) return el.requestFullscreen();
+    if (el.webkitRequestFullscreen) return el.webkitRequestFullscreen();
+    return Promise.reject(new Error("fullscreen unavailable"));
+  }
+
+  function exitPageFullscreen() {
+    if (document.exitFullscreen) return document.exitFullscreen();
+    if (document.webkitExitFullscreen) return document.webkitExitFullscreen();
+    return Promise.reject(new Error("fullscreen unavailable"));
+  }
+
+  if (fullBtn) {
+    fullBtn.addEventListener("click", () => {
+      const leave = Boolean(fullscreenElement());
+      const done = leave ? exitPageFullscreen() : requestPageFullscreen();
+      Promise.resolve(done).catch(() => {}).finally(() => {
+        if (!leave) collapseUrlBar();
+        syncFullButton();
+        fit();
+      });
+    });
+  }
+  document.addEventListener("fullscreenchange", () => {
+    syncFullButton();
+    fit();
+  });
+  document.addEventListener("webkitfullscreenchange", () => {
+    syncFullButton();
+    fit();
+  });
+  syncFullButton();
+
   notesBtn.addEventListener("click", () => {
     document.body.classList.toggle("show-notes");
     notesBtn.textContent = document.body.classList.contains("show-notes") ? "Hide script notes" : "Show script notes";
@@ -371,6 +502,9 @@
     }
     fit();
   });
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener("resize", fit);
+  }
 
   renderStatic();
   fit();
