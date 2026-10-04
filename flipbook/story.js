@@ -1517,7 +1517,7 @@ window.BOOK = {
         {
           "n": 7,
           "page": 2,
-          "scene": "Platform nine and three-quarters. The Hogwarts Express is scarlet and huge, steam blooming under the iron roof. Students in robes say goodbye. Cats slip under trolleys. Owls hoot.",
+          "scene": "Platform nine and three-quarters. The Hogwarts Express is scarlet and huge, steam blooming under the iron roof. The scarlet is the train, not a house robe. Students in mixed travel clothes say goodbye. No house colors. Cats slip under trolleys. Owls hoot.",
           "expressions": "Harry looks up at the train, relief and awe. He looks for the red-haired family and finds too many redheads to be sure.",
           "caption": "A scarlet steam train. Owls, cats, and steam.",
           "dialogue": [
@@ -1531,7 +1531,7 @@ window.BOOK = {
         {
           "n": 8,
           "page": 2,
-          "scene": "An empty compartment. The train lurches and Hedwig's cage slides. Harry catches it. Robes and trunks pass in the corridor. The platform slides away outside.",
+          "scene": "An empty compartment. The train lurches and Hedwig's cage slides. Harry catches it. He is still in Dudley's faded shirt and rolled jeans, taped glasses, no school robe. Children in travel clothes and trunks pass in the corridor. The platform slides away outside.",
           "expressions": "He looks at the empty seat opposite, lonely and proud he managed the trolley. A small smile for Hedwig. She looks back, unruffled.",
           "caption": "An empty compartment. The train lurches.",
           "dialogue": [],
@@ -1540,7 +1540,7 @@ window.BOOK = {
         {
           "n": 9,
           "page": 2,
-          "scene": "Ron stands in the doorway with a trunk that has a broken corner and a cage holding a fat gray rat. Dirt on his nose. His robes are a bit short.",
+          "scene": "Ron stands in the doorway with a trunk that has a broken corner and a cage holding a fat gray rat. Dirt on his nose. He wears a worn maroon hand-knit with a gold R, and a hand-me-down jacket and trousers. No robe and no tie.",
           "expressions": "Ron looks at the empty seat, not quite at Harry, shy. Harry looks at Ron, relieved, and nods.",
           "caption": "Ron slides the door, shy.",
           "dialogue": [
@@ -1654,7 +1654,7 @@ window.BOOK = {
         {
           "n": 16,
           "page": 3,
-          "scene": "The doorway goes dark. Draco stands in front, sleek, hands behind his back, green lining flashing. Crabbe and Goyle fill the frame behind him so there is no leaving.",
+          "scene": "The doorway goes dark. Draco stands in front, sleek, hands behind his back, in an expensive plain black coat. No green lining, no snake, no house tie. Crabbe and Goyle fill the frame behind him in bulky dark coats, so there is no leaving.",
           "expressions": "Draco looks at Harry, assessing, then at Ron's sweater. The big boys look dull. Harry recognizes him from the alley. Ron looks at the blocked door.",
           "caption": "Draco enters. Crabbe and Goyle block the door.",
           "dialogue": [
@@ -1674,7 +1674,7 @@ window.BOOK = {
           "dialogue": [
             {
               "who": "Draco",
-              "line": "Red hair, second-hand robes, and a rat called Scabbers, I shouldn't wonder. You'll regret the company you keep."
+              "line": "Red hair, a second-hand jumper, and a rat called Scabbers, I shouldn't wonder. You'll regret the company you keep."
             }
           ],
           "art": "art/c5-p3-p5.jpg"
@@ -1736,7 +1736,7 @@ window.BOOK = {
         {
           "n": 21,
           "page": 4,
-          "scene": "The train is slowing. Students pull on robes. Harry has a sleeve inside out and a crooked tie. Ron, already dressed, fixes it. In the corridor Hermione holds a toad, and Neville weeps with relief.",
+          "scene": "The train is slowing. Students pull on plain black robes, no ties, no crests, and no scarves. Harry has a sleeve inside out. Ron, already in a plain black robe over his maroon jumper, fixes it. In the corridor Hermione, in a plain black robe and no tie, holds a toad, and Neville weeps with relief.",
           "expressions": "Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at the embarrassment. Hermione is pleased. Neville is sobbing happily.",
           "caption": "Robes on. Harry fumbles a sleeve.",
           "dialogue": [
@@ -1782,7 +1782,7 @@ window.BOOK = {
         {
           "n": 24,
           "page": 4,
-          "scene": "Low angle on the night platform. Hagrid's grin fills the top of the panel, lantern beside his cheek. Harry is small at the bottom, school robes finally worn properly, Hedwig's cage at his feet. Steam wraps them. The train is a red wall.",
+          "scene": "Low angle on the night platform. Hagrid's grin fills the top of the panel, lantern beside his cheek. Harry is small at the bottom, in the plain black robe from the compartment, no tie, no crest, and no scarf, Hedwig's cage at his feet. Steam wraps them. The train is a red wall.",
           "expressions": "Hagrid looks proud, a little emotional, grinning. His hand hovers and does not quite ruffle Harry's hair. Harry looks up, safe, smiling true.",
           "caption": "Harry steps off. Hagrid grins down.",
           "dialogue": [

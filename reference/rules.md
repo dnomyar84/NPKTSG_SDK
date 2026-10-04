@@ -22,6 +22,10 @@ Outdoor and cold indoor spaces (the grounds, the boats, a cold Great Hall, a dun
 
 Winter jumpers are locked in [wardrobes.md](wardrobes.md). Harry’s Christmas jumper is emerald green with a gold H. Ron’s is maroon with a gold R. They are not the same jumper.
 
+## No house robes before the Sorting
+
+On the Hogwarts Express, first years wear the clothes they traveled in. They have not been Sorted, and they are not in house robes. House ties, crests, and scarves start at the Sorting. The lock is in [wardrobes.md](wardrobes.md).
+
 ## The scar
 
 Harry’s lightning scar is on his anatomical right brow. When he faces the viewer, it is on the viewer’s left. It never moves to the other side, the chin, or the cheek. Baby Harry has the same cut, fresh, on that same brow.
