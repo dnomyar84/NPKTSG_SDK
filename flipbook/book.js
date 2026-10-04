@@ -370,7 +370,8 @@
 
   let fontStep = 1;
   try {
-    const saved = Number(localStorage.getItem(FONT_KEY));
+    const raw = localStorage.getItem(FONT_KEY);
+    const saved = raw === null ? NaN : Number(raw);
     if (Number.isInteger(saved) && saved >= 0 && saved < FONT_STEPS.length) fontStep = saved;
   } catch (error) {
     fontStep = 1;
