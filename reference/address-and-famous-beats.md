@@ -80,7 +80,7 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 
 - **Present.** McGonagall has been a cat on the wall all day, and she is disgusted by the family asleep behind the glass.
 - **Present.** The flying motorcycle, Hagrid crying, the scar, the baby left alone when the lamps come back.
-- **Missing.** The one light joke on an otherwise grave night: Dumbledore offers a lemon sweet and eats it himself when she will not. Do not turn the chapter into a comedy. One sweet is enough.
+- **Present.** The one light joke on an otherwise grave night: Dumbledore offers a lemon sweet and eats it himself when she will not. One sweet. It sits on its own page after they are already talking on the step, before they turn back to the window. Do not add a second sweet.
 
 ### Chapter 2 — Harry’s life with the Dursleys
 
@@ -112,8 +112,8 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 - **Present, and it was only a vague laugh.** C5-P1-P3 already shows a station guard laughing and waving Harry off, with the line that there is no platform nine and three-quarters. C5-P1-P2 had Harry ask the question with no officer in the frame. That pair is this beat, not a different joke, and it is already before the Weasleys in C5-P1-P4. It was not precise enough to draw. The version to keep, now written into those two panels: Harry asks a platform officer where platform 9¾ is. The officer is amused and dismissive. He laughs, points Harry away, and does not walk him to a train. Harry is left looking at the solid brick barrier between platforms 9 and 10. The officer’s mustache is thinner than Vernon’s. He is not Vernon. No new panel. Do not put the Weasleys in the ask or the brush-off.
 - **Present.** Ron arrives with dirt on his nose. Hermione tells him so while she is already correcting him. The storyboard does not show him wiping the wrong cheek. The smudge itself is enough to keep.
 - **Present.** Dry corned-beef sandwiches. Harry offers sweets, including a Bertie Bott's bean "if you're feeling brave." Scabbers sleeps on a wrapper.
-- **Missing.** The disgusting flavour actually landing. Nobody eats the bean. The famous gag is a flavour that should not be food: a bogey, or something equally foul. The hospital earwax joke is a separate beat, in chapter 20. Keep both. Do not spend the train bean and then skip the later one.
-- **Missing.** The chocolate frog actually leaping out of the box. The box is offered and then left unopened.
+- **Present.** The disgusting flavour lands. Ron eats the bean after Harry offers it, and it is a bogey. The hospital earwax joke is a separate beat, in chapter 20. Keep both.
+- **Present.** The chocolate frog leaps out of the box, in the same compartment, after the bean. Scabbers sleeps through it.
 - **Present.** Hermione bosses them about Neville's lost toad, sees the scar, and leaves Ron groaning.
 - **Present.** Draco, Crabbe, and Goyle block the door. Draco insults the Weasleys. Harry says he can tell the wrong sort for himself.
 
@@ -123,11 +123,11 @@ The pronunciation correction is already on this train, before anyone has failed 
 
 - **Present.** The steep path, the boats, Neville clutching the sides, the castle doubled in the lake.
 - **Present.** A ghost drifts up through the table. Neville yelps. The ghost's head is a bit wobbly, which only hints at the joke.
-- **Missing.** Nearly Headless Nick actually showing the neck, the head hanging by a strip. That is the gross laugh. A wobbly head is not that picture.
+- **Present.** Nearly Headless Nick shows the neck, the head hanging by a strip, after he has already drifted through the table. A wobbly head is not a substitute. Do not draw it twice.
 - **Present.** The Hat twitches and sings. Hermione is Sorted almost at once. Draco asks for Slytherin and gets it. Neville trips, the hall laughs, then the Hat shouts Gryffindor. Ron is afraid of being last, or of Slytherin. The Hat hesitates over Harry, offers greatness in Slytherin, and he refuses.
-- **Missing. Required insert. Do not renumber.** Before any name is called, Dumbledore welcomes the first years and briefly indicates the four houses they will be sorted into. This speech is not drawn. McGonagall’s line in C6-P2-P3 names the four houses and the Hat. That is her speech, not this one. Dumbledore’s speech in C6-P4-P5 is later, after Harry has been Sorted, and it is the third-floor warning to the school. “Potter, Harry” in C6-P3-P6 is a name from a list, not this welcome. Staff stay formal. He does not say “Harry.”
+- **Present.** Before any name is called, and after the Hat is on the stool, Dumbledore welcomes the first years and indicates the four houses. McGonagall’s earlier line still names the houses and the Hat. That is her speech, not this one. Dumbledore’s later speech, after Harry has been Sorted, is still only the third-floor warning. “Potter, Harry” is still a name from a list. Staff stay formal. He does not say “Harry.” Do not add the welcome again.
 
-  Put the insert after the first years can see the hall (after C6-P2-P1) and before the first name (before C6-P2-P6). A full prompt, for a later picture, not a new code:
+  The welcome is already in the storyboard, after the Hat is on the stool and before the first name. This is the picture to draw when that page gets art, not a second insert:
 
   - **Beat:** Dumbledore welcomes the first years and indicates the four houses.
   - **Image:** He stands at the staff table, tall, both hands open toward the hall, indicating four long tables. He is speaking to the children as a group. No one is walking to the stool yet. The Hat can already be on its stool, quiet.
@@ -136,7 +136,7 @@ The pronunciation correction is already on this train, before anyone has failed 
   - **Faces:** Dumbledore looks along the first years, kind and public, not chatting to one boy. Harry looks at the four colors, not knowing which is his. Ron looks at the red table, hopeful. Hermione looks at Dumbledore, attentive. Draco looks at the green table. McGonagall looks at her scroll, waiting. No one has been named yet.
   - **Dialogue shape, paraphrase only:** a welcome to the first years, then the four house names in one breath, Gryffindor, Hufflepuff, Ravenclaw, Slytherin, as the tables he is indicating. Not “Harry Potter.” Not the painful-death warning. That warning stays in C6-P4-P5.
 
-- **Missing.** Dumbledore's nonsense words before the feast, the four silly words that make the hall think he has lost the plot, and then the real warning. The storyboard goes straight to the third-floor corridor and the painful death. Keep that warning. The silly words are the funny beat in front of it, and they are not here. The house welcome above is a different missing beat. Do not spend one insert on both.
+- **Missing.** Dumbledore's nonsense words before the feast, the four silly words that make the hall think he has lost the plot, and then the real warning. The storyboard goes straight to the third-floor corridor and the painful death. Keep that warning. The silly words are still not here. The house welcome above is a different beat, and it is already in. Do not spend a new insert on the silly words unless a later pass asks for them.
 
 ### Chapter 7 — First Lessons
 
@@ -158,7 +158,7 @@ The pronunciation correction is already on this train, before anyone has failed 
 
 - **Present.** Dawn, two lines, brooms on the grass. Madam Hooch tells them to say up and not to kick off until she says.
 - **Present.** Neville shouts the word too soon, the broom hauls him into the sky, he circles, he falls, and his wrist breaks. The Remembrall rolls out of his pocket.
-- **Missing.** The face-hit. In the film the class shouts the word together and a broom shoots up off the grass into a student's face. In the book Harry's own broom comes cleanly to his hand. Keep Neville's crash, because that is the story. Also keep the face-hit, because it is the laugh the user named. One does not replace the other. Do not delete the smack in order to be faithful to the book.
+- **Present.** The face-hit. The class shouts the word together and a broom shoots up off the grass into a student's face. That student is not Neville. Neville's crash still follows, because that is the story. One does not replace the other.
 - **Present.** Draco takes the Remembrall, mounts, and tells Harry to come and get it. Hermione says he will be expelled. Harry kicks off, dives, and closes his hand on the ball just above the stone.
 - **Present.** McGonagall, icy, takes Potter inside. It is not an expulsion. She has found Oliver Wood a Seeker.
 
@@ -166,7 +166,7 @@ The pronunciation correction is already on this train, before anyone has failed 
 
 - **Present.** Draco offers a wizard's duel at midnight in the trophy room. Hermione says it is a trap. They go anyway. She is already waiting in the corridor.
 - **Present.** Neville is locked out in his nightshirt, toad in hand, because he forgot the password and the portrait will not open. He begs to come.
-- **Missing.** His leg stuck in the portrait hole. The storyboard has him shut out, not caught by the leg. The user named both the nightshirt and the stuck leg. The nightshirt is drawn. The leg is not.
+- **Present.** His leg stuck in the portrait hole, nightshirt and toad, before he is shut out and begs to come. The nightshirt and the stuck leg are both there. Do not add a second trapping.
 - **Present.** The trophy room is empty. Filch's lamp, and the cat's eyes. They pile through a door. Fluffy: a dog the size of the room, three heads. Neville faints. They drag him. A head snaps, Ron's sleeve tears, and a head hits the door as it slams.
 - **Present.** Hermione sees that the dog is guarding a trapdoor. Harry remembers the package from Gringotts.
 
@@ -176,8 +176,8 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** Ron calls Hermione a nightmare with no friends. She is behind the chair, eyes bright with held tears, and she runs. In the bathroom the tears from that insult are still on her face when the troll fills the door. There is no separate panel of her sobbing alone before the boys arrive. The tears are visible. Keep them.
 - **Present.** Quirrell crashes into the feast, turban askew, shouts that a troll is in the dungeon, and faints. The hall panics. Harry and Ron peel off because Hermione does not know.
 - **Present.** The smell. Harry throws a tap to turn the troll. Ron, shaking, shouts the hovering spell. The club lifts and drops on the troll's own head. The troll falls. They are alive, not heroic.
-- **Missing.** The wand up the troll's nostril.
-- **Missing.** The wand pulled back out, covered in mucus.
+- **Present.** The wand up the troll's nostril, after the tap and the hovering spell, before the club lands.
+- **Present.** The wand pulled back out, covered in mucus, after the club lands and before the troll hits the floor.
 - **Present.** The club knocking the troll out. That is the third picture, and it is already drawn.
 
 Keep all three pictures: wand in the nostril, club on the troll's own head, wand withdrawn covered in mucus. In the book, Harry is the one who shoves his wand up the nostril and pulls it out covered in bogies, while Ron levitates the club. The memory that Ron pulls the mucus wand is the film-shaped one. Do not "correct" the beat away. Attribute it in a caption if the art needs a name, and still draw the slime.
@@ -237,7 +237,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 
 - **Present.** Harry plays badly. The three heads droop one at a time. They drop through the trapdoor into something soft and laugh, and then the vines tighten. Ron is pulled under.
 - **Present.** Hermione names Devil's Snare, says it hates light, and conjures fire. They crawl free, coughing.
-- **Missing.** The extra embarrassing beat inside that panic: she freezes, then scolds herself into remembering she is a witch, and only then casts. The storyboard gives her the answer at once. The plant, the panic, and the fire are present. The self-scold is not. Keep the panic. The scold can sit inside it without replacing the fire.
+- **Present.** Inside that panic she freezes, scolds herself into remembering she is a witch, and only then casts. The plant, the panic, the scold, and the fire are all there. The fire is still the panel after the scold. Do not replace the fire with the scold.
 - **Present.** A room of keys battering the air. One old silver key with a bent wing. It fights and cuts his hand. His fist closes on it anyway.
 - **Present.** Giant chess, violent. Ron places his friends, rides forward to be taken, and the queen strikes him down. He is unconscious and still alive, and he has already told them to go on.
 - **Present.** The next room's troll is already unconscious, tongue out, comic and ignored. They do not stop.
@@ -248,7 +248,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** Harry calls for Snape. A polite voice says Snape is not here. Quirrell steps out with the turban neat and the stammer gone.
 - **Present.** The muttering at the match was a counter-curse. Snape was trying to keep Harry on the broom. Quirrell was trying to throw him off.
 - **Present, but it was one collapsed picture.** C18-P1-P6 already turns him and takes the turban off in the same panel, and the old wording let the face look past his shoulder. That reads as two men, or as a face on the turban. The precise order is in [characters.md](characters.md). C18-P1-P3 through C18-P1-P5 stay on Quirrell’s own face, turban still on, no Voldemort features on the front. C18-P1-P6 is the finished reveal: his back is toward Harry, the purple cloth is in his hands, the back of the head is bald, and Voldemort’s face is embedded in that scalp, facing Harry. Flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body.
-- **Missing. Required insert. Do not renumber.** The middle step has no panel of its own: he has turned, his back is toward Harry, and the purple turban is still wrapped on that back. Harry sees cloth, not a face yet. Quirrell’s own face is hidden on the far side of the skull. Put this insert between C18-P1-P5 and C18-P1-P6. A full prompt, for a later picture, not a new code:
+- **Present.** Between the confession and the reveal, he has turned, his back is toward Harry, and the purple turban is still wrapped. Harry sees cloth, not a face yet. The face in the scalp is the next panel, after the cloth comes off. Do not draw the face on this page. The prompt below is the picture that is now in the storyboard:
 
   - **Beat:** Quirrell turns his back. The turban is still on.
   - **Image:** Camera behind Harry, looking at Quirrell’s back. Harry is small in the foreground, facing that back. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face is visible on the turban. No second man.
@@ -266,7 +266,7 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** The pocket is empty. The Stone is safe, and it will be destroyed. Endless life and endless gold are not gifts the world should keep.
 - **Present.** His touch burned Quirrell because of his mother. Her love left a protection in his skin. Quirrell, full of hate and of Voldemort, could not bear it.
 - **Present.** Harry asks why Voldemort wanted to kill a baby. Dumbledore says he will know when he is older. Not today.
-- **Missing.** The Bertie Bott's box, and the earwax. Dumbledore offers a bean, recalls a disgusting flavour he once ate, tries another, and gets earwax. The storyboard uses Chocolate Frogs instead. Frogs can stay as a sweet the friends share later. They are not a substitute for the earwax joke. The train bean and this bedside bean are two different gags.
+- **Present.** The Bertie Bott's box, and the earwax. Dumbledore offers a bean, recalls a disgusting flavour, tries one himself, and gets earwax. Chocolate Frogs stay on the next panel, and the friends share sweets later. The train bean and this bedside bean are two different gags. Do not add a third.
 - **Present.** Ron and Hermione burst in. Ron's head is bandaged from the chess piece and he is proud of it. Hermione hates that she solved the riddle and then had to send Harry through alone. Harry tells them it was Quirrell. They go still and rewrite the year. Chocolate on the bed, the lake bright outside.
 
 ### Chapter 21 — The House Cup
