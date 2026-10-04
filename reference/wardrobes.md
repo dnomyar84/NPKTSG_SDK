@@ -11,7 +11,7 @@ The short list in the storyboard’s “People and clothes” section is the sam
 These are thick, slightly lumpy, hand-knitted crew necks. The letter is a large block capital knitted into the chest in gold yarn, not a sewn patch and not a house crest.
 
 - **Harry.** Emerald green, a little too big, large gold **H**. Molly Weasley knits it and sends it for his first Christmas. He pulls it on over gray pajamas on Christmas morning and wears it through the Mirror nights, under the invisibility cloak on the walk, and he still has it at King’s Cross (folded on the train seat, or on him when he meets the Dursleys). It is not maroon. Maroon is Ron’s.
-- **Ron.** Maroon, which he hates, large gold **R**. He already lives in a maroon hand-knit under his robes from the platform onward. The Christmas jumper is a fresh one of that same maroon, with the R clear. Do not give him a second color.
+- **Ron.** Maroon, which he hates, large gold **R**. On the platform and the Hogwarts Express that jumper is his travel knit, worn with a hand-me-down jacket, not under a robe. After the Sorting it sits under the school robe. The Christmas jumper is a fresh one of that same maroon, with the R clear. Do not give him a second color.
 - **Fred and George.** Blue knits with a yellow **F** and a yellow **G**, matching except for the letter, in the Christmas scene where they wear them.
 - **Percy.** The book gives him a lumpy jumper with a **P**. This storyboard does not show him in it. If a later picture needs him at Christmas, use that lumpy P jumper. Do not invent a scene just to show it.
 - **Hermione.** No Weasley jumper this year. She is away for Christmas. Do not knit her one.
@@ -31,16 +31,29 @@ House ties, scarves, and Quidditch trim:
 - Ravenclaw: blue and bronze, eagle. Not silver.
 - Slytherin: green and silver, snake
 
-Harry often adds a red-and-gold scarf in the castle and in the stands. Ron wears one too when it is cold.
+Harry often adds a red-and-gold scarf in the castle and in the stands. Ron wears one too when it is cold. This uniform starts at the Sorting. It is not what they wear on the Hogwarts Express.
+
+## Hogwarts Express, before Sorting
+
+First years have not been Sorted and have not changed into school robes. They wear the clothes they traveled in. House ties, crests, scarves, and house linings start at the Sorting, in the Great Hall, not on the train and not before it.
+
+The Hogwarts Express is scarlet. That is the train, not a house robe. Do not put four-house banners on the students’ bodies.
+
+- **Harry.** Dudley’s oversized faded hand-me-downs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, a thin jacket that does not fit. Taped round glasses, messy black hair, lightning scar on his anatomical right brow. No black school robe, no Gryffindor tie, no red-and-gold scarf, no lion crest. The jacket can come off in the compartment. The clothes under it stay the castoffs. The new robes stay in the trunk.
+- **Ron.** Worn maroon hand-knit jumper with a large gold R, a hand-me-down jacket and trousers, scuffed shoes, dirt on his nose. No Gryffindor robe, no tie, no crest, no scarf.
+- **Hermione.** Her own Muggle traveling clothes: a white blouse, a plain brown cardigan, a gray skirt, dark shoes, books hugged to her chest. No robe, no Gryffindor tie, no crest.
+- **Draco, Crabbe, and Goyle.** They have not been Sorted either. Draco wears an expensive plain black coat: no green lining, no silver snake, no house tie. Crabbe and Goyle wear bulky dark coats, the same two builds, no green and no snake.
+- **Neville and the other children.** Mixed Muggle clothes and wizard travel cloaks in brown, gray, and plain black. No house colors. No ties, crests, or scarves. Fred, George, and Percy are in ordinary travel clothes too. A prefect badge is not a house crest.
+- **Last beat of the ride only.** The panel where the train slows and they change (“Robes on”) may show plain black uncrested robes going on, with no house tie, no crest, and no scarf. Do not add another robe panel. Every earlier Express panel stays in travel clothes. The platform just after that beat keeps those same plain black robes. It does not add a tie.
 
 ## Harry
 
 Small for eleven, messy black hair that will not lie flat, round wire glasses often taped at the bridge, lightning scar on his right brow (viewer’s left when he faces us).
 
 - **Before Diagon Alley.** Dudley’s oversized faded castoffs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, a thin jacket that does not fit when they go out. No coat that fits. Barefoot in the house when the panel says so.
-- **Diagon Alley, after Madam Malkin.** New black robes, still a bit long, over his own shirt and jeans, until the castle. Then the full uniform.
-- **On the train.** Robes on. Jeans and sneakers can still show underneath until he is dressed properly at the castle.
-- **Castle day.** Uniform, tie often a little crooked, scarf when it is cold.
+- **Diagon Alley, after Madam Malkin.** New black robes, still a bit long, over his own shirt and jeans, in the alley only. He does not travel in them.
+- **Hogwarts Express.** The castoffs in the section above. Not the alley robes.
+- **Castle day, from the Sorting.** Uniform, tie often a little crooked, scarf when it is cold.
 - **Night.** Oversized plain gray pajamas. Slippers.
 - **Christmas through the Mirror.** The green H jumper over those pajamas.
 - **Quidditch.** Scarlet robes with gold trim and a lion, too long, gloves too big. The Nimbus beside him. Not the school robe.
@@ -51,7 +64,7 @@ Small for eleven, messy black hair that will not lie flat, round wire glasses of
 
 ## Ron
 
-Tall and thin for his age, freckles, long nose, bright red hair. Secondhand black robes a little short at the wrist, maroon hand-knit underneath, scuffed shoes. Scabbers on him or in a pocket.
+Tall and thin for his age, freckles, long nose, bright red hair. On the Hogwarts Express: the worn maroon hand-knit with a gold R, a hand-me-down jacket and trousers, dirt on his nose, scuffed shoes. No robe and no tie. After the Sorting: secondhand black robes a little short at the wrist, the maroon hand-knit underneath. Scabbers on him or in a pocket.
 
 - **Night.** A maroon pajama top that belonged to a brother.
 - **Christmas.** The fresh maroon jumper with the gold R.
@@ -60,15 +73,15 @@ Tall and thin for his age, freckles, long nose, bright red hair. Secondhand blac
 
 ## Hermione
 
-Bushy brown hair, large front teeth, neat new black robes, red-and-gold tie perfectly knotted, books hugged to her chest. She holds a wand correctly. She does not wear a Weasley jumper. Her robes get wet in the bathroom, singed at the edges underground, and she is back to neat by the hospital. Shoes off only when the hospital scene says so.
+Bushy brown hair, large front teeth, books hugged to her chest. On the Hogwarts Express: her own Muggle traveling clothes, a white blouse, a plain brown cardigan, a gray skirt, dark shoes. No robe and no tie. After the Sorting: neat new black robes, red-and-gold tie perfectly knotted. She holds a wand correctly. She does not wear a Weasley jumper. Her robes get wet in the bathroom, singed at the edges underground, and she is back to neat by the hospital. Shoes off only when the hospital scene says so.
 
 ## Draco, Crabbe, Goyle
 
-Draco: pale, pointed face, slicked platinum-blond hair, expensive black robes with a green lining, green-and-silver tie, new shoes, chin up. Crabbe and Goyle: larger, silent, bulky black robes, always the same two builds. Draco’s hem gets muddy at the hut and in the forest. He hates that. He is clean again when he is telling on them.
+Draco: pale, pointed face, slicked platinum-blond hair, new shoes, chin up. On the Hogwarts Express: an expensive plain black coat, no green lining, no silver snake, no house tie. Crabbe and Goyle: larger, silent, bulky dark coats, no green, the same two builds. After the Sorting: Draco’s expensive black robes have a green lining and a green-and-silver tie, and Crabbe and Goyle wear bulky black robes. Draco’s hem gets muddy at the hut and in the forest. He hates that. He is clean again when he is telling on them.
 
 ## Neville
 
-Round face, sandy hair, robes slightly crooked, tie never quite right. Trevor in a pocket or in his hands. Night of the duel: a long pale nightshirt, one slipper missing. The same boy at the House Cup, spoon in hand, robes still a bit crooked.
+Round face, sandy hair. On the Hogwarts Express: rumpled traveling clothes, no robe and no tie. After the Sorting: robes slightly crooked, tie never quite right. Trevor in a pocket or in his hands. Night of the duel: a long pale nightshirt, one slipper missing. The same boy at the House Cup, spoon in hand, robes still a bit crooked.
 
 ## Hagrid
 

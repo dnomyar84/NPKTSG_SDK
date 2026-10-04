@@ -49,22 +49,22 @@ Each panel has:
 
 ## People and clothes
 
-These looks stay the same unless a panel says otherwise. If a panel is brief, use the lock in [wardrobes.md](wardrobes.md). Harry’s scar stays on his right brow. The winter jumpers are locked there too.
+These looks stay the same unless a panel says otherwise. If a panel is brief, use the lock in [wardrobes.md](wardrobes.md). Harry’s scar stays on his right brow. The winter jumpers are locked there too. House colors start at the Sorting, not on the train. On the Hogwarts Express, first years wear travel clothes.
 
 - **Baby Harry.** A small infant with a tuft of jet-black hair, wrapped in a soft green blanket. A fresh lightning-shaped cut on his forehead.
-- **Harry, age 10–11.** Small for his age, messy black hair that will not lie flat, round wire glasses often taped at the bridge, a lightning scar. Before Diagon Alley he wears Dudley’s faded castoffs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, no coat that fits. After Diagon Alley: black Hogwarts robes over a white shirt, gray V-neck sweater, red-and-gold striped tie, black trousers, black shoes. In the castle he often adds a red-and-gold scarf. At night: a plain gray pajama set, too big.
+- **Harry, age 10–11.** Small for his age, messy black hair that will not lie flat, round wire glasses often taped at the bridge, a lightning scar on his right brow. Before Diagon Alley, and on the Hogwarts Express before the Sorting, he wears Dudley’s faded castoffs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, a thin jacket that does not fit. No school robe, no house tie, no scarf, no crest on the train. In the alley, after Madam Malkin, he tries on black robes over his shirt and jeans. From the Sorting onward: black Hogwarts robes over a white shirt, gray V-neck sweater, red-and-gold striped tie, black trousers, black shoes. In the castle he often adds a red-and-gold scarf. At night: a plain gray pajama set, too big.
 - **Dumbledore.** Very tall and thin, long silver hair and beard, half-moon spectacles. Deep purple robes patterned with silver stars, a tall pointed hat, plum cloak. He carries a silver cigarette-lighter-shaped device that puts out lamps.
 - **McGonagall.** Sharp face, dark hair in a tight bun, square spectacles, emerald-green robes and a pointed hat. As a cat: a thin tabby with spectacle-like markings around the eyes.
 - **Hagrid.** Half-giant, huge shoulders, wild black hair and a tangled beard, beetle-black eyes, kind face. A long brown moleskin overcoat with many pockets, a pink umbrella strapped inside, enormous boots. He often carries a lantern.
 - **Vernon Dursley.** Big, short neck, black mustache. Brown business suit, or later a straining knit vest in the shack. His face goes purple when he is angry.
 - **Petunia Dursley.** Thin, long neck, pale, blonde hair pinned tight. A mint housedress and apron at home; a belted coat in the storm.
 - **Dudley Dursley.** Blond, round, about Harry’s age and much heavier. Striped polo, tight shorts, new sneakers. At the zoo, a bright jacket.
-- **Ron Weasley.** Tall and thin, freckles, long nose, bright red hair. Secondhand black robes a little short at the wrist, a maroon hand-knitted sweater, scuffed shoes. He carries a rat, Scabbers, and sometimes a bent wand.
-- **Hermione Granger.** Bushy brown hair, large front teeth, neat and new black robes, red-and-gold tie perfectly knotted, a stack of books hugged to her chest. She often holds a wand correctly, unlike the boys.
-- **Draco Malfoy.** Pale, pointed face, slicked platinum-blond hair. Expensive black robes with a green lining, new shoes, a superior tilt of the chin. Crabbe and Goyle are larger, silent, in bulky black robes.
+- **Ron Weasley.** Tall and thin, freckles, long nose, bright red hair. On the Express: a worn maroon hand-knit with a gold R, a hand-me-down jacket and trousers, dirt on his nose, scuffed shoes. After the Sorting: secondhand black robes a little short at the wrist, the maroon sweater underneath. He carries a rat, Scabbers, and sometimes a bent wand.
+- **Hermione Granger.** Bushy brown hair, large front teeth. On the Express: her own Muggle traveling clothes, a white blouse, a plain brown cardigan, a gray skirt, books hugged to her chest. After the Sorting: neat and new black robes, red-and-gold tie perfectly knotted. She often holds a wand correctly, unlike the boys.
+- **Draco Malfoy.** Pale, pointed face, slicked platinum-blond hair. On the Express: an expensive plain black coat, no green lining, no snake, no house tie. Crabbe and Goyle are larger, silent, in bulky dark coats with no green. After the Sorting: expensive black robes with a green lining, and the same two boys in bulky black robes.
 - **Snape.** Sallow, hooked nose, greasy shoulder-length black hair, black eyes. Buttoned black robes that billow. He rarely blinks when he looks at Harry.
 - **Quirrell.** Pale, timid, a large purple turban, layered purple robes. He stammers with his shoulders until the last chamber, where he stands straight.
-- **Neville Longbottom.** Round face, sandy hair, robes slightly crooked, a toad named Trevor in a pocket or in his hands.
+- **Neville Longbottom.** Round face, sandy hair. On the Express: rumpled traveling clothes. After the Sorting: robes slightly crooked, a toad named Trevor in a pocket or in his hands.
 - **Madam Hooch.** Yellow hawk-like eyes, short gray hair, a whistle, and a dark flying cloak.
 - **Oliver Wood.** Older student, brown hair, Gryffindor Quidditch robes, a leather guard on one arm, intense eyes.
 - **Ollivander.** Pale silvery eyes, wispy silver hair, a dark old-fashioned suit. He appears very close, very suddenly.
@@ -995,7 +995,7 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 ## Chapter 5 — The train to Hogwarts
 
-The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the line.
+The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the line. First years have not been Sorted. They wear travel clothes. House colors start at the Sorting. The train is scarlet. That scarlet is the engine, not a robe.
 
 ### Page 1 — The barrier
 
@@ -1004,7 +1004,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The Dursleys drop Harry and drive off without a wave.
 - **Image:** A car door slamming. Harry stands on the pavement with a trunk and an owl cage. The car is already moving. No one in it looks back.
 - **Setting:** King’s Cross, daytime, crowds, taxis, a pigeon. Harry’s trunk is new and heavy. Hedwig’s cage is covered with a corner of cloth.
-- **Who:** Harry in black robes under an open jacket, jeans still, sneakers, glasses, scar, both hands on the trunk trolley. Vernon driving: the same man as chapters 2 and 3, large and beefy, very little neck, big black mustache, small angry eyes, brown suit, eyes forward. Petunia in the passenger seat, thin, long neck, blonde hair pinned, face set. Dudley in the back, blond and heavy, tail not visible, eating. None of them wave.
+- **Who:** Harry in Dudley’s oversized faded hand-me-downs: a gray T-shirt too wide at the neck, jeans too long and rolled, scuffed sneakers, a thin jacket that does not fit, taped round glasses, messy black hair, scar on his right brow, both hands on the trunk trolley. No school robe. Vernon driving: the same man as chapters 2 and 3, large and beefy, very little neck, big black mustache, small angry eyes, brown suit, eyes forward. Petunia in the passenger seat, thin, long neck, blonde hair pinned, face set. Dudley in the back, blond and heavy, tail not visible, eating. None of them wave.
 - **Faces:** Harry looks after the car, not surprised, a little hollow. Vernon does not look. Petunia’s eyes flick to the mirror and away. Dudley looks at his food.
 - **Dialogue:** **Vernon:** "Platform nine and three-quarters. Load of rubbish. Out you get."
 
@@ -1013,7 +1013,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** He asks a platform officer where platform 9¾ is. He is standing between 9 and 10. There is no 9¾. This is before the Weasleys.
 - **Image:** Two platform signs, 9 and 10, and a solid brick barrier between them. Harry in the middle with the trolley, small under the station roof, turned toward a uniformed platform officer. A pigeon sits on the barrier. No red-haired family yet.
 - **Setting:** King’s Cross concourse. Announcements, commuters, a coffee stand, ordinary trains beyond. The brick barrier between platforms 9 and 10. No magic visible. No Weasleys.
-- **Who:** Harry, robes half-hidden by the jacket so he will not be stared at, glasses, trolley, trunk, Hedwig, one hand starting to rise as he asks. A platform officer in a dark station uniform and cap, mustache thinner than Vernon’s, a few steps from the barrier, about to be asked. Commuters with briefcases. The pigeon. Not Vernon. Not Molly.
+- **Who:** Harry, thin jacket over the faded castoffs, taped glasses, trolley, trunk, Hedwig, one hand starting to rise as he asks. No school robe. A platform officer in a dark station uniform and cap, mustache thinner than Vernon’s, a few steps from the barrier, about to be asked. Commuters with briefcases. The pigeon. Not Vernon. Not Molly.
 - **Faces:** Harry looks at the officer, then from sign to sign, lost, the hope from Diagon Alley thinning. The officer has not answered yet. Commuters do not look at him. The pigeon looks at the trolley.
 - **Dialogue:** **Harry:** "Excuse me. Which way is platform nine and three-quarters?"
 
@@ -1022,7 +1022,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The platform officer brushes him off. Amused, dismissive, he points Harry away. Harry is left looking at the barrier. Still before the Weasleys.
 - **Image:** The same officer laughs, one hand pointing Harry away from the brick, the other waving him along. He does not walk Harry to a train. Harry’s ears are red. Hedwig rustles under the cloth. Harry is left with the trolley in front of the solid barrier between 9 and 10.
 - **Setting:** Beside that brick barrier. A train indicator clacks. People eddy around the joke. Platforms 9 and 10. No magic. No Weasleys yet.
-- **Who:** The platform officer, dark uniform and cap, mustache thinner than Vernon’s, amused and dismissive. Not Vernon. Harry, trolley, jacket, robes, glasses, one hand still raised from the question. Hedwig’s gold eye at the cloth edge.
+- **Who:** The platform officer, dark uniform and cap, mustache thinner than Vernon’s, amused and dismissive. Not Vernon. Harry, trolley, thin jacket, faded castoffs, taped glasses, one hand still raised from the question. No school robe. Hedwig’s gold eye at the cloth edge.
 - **Faces:** The officer looks at Harry, laughing, useless, not cruel enough to be a villain. He points away. Harry looks at the barrier, embarrassed, jaw tight. He will not ask again.
 - **Dialogue:** **Guard:** "Platforms nine and ten, lad. There is no nine and three-quarters. Move along."
 
@@ -1040,7 +1040,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** She tells them to run at the barrier. They vanish.
 - **Image:** Fred and George hit the brick at a run and are gone to the waist, then gone. Percy follows, neat even while vanishing. The barrier looks solid again.
 - **Setting:** Platform barrier, commuters not noticing. Molly’s hand on Ron’s back.
-- **Who:** The twins, school robes over jeans, identical grins, mid-vanish. Percy, badge, serious. Ron hesitating, maroon sweater, rat cage on the trolley. Molly encouraging. Ginny watching, envious. Harry staring.
+- **Who:** The twins, matching travel jackets over jeans, no house colors, identical grins, mid-vanish. Percy, travel clothes, prefect badge, no house colors, serious. Ron hesitating, worn maroon hand-knit with a gold R, hand-me-down jacket, rat cage on the trolley. Molly encouraging. Ginny watching, envious. Harry staring, still in the faded castoffs.
 - **Faces:** The twins look back at Harry, delighted with themselves. Ron looks at the wall, nervous. Molly looks at Ron, patient love. Harry looks at the vanishing, mouth open.
 - **Dialogue:** **Molly:** "Fred, George, Percy, straight at the wall, and don't stop. Ron, don't dawdle."
 
@@ -1049,7 +1049,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Harry shuts his eyes and runs. The wall takes him.
 - **Image:** Harry, eyes shut, trolley charging. The brick is swallowing the front of the trunk. His hair blows forward. He is committed.
 - **Setting:** The barrier, full frame. Ordinary station behind him, a smear of red hair that is Molly nodding. Sound of the station in the background, magic in the bricks.
-- **Who:** Harry, jacket flapping over robes, glasses, both hands locked on the trolley, Hedwig’s cage rocking, trunk labeled. Molly’s hand lifted in a small go-on, out of focus.
+- **Who:** Harry, thin jacket flapping over the faded gray shirt and rolled jeans, taped glasses, both hands locked on the trolley, Hedwig’s cage rocking, trunk labeled. No school robe. Molly’s hand lifted in a small go-on, out of focus.
 - **Faces:** Eyes shut, so the feeling is in his mouth: braced, brave, a little sick. Hedwig’s eye is open, calm.
 - **Dialogue:** No dialogue.
 
@@ -1058,18 +1058,18 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 #### C5-P2-P1
 
 - **Beat:** A scarlet steam train. Owls, cats, steam.
-- **Image:** Wide. The Hogwarts Express, scarlet and huge, steam blooming. Students in robes say goodbye to parents. Cats slip under trolleys. Owls hoot.
-- **Setting:** Platform 9¾. Victorian iron roof, lanterns, the train filling the frame. Daylight through steam.
-- **Who:** Harry small with his trolley, jacket, glasses, suddenly among dozens of children who look like the reflection in the shop window. A conductor in a cap. Parents in cloaks waving. A girl with a cat. No Ron yet.
+- **Image:** Wide. The Hogwarts Express, scarlet and huge, steam blooming. The scarlet is the train. Students in mixed Muggle and wizard travel clothes say goodbye to parents. No house colors. Cats slip under trolleys. Owls hoot.
+- **Setting:** Platform 9¾. Victorian iron roof, lanterns, the train filling the frame. Daylight through steam. No house banners on the children.
+- **Who:** Harry small with his trolley, thin jacket over faded castoffs, taped glasses, scar on his right brow, among dozens of children in mixed travel clothes. A conductor in a cap. Parents in cloaks waving. A girl with a cat. No Ron yet. No school robes.
 - **Faces:** Harry looks up at the train, relief and awe. He looks for the red-haired family and finds too many redheads to be sure.
 - **Dialogue:** **Conductor:** "Hogwarts Express! All aboard for Hogwarts!"
 
 #### C5-P2-P2
 
 - **Beat:** An empty compartment. The train lurches.
-- **Image:** Harry has just sat. The train jerks. Hedwig’s cage slides. He catches it. The corridor outside is full of passing robes and trunks.
-- **Setting:** A compact train compartment. Benches, a window onto the platform sliding away, luggage rack, warm wood. Steam outside.
-- **Who:** Harry alone, robes straightened, jacket off now and folded, jeans and sneakers still on under the robes, glasses, scar. Hedwig in her cage on the seat beside him. His trunk overhead. He holds the cage steady.
+- **Image:** Harry has just sat. The train jerks. Hedwig’s cage slides. He catches it. The corridor outside is full of children in travel clothes and trunks.
+- **Setting:** A compact train compartment. Benches, a window onto the platform sliding away, luggage rack, warm wood. Steam outside. No house colors in the corridor.
+- **Who:** Harry alone, jacket off now and folded, faded gray shirt, jeans rolled, scuffed sneakers, taped glasses, scar on his right brow. No school robe. Hedwig in her cage on the seat beside him. His trunk overhead. He holds the cage steady.
 - **Faces:** He looks at the empty seat opposite, lonely but proud he managed the trolley. A small breath of a smile at Hedwig. She looks back, unruffled.
 - **Dialogue:** No dialogue.
 
@@ -1078,7 +1078,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Ron slides the door, shy, and asks if the seat is free.
 - **Image:** Ron in the doorway with a trunk that has a broken corner and a rat cage. He is taller than Harry and trying to be smaller. Dirt on his nose.
 - **Setting:** The compartment. The corridor behind Ron is busy. The train is moving. Countryside begins.
-- **Who:** Ron, bright red hair, freckles, long nose, secondhand robes a bit short, maroon sweater, scuffed shoes, rat cage in one hand, the other on the door. Scabbers, a fat gray rat, asleep. Harry on the bench, robes, glasses, Hedwig.
+- **Who:** Ron, bright red hair, freckles, long nose, worn maroon hand-knit with a gold R, hand-me-down jacket and trousers, dirt on his nose, scuffed shoes, rat cage in one hand, the other on the door. No robe and no tie. Scabbers, a fat gray rat, asleep. Harry on the bench, faded shirt and rolled jeans, taped glasses, Hedwig.
 - **Faces:** Ron looks at the empty seat, not quite at Harry, shy. Harry looks at Ron, relieved, and nods. A start of friendliness, cautious on both sides.
 - **Dialogue:** **Ron:** "Mind if I sit? Everywhere else is full of owls." **Harry:** "It's free."
 
@@ -1087,7 +1087,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Ron’s sandwiches are dry. Harry offers sweets. Ron lights up.
 - **Image:** Ron’s sandwich is a sad curl of corned beef. Harry holds out a box of bright wizard sweets from the trolley. Ron’s whole posture changes, leaning in.
 - **Setting:** The compartment table. Countryside smearing past the window. Wrappers.
-- **Who:** Ron, maroon sweater, freckles, the sad sandwich in one hand. Harry, robes, a colorful box in both hands, offering. Hedwig and Scabbers ignore each other. A witch with a trolley is just leaving, hat and apron.
+- **Who:** Ron, maroon hand-knit with a gold R, freckles, dirt on his nose, the sad sandwich in one hand. Harry, faded gray shirt, taped glasses, a colorful box in both hands, offering. No school robes. Hedwig and Scabbers ignore each other. A witch with a trolley is just leaving, hat and apron.
 - **Faces:** Ron looks at the sweets, then at Harry, delighted and a little ashamed of being delighted. Harry looks at Ron, glad to have something to give, smiling. This is the first easy smile between them.
 - **Dialogue:** **Ron:** "Mum's sandwiches. Always dry." **Harry:** "Have a Chocolate Frog. And a Bertie Bott's bean, if you're feeling brave."
 
@@ -1096,7 +1096,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Ron says his whole family has been talking about Harry. Harry does not know why.
 - **Image:** Ron talking with his hands, a sweet half in his mouth. Harry has gone still, a chocolate frog box unopened. The scar is visible where his hair parted.
 - **Setting:** The moving countryside, green and ordinary, outside. Inside, wrappers and the start of a long conversation.
-- **Who:** Ron, freckles, red hair, sweater, leaning forward. Harry, robes, glasses, hands around the unopened box. Scabbers on a wrapper.
+- **Who:** Ron, freckles, red hair, maroon hand-knit, leaning forward. Harry, faded gray shirt, taped glasses, hands around the unopened box. No school robes. Scabbers on a wrapper.
 - **Faces:** Ron looks at Harry with the shine of someone meeting a story. Harry looks back, uncomfortable, honest confusion. He does not enjoy the fame. Ron sees that and his own face sobers.
 - **Dialogue:** **Ron:** "Everyone in my family's been on about you. Harry Potter." **Harry:** "I don't know why they would."
 
@@ -1105,7 +1105,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Ron starts to explain, then stops, because it is too big.
 - **Image:** Ron’s mouth open, one hand raised, the explanation stuck. Harry waits. Between them on the table, the chocolate frog box, unopened, like the story.
 - **Setting:** The compartment. A tunnel comes, and the window goes dark, their reflections appearing.
-- **Who:** The two boys. Ron, sweater sleeves short, dirt still on his nose, sweets forgotten. Harry, neat enough robes, taped glasses from home still, scar.
+- **Who:** The two boys. Ron, hand-knit sleeves a bit short, dirt still on his nose, sweets forgotten. No robe. Harry, faded castoffs, taped glasses from home still, scar on his right brow. No school robe.
 - **Faces:** Ron looks at Harry, kind, suddenly aware that explaining a murder to the boy who survived it is not a train game. Harry looks at Ron, patient, a little afraid of the answer. Their reflections look older than they are.
 - **Dialogue:** **Ron:** "You-Know-Who killed your parents. And when he tried it on you, he... sorry. That's too big for a train."
 
@@ -1115,8 +1115,8 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 
 - **Beat:** Hermione opens the door, looking for a lost toad.
 - **Image:** The door slides. Hermione stands there with bushy hair, a book, and the urgent face of someone on a mission. Behind her, a round boy — Neville — is panicking further down the corridor.
-- **Setting:** Train corridor meeting the compartment. Daylight again after the tunnel. Robes, trunks, a prefect passing.
-- **Who:** Hermione, about eleven, bushy brown hair, large front teeth, brand-new robes, tie perfect, a book under one arm, the other hand on the door. Harry and Ron inside, sweets between them. Neville in the corridor, sandy hair, robes crooked, empty hands, toad missing.
+- **Setting:** Train corridor meeting the compartment. Daylight again after the tunnel. Travel clothes, trunks, a prefect in ordinary clothes and a badge, no house colors.
+- **Who:** Hermione, about eleven, bushy brown hair, large front teeth, white blouse, plain brown cardigan, gray skirt, dark shoes, a book under one arm, the other hand on the door. No robe and no tie. Harry and Ron inside, sweets between them, still in travel clothes. Neville in the corridor, sandy hair, rumpled traveling clothes, empty hands, toad missing. No robe.
 - **Faces:** Hermione looks past them, searching the seats, businesslike. Ron looks at her, already overwhelmed. Harry looks at her, polite. Neville looks at the floor, near tears.
 - **Dialogue:** **Hermione:** "Has anyone seen a toad? A boy called Neville has lost one."
 
@@ -1125,7 +1125,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** She sees the scar and blurts that she has read about him.
 - **Image:** Hermione’s eyes drop to Harry’s forehead. Her mission pauses. She leans in, delighted by a fact come to life. Harry leans back.
 - **Setting:** The doorway. The book under her arm is thick. Ron is a grimace in the background.
-- **Who:** Hermione, new robes, book, bushy hair haloed by the corridor lamp. Harry, scar exposed, glasses, sweet box as a shield. Ron, red hair, unimpressed.
+- **Who:** Hermione, white blouse, plain brown cardigan, gray skirt, book, bushy hair haloed by the corridor lamp. No robe and no tie. Harry, scar exposed, taped glasses, faded shirt, sweet box as a shield. Ron, red hair, maroon hand-knit, unimpressed.
 - **Faces:** Hermione looks at the scar, bright, impressed, no malice. Harry looks at the book, then at her, weary of the scar already. Ron looks at Hermione, wary.
 - **Dialogue:** **Hermione:** "You're Harry Potter. I've read about you. In Rise and Fall of the Dark Arts, and in A History of Magic."
 
@@ -1134,7 +1134,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** She corrects Ron about a spell and leaves. Ron groans.
 - **Image:** Hermione is already walking away, a finger raised with the correction, Neville in tow. Ron has both hands over his face. Harry is trying not to laugh.
 - **Setting:** The compartment, door still open, corridor moving.
-- **Who:** Hermione from behind, book, perfect tie, one finger up. Neville trotting, still toadless. Ron, maroon sweater, face in his freckled hands. Harry, a hand over his mouth.
+- **Who:** Hermione from behind, brown cardigan, gray skirt, book, one finger up. No tie. Neville trotting, still toadless, rumpled traveling clothes. Ron, maroon hand-knit, face in his freckled hands. Harry, faded shirt, a hand over his mouth.
 - **Faces:** Hermione looks ahead, satisfied she was right. Ron looks at nobody, muffled despair. Harry looks at Ron, amused and a little impressed by her.
 - **Dialogue:** **Hermione:** "It's Wingardium Leviosa, not Leviosar. And you've dirt on your nose, by the way." **Ron:** "She has got to be joking."
 
@@ -1143,7 +1143,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Draco enters. Crabbe and Goyle block the door.
 - **Image:** The doorway goes dark. Draco in front, sleek. Two much larger boys fill the frame behind him so there is no leaving.
 - **Setting:** The compartment suddenly smaller. Countryside ignored.
-- **Who:** Draco, platinum hair slicked, expensive black robes, green lining flashing, a cold smile, hands clasped behind his back. Crabbe and Goyle, heavy, short hair, bulky robes, arms folded, no expressions yet. Harry and Ron seated, sweets, rat, owl.
+- **Who:** Draco, platinum hair slicked, expensive plain black coat, no green lining, no silver snake, no house tie, a cold smile, hands clasped behind his back. Crabbe and Goyle, heavy, short hair, bulky dark coats, no green, arms folded, no expressions yet. Harry and Ron seated in travel clothes, sweets, rat, owl.
 - **Faces:** Draco looks at Harry, assessing, then at Ron’s sweater, already mocking. Crabbe and Goyle look at a point over the boys’ heads, dull. Harry looks at Draco, recognizing him from the alley. Ron looks at the blocked door.
 - **Dialogue:** **Draco:** "Potter. Is this compartment taken by Weasleys, or may a decent wizard sit?"
 
@@ -1152,16 +1152,16 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Draco insults Ron’s family and says Harry will regret his company.
 - **Image:** Draco’s finger flicks Ron’s maroon sleeve. Ron’s ears go red. Harry’s hand closes on the bench.
 - **Setting:** Tight in the compartment. Scabbers hides in Ron’s pocket. Hedwig’s eyes narrow.
-- **Who:** Draco leaning in, perfect robes, sneer, one finger on Ron’s sweater as if it stains him. Ron, secondhand robes, freckles, fists. Harry, glasses, scar, sitting forward. Crabbe and Goyle, a wall.
+- **Who:** Draco leaning in, plain black coat, no green, sneer, one finger on Ron’s sweater as if it stains him. Ron, maroon hand-knit, hand-me-down jacket, freckles, fists. No robe. Harry, faded shirt, taped glasses, scar, sitting forward. Crabbe and Goyle, dark coats, a wall.
 - **Faces:** Draco looks at Harry while insulting Ron, recruiting. Ron looks at Draco’s finger, humiliated and angry. Harry looks at Draco, the friendliness gone. Hedwig looks at Draco, unfriendly.
-- **Dialogue:** **Draco:** "Red hair, second-hand robes, and a rat called Scabbers, I shouldn't wonder. You'll regret the company you keep."
+- **Dialogue:** **Draco:** "Red hair, a second-hand jumper, and a rat called Scabbers, I shouldn't wonder. You'll regret the company you keep."
 
 #### C5-P3-P6
 
 - **Beat:** Harry says he can tell the wrong sort for himself. Draco’s smile dies.
 - **Image:** Harry standing now, shorter than Draco but square to him. Draco’s smile is half-gone, caught mid-collapse. Ron looks at Harry as if a goal has been scored.
 - **Setting:** The compartment. The corridor behind Crabbe and Goyle, who have shifted, unsure.
-- **Who:** Harry, robes, sneakers planted, glasses, scar, empty hands, chin up. Draco, platinum hair, expensive robes, the offered friendship withdrawn. Ron half-risen, red hair, grateful. The two big boys looking at Draco for orders.
+- **Who:** Harry, faded shirt, rolled jeans, sneakers planted, taped glasses, scar, empty hands, chin up. No school robe. Draco, platinum hair, plain black coat, no green, the offered friendship withdrawn. Ron half-risen, red hair, maroon hand-knit, grateful. The two big boys in dark coats, looking at Draco for orders.
 - **Faces:** Harry looks Draco in the eye, calm, final. Draco looks back, smile dead, a flicker of insulted surprise. Ron looks at Harry, loyal already.
 - **Dialogue:** **Harry:** "I think I can spot the wrong sort for myself." **Draco:** "Have it your way, Potter."
 
@@ -1172,7 +1172,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The boys trade Dursley stories and Weasley stories.
 - **Image:** They sit with their shoes up, talking. Outside, the land is darkening. Empty sweet boxes. A feeling of hours passed.
 - **Setting:** The compartment at dusk. Lamps on. Fields becoming black. Reflections on the window.
-- **Who:** Harry, jacket off, robes loosened, glasses, talking with his hands about a cupboard, not performing it. Ron, maroon sweater, listening hard, then talking about hand-me-down books and a lot of brothers. Scabbers on Ron’s knee. Hedwig dozing.
+- **Who:** Harry, jacket off, faded gray shirt, rolled jeans, taped glasses, talking with his hands about a cupboard, not performing it. No school robe. Ron, maroon hand-knit with a gold R, hand-me-down jacket off his shoulders, listening hard, then talking about hand-me-down books and a lot of brothers. Scabbers on Ron’s knee. Hedwig dozing.
 - **Faces:** They look at each other, easier now. Harry looks grateful. Ron looks indignant on Harry’s behalf about the Dursleys, which matters more than fame.
 - **Dialogue:** **Ron:** "They make you sleep in a cupboard?" **Harry:** "Under the stairs. Your mum sounds better." **Ron:** "She's loud. But she knits."
 
@@ -1188,9 +1188,9 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 #### C5-P4-P3
 
 - **Beat:** Robes on. Harry fumbles a sleeve.
-- **Image:** The train is slowing. Students in the corridor are pulling on robes and ties. Harry has his sleeve inside out. Ron, already dressed, helps without commenting.
-- **Setting:** Compartment and corridor. Lanterns outside now, among trees. Excitement in the passing faces.
-- **Who:** Harry, white shirt, gray V-neck, tie crooked, one sleeve wrong, glasses, frustrated. Ron, robes on, maroon sweater underneath, patient hands fixing the sleeve. Hermione passes in the corridor, already perfect, a toad — Trevor — in her hands, triumphant. Neville behind her, weeping with relief.
+- **Image:** The train is slowing. Students in the corridor are pulling on plain black robes. No ties, no crests, no scarves. Harry has his sleeve inside out. Ron, already in a plain black robe, helps without commenting.
+- **Setting:** Compartment and corridor. Lanterns outside now, among trees. Excitement in the passing faces. This is the only robe change on the Express.
+- **Who:** Harry, white shirt, one plain black sleeve inside out, no tie, no crest, no scarf, taped glasses, frustrated. Ron, plain black uncrested robe over the maroon hand-knit, no tie, patient hands fixing the sleeve. Hermione passes in the corridor in a plain black robe, no tie and no crest, a toad — Trevor — in her hands, triumphant. Neville behind her in a plain black robe, no tie, weeping with relief.
 - **Faces:** Harry looks at his sleeve, embarrassed. Ron looks at the sleeve, not at Harry’s embarrassment, kind. Hermione looks at the toad, pleased. Neville looks at Trevor, sobbing happily.
 - **Dialogue:** **Ron:** "Other sleeve. There. You'll pass for a wizard." **Hermione:** "Trevor! Neville, I've got your toad."
 
@@ -1199,7 +1199,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The train slows. Lanterns in the trees.
 - **Image:** Through the window, a forest platform, no station building, only lanterns and a crowd of waiting lamps. The scarlet train huge beside the trees.
 - **Setting:** Night. Hogsmeade station, or the first-year stop: wood, steam, owls, cold breath.
-- **Who:** Seen from inside: Harry and Ron’s faces close to the glass, robes, hair, glasses and freckles. Outside, dozens of students and floating lanterns. A huge figure with a lamp is not clearly Hagrid yet, just a bigger light.
+- **Who:** Seen from inside: Harry and Ron’s faces close to the glass, the plain black robes they just put on, no ties and no crests, hair, glasses and freckles. Outside, dozens of students in those same plain black robes, and floating lanterns. No house colors. A huge figure with a lamp is not clearly Hagrid yet, just a bigger light.
 - **Faces:** Harry looks out, nervous excitement. Ron looks out, grinning, he has done this in stories if not in life. Both are reflected over the forest.
 - **Dialogue:** **Harry:** "Those lights. In the trees."
 
@@ -1208,7 +1208,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** A voice calls the first years. Hagrid’s lamp is a moon.
 - **Image:** On the platform, Hagrid holds a lantern that really does look like a small moon. First years cluster. Steam. He is calling, beard wild, utterly at home.
 - **Setting:** Night platform, trees, the scarlet train, trunks being unloaded by magic in the background, older students heading somewhere else.
-- **Who:** Hagrid, moleskin coat, lantern, huge, waving. Harry and Ron stepping down, robes, Harry’s trunk, Hedwig. Hermione nearby with books and Trevor’s owner Neville. Draco sleek, already bored, Crabbe and Goyle with his trunk.
+- **Who:** Hagrid, moleskin coat, lantern, huge, waving. Harry and Ron stepping down in plain black robes, no ties and no crests, Harry’s trunk, Hedwig. Hermione nearby with books, plain black robe, no tie, and Trevor’s owner Neville in the same plain robe. Draco in a plain black robe, no green lining and no snake, already bored. Crabbe and Goyle with his trunk, plain black robes, no green.
 - **Faces:** Hagrid looks over the children, counting, and his face opens when he sees Harry. Harry looks up at him, the hollow from King’s Cross gone. Ron looks at Hagrid, impressed. Draco looks at the dark, disdainful.
 - **Dialogue:** **Hagrid:** "First years! First years over here! Come on, now."
 
@@ -1217,7 +1217,7 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** Harry steps off. Hagrid grins down at him.
 - **Image:** Page-turn. Low angle. Hagrid’s grin fills the top of the panel, lantern beside his cheek. Harry at the bottom, looking up, small and arrived. Steam wraps them.
 - **Setting:** The platform at night. The train is a red wall. Trees. Other first years are soft shapes. The next thing is the lake, not shown yet.
-- **Who:** Hagrid, coat, beard, lantern in one hand, the other hand hovering as if he might ruffle Harry’s hair and decides not to. Harry, school robes finally worn properly, tie almost straight, glasses, scar, Hedwig’s cage at his feet.
+- **Who:** Hagrid, coat, beard, lantern in one hand, the other hand hovering as if he might ruffle Harry’s hair and decides not to. Harry, the plain black robe from the compartment, no tie, no crest, no scarf, taped glasses, scar on his right brow, Hedwig’s cage at his feet.
 - **Faces:** Hagrid looks at Harry, proud, a little emotional, grinning. Harry looks at Hagrid, safe. He is not smiling big. He is smiling true.
 - **Dialogue:** **Hagrid:** "All right, Harry? Welcome to Hogwarts."
 ---
