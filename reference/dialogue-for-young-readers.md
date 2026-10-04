@@ -1,5 +1,8 @@
 # Lines they heard, and who said them
 
+Balloons may stay restricted. A heard line can keep its subtext, a withheld name, or a metaphor. Where this guide says to spell a line out, or offers easier wording, that plain sentence is for the picture brief: what is happening, what the person feels, and what the face and body show. It is not a new line to force into the character's mouth. The child gets the point from the picture and the caption.
+
+
 This is a speaker guide for the lines in the uploaded hearing of the film, in the order they were heard. Blank names are left blank on purpose, so they can be filled in by hand.
 
 A new scene starts when the place changes, or when a long quiet gap is a cut to somewhere else. A short pause in the same place stays in one scene. The place is named only when it is clear.
