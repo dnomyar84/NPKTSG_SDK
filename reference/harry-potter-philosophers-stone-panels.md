@@ -206,7 +206,7 @@ The street dies, the wrong family is judged, the night Voldemort fell is told, a
 - **Beat:** A flash of the ruined cottage and a green light.
 - **Image:** A narrow inset memory, jagged edges, not the present street. A small stone cottage with the roof blown open. A spear of green light in a doorway. Two still shapes on the floor, not gory, just fallen. A crib beyond them.
 - **Setting:** Godric’s Hollow cottage at night, shown as a memory, colder and greener than Privet Drive. Broken glass. A toy on the step.
-- **Who:** No living faces clearly. James is a dark-haired man face-down, glasses knocked aside. Lily is a woman with long red hair collapsed by the crib, one arm still reaching. Baby Harry is only a small shape in the blankets. Voldemort is not shown, only the green light.
+- **Who:** No living faces clearly. James is face-down, the same man as the Mirror: late twenties, messy black hair, round glasses knocked aside, the same simple dark jacket, no beard. Lily is collapsed by the crib, the same woman: long straight dark-red hair, green eyes if any show, the same soft pale-green dress, one arm still reaching. They are fallen, not standing, and they do not swap into new clothes. Baby Harry is only a small shape in the blankets. Voldemort is not shown, only the green light.
 - **Faces:** None readable. The reaching hand is the emotion.
 - **Dialogue:** No dialogue.
 
@@ -370,17 +370,17 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 
 - **Beat:** Dudley bangs on the snake’s glass.
 - **Image:** Dudley’s palms and the toy-sticky fingerprints on thick glass. Behind the glass, a large snake coiled, unimpressed. Harry stands a step behind, small.
-- **Setting:** The reptile house. Greenish light, other tanks receding into dark, a sign, echoing tile, a few bored visitors. Humid air suggested by fogged glass.
-- **Who:** Dudley in a bright puffy jacket, striped shirt, both hands hammering the glass, face squashed close. Harry behind him in a donated windcheater too big, jeans, taped glasses, hands in pockets. The snake, thick-bodied, patterned, tongue flicking, inside the tank. Vernon and Petunia are soft shapes further down the hall, watching Dudley, not the animals.
+- **Setting:** The reptile house. Greenish light, other tanks receding into dark, a sign, echoing tile, a few bored visitors. Humid air suggested by fogged glass. One enclosure, one snake, the same animal in every zoo panel.
+- **Who:** Dudley in a bright puffy jacket, striped shirt, both hands hammering the glass, face squashed close. Harry behind him in a donated windcheater too big, jeans, taped glasses, hands in pockets. The snake is the zoo snake: one large green-brown boa with darker saddle blotches, thick-bodied, longer than a child is tall, coiled so it fills the enclosure floor, the same broad boa head, the same pale gold eye, tongue flicking. Not a cobra and not a smaller snake. Vernon and Petunia are soft shapes further down the hall, watching Dudley, not the animals. Vernon is the early-chapter man: large, beefy, very little neck, big black mustache, brown coat.
 - **Faces:** Dudley looks at the snake, impatient, wanting it to do a trick. The snake looks past him. Harry looks at the snake, curious and gentle.
 - **Dialogue:** **Dudley:** "Make it move! It's a boring snake!"
 
 #### C2-P2-P2
 
 - **Beat:** The snake ignores Dudley and looks at Harry.
-- **Image:** Through the glass, the snake’s eye large and gold, aimed past Dudley’s ear toward Harry. Dudley is a blur at the edge.
-- **Setting:** Inside the tank: rock, branch, heat-lamp glow, shed skin in the corner. The visitor side is dim.
-- **Who:** The snake, head raised. Dudley’s ear and yelling mouth out of focus. Harry sharp in the background of the reflection, windcheater, glasses, scar just visible under his hair.
+- **Image:** Through the glass, the same snake’s eye, large and pale gold, aimed past Dudley’s ear toward Harry. Dudley is a blur at the edge. The head is the same broad boa head as the panel before, not a new species in close-up.
+- **Setting:** Inside the tank: rock, branch, heat-lamp glow, shed skin in the corner. The visitor side is dim. The body filling the floor is still the green-brown boa with darker saddles.
+- **Who:** The zoo snake, head raised, same size relative to the glass as in the wide panel, same pale gold eye, same saddle pattern. Dudley’s ear and yelling mouth out of focus. Harry sharp in the background of the reflection, windcheater, glasses, scar just visible under his hair.
 - **Faces:** The snake looks only at Harry, calm, attentive. Dudley looks at the glass, frustrated, not understanding he has been dismissed. Harry looks back, startled and pleased.
 - **Dialogue:** No dialogue.
 
@@ -388,8 +388,8 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 
 - **Beat:** Harry speaks to the snake, and it answers by moving.
 - **Image:** Harry close to the glass, mouth slightly open, one hand spread on the pane. The snake has slid nearer, tongue almost touching the spot opposite his fingers.
-- **Setting:** The same tank. Other visitors have drifted off. A bench. The sign is unreadable on purpose. Green light on Harry’s face.
-- **Who:** Harry, windcheater unzipped, gray shirt, taped glasses, hair messy from the day. Palm on the glass. He holds nothing else. The snake coiled up to meet him. Dudley is gone from this panel, off to complain.
+- **Setting:** The same tank. Other visitors have drifted off. A bench. The sign is unreadable on purpose. Green light on Harry’s face. The enclosure is still the one that this snake fills.
+- **Who:** Harry, windcheater unzipped, gray shirt, taped glasses, hair messy from the day. Palm on the glass. He holds nothing else. The same zoo snake, green-brown with darker saddles, coiled up to meet him, head the same shape, pale gold eye, body still longer than he is tall. Not a pet-shop snake. Dudley is gone from this panel, off to complain.
 - **Faces:** Harry looks into the snake’s eye, earnest, as if talking to someone who has also been stuck in a small room. The snake looks back, steady. No fear on either side.
 - **Dialogue:** **Harry:** "Sorry about him. You get tired of being stuck behind glass, don't you."
 
@@ -397,17 +397,17 @@ Years later. The cupboard, the zoo, the letters, and the flight to the hut.
 
 - **Beat:** Dudley shoves Harry aside. The glass is gone.
 - **Image:** Dudley’s shoulder hits Harry. Harry stumbles. The glass that was just there is missing, a clean absence, the snake’s side of the world suddenly open to the hall.
-- **Setting:** Reptile house tile, the tank rim, Dudley’s fingerprints still hanging in the air where the glass was, a visual trick of smears with no pane. Alarmed visitors start to turn.
-- **Who:** Dudley in the bright jacket, both hands grabbing for the spot Harry stood, leaning in. Harry falling sideways, one hand still out. The snake beginning to pour over the rim. Vernon in the deep background, mustache, starting to notice, brown coat.
+- **Setting:** Reptile house tile, the tank rim, Dudley’s fingerprints still hanging in the air where the glass was, a visual trick of smears with no pane. Alarmed visitors start to turn. The enclosure floor is the one the same boa was filling.
+- **Who:** Dudley in the bright jacket, both hands grabbing for the spot Harry stood, leaning in. Harry falling sideways, one hand still out. The same zoo snake beginning to pour over the rim: green-brown, darker saddles, thick body, the same head, the same pale gold eye, still longer than Dudley is tall. Not a sudden giant and not a thin snake. Vernon in the deep background, the early-chapter man, big black mustache, very little neck, brown coat, starting to notice.
 - **Faces:** Dudley looks where the snake should be performing, confused. Harry looks at the empty frame, shocked. The snake looks at the open hall, suddenly awake.
 - **Dialogue:** **Dudley:** "Mum! The glass has gone!"
 
 #### C2-P2-P5
 
 - **Beat:** Dudley falls in. The snake slides past Harry.
-- **Image:** Dudley topples into the tank, legs up, bright jacket bunched. The snake flows across the tile past Harry’s sneakers, unhurried, toward a side door of daylight.
-- **Setting:** The reptile house in chaos. A keeper distant, visitors backing up. The open tank is a pit of rock and branch. Daylight leaks from an exit sign.
-- **Who:** Dudley upside down in the tank, face red, hands grabbing rock. Harry standing very still at the rim, windcheater, glasses crooked, both hands slightly raised, not grabbing the snake. The snake long and shining, passing his shoes. Petunia in the background, hands on her cheeks, mint coat.
+- **Image:** Dudley topples into the tank, legs up, bright jacket bunched. The same snake flows across the tile past Harry’s sneakers, unhurried, toward a side door of daylight. Its body is still the thick green-brown boa, not a new shining serpent.
+- **Setting:** The reptile house in chaos. A keeper distant, visitors backing up. The open tank is a pit of rock and branch, the same enclosure. Daylight leaks from an exit sign.
+- **Who:** Dudley upside down in the tank, face red, hands grabbing rock. Harry standing very still at the rim, windcheater, glasses crooked, both hands slightly raised, not grabbing the snake. The zoo snake, same individual, green-brown with darker saddles, same head, same pale gold eye, thick body longer than the child in the tank, passing his shoes. Petunia in the background, hands on her cheeks, mint coat.
 - **Faces:** Dudley looks up at Harry, furious and scared. Harry looks down at the snake, almost kind, a goodbye. The snake does not look back. Petunia looks at Dudley, horrified.
 - **Dialogue:** **Dudley:** "Get me out! Harry did it!"
 
@@ -966,20 +966,20 @@ The hidden street, the bank, the supplies, the wand, and Draco.
 
 #### C4-P4-P4
 
-- **Beat:** One wand rests in his hand. Warm light fills the shop.
-- **Image:** Harry and the wand are the light source. Gold-white glow from his fist, boxes settling, dust turned into sparks. His hair lifts gently, not in panic this time.
-- **Setting:** The narrow shop, now beautiful. The lamp is dull beside the wand-light.
-- **Who:** Harry, robes, glasses shining, the holly-and-phoenix wand comfortable in his fingers. He holds it like he has always known where it goes. Ollivander stands back, hands folded.
-- **Faces:** Harry looks at the wand, wonder, a small smile. Ollivander looks at the pair of them, satisfied and troubled.
+- **Beat:** One wand rests in his hand. Warm light fills the shop. This is the wand that stays, after the failed ones.
+- **Image:** The successful wand is the light. A warm gold-white glow comes from the holly wand in Harry’s hand, not from anyone’s eyes. Boxes settle. Dust turns into sparks. His hair lifts gently, not in panic this time.
+- **Setting:** The narrow shop, now beautiful. The lamp is dull beside the wand-light. Thousands of thin boxes, one ladder, dust. The same shop as the failed wands.
+- **Who:** Harry, robes, glasses, the holly-and-phoenix wand comfortable in his fingers, about as long as his forearm, warm brown, no jewels. Ollivander stands back: pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. Hands folded. Same man as the panel where he was too close.
+- **Faces:** Harry looks at the wand, wonder, a small smile. Ollivander’s eyes are on Harry and on the wand, satisfied and troubled. His eyes do not glow. The light is the wand’s.
 - **Dialogue:** **Ollivander:** "Ah. Holly and phoenix feather. Eleven inches. Curious indeed."
 
 #### C4-P4-P5
 
-- **Beat:** This wand and the one that hurt him share a phoenix feather.
-- **Image:** Ollivander close again, but Harry does not shrink. The wand lies across both their hands. The glow has faded to a thread.
-- **Setting:** Quiet shop. A feather motif is not drawn on the box; the feeling is in their faces.
-- **Who:** Ollivander, dark suit, pale eyes, the wand box in his other hand. Harry, robes, scar, the new wand across his palm.
-- **Faces:** Ollivander looks at Harry, curious and grave. Harry looks at the wand, then at Ollivander, the smile gone. He understands he is tied to the person who gave him the scar.
+- **Beat:** He explains that the wand chooses the wizard. This wand and the one that hurt him share a phoenix feather.
+- **Image:** Ollivander close again, but Harry does not shrink. The wand lies across both their hands. A thin thread of the same gold-white light is still coming from the wand, not from Ollivander’s eyes. He is saying the wand does the choosing while that light is the effect.
+- **Setting:** Quiet shop, the same narrow room, boxes, one lamp. A feather motif is not drawn on the box. The feeling is in their faces and in the wand-light.
+- **Who:** Ollivander, the same man: pale silvery eyes, wispy silver hair, dark old-fashioned suit, not robes. The wand box is in his other hand. Harry, robes, scar, glasses, the new holly wand across his palm.
+- **Faces:** Ollivander’s eyes are on Harry or on the wand, curious and grave. Not on a shelf, and not glowing. Harry looks at the wand, then at Ollivander, the smile gone. He understands he is tied to the person who gave him the scar.
 - **Dialogue:** **Ollivander:** "The phoenix gave one other feather, Mr Potter. It sits in the wand that scarred you. You do not choose the wand. The wand does the choosing."
 
 #### C4-P4-P6
@@ -1004,26 +1004,26 @@ The barrier, Ron, Hermione, Draco again, and Hagrid’s lamp at the end of the l
 - **Beat:** The Dursleys drop Harry and drive off without a wave.
 - **Image:** A car door slamming. Harry stands on the pavement with a trunk and an owl cage. The car is already moving. No one in it looks back.
 - **Setting:** King’s Cross, daytime, crowds, taxis, a pigeon. Harry’s trunk is new and heavy. Hedwig’s cage is covered with a corner of cloth.
-- **Who:** Harry in black robes under an open jacket, jeans still, sneakers, glasses, scar, both hands on the trunk trolley. Vernon driving, mustache, eyes forward. Petunia in the passenger seat, face set. Dudley in the back, tail not visible, eating. None of them wave.
+- **Who:** Harry in black robes under an open jacket, jeans still, sneakers, glasses, scar, both hands on the trunk trolley. Vernon driving: the same man as chapters 2 and 3, large and beefy, very little neck, big black mustache, small angry eyes, brown suit, eyes forward. Petunia in the passenger seat, thin, long neck, blonde hair pinned, face set. Dudley in the back, blond and heavy, tail not visible, eating. None of them wave.
 - **Faces:** Harry looks after the car, not surprised, a little hollow. Vernon does not look. Petunia’s eyes flick to the mirror and away. Dudley looks at his food.
 - **Dialogue:** **Vernon:** "Platform nine and three-quarters. Load of rubbish. Out you get."
 
 #### C5-P1-P2
 
-- **Beat:** He stands between platforms 9 and 10. There is no 9¾.
-- **Image:** Two platform signs, 9 and 10, and a solid brick barrier between them. Harry in the middle with the trolley, small under the station roof. A pigeon sits on the barrier.
-- **Setting:** King’s Cross concourse. Announcements, commuters, a coffee stand, ordinary trains beyond. No magic visible.
-- **Who:** Harry, robes half-hidden by the jacket so he will not be stared at, glasses, trolley, trunk, Hedwig. Commuters with briefcases flowing around him. The pigeon.
-- **Faces:** Harry looks from sign to sign, lost, the hope from Diagon Alley thinning. Commuters do not look at him. The pigeon looks at the trolley.
+- **Beat:** He asks a platform officer where platform 9¾ is. He is standing between 9 and 10. There is no 9¾. This is before the Weasleys.
+- **Image:** Two platform signs, 9 and 10, and a solid brick barrier between them. Harry in the middle with the trolley, small under the station roof, turned toward a uniformed platform officer. A pigeon sits on the barrier. No red-haired family yet.
+- **Setting:** King’s Cross concourse. Announcements, commuters, a coffee stand, ordinary trains beyond. The brick barrier between platforms 9 and 10. No magic visible. No Weasleys.
+- **Who:** Harry, robes half-hidden by the jacket so he will not be stared at, glasses, trolley, trunk, Hedwig, one hand starting to rise as he asks. A platform officer in a dark station uniform and cap, mustache thinner than Vernon’s, a few steps from the barrier, about to be asked. Commuters with briefcases. The pigeon. Not Vernon. Not Molly.
+- **Faces:** Harry looks at the officer, then from sign to sign, lost, the hope from Diagon Alley thinning. The officer has not answered yet. Commuters do not look at him. The pigeon looks at the trolley.
 - **Dialogue:** **Harry:** "Excuse me. Which way is platform nine and three-quarters?"
 
 #### C5-P1-P3
 
-- **Beat:** A guard laughs at the question.
-- **Image:** A station guard laughs, one hand on his belt, the other waving Harry off. Harry’s ears are red. Hedwig rustles under the cloth.
-- **Setting:** Beside the barrier. A train indicator clacks. People eddy around the joke.
-- **Who:** The guard, uniform, mustache thinner than Vernon’s, amused. Harry, trolley, jacket, robes, glasses, one hand raised mid-question. Hedwig’s gold eye at the cloth edge.
-- **Faces:** The guard looks at Harry, laughing, not cruel enough to be a villain, just useless. Harry looks at the barrier, embarrassed, jaw tight. He will not ask again.
+- **Beat:** The platform officer brushes him off. Amused, dismissive, he points Harry away. Harry is left looking at the barrier. Still before the Weasleys.
+- **Image:** The same officer laughs, one hand pointing Harry away from the brick, the other waving him along. He does not walk Harry to a train. Harry’s ears are red. Hedwig rustles under the cloth. Harry is left with the trolley in front of the solid barrier between 9 and 10.
+- **Setting:** Beside that brick barrier. A train indicator clacks. People eddy around the joke. Platforms 9 and 10. No magic. No Weasleys yet.
+- **Who:** The platform officer, dark uniform and cap, mustache thinner than Vernon’s, amused and dismissive. Not Vernon. Harry, trolley, jacket, robes, glasses, one hand still raised from the question. Hedwig’s gold eye at the cloth edge.
+- **Faces:** The officer looks at Harry, laughing, useless, not cruel enough to be a villain. He points away. Harry looks at the barrier, embarrassed, jaw tight. He will not ask again.
 - **Dialogue:** **Guard:** "Platforms nine and ten, lad. There is no nine and three-quarters. Move along."
 
 #### C5-P1-P4
@@ -1301,6 +1301,8 @@ Boats, the hall, the Hat’s rules, the names, and Harry’s choice.
 - **Who:** Nearly Headless Nick, transparent, elegant, head a bit wobbly, a smile. Neville, robes, sandy hair, hands up. Hermione steadying her books. Harry and Ron flanking, startled. Students at the table amused.
 - **Faces:** Nick looks at Neville, apologetic and pleased to be noticed. Neville looks at the ghost, yelping, eyes round. Harry looks at Nick, delighted fear. Ron looks at Harry, whispering a grin.
 - **Dialogue:** **Nearly Headless Nick:** "Pardon me. New students. How charming." **Neville:** "It went through the table!"
+
+Required insert, not a numbered panel. Do not renumber. Before any name is called, Dumbledore welcomes the first years and indicates the four houses. Full prompt in [address-and-famous-beats.md](address-and-famous-beats.md). McGonagall’s speech in the next panel is not that welcome. “Potter, Harry” is not that welcome. The third-floor warning stays later, in C6-P4-P5.
 
 #### C6-P2-P3
 
@@ -2904,38 +2906,38 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 
 #### C13-P2-P2
 
-- **Beat:** He lifts the cloth. His hand is gone.
-- **Image:** The cloak spills out, fluid, silver-gray, more water than wool. Harry’s hand goes under it and the hand ends at the wrist. Ron’s eyes are huge. The fire shows through where a hand should be.
-- **Setting:** Close on their knees and the cloth. Firelight. No one else.
-- **Who:** Harry, sweater, the cloak in his lap, one hand vanished. Ron, both hands hovering, not touching yet, red hair, freckles. The note on the floor, his father’s name a quiet weight.
-- **Faces:** Harry looks at the missing hand, wonder and a lump in the throat. He looks like a boy meeting his father through an object. Ron looks at the emptiness, delighted and hushed. He looks at Harry’s face and does not cheer loudly.
+- **Beat:** He lifts the cloth. His hand reads as gone. The rest of him does not.
+- **Image:** The cloak spills out, fluid, silver-gray, more water than wool, a sheer silver-gray shimmer at the edge. Harry’s hand goes under it. Ron thinks the hand has gone, and the fire shows through the cloth, but the hand is still a faint figure: 90% transparent, only about 10% opacity, faint but clearly Harry’s hand, fingers still readable. Not a deleted wrist. Ron’s eyes are huge.
+- **Setting:** Close on their knees and the cloth. Firelight. No one else. The common room does not change.
+- **Who:** Harry, green H jumper, the cloak in his lap. The covered hand is a faint 10%-opacity hand, not an empty cuff. His face, hair, glasses, and scar stay solid and clear because they are not under the cloth yet. Ron, both hands hovering, not touching yet, red hair, freckles. The note on the floor.
+- **Faces:** Harry looks at the faint hand, wonder and a lump in the throat. He looks like a boy meeting his father through an object. Ron looks at the shimmer, delighted and hushed, and he can still see a ghost of the fingers. He looks at Harry’s face and does not cheer loudly.
 - **Dialogue:** **Ron:** "Your hand. Harry, your hand has gone."
 
 #### C13-P2-P3
 
-- **Beat:** Night. Only his shoes show under the hem.
-- **Image:** A corridor at night. A pair of Harry’s sneakers walks by themselves. The hem of the cloak brushes the floor, a faint shimmer if you know to look. Moonlight does not quite catch him.
+- **Beat:** Night. His shoes show under the hem. The rest of him is a faint figure, not deleted.
+- **Image:** A corridor at night. Harry’s sneakers are the solid part under the hem. Above them, Harry is 90% transparent, only about 10% opacity: a faint but clearly Harry shape, face, messy hair, scar side, glasses, green H jumper and gray pajamas still distinguishable. The cloak edge is a sheer silver-gray shimmer. Readers must see him. Not a pair of shoes with nobody above them.
 - **Setting:** A sleeping corridor. Suits of armor. A window of snow. Torches low. Christmas night, the castle hollow.
-- **Who:** Harry invisible except shoes and a slight distortion, wearing the cloak over pajamas and the green sweater, glasses unseen, the cloak’s note in a pocket. No Ron in this panel; he is lookout or asleep. Harry wanted the first walk alone.
-- **Faces:** No face. The loneliness and the freedom are in the unaccompanied shoes. A portrait’s eyes follow the shoes, puzzled, looking at a person she cannot see.
+- **Who:** Harry under the cloak, faint 10%-opacity figure, shoes solid, green jumper and pajamas readable through the cloth, glasses and scar side still findable. No Ron in this panel; he is lookout or asleep. Harry wanted the first walk alone.
+- **Faces:** The face is faint and still Harry’s: cautious, free, a little lonely. A portrait’s eyes follow him. She can almost see a boy, and she is puzzled, not looking at empty air.
 - **Dialogue:** No dialogue.
 
 #### C13-P2-P4
 
 - **Beat:** He slips past Filch. Filch sniffs and walks on.
-- **Image:** Filch and Mrs. Norris stand in a pool of lamp light. The empty-but-not shoes pass behind them, close enough to touch the cat’s tail. The cat’s head turns. Filch sniffs the air, suspicious, and shrugs on down the hall. The shoes are already gone.
+- **Image:** Filch and Mrs. Norris stand in a pool of lamp light. Harry passes behind them, close enough to touch the cat’s tail. His shoes are solid. The rest of him is 90% transparent, only about 10% opacity, a faint but clearly Harry figure in the green jumper, face and scar side still readable, cloak edge a sheer silver-gray shimmer. The cat’s head turns. Filch sniffs, suspicious, and walks on. He does not see the boy the reader can see.
 - **Setting:** A night corridor, Filch’s lamp, Mrs. Norris’s eye-shine. Christmas stillness.
-- **Who:** Filch, shabby coat, lamp, keys, stringy hair, nose lifted. Mrs. Norris, tail twitching, looking at the place Harry was. Harry, only a disturbance of dust and the shoes just leaving frame.
-- **Faces:** Filch looks at the dark, suspicious, then dismisses it, sour. Mrs. Norris looks at the cloak’s trail, she knows, eyes thin. Harry is faceless, but the panel feels like held breath.
+- **Who:** Filch, shabby coat, lamp, keys, stringy hair, nose lifted. Mrs. Norris, tail twitching, looking at the faint figure. Harry, shoes solid, the rest a 10%-opacity boy just leaving the lamp, not a dust puff and not an empty pair of shoes.
+- **Faces:** Filch looks at the dark, suspicious, then dismisses it, sour. He does not focus on the faint face. Mrs. Norris looks at Harry and knows. Harry’s faint face is held breath, eyes on Filch’s back.
 - **Dialogue:** **Filch:** "I smell students. Mrs Norris, find them."
 
 #### C13-P2-P5
 
 - **Beat:** A door he has never seen.
-- **Image:** The shoes stop. A door stands where a wall was, or a door he passed all term and never opened. It is tall, unused, a little silver in the carving. His invisible hand — we see the door handle depress by itself.
-- **Setting:** A forgotten bit of castle, dust, a tapestry of a wizard chess game, moonlight, no torches. Far from the common room.
-- **Who:** No visible body. The handle moving. The cloak’s hem. The door.
-- **Faces:** None. Suspense. The door looks like it has been waiting.
+- **Image:** The shoes stop. A door stands where a wall was, or a door he passed all term and never opened. It is tall, unused, a little silver in the carving. His hand depresses the handle. The hand is faint, 90% transparent, only about 10% opacity, still clearly Harry’s hand, and the rest of him is the same faint figure beside the door. Not a handle moving in an empty frame.
+- **Setting:** A forgotten bit of castle, dust, a tapestry of a wizard chess game, moonlight, no torches. Far from the common room. Sheer silver-gray cloak edge.
+- **Who:** Harry, faint but readable: face, messy hair, scar side, glasses, green jumper, gray pajamas, solid shoes. The cloak over him. The door.
+- **Faces:** His faint face looks at the door, cautious, hoping. The door looks like it has been waiting. A reader can see who is opening it.
 - **Dialogue:** No dialogue.
 
 #### C13-P2-P6
@@ -2963,17 +2965,17 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Beat:** Then figures appear behind the reflection.
 - **Image:** Over the reflection’s shoulders, the glass clouds and clears into people. They are not in the room. They are only in the mirror. Harry’s real shoulders, in front of the glass, have no one behind them. The panel shows both truths: empty room, crowded glass.
 - **Setting:** The mirror and the moonlit room, split by the glass.
-- **Who:** Real Harry, alone, sweater, cloak lowered to his side now. In the mirror: Harry, and behind him a woman with long dark-red hair and kind eyes, a man with messy black hair and round glasses, and more faces fading back, a family crowd, smiling, waving.
-- **Faces:** Real Harry looks at the glass, frozen. Mirror-Harry looks astonished. The woman looks at him with love. The man looks at him with pride and a sadness that is gentle. They look at Harry, not at each other.
+- **Who:** Real Harry, alone in the room, green H jumper, cloak lowered, back mostly toward us, centered, looking into the glass. In the glass, the same arrangement every Mirror panel: Lily on the viewer’s left of his reflection, long straight dark-red hair, green eyes, the same soft pale-green dress. James on the viewer’s right, late twenties, messy black hair, round glasses, no beard, no scar, the same simple dark jacket over a light shirt. They stand close behind him, hands near his shoulders, James a little taller. Softer unnamed faces may fade behind those two. They do not swap sides.
+- **Faces:** Real Harry looks at the glass, frozen. Mirror-Harry looks astonished. Lily, on the viewer’s left, looks at him with love. James, on the viewer’s right, looks at him with pride and a gentle sadness. They look at Harry, not at each other.
 - **Dialogue:** **Harry:** "Mum? Dad?"
 
 #### C13-P3-P3
 
 - **Beat:** A woman with kind eyes. A man with glasses like his.
-- **Image:** Close inside the mirror. Lily’s face, kind, hair the color of Ron’s but darker, a soft smile, her hand lifting. James beside her, glasses like Harry’s, untidy hair, a crooked grin that Harry has never seen on his own face and suddenly recognizes. They are young. They are gone. They are here.
-- **Setting:** Only the glass. A warm light that does not match the moon. No room.
-- **Who:** Lily, simple robes or a dress, no costume fuss, kind eyes, one hand raised in a wave. James, glasses, messy black hair, a hand on mirror-Harry’s shoulder that the real Harry cannot feel. Mirror-Harry between them, small, green sweater.
-- **Faces:** Lily looks at Harry, tender, knowing him. James looks at Harry, grinning, proud, the grin a little broken by how much he wants to be on the other side of the glass. Harry, in the mirror, looks from one to the other, starving.
+- **Image:** Close inside the mirror. Same sides as every other panel. Lily, on the viewer’s left, long straight dark-red hair, green eyes, the same pale-green dress, a soft smile, her hand lifting. James, on the viewer’s right, round glasses, messy black hair, no beard, the same dark jacket, a warm grin Harry has never seen on his own face. They do not trade places in the close-up.
+- **Setting:** Only the glass. A warm light that does not match the moon. No room. Harry’s reflection is still center, shorter than both.
+- **Who:** Lily on the viewer’s left, pale-green dress, one hand raised. James on the viewer’s right, dark jacket over a light shirt, a hand on mirror-Harry’s shoulder that the real Harry cannot feel. Mirror-Harry between them, small, green sweater, back mostly toward us. No robes. No swapped sides.
+- **Faces:** Lily looks at Harry, tender, knowing him. James looks at Harry, grinning, proud, the grin a little broken by the glass. Harry looks from the woman on the viewer’s left to the man on the viewer’s right, starving.
 - **Dialogue:** No dialogue.
 
 #### C13-P3-P4
@@ -2990,8 +2992,8 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Beat:** He turns back. They wave. His hand on the glass.
 - **Image:** He is pressed to the mirror. Both palms flat. His forehead nearly touches it, scar against the cool surface. Inside, his parents press their hands to the same place. They do not quite meet. The glass is a fact.
 - **Setting:** The mirror, moonlight, his breath fogging the lower corner and fading.
-- **Who:** Harry, sweater, pajamas, hands spread on the glass, glasses, tears he is not wiping. Lily and James in the mirror, hands opposite his, smiling, waving when he meets their eyes. The family crowd soft behind them.
-- **Faces:** Harry looks at his mother, then his father, greedy and gentle, crying without sound. Lily looks at him, loving, she cannot come through. James looks at him, the grin softened to something that hurts. They look only at him.
+- **Who:** Harry, green sweater, pajamas, hands spread on the glass, glasses, tears he is not wiping, back mostly toward us, centered. In the glass, Lily is still on the viewer’s left, pale-green dress, long straight dark-red hair, green eyes, her hand opposite his. James is still on the viewer’s right, dark jacket, messy black hair, round glasses, no beard, his hand opposite the other palm. Same height, close behind his reflection. The family crowd stays soft behind them. They have not swapped.
+- **Faces:** Harry looks at his mother on the viewer’s left, then his father on the viewer’s right, greedy and gentle, crying without sound. Lily looks at him, loving, she cannot come through. James looks at him, the grin softened to something that hurts. They look only at him.
 - **Dialogue:** **Harry:** "Stay. Please stay."
 
 #### C13-P3-P6
@@ -2999,8 +3001,8 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 - **Beat:** He sits on the floor until the fire dies. There is no fire. He sits until the moon moves.
 - **Image:** Time passes in one picture: the moon has traveled in the window. Harry sits on the dusty floor, knees up, still facing the glass, the cloak around his shoulders now. His parents are still there whenever he looks. He looks thin and willing to stay forever.
 - **Setting:** The chamber, colder, moon moved, dust, the sheet forgotten. Night deep.
-- **Who:** Harry, cloak over the green sweater, pajamas, slippers, glasses, sitting. The mirror family still waving, patient, which is part of the danger. No one comes to get him. Yet.
-- **Faces:** Harry looks at them, exhausted, happy, lost. A smile that is not healthy. Lily looks at him, and if a mirror could worry, her eyes would. He does not see the worry. He sees only that she is there.
+- **Who:** Harry, solid and fully visible, the cloak only around his shoulders, not hiding him, green sweater, pajamas, slippers, glasses, sitting center, back mostly toward us. In the glass the same pair, still not swapped: Lily on the viewer’s left in the pale-green dress, James on the viewer’s right in the dark jacket, hands near the reflection’s shoulders, waving, patient, which is part of the danger. No one comes to get him. Yet.
+- **Faces:** Harry looks at them, exhausted, happy, lost. A smile that is not healthy. Lily, viewer’s left, looks at him, and if a mirror could worry, her green eyes would. He does not see the worry. He sees only that she is there. James, viewer’s right, stays the same warm unshaven face.
 - **Dialogue:** No dialogue.
 
 ### Page 4 — The warning
@@ -3008,19 +3010,19 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 #### C13-P4-P1
 
 - **Beat:** Another night. Ron sees himself with a captain’s badge and a cup. Harry cannot see them.
-- **Image:** Ron stands where Harry stood, cloak off, and laughs. In the glass he is older, a Quidditch captain’s badge, a cup in his hands, taller. Harry stands beside the real Ron and sees, in the glass, only Ron’s back and his own parents still there. They do not share the vision.
-- **Setting:** The same chamber, another night. The cloak in Harry’s arms. Moon.
-- **Who:** Ron, maroon sweater, freckles, red hair, in front of the glass, delighted. Mirror-Ron, older, badge, cup, a crowd cheering that is only his. Harry beside him, green sweater, seeing a different picture: Lily and James, and a Ron who is just Ron.
+- **Image:** Ron stands where Harry stood, cloak off, and laughs. This panel is Ron’s wish only. In the glass he is older, a Quidditch captain’s badge, a cup in his hands, taller, a crowd that is only his. Lily and James are not in this glass. Harry stands beside the real Ron and cannot see the cup.
+- **Setting:** The same chamber, another night. The cloak in Harry’s arms. Moon. One mirror, showing Ron’s desire, not the Potters.
+- **Who:** Ron, maroon sweater, freckles, red hair, in front of the glass, delighted. Mirror-Ron, older, badge, cup. Harry beside him, green sweater, seeing none of that triumph. No Lily. No James. No pale-green dress and no dark jacket in this frame.
 - **Faces:** Ron looks at his glorious self, a huge grin, ears red, wanting it and joking because he wants it. Harry looks at the glass, confused, he cannot see the cup. He looks at Ron’s real face, realizing the mirror is not a window. It is a wish.
 - **Dialogue:** **Ron:** "I'm Quidditch captain. I've got the House Cup. I'm Head Boy as well. Harry, look." **Harry:** "I can't see any of that."
 
 #### C13-P4-P2
 
 - **Beat:** Ron cannot see the Potters. The mirror is different for each of them.
-- **Image:** A clean split panel. Left, what Ron sees: himself triumphant. Right, what Harry sees: his family. The same frame, two truths. They look at each other, the joke thinning.
-- **Setting:** The mirror room, moonlight, dust.
-- **Who:** Both boys, sweaters, pajamas. Two versions of the glass.
-- **Faces:** Ron looks at Harry, the grin fading into curiosity, a little guilt that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. They look at each other with more care. Neither mocks what the other wanted.
+- **Image:** A clean split panel. One half is Ron’s glass only: himself triumphant, badge, cup. No parents in that half. The other half is Harry’s glass: he stands center, back mostly toward us, Lily on the viewer’s left in the pale-green dress, James on the viewer’s right in the dark jacket. They do not cross into Ron’s half.
+- **Setting:** The mirror room, moonlight, dust. Same mirror, two wishes, not one blended family.
+- **Who:** Both boys, sweaters, pajamas. Ron’s half: older Ron, captain’s badge, cup. Harry’s half: Lily, long straight dark-red hair, green eyes, pale-green dress, viewer’s left; James, messy black hair, round glasses, no beard, dark jacket, viewer’s right; hands near Harry’s shoulders. Same clothes as the night before.
+- **Faces:** Ron looks at Harry, the grin fading into curiosity, a little guilt that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. They look at each other with more care. Neither mocks what the other wanted. Lily and James look at Harry only, and only inside his half.
 - **Dialogue:** **Harry:** "I see my parents. You can't see them, can you." **Ron:** "The mirror's telling a different lie to each of us."
 
 #### C13-P4-P3
@@ -3035,9 +3037,9 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 #### C13-P4-P4
 
 - **Beat:** The mirror shows the deepest desire of the heart, and not the truth.
-- **Image:** Dumbledore speaks gently, one hand indicating the glass without touching it. In the glass, faintly, Harry’s parents fade because he is listening to a living person. The lesson is the picture: the wish thins when he looks away.
+- **Image:** Dumbledore speaks gently, one hand indicating the glass without touching it. In the glass, faintly, Harry’s parents fade because he is listening to a living person. If they are still readable, Lily is on the viewer’s left in the pale-green dress and James is on the viewer’s right in the dark jacket. They do not swap while they fade. The lesson is the picture: the wish thins when he looks away.
 - **Setting:** The three of them and the mirror. Moon. Quiet.
-- **Who:** Dumbledore, tall, beard, spectacles, a hand open toward the frame. Harry looking at him, cloak clutched, green sweater. Ron listening, the captain fantasy not mocked.
+- **Who:** Dumbledore, tall, beard, spectacles, a hand open toward the frame. Harry looking at him, cloak clutched, green sweater, back no longer to the glass. Ron listening, the captain fantasy not mocked. In the glass, the same parents, fading, sides unchanged. Not Ron’s cup.
 - **Faces:** Dumbledore looks at Harry, tender and firm. Harry looks at him, taking it in, still wanting to look back at the glass. Ron looks at the floor, understanding his cup was a wish too. No one looks triumphant.
 - **Dialogue:** **Dumbledore:** "The Mirror of Erised shows the deepest wish of the heart. Not the truth. Erised is desire, written backwards, if you enjoy a riddle."
 
@@ -3053,9 +3055,9 @@ An empty castle, a father’s cloak, a mirror, and a warning.
 #### C13-P4-P6
 
 - **Beat:** A dream is a poor place to live. Harry looks back once.
-- **Image:** Page-turn. They are at the door. Dumbledore remains by the mirror. Harry looks back once over the green sweater and his father’s cloak. The mirror shows his parents one last time, small in the distance, waving. He does not go back. His face is grief and a choice.
+- **Image:** Page-turn. They are at the door. Dumbledore remains by the mirror. Harry looks back once over the green sweater and his father’s cloak. The mirror shows his parents one last time, small in the distance, waving. Even small, Lily is on the viewer’s left and James is on the viewer’s right, same pale-green dress, same dark jacket. He does not go back. His face is grief and a choice.
 - **Setting:** The doorway. Moon. The corridor ahead, which is the castle, which is living. Snow light. Ron already in the hall.
-- **Who:** Harry in the doorway, cloak over his arm, green Christmas sweater, glasses, scar, one hand on the frame. Ron in the corridor, waiting, not rushing him. Dumbledore inside, tall, watching Harry choose the corridor. The mirror family tiny, waving.
+- **Who:** Harry in the doorway, cloak over his arm, green Christmas sweater, glasses, scar, one hand on the frame. Ron in the corridor, waiting, not rushing him. Dumbledore inside, tall, watching Harry choose the corridor. In the glass, tiny and still not swapped: Lily viewer’s left, James viewer’s right, hands near the small reflection’s shoulders.
 - **Faces:** Harry looks back, eyes wet, a goodbye. Then he looks at Ron, choosing the friend who is actually here. Dumbledore looks at Harry, proud and sad. Ron looks at Harry, patient, there. The parents look at their son, and the door closes.
 - **Dialogue:** **Dumbledore:** "A dream is a poor place to live, Harry. Stay out here, with the people who can answer when you speak." **Harry:** "Yes, Professor."
 ---
@@ -3190,9 +3192,9 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 #### C14-P3-P2
 
 - **Beat:** A crate under the invisibility cloak. A tail sticks out.
-- **Image:** Night. They creep a corridor. The cloak covers Harry and Hermione and a crate, badly. A spiny tail sticks out the back and smokes a little. Ron is under the front, only his bandaged hand and red hair visible, sweating. It is absurd and dangerous.
+- **Image:** Night. They creep a corridor. The cloak covers Harry, Hermione, Ron, and a crate, badly. A spiny tail sticks out the back and smokes a little. Under the cloth each child is 90% transparent, only about 10% opacity, faint but clearly themselves: Harry’s face, hair, scar side, and glasses; Hermione’s bushy hair; Ron’s red hair and bandage. Not empty cloth with a tail. The cloak edge is a sheer silver-gray shimmer.
 - **Setting:** A castle corridor, midnight, moonlight, armor, a long walk to the tower stairs. Torches low.
-- **Who:** Harry, pajamas and sweater, glasses, under the cloak, holding the crate handle. Hermione under it too, robes, hair escaping the hem of invisibility. Ron, weaker, bandage, carrying the front. Norbert in the crate, one tail and one annoyed gold eye at a knothole. The cloak, silver-gray, failing to cover the tail.
+- **Who:** Harry, pajamas and green sweater, glasses, a faint 10%-opacity figure under the cloak, holding the crate handle. Hermione the same faint way, robes, hair readable. Ron, weaker, bandage, red hair readable, carrying the front. Norbert in the crate, one tail and one annoyed gold eye at a knothole. The cloak, silver-gray, too small for the tail. The tail is solid. The children are faint, not deleted.
 - **Faces:** Harry looks at the tail, grimacing, walk faster. Hermione looks ahead, mapping Filch. Ron looks at his hand, in pain, stubborn. Norbert’s eye looks furious. No one looks like a hero. They look like children moving a problem.
 - **Dialogue:** **Harry:** "The Cloak won't cover the tail. Walk faster."
 
@@ -3201,7 +3203,7 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 - **Beat:** Draco steps from a corner and says he is telling McGonagall.
 - **Image:** The cloak does not save them. Draco is already there, arms folded, clean again, a perfect ambush. He looks at the tail, then at Harry’s visible shoe, and his smile is the report he is about to file.
 - **Setting:** A corner near the tower stairs. Moon. A statue. No teachers yet, which is Draco’s complaint.
-- **Who:** Draco, platinum hair, expensive robes over pajamas or just robes, he dressed for the catching. Harry half-visible, cloak slipping. Hermione furious under the shimmer. Ron pale, bandage, the crate. Norbert’s tail.
+- **Who:** Draco, platinum hair, expensive robes over pajamas or just robes, he dressed for the catching. Harry under the slipping cloak is still a faint but clear boy, 90% transparent, only about 10% opacity, face and scar readable, one shoe solid where the cloth has slipped. Hermione the same faint readable figure, furious. Ron pale, bandage, the crate. Norbert’s tail. Not three blank shapes.
 - **Faces:** Draco looks at Harry, victorious, the courtyard mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco, contempt. Ron looks at the tail, then at Draco, a spark of we-still-have-to-finish-this.
 - **Dialogue:** **Draco:** "A dragon. I'm telling Professor McGonagall, Potter. Enjoy being expelled."
 
@@ -3999,17 +4001,17 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** Harry says Snape’s name. A polite voice says Snape is not here.
 - **Image:** Harry turns, the name half-said. A polite voice comes from the side, mild, amused. The speaker is still in shadow near a pillar. Harry’s shoulders drop, then rise again, because the voice is wrong for a rescue.
 - **Setting:** The chamber’s edge. Torch shadow. The mirror behind Harry, watching.
-- **Who:** Harry, dusty, glasses, scar, turned. A tall shape in the shadow, not yet clear, purple more than black. Hands folded.
-- **Faces:** Harry looks toward the voice, expecting a hooked nose and black eyes, confused when the voice is courteous. Fear changes flavor. The shadowed head tilts, a smile we cannot quite see.
+- **Who:** Harry, dusty, glasses, scar, turned. A tall shape in the shadow, not yet clear, purple robes, the large purple turban still on. Hands folded. One man. His face, when the light catches it, will be only Quirrell’s. No Voldemort features in this shadow.
+- **Faces:** Harry looks toward the voice, expecting a hooked nose and black eyes, confused when the voice is courteous. Fear changes flavor. The shadowed head tilts. We do not see a second face.
 - **Dialogue:** **Quirrell:** "Severus Snape is not in this chamber, Potter."
 
 #### C18-P1-P3
 
 - **Beat:** Quirrell steps out, turban neat, no stutter.
-- **Image:** He steps into the torchlight. Professor Quirrell. The purple turban is perfectly wrapped. The stammer is gone. His shoulders are straight. He looks like a different man who has been wearing a timid one as a coat. Harry takes a step back toward the mirror.
-- **Setting:** The chamber, full light now on the teacher. Torches. The mirror. No Snape anywhere, and the absence is the twist.
-- **Who:** Quirrell, pale, purple robes, large turban, hands calm, a new posture, taller than Harry by the usual adult measure and by the surprise. Harry, small, dusty, the cut hand, glasses, scar prickling.
-- **Faces:** Quirrell looks at Harry, polite, almost friendly, a cold intelligence. No stutter in the mouth. Harry looks at him, the year’s theory collapsing. Shock. He looks at the turban, the pub, Hagrid’s hand waving at his own head. Oh.
+- **Image:** He steps into the torchlight. Camera on his face. Professor Quirrell only. The purple turban is perfectly wrapped. The stammer is gone. His shoulders are straight. Same pale face as the year’s timid professor, suddenly smooth. No slit nose, no red eyes, no second mouth. Harry takes a step back toward the mirror.
+- **Setting:** The chamber, full light now on the teacher. Torches. The mirror behind Harry. No Snape anywhere, and the absence is the twist.
+- **Who:** Quirrell, camera on the front of the head: pale, purple robes over darker blue, brown belt, large purple turban still on, dark hair only at the turban’s edge, hands calm, shoulders straight. Voldemort is hidden on the far side of the skull, under the cloth, and is not drawn. Harry, small, dusty, the cut hand, glasses, scar prickling.
+- **Faces:** Quirrell’s own face looks at Harry, polite, almost friendly, a cold intelligence. No stutter in the mouth. It is not Voldemort’s face. Harry looks at him, the year’s theory collapsing. Shock. He looks at the turban. Oh.
 - **Dialogue:** **Quirrell:** "No stammer now. The frightened professor was a useful set of robes. You may lower the wand."
 
 #### C18-P1-P4
@@ -4017,26 +4019,28 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** Snape’s muttering at the match was a countercurse. Snape was saving him.
 - **Image:** Quirrell says it lightly, a teacher correcting a student’s essay. Harry’s face runs back through the year: the match, the muttering, the blue flame, the bleeding leg. In a small memory flash at the edge, Snape’s hem burns and his eyes were on the broom to save it, not to curse it. Harry looks ill with the revision.
 - **Setting:** The chamber. The memory is a thin panel-within, the Quidditch box, Snape’s mouth moving, McGonagall shouting, the broom leveling.
-- **Who:** Quirrell, turban, calm hands, enjoying the correction. Harry, the present, dusty, one hand half-raised as if to stop a story. Memory-Snape, black, intense, protective and unliked.
-- **Faces:** Quirrell looks at Harry, a thin smile, he likes this part. Harry looks at the floor, ashamed and reeling, the hatred he spent all year mis-aimed. He looks younger. He looks angry at himself, then back at Quirrell, the anger finding the right target.
+- **Who:** Quirrell, camera still on his own face, purple turban still wrapped, calm hands, enjoying the correction. No second face on the front. Harry, the present, dusty, one hand half-raised as if to stop a story. Memory-Snape, black, intense, protective and unliked.
+- **Faces:** Quirrell’s face, only his, looks at Harry, a thin smile, he likes this part. Pale, smooth, the stutter gone. Harry looks at the floor, ashamed and reeling, the hatred he spent all year mis-aimed. He looks younger. He looks angry at himself, then back at Quirrell’s face, the anger finding the right target.
 - **Dialogue:** **Quirrell:** "At the Quidditch match, Snape was muttering a countercurse. He was trying to keep you on that Nimbus. I was the one trying to throw you off."
 
 #### C18-P1-P5
 
 - **Beat:** Harry backs up. Quirrell says he has served Voldemort since before the year began.
-- **Image:** Harry’s heels touch the mirror’s base. Quirrell does not hurry. He speaks the name without flinching, which is obscene after a year of flinches. His hand rests on his own turban, a hint. Harry’s scar answers.
-- **Setting:** The mirror’s foot. Torches. Nowhere behind Harry but glass.
-- **Who:** Quirrell, purple, turban under his fingers, pale, sure. Harry, back to the carved frame, glasses, scar beginning to burn, wand in his sleeve, not drawn yet because the shock is still faster than his hand.
-- **Faces:** Quirrell looks at Harry, devout and calm, a servant glad to be near the end of a task. Harry looks at him, horror, the forest hood and this polite face trying to become the same person. His mouth is tight. He does not beg.
+- **Image:** Harry’s heels touch the mirror’s base. Quirrell does not hurry. He still faces Harry. He speaks the name without flinching. One hand rests on the purple turban, which is still fully wrapped. He has not turned. Harry’s scar answers.
+- **Setting:** The mirror’s foot. Torches. Nowhere behind Harry but glass. The Mirror does not show Lily and James.
+- **Who:** Quirrell, camera on his own face only: pale, smooth, stutter gone, purple robes, large purple turban still on, fingers on the cloth, not unwinding it yet. No Voldemort features on the front. Harry, back to the carved frame, glasses, scar beginning to burn, wand in his sleeve.
+- **Faces:** Quirrell’s face looks at Harry, devout and calm. Harry looks at that face, horror. His mouth is tight. He does not beg. The back of the head is not in this picture.
 - **Dialogue:** **Quirrell:** "I have served Lord Voldemort since before you ever came to Hogwarts. The turban was never only cloth."
+
+Required insert, not a numbered panel. Do not renumber. Between this confession and the next panel: Quirrell turns his back to Harry while the purple turban is still wrapped. Camera behind Harry. No face yet. Full prompt in [address-and-famous-beats.md](address-and-famous-beats.md).
 
 #### C18-P1-P6
 
-- **Beat:** Quirrell turns. A flat, snake-like face is on the back of his head.
-- **Image:** Page of the turn, literal. Quirrell rotates. The turban is gone, unwound in his hands. On the back of his skull, under where the cloth was, a face: flat, pale, slit-nosed, red eyes, a mouth. Voldemort, not a body, a passenger. Harry’s scar goes white. The mirror is behind Harry. The face looks past Quirrell’s shoulder.
-- **Setting:** The chamber. Torchlight cruel and clear. The unwound turban in Quirrell’s hands like a shed skin.
-- **Who:** Quirrell, back of the head to us and to Harry, the face embedded there, purple robes. Harry, glasses, both hands half-up, scar livid, dusty robes, alone.
-- **Faces:** The face on the skull looks at Harry, hatred and a horrible fondness, a snake’s attention. Quirrell’s own face is turned away, we see only the set of his neck, obedient. Harry looks at the face, pain and recognition, the thing from the forest finally has a place to be. He does not look away.
+- **Beat:** The turban is off. Voldemort’s face is on the back of the bald head. Harry, facing that back, is face to face with it.
+- **Image:** Camera behind Harry, looking at Quirrell’s back. Quirrell’s own face is on the far side of the skull and is not visible. The purple turban is unwound in his hands, ordinary cloth, no face on the cloth. The back of the head is bald. Embedded in that scalp, looking straight at Harry and at the camera, is Voldemort’s face: flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body. Not a second man. Not a face peeking past a shoulder. Harry’s scar goes white. The mirror is behind Harry and does not show his parents.
+- **Setting:** The chamber. Torchlight cruel and clear. The unwound purple turban in Quirrell’s hands. One head, back toward Harry.
+- **Who:** Quirrell, purple robes, brown belt, back to Harry, bald scalp. Voldemort only as that face on the scalp, the same face every later panel. Harry, glasses, both hands half-up, scar livid, dusty robes, alone, facing the back of the head.
+- **Faces:** Voldemort’s face looks at Harry, hatred and a horrible fondness. Quirrell’s face is not in frame. Harry looks at the face on the scalp, pain and recognition. He does not look away.
 - **Dialogue:** **Voldemort:** "Harry Potter. We meet properly, at last."
 
 ### Page 2 — The mirror’s test
@@ -4044,28 +4048,28 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 #### C18-P2-P1
 
 - **Beat:** Voldemort’s voice tells Quirrell to use the boy.
-- **Image:** The face speaks. Quirrell answers his own skull, a grotesque conversation, one man two mouths. A pale hand points at Harry and then at the mirror. Harry is the tool. The room feels smaller.
-- **Setting:** The chamber. Mirror. Torches. The pointing finger.
-- **Who:** Quirrell, front face strained, back face commanding. Harry, against the mirror, small, wand now in his hand at last, a twig again. The mirror, dark.
-- **Faces:** The skull-face looks at Harry, impatient, hungry. Quirrell’s front face looks at Harry, a servant’s urgency, sweat finally, the stammer not back but the fear of failing is. Harry looks at the wand in his own hand, then at them, jaw set. He looks at the mirror, remembering Dumbledore’s warning and needing the glass anyway.
+- **Image:** Side view of one head. Quirrell’s profile looks away from Harry. On the opposite side of the same skull, Voldemort’s face looks toward Harry. They do not both face the camera. A pale hand points at Harry and then at the mirror. One man, two mouths on opposite sides. Harry is the tool. The room feels smaller.
+- **Setting:** The chamber. Mirror. Torches. The pointing finger. No second body.
+- **Who:** Quirrell, purple robes, turban gone and in his hand or already dropped, bald back of the head. Voldemort’s face on that scalp: flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body. Harry, against the mirror, small, wand in his hand. The mirror, dark, and it does not show Lily and James.
+- **Faces:** Voldemort’s face, on the back of the head, looks at Harry, impatient, hungry. Quirrell’s profile looks the other way, strained, a servant afraid of failing. Not two front-facing men. Harry looks at the face on the scalp, jaw set, then at the mirror.
 - **Dialogue:** **Voldemort:** "Use the boy. The Mirror of Erised will not surrender the Philosopher's Stone to you."
 
 #### C18-P2-P2
 
 - **Beat:** Quirrell sees himself holding the Stone in the glass and cannot take it.
-- **Image:** Quirrell stares into the mirror. In the glass, his reflection holds the red Stone and smiles a mad smile. He paws at the glass. His hands meet nothing. The real Stone is not in the reflection’s pocket for him. He snarls, the polite man gone. The skull-face hisses.
-- **Setting:** The mirror, close. Torchlight and the red of the imagined Stone.
-- **Who:** Quirrell, both faces frustrated, purple robes, hands on the glass. In the mirror: Quirrell triumphant with the Stone, a lie the mirror tells a thief. No Harry in this crop, or only his eye at the edge.
-- **Faces:** Quirrell looks at his reflection, greed, then rage when he cannot reach. The skull-face looks at the glass, furious, ancient. The reflection looks smug and useless. Desire without worth.
+- **Image:** Camera on Quirrell’s own face. He stares into the mirror. His face is toward the glass, so Voldemort’s face is on the far side of the skull, hidden, looking back into the room and not into the glass. In the glass, Quirrell’s reflection, his own face, holds the red Stone and smiles a mad smile. He paws at the glass. His hands meet nothing. The reflection is not Voldemort and does not wear a second face on the front.
+- **Setting:** The mirror, close. Torchlight and the red of the imagined Stone. No parents in this glass.
+- **Who:** Quirrell, purple robes, turban off, his own pale face toward the mirror, hands on the glass. The bald back of the head is away from the camera. If any scalp shows at the edge, the face there is Voldemort and it is not looking at the glass. In the mirror: Quirrell’s face, triumphant, with the Stone. No Harry in this crop, or only his eye at the edge.
+- **Faces:** Quirrell’s face looks at his reflection, greed, then rage. The reflection looks smug and useless. Voldemort is not a second man in the glass. Desire without worth.
 - **Dialogue:** **Quirrell:** "I see the Stone in my own hand, and the glass will not give it up." **Voldemort:** "Then the boy will fetch it."
 
 #### C18-P2-P3
 
 - **Beat:** He forces Harry in front of the mirror.
-- **Image:** Quirrell grabs Harry by the shoulder — not skin to skin yet, a fistful of robe — and plants him before the glass. Harry’s dusty face fills the lower mirror. Quirrell looms behind, both his faces eager. Use the boy.
-- **Setting:** The mirror, the chamber, Harry centered by force.
-- **Who:** Harry, robes bunched in Quirrell’s fist, glasses, scar, bleeding hand, looking at the glass because he is made to. Quirrell behind, turban gone, the skull-face peering around, hideous. The mirror waking.
-- **Faces:** Harry looks into the glass, afraid of what he wants. Quirrell looks at the back of Harry’s head, hungry. The skull-face looks at the mirror, whispering. Harry’s reflection begins as only himself.
+- **Image:** Side view. Quirrell stands behind Harry and plants him before the glass, a fistful of robe, not skin yet. Quirrell’s own face is toward the back of Harry’s head and toward the mirror. Voldemort’s face is on the back of Quirrell’s skull, looking away from the mirror, into the room. It does not peer around the cheek. Harry’s dusty face fills the lower mirror. Use the boy.
+- **Setting:** The mirror, the chamber, Harry centered by force. The glass does not show Lily and James.
+- **Who:** Harry, robes bunched in Quirrell’s fist, glasses, scar, bleeding hand, back mostly toward us, looking at the glass because he is made to. Quirrell behind him, purple robes, turban gone, one head. His face on the mirror side. Voldemort’s face, flat white-gray, red eyes, slit nostrils, lipless, on the scalp that faces the room. The mirror waking, Harry’s reflection only himself.
+- **Faces:** Harry looks into the glass, afraid of what he wants. Quirrell’s face looks at the back of Harry’s head, hungry. Voldemort’s face looks the opposite way. Neither face is on the turban. Harry’s reflection begins as only himself.
 - **Dialogue:** **Quirrell:** "Stand before the Mirror of Erised. Tell me exactly what you see."
 
 #### C18-P2-P4
@@ -4073,8 +4077,8 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** Harry’s reflection slips the Stone into a pocket.
 - **Image:** Inside the glass, Harry sees himself, not as a champion, as a boy who finds the Stone and puts it away, safe, not used. The reflection winks, almost, and drops the red Stone into a pocket. It is a small motion. Harry’s real eyes widen.
 - **Setting:** The mirror’s world. Warm, strange. The real room pale around the frame.
-- **Who:** Mirror-Harry, cleaner, a small smile, the red Stone between finger and thumb, pocketing it. Real Harry, dusty, watching. Quirrell behind, not seeing what Harry sees.
-- **Faces:** Mirror-Harry looks at real Harry, conspirator, calm. Real Harry looks at the pocketing, understanding flooding him. He wants to find the Stone, not use it. The mirror knows. His face is awe and a secret. Quirrell’s reflected back-face looks impatient, seeing only Harry’s back.
+- **Who:** Mirror-Harry, cleaner, a small smile, the red Stone between finger and thumb, pocketing it. Real Harry, dusty, watching, back mostly toward us. Quirrell behind him, his own face toward Harry’s back, not seeing what Harry sees. Voldemort stays on the far side of Quirrell’s skull, out of the glass. No Lily. No James.
+- **Faces:** Mirror-Harry looks at real Harry, conspirator, calm. Real Harry looks at the pocketing, understanding flooding him. He wants to find the Stone, not use it. The mirror knows. His face is awe and a secret. Quirrell’s own face, if it shows, looks at Harry’s back and sees nothing of the pocket. Voldemort’s face is not in the reflection.
 - **Dialogue:** No dialogue.
 
 #### C18-P2-P5
@@ -4089,10 +4093,10 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 #### C18-P2-P6
 
 - **Beat:** He lies, clearly. He only sees himself winning the House Cup and shaking Dumbledore’s hand.
-- **Image:** Harry turns from the glass, a bright, bad, child’s lie on his face. He describes a trophy and a handshake, the most ordinary famous-boy wish he can invent. His hand stays over the pocket. Quirrell leans in, both faces, hunting the truth in Harry’s mouth.
-- **Setting:** The chamber. Mirror behind Harry. Torches.
-- **Who:** Harry, dusty, glasses, the lie in his posture, pocket guarded. Quirrell bent down, front face eager, skull-face suspicious around the side. The red Stone hidden.
-- **Faces:** Harry looks at Quirrell, earnest, lying, a shake of the head, I only see the Cup. He is not good at this and he is clear. Quirrell’s front face looks at him, wanting to believe, frustrated. The skull-face looks at Harry’s eyes, not his mouth. It does not believe.
+- **Image:** Harry turns from the glass, a bright, bad, child’s lie on his face. His hand stays over the pocket. Side view of one head: Quirrell’s face leans toward Harry, eager. On the opposite side of the same skull, Voldemort’s face looks the other way and still seems to hear the lie. Not a face around the cheek. Not two men.
+- **Setting:** The chamber. Mirror behind Harry. Torches. The glass is not showing the parents.
+- **Who:** Harry, dusty, glasses, the lie in his posture, pocket guarded. Quirrell bent down, purple robes, turban off, his own pale face toward Harry. Voldemort’s face on the bald back of the head: flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body. The red Stone hidden.
+- **Faces:** Harry looks at Quirrell’s face, earnest, lying. Quirrell’s face looks at him, wanting to believe, frustrated. Voldemort’s face, on the far side of the skull, is not a second listener standing beside them. It does not believe. Harry is a bad liar and the picture makes that clear.
 - **Dialogue:** **Harry:** "I see myself winning the House Cup. I shake Professor Dumbledore's hand. That's the whole wish. There is no Stone."
 
 ### Page 3 — The face
@@ -4100,10 +4104,10 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 #### C18-P3-P1
 
 - **Beat:** Voldemort says the boy lies.
-- **Image:** The skull-face snarls the truth. Quirrell’s front face twists, obedient, and his hand shoots toward the pocket. Harry twists away. The lie is over. The chamber jumps from talk to fight.
-- **Setting:** The mirror foot. Torches flaring. Close, violent, no room.
-- **Who:** The skull-face, red eyes, mouth ugly. Quirrell lunging, purple, pale hands. Harry turning, pocket side away, wand up at last, glasses crooked.
-- **Faces:** The face looks at Harry, hatred, certainty. Quirrell looks at the pocket, desperate servant. Harry looks at the hand coming, fear and refusal. He will not give it over.
+- **Image:** Side view of the one head. Voldemort’s face, on the back of the bald scalp, snarls. Quirrell’s own face is the other side of that skull, twisted, obedient, and his hand shoots toward the pocket. Harry twists away. Not two men lunging. The lie is over.
+- **Setting:** The mirror foot. Torches flaring. Close, violent, no room. No parents in the glass.
+- **Who:** One Quirrell, purple robes, turban off, pale hands. Voldemort only as the face on the scalp: flat white-gray, red eyes, slit nostrils, lipless mouth. Harry turning, pocket side away, wand up, glasses crooked.
+- **Faces:** Voldemort’s face looks toward Harry, hatred, certainty. Quirrell’s face, opposite side of the skull, looks at the pocket, desperate. Harry looks at the hand coming, fear and refusal. He will not give it over.
 - **Dialogue:** **Voldemort:** "He lies. The Philosopher's Stone is in his pocket."
 
 #### C18-P3-P2
@@ -4112,34 +4116,34 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Image:** Skin meets skin. Quirrell’s fingers lock on Harry’s bare wrist where the sleeve rode up. Smoke jumps from the grip. A scream. The Stone is still in the pocket. The touch itself is the weapon, and it is not Harry’s wand.
 - **Setting:** Extreme close. Wrist, fingers, smoke, torchlight. The mirror a gold smear behind.
 - **Who:** Quirrell’s hand, pale, already blistering, locked on Harry’s wrist. Harry’s arm, thin, a child’s, the scar not here but the mother’s protection in the skin. Smoke, not fire from a wand.
-- **Faces:** Not fully in frame. Harry’s mouth at the edge, shocked by the scream that is not his. Quirrell’s front face further, agony, confusion. He looks at his own smoking hand as if it betrayed him.
+- **Faces:** Not fully in frame. Harry’s mouth at the edge, shocked by the scream that is not his. The face we see on the head, if it is in frame, is Quirrell’s own face, agony, looking at his smoking hand. Voldemort stays on the far side of the skull and is not drawn on this wrist. No second man.
 - **Dialogue:** **Quirrell:** "Give it to me." **Harry:** "Let go. Your hand is smoking."
 
 #### C18-P3-P3
 
 - **Beat:** Quirrell screams and lets go. The skin is blistered.
-- **Image:** He reels back, holding his burned hand with the other. Blisters. Smoke. Harry staggers free, wrist red but whole. They stare at the hand. The skull-face is screaming too, a thinner sound.
+- **Image:** Side view of one head. He reels back, holding his burned hand with the other. Blisters. Smoke. Harry staggers free, wrist red but whole. Quirrell’s own face stares at the burned palm. On the opposite side of the same skull, Voldemort’s face is a thinner scream. Not a second man.
 - **Setting:** The chamber, a step of space between them, torches, the mirror.
-- **Who:** Quirrell, purple robes, burned hand outstretched, disbelief. Harry, wrist clutched, pocket still heavy, glasses, dusty, wand in the other hand unused. The skull-face twisted in rage.
-- **Faces:** Quirrell looks at his palm, agony, betrayed by a child’s skin. Harry looks at his own wrist, stunned, he does not understand the gift yet. The skull-face looks at Harry, incandescent hate. Harry looks back, the stun becoming a choice.
+- **Who:** Side view of one head. Quirrell, purple robes, burned hand outstretched, his own pale face looking at the palm. On the opposite side of the same skull, Voldemort’s face, flat white-gray, red eyes, slit nostrils, lipless, twisted in rage. No second body. Harry, wrist clutched, pocket still heavy, glasses, dusty, wand unused.
+- **Faces:** Quirrell’s face looks at his palm, agony. Voldemort’s face, on the back of the head, looks the other way, hate. Harry looks at his own wrist, stunned, then the stun becomes a choice. He is not looking at two men.
 - **Dialogue:** **Quirrell:** "What is this magic? What have you done to my skin?"
 
 #### C18-P3-P4
 
 - **Beat:** Voldemort shrieks at him to hold on.
-- **Image:** The skull-face is all mouth and command. Quirrell, crying with pain, turns back because he is more afraid of the face than of the burn. He reaches again. Harry sets his feet. He has decided to be touched.
-- **Setting:** The chamber. Harsh light. The mirror witnessing.
-- **Who:** Quirrell, both faces, reaching, burned hand and the other. Harry, small, sleeves pushed up now on purpose, glasses, scar white, pocket guarded by his body.
-- **Faces:** The skull-face looks at Quirrell, commanding, contempt for his pain. Quirrell looks at Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab first.
+- **Image:** Side view. Voldemort’s face, on the back of the bald head, is all mouth and command. Quirrell’s own face is the other side of that skull. He reaches again because he is more afraid of the face on his own scalp than of the burn. Harry sets his feet. He has decided to be touched. Not two men.
+- **Setting:** The chamber. Harsh light. The mirror witnessing, and it does not show Lily and James.
+- **Who:** One Quirrell, purple robes, turban off, both hands reaching, one already burned. Voldemort only as the face on the scalp, same white-gray face, red eyes, slit nostrils, lipless mouth. Harry, small, sleeves pushed up on purpose, glasses, scar white, pocket guarded by his body.
+- **Faces:** Voldemort’s face looks out from the back of the head, contempt for the pain. Quirrell’s face, opposite side, looks toward Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab the face on the scalp.
 - **Dialogue:** **Voldemort:** "Seize him. Hold the boy. I do not care if it burns you."
 
 #### C18-P3-P5
 
 - **Beat:** Harry grabs the face and the arm on purpose. Both of them burn.
-- **Image:** Harry lunges. One hand on Quirrell’s wrist. The other, awful and brave, against the skull-face. Smoke erupts from both contacts. Quirrell’s scream fills the room. Harry’s own hands hurt. He does not let go. It is ugly. It is a child holding on.
-- **Setting:** The center of the chamber. Smoke. Torches. The mirror flaring white for a second. No grace, no duel poses.
-- **Who:** Harry, small, both hands locked on, face twisted with effort and disgust and pain, glasses askew, scar blazing. Quirrell, buckling, purple, flesh blistering where Harry touches. The skull-face under Harry’s palm, smoking, a shriek.
-- **Faces:** Harry looks at the face he is holding, tears from pain, teeth set, he hates this and he will not stop. Quirrell’s front face looks at the ceiling, screaming. The skull-face looks at Harry from under the hand, rage and, for the first time, fear.
+- **Image:** Camera on the back of the bald head. Harry lunges. One hand on Quirrell’s wrist. The other hand is on Voldemort’s face, the face embedded in the scalp. Smoke erupts from both contacts. Quirrell’s own face is on the far side of the skull and is not in frame. Harry does not let go.
+- **Setting:** The center of the chamber. Smoke. Torches. The mirror flaring white for a second. No grace, no duel poses. One body.
+- **Who:** Harry, small, both hands locked on, glasses askew, scar blazing. Quirrell, buckling, purple robes, bald scalp. Under Harry’s palm: Voldemort’s face, flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body, smoking. Not a mask and not a second man.
+- **Faces:** Harry looks at the face on the scalp, teeth set. That face looks back from under the hand, rage and, for the first time, fear. Quirrell’s face is not visible. The scream is his, off-camera.
 - **Dialogue:** **Harry:** "You will not have it. You will not have the Stone."
 
 #### C18-P3-P6
@@ -4147,8 +4151,8 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** The Stone is a hard point in the pocket. Harry does not let go.
 - **Image:** Amid the smoke, a small still detail: the pocket, the round hardness of the Stone against Harry’s hip, safe. His hands are locked above. He is failing and winning in the same picture. His knees buckle and he hangs on by the grip itself.
 - **Setting:** Smoke, firelight, the chamber floor coming closer as they sag.
-- **Who:** Harry’s torso, the pocket, his blistering-but-whole hands on Quirrell. Quirrell folding.
-- **Faces:** Harry’s face, close, eyes shutting, opening, shutting. Pain. Stubbornness. He looks at nothing now. He looks like someone about to pass out who has not finished. The skull-face’s visible eye looks afraid.
+- **Who:** Harry’s torso, the pocket, his hands on Quirrell. One hand is still on the face on the back of the bald head. Quirrell folding. One body.
+- **Faces:** Harry’s face, close, eyes shutting, opening, shutting. Pain. Stubbornness. The eye still visible under his hand is Voldemort’s, red, on the scalp, afraid. Quirrell’s own face is not in this crop.
 - **Dialogue:** No dialogue.
 
 ### Page 4 — Collapse
@@ -4158,17 +4162,17 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** Quirrell comes apart under Harry’s hands.
 - **Image:** Where Harry holds, Quirrell’s form fails, not gore for its own sake: ash, smoke, a man losing the shape of his arms. The purple robe empties at the edges. Harry is still attached, horrified, unable to release because letting go might let the face go free.
 - **Setting:** The chamber, smoke thick, the mirror a pale rectangle, torches guttering.
-- **Who:** Harry, small, coughing, hands locked, glasses cracked or just dirty, scar a white line. Quirrell, dissolving at the contact, one human eye wide, the skull-face peeling toward smoke.
-- **Faces:** Harry looks at what his hands are doing, horror, he did not want this, he wanted the hands to stop. Quirrell’s remaining face looks at Harry, agony, a servant at the end. The skull-face looks beyond Harry, toward escape.
+- **Who:** Harry, small, coughing, hands locked, glasses dirty, scar a white line. Side view of one failing head: Quirrell’s own eye on one side, wide; on the opposite side of the same skull, Voldemort’s face peeling toward smoke. Same white-gray face, red eyes, no body of his own. Purple robe emptying at the edges.
+- **Faces:** Harry looks at his hands, horror. Quirrell’s face, one side of the skull, is agony. Voldemort’s face, the other side, looks toward escape. Not two dying men.
 - **Dialogue:** **Quirrell:** "Master, I cannot hold him!"
 
 #### C18-P4-P2
 
 - **Beat:** The face on the back of the head is furious and afraid.
-- **Image:** Close on that face as the head fails. Fury, and under it fear, a thing that drank unicorn blood rather than die, meeting a child’s skin and losing. Red eyes. A mouth that has ordered murders, open now on a thinner scream.
-- **Setting:** Smoke. No room. Just the face and Harry’s palm.
-- **Who:** The face, Voldemort unbodied, and Harry’s hand, small, burning, not letting go.
-- **Faces:** The face looks at Harry, hate and fear in equal measure. Harry’s eyes, at the edge, look back, crying, refusing. Neither looks noble. Both look at the end of the grip.
+- **Image:** Close on the back of the bald head as it fails. The face in frame is Voldemort’s, embedded in the scalp: flat white-gray, slit nostrils, red eyes, lipless mouth, no hair. Fury, and under it fear. Quirrell’s face is not in this close-up. Harry’s palm does not let go.
+- **Setting:** Smoke. No room. Just that face on the scalp and Harry’s palm. No second body.
+- **Who:** Voldemort’s face on the scalp, and Harry’s hand, small, burning. Not a separate standing Voldemort.
+- **Faces:** That face looks at Harry, hate and fear in equal measure. Harry’s eyes, at the edge, look back, crying, refusing. Quirrell’s face stays out of frame.
 - **Dialogue:** **Voldemort:** "Do not fail me, Quirrell. I will not end in this room."
 
 #### C18-P4-P3
@@ -4176,8 +4180,8 @@ The mirror, the wrong teacher, a lie, a burning touch, and a collapse.
 - **Beat:** The scar is white-hot. Harry’s vision tunnels.
 - **Image:** From inside Harry’s eyes. The room narrows to a circle. Smoke at the edges. The face in the center, then blurring. The scar’s pain is a white band across the top of the panel. His hands are still in the circle. Just.
 - **Setting:** Subjective. The chamber reduced to a porthole of torch and smoke.
-- **Who:** Harry’s view. His own hands, failing. The face. No friends. No Dumbledore yet.
-- **Faces:** We see the face he sees, raging. We feel his face from the way the world shakes. He is going under. He looks at the pocket, a last check, the Stone still there, a hard truth in the blur.
+- **Who:** Harry’s view of the back of Quirrell’s bald head. The face in the center is Voldemort’s, the same flat white-gray face, red eyes, slit nostrils, lipless mouth, on the scalp. Not Quirrell’s face. His own hands, failing. No friends. No Dumbledore yet.
+- **Faces:** We see Voldemort’s face raging on the back of the head. We feel Harry’s face from the way the world shakes. He is going under. The Stone is still a hard truth in the blur.
 - **Dialogue:** No dialogue.
 
 #### C18-P4-P4
@@ -4652,10 +4656,10 @@ Green and silver, a count, Neville, and the train.
 #### C20-P4-P5
 
 - **Beat:** Vernon waits, stiff. Harry walks toward him without hurrying.
-- **Image:** Through the barrier, the ordinary station. Vernon, mustache, brown suit, purple-necked, arms folded, a car key. Petunia, thin, a tight smile that is not one. Dudley, larger, a new toy, not a tail. Harry walks toward them, trunk, cage, no hurry. He is not small in the posture even though he is small. The crowd flows around an ordinary family and one boy who is not only theirs.
-- **Setting:** King’s Cross, Muggle side. Pigeons. Announcements. Summer. No magic visible except the way Harry carries himself.
-- **Who:** Vernon, suit, mustache, stiff. Petunia, handbag, pinched. Dudley, blond, round, bored. Harry, too-big shirt or the green sweater he refuses to hide, glasses, scar, trunk, Hedwig’s cage, calm walk.
-- **Faces:** Vernon looks at Harry, a warning already, the old house. Harry looks at Vernon, unafraid, polite, a nod. Petunia looks at the cage, distaste, and at Harry’s face, the sister’s eyes, unsettled. Dudley looks at the owl, wary. Harry does not look at the floor. That is the change.
+- **Image:** Through the barrier, the ordinary station. Vernon waits, arms folded, a car key. He must be the same man as chapters 2 and 3. The ending has been drifting. Large and beefy, very little neck, big black mustache, small angry eyes, brown business suit, white shirt, tie. If his face is flushed, the flush is temper, not a purple suit. Petunia is thin beside him. Dudley is heavier, bored, a new toy, not a tail. Harry walks toward them, trunk, cage, no hurry.
+- **Setting:** King’s Cross, Muggle side. Pigeons. Announcements. Summer. No magic visible except the way Harry carries himself. Same station family as the September drop-off.
+- **Who:** Vernon, the chapters 2–3 lock: large, beefy, almost no neck, big black mustache, small angry eyes, brown suit. Not a thinner man and not a new face. Petunia, thin, long neck, pale, blonde hair pinned tight, belted coat, handbag, a tight smile that is not one. Dudley, blond, round, much heavier than Harry, striped shirt or a bright jacket, bored. Harry, shirt that almost fits or the green H jumper, glasses, scar, trunk, Hedwig’s cage, calm walk.
+- **Faces:** Vernon looks at Harry, a warning already, the old house, small angry eyes under the same mustache. Harry looks at Vernon, unafraid, polite, a nod. Petunia looks at the cage, distaste, and at Harry’s face, unsettled. Dudley looks at the owl, wary. Harry does not look at the floor. That is the change.
 - **Dialogue:** **Vernon:** "Trunk in the boot. And no funny business until September." **Harry:** "Hello, Uncle Vernon."
 
 #### C20-P4-P6
@@ -4663,6 +4667,6 @@ Green and silver, a count, Neville, and the train.
 - **Beat:** He looks back. Ron and Hermione wave. He touches the scar, then the trunk, and goes. He is coming back.
 - **Image:** The last panel. Harry at the edge of the Muggle station, one hand on the trunk, the other just leaving his scar. He looks back. Through the crowd, or through the impossible gap, Ron and Hermione are still there, waving, red hair and brown, a green sweater’s promise, a book, a rat, an owl. He looks at them. Then he looks forward, at the car, at the summer, at a return already certain. The station is ordinary. He is not only ordinary. He goes.
 - **Setting:** King’s Cross, wide, light, pigeons, the Dursley car small ahead, the magic of the platform a glimmer behind. Summer. A beginning disguised as an ending.
-- **Who:** Harry, glasses, scar, hand leaving his forehead, the other on the trunk, Hedwig’s cage, the green sweater visible, messy hair. Ron and Hermione in the distance, waving, smiling. Vernon a stiff shape at the car. The crowd.
-- **Faces:** Harry looks back, a real smile, small, sure. Ron looks at him, a big wave, loyal. Hermione looks at him, a wave, a see-you-soon. Vernon looks at his watch, impatient, not the point. Harry’s face holds the cupboard, the mirror, the Stone, the friends, and the year, and it is still a child’s face. He is coming back.
+- **Who:** Harry, glasses, scar, hand leaving his forehead, the other on the trunk, Hedwig’s cage, the green sweater visible, messy hair. Ron and Hermione in the distance, waving, smiling. Vernon at the car is the same large beefy man, very little neck, big black mustache, brown suit, not a new uncle. The crowd.
+- **Faces:** Harry looks back, a real smile, small, sure. Ron looks at him, a big wave, loyal. Hermione looks at him, a wave, a see-you-soon. Vernon looks at his watch, impatient, small angry eyes, the same mustache as the early chapters. He is not the point. Harry’s face holds the year, and it is still a child’s face. He is coming back.
 - **Dialogue:** **Ron:** "See you, Harry!" **Hermione:** "Write!" **Harry:** "I will. I'm coming back."

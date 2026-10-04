@@ -92,7 +92,7 @@ Pale, large purple turban, layered purple robes over a darker blue, brown belt, 
 
 ## Other people who recur
 
-- **Vernon.** Big, short neck, black mustache. Brown business suit, or a straining knit vest in the hut. Face goes purple when he is angry. The vest has no letter.
+- **Vernon.** Large and beefy, very little neck, a big black mustache, small angry eyes. Brown business suit, white shirt, and tie. At the zoo, a brown coat over that suit. In the hut only, a straining knit vest with no letter. His face goes purple when he is angry. That is a flush, not a purple suit. Chapters 2 and 3 are the lock. King’s Cross in June has been drifting and must be this same man in the same brown suit, with the same mustache and the same build. Not a thinner uncle. If Petunia and Dudley stand beside him there, they use the looks below. Do not redesign them while matching Vernon.
 - **Petunia.** Thin, long neck, pale, blonde hair pinned tight. Mint housedress and apron at home. A belted coat in the storm and at the hut.
 - **Dudley.** Blond, round, much heavier than Harry. Striped polo, tight shorts or new trousers, new sneakers. At the zoo, a bright jacket. In the storm, a puffy coat. The tail, when the umbrella hits, is on this same boy.
 - **Molly.** Plump, red hair, a homemade cardigan, kind face. The same cardigan at King’s Cross in September and in June.

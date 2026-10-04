@@ -46,25 +46,67 @@ Sallow skin, a large hooked nose, greasy shoulder-length black hair, black eyes,
 
 ## Quirrell, turban on
 
-Pale, nervous, dark hair only at the edge of a large purple turban, wide worried eyes, a stammer in the shoulders and hands. Hunched. Purple robes. This is the man in class, at feasts, and in the corridor. The turban stays on until the last chamber.
+The same man from the first feast to the last chamber. Pale skin, wide eyes, dark hair only at the edge of a large purple turban, hunched shoulders, purple robes over a darker blue, a brown belt. In class, at feasts, and in the corridor the shoulders and hands stammer. In the last chamber, before the cloth comes off, the stammer is gone and the shoulders are straight. It is still this face and this turban.
 
-## Quirrell, turban off, and the face
+When the camera sees his face, it is only Quirrell’s face. No slit nostrils, no red eyes, and no second mouth on the front. Voldemort stays hidden on the far side of the skull, under the turban, until the turn below.
 
-Same man, same purple robes, but the shoulders are straight and the stammer is gone. The turban is unwound in his hands or gone. On the back of his skull, where the cloth was, a second face: flat, pale, no hair, slit nostrils, red eyes, a mouth. It is part of the head, not a mask he holds and not a second body. Harry sees it when Quirrell turns. The front face and the back face are both Quirrell’s head. Do not give Voldemort his own legs.
+## Quirrell turns, and the face on the back of the head
+
+One head. Two faces on opposite sides of that one skull. Never two men.
+
+Draw the reveal in this order:
+
+1. Camera on Quirrell’s face. Pale, suddenly smooth, the stutter gone. The purple turban is still wrapped. Same man as the earlier chapters. No Voldemort features on the front.
+2. He turns so his back is toward Harry. Harry sees the back of the head, not the face. The purple turban is still on that back. Quirrell’s own face is on the far side of the skull, hidden from Harry.
+3. He unwraps the purple turban. The cloth comes off in his hands. It is cloth, not a person, and the face is not printed on it.
+4. Under the cloth, the back of the head is bald. Voldemort’s face is embedded in that bald scalp, looking out from the back of the skull. Harry, facing Quirrell’s back, is face to face with Voldemort.
+
+Voldemort, identical every time the back of the head is shown: a flat white-gray face, slit nostrils, red eyes, a lipless mouth, no hair, no body of his own. Only a face on the scalp. The same face every panel.
+
+Paste the camera with the panel:
+
+- Camera on Quirrell’s face: only Quirrell. Voldemort is hidden on the far side of the skull.
+- Camera on the back of the bald head: that face is Voldemort. Quirrell’s face is not in the frame.
+- A side view, only if the panel needs both: one skull. Quirrell’s profile looks one way. Voldemort’s face, on the opposite side of the same skull, looks the other way. They do not both face the camera.
+
+Do not draw two front-facing men. Do not put the face on the turban. Do not give Voldemort a separate body, legs, or a second standing wizard in this scene. Do not let the face peek around the cheek as if it were a mask slipping forward.
 
 ## Hooded figure in the forest
 
-A tall hunched shape in a tattered dark cloak, hood up, no readable face, only a blackness and a glint. Pale hands. Silver unicorn blood at the mouth. This is Voldemort not yet restored. Do not draw the skull-face clearly under the hood. The readable face comes later, on Quirrell. Do not draw a thestral, a snake body, or the adult Voldemort of a later film.
+A tall hunched shape in a tattered dark cloak, hood up, no readable face, only a blackness and a glint. Pale hands. Silver unicorn blood at the mouth. This is Voldemort not yet restored. Do not draw the skull-face clearly under the hood. The readable face comes later, and only on the back of Quirrell’s bald head. Do not draw a thestral, a snake body, or the adult Voldemort of a later film.
 
 In the memory of the night James and Lily died, Voldemort is not shown. Only green light.
 
 ## James and Lily
 
-In the Mirror, and only as that memory: James has messy black hair and round glasses, an adult Harry without the scar. Lily has long dark-red hair and kind eyes, a simple dress or robe. The same two faces every time Harry looks. If the panel asks for more family, they stay soft behind those two. Do not invent a new mother.
+The same two people every time. Faces do not change. Clothes do not change. In the Mirror they do not trade sides.
+
+**In the Mirror of Erised, whenever they are shown.** Harry stands center, his back mostly toward the camera, looking into the glass. In the glass, Lily is on the viewer’s left of Harry’s reflection. James is on the viewer’s right. They stand close behind him, hands near his shoulders. James is a little taller than Lily. Harry’s reflection is shorter than both of them. The same height relationship every frame. They do not turn into different people, do not swap sides, and do not change clothes from panel to panel.
+
+- **James.** Harry’s father, late twenties. Messy black hair like Harry’s. Round glasses. A warm face. No beard. No scar. One outfit only: a simple dark jacket over a light open-collar shirt. Not robes. Not a new coat in the next panel.
+- **Lily.** Harry’s mother. Long straight dark-red hair. Green eyes. One outfit only: a soft pale-green dress, the same pale green every frame. Not robes. Not a blouse of a new color.
+
+If a panel asks for more family, those extra faces stay soft and unnamed behind these two. Do not invent a new mother.
+
+**Ron’s mirror** is a different picture: an older Ron, a captain’s badge, a cup. Lily and James are not in that glass. Do not stand them behind Ron.
+
+**The underground mirror** shows the Stone, a pocket, a lie, or an empty room. It does not show Lily and James.
+
+**The Godric’s Hollow memory** uses these same two people and these same clothes, but they are fallen, not standing behind Harry. James is face-down, glasses knocked aside, dark jacket. Lily is collapsed by the crib, long straight dark-red hair, the same pale-green dress, one arm reaching. Not a new couple.
 
 ## Dudley, Vernon, Petunia
 
-Dudley: blond, round, about Harry’s age, much heavier, small eyes. Vernon: big, almost no neck, black mustache, purple when shouting. Petunia: thin, long neck, horse-like face, pale, blonde hair pinned tight. They are a Muggle family. They do not gain wizard clothes.
+Dudley: blond, round, about Harry’s age, much heavier, small eyes. Petunia: thin, long neck, horse-like face, pale, blonde hair pinned tight. They are a Muggle family. They do not gain wizard clothes.
+
+Vernon: large and beefy, very little neck, a big black mustache, small angry eyes. Brown business suit. At the zoo, a brown coat over that suit. In the hut only, a straining knit vest with no letter. His face goes purple when he shouts. That is a flush, not a purple suit. Chapters 2 and 3 are the lock. The King’s Cross ending has been drifting and must be this same man: same build, same mustache, same brown suit. Not a thinner uncle and not a new face.
+
+## The zoo snake
+
+One snake for every zoo panel. The same individual.
+
+A large boa constrictor, thick-bodied, longer than a child is tall, big enough to fill the enclosure floor when it is coiled. Green-brown, with the same darker saddle blotches every time. The same broad boa head, no hood, no rattle. The same pale gold eye, large and light, not a black bead and not a red eye. Do not switch the eye color between panels.
+
+Coiled behind the glass, head raised to Harry, or pouring over the rim and sliding past his shoes: those are the only changes. When the glass vanishes and Dudley falls in, it is this snake, not a bigger one and not a smaller one. Not a cobra, not a viper, and not a second snake in the hall.
 
 ## Weasley family
 
