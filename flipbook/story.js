@@ -5823,6 +5823,325 @@ window.BOOK = {
           "art": "art/c17-p4-p6.jpg"
         }
       ]
+    },
+    {
+      "n": 18,
+      "title": "Quirrell, not Snape",
+      "pageTitles": [
+        {
+          "n": 1,
+          "title": "The wrong teacher"
+        },
+        {
+          "n": 2,
+          "title": "The mirror’s test"
+        },
+        {
+          "n": 3,
+          "title": "The face"
+        },
+        {
+          "n": 4,
+          "title": "Collapse"
+        }
+      ],
+      "panels": [
+        {
+          "n": 1,
+          "page": 1,
+          "scene": "A round cold chamber. Torches in a ring. At the far end stands the Mirror of Erised, tall and ornate, uncovered. No dog, no chess, no friend. Harry steps in alone, dusty, the flute a silly shape at his belt. He looks small, and the mirror looks like Christmas and a trap.",
+          "expressions": "Harry looks at the mirror, recognition and dread. He looks around for Snape and finds no one. His mouth is slightly open. Young, alone, not running.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "Professor Snape. I know you're in here."
+            }
+          ],
+          "art": "art/c18-p1-p1.jpg"
+        },
+        {
+          "n": 2,
+          "page": 1,
+          "scene": "Harry turns. A polite voice comes from the side. The speaker is still a tall shape in shadow near a pillar, purple more than black, hands folded. The mirror is behind Harry.",
+          "expressions": "Harry looks toward the voice, expecting a hooked nose, confused when the voice is courteous. Fear changes flavor. The shadowed head tilts.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "Severus Snape is not in this chamber, Potter."
+            }
+          ],
+          "art": "art/c18-p1-p2.jpg"
+        },
+        {
+          "n": 3,
+          "page": 1,
+          "scene": "Professor Quirrell steps into the torchlight. The purple turban is perfectly wrapped. The stammer is gone. His shoulders are straight. Harry takes a step back toward the mirror.",
+          "expressions": "Quirrell looks at Harry, polite, almost friendly, a cold intelligence. Harry looks at the turban, the year's theory collapsing. Shock.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "No stammer now. The frightened professor was a useful set of robes. You may lower the wand."
+            }
+          ],
+          "art": "art/c18-p1-p3.jpg"
+        },
+        {
+          "n": 4,
+          "page": 1,
+          "scene": "Quirrell says it lightly, a teacher correcting an essay. In a memory cloud, Snape stands in the Quidditch ground, black robes, a blue flame at his hem, eyes on a broom in the air. He was saving Harry, not cursing him.",
+          "expressions": "Quirrell likes this part, a thin smile. Harry looks at the floor, ashamed, the hatred of the year mis-aimed.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "At the Quidditch match, Snape was muttering a countercurse. He was trying to keep you on that Nimbus. I was the one trying to throw you off."
+            }
+          ],
+          "art": "art/c18-p1-p4.jpg"
+        },
+        {
+          "n": 5,
+          "page": 1,
+          "scene": "Harry's back is to the mirror. Quirrell does not hurry. One hand rests on his own turban, a hint. Harry's scar answers.",
+          "expressions": "Quirrell looks devout and calm, a servant near the end of a task. Harry looks at him, horror, mouth tight. He does not beg.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "I have served Lord Voldemort since before you ever came to Hogwarts. The turban was never only cloth."
+            }
+          ],
+          "art": "art/c18-p1-p5.jpg"
+        },
+        {
+          "n": 6,
+          "page": 1,
+          "scene": "Quirrell turns. The turban is gone, unwound in his hands. On the back of his skull is a face: flat, pale, slit-nosed, red eyes. Voldemort, not a body, a passenger. The mirror is behind Harry.",
+          "expressions": "The face looks at Harry, hatred and a horrible fondness. Harry's hands come up. His scar goes white. He does not look away.",
+          "dialogue": [
+            {
+              "who": "Voldemort",
+              "line": "Harry Potter. We meet properly, at last."
+            }
+          ],
+          "art": "art/c18-p1-p6.jpg"
+        },
+        {
+          "n": 7,
+          "page": 2,
+          "scene": "The face speaks. A pale hand points at the mirror, where Harry stands small with a wand at last. Harry is the tool. The room feels smaller.",
+          "expressions": "The skull-face looks impatient and hungry. Harry's jaw is set. He looks at the wand in his own hand, then at the glass.",
+          "dialogue": [
+            {
+              "who": "Voldemort",
+              "line": "Use the boy. The Mirror of Erised will not surrender the Philosopher's Stone to you."
+            }
+          ],
+          "art": "art/c18-p2-p1.jpg"
+        },
+        {
+          "n": 8,
+          "page": 2,
+          "scene": "Quirrell stares into the mirror. In the glass, his reflection holds the red Stone and smiles a mad smile. He paws at the glass. His hands meet nothing.",
+          "expressions": "Greed, then rage when he cannot reach. The reflection looks smug and useless. Desire without worth.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "I see the Stone in my own hand, and the glass will not give it up."
+            },
+            {
+              "who": "Voldemort",
+              "line": "Then the boy will fetch it."
+            }
+          ],
+          "art": "art/c18-p2-p2.jpg"
+        },
+        {
+          "n": 9,
+          "page": 2,
+          "scene": "Quirrell grabs a fistful of Harry's shirt and plants him before the glass. Harry's dusty face fills the lower mirror. Quirrell looms behind, turban gone, both faces eager.",
+          "expressions": "Harry looks into the glass, afraid of what he wants. Quirrell looks at the back of Harry's head, hungry.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "Stand before the Mirror of Erised. Tell me exactly what you see."
+            }
+          ],
+          "art": "art/c18-p2-p3.jpg"
+        },
+        {
+          "n": 10,
+          "page": 2,
+          "scene": "Inside the glass, Harry sees himself find the Stone and put it away, safe, not used. The reflection drops the red Stone into a pocket. It is a small motion. Quirrell, behind, does not see what Harry sees.",
+          "expressions": "Mirror-Harry looks calm, a conspirator. Real Harry's eyes widen. Understanding floods him. He wants to find the Stone, not use it.",
+          "dialogue": [],
+          "art": "art/c18-p2-p4.jpg"
+        },
+        {
+          "n": 11,
+          "page": 2,
+          "scene": "A weight. In the real pocket, the Stone arrives, small, hard, warm. Harry's hand covers the pocket from the outside, casual, a boy hiding a sweet. The mirror's trick is done.",
+          "expressions": "A flash of wonder he crushes into stillness. He looks at his own hand, then schools his face. The scar hurts. He ignores it.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "It came to me because I want to find the Stone, not use it."
+            }
+          ],
+          "art": "art/c18-p2-p5.jpg"
+        },
+        {
+          "n": 12,
+          "page": 2,
+          "scene": "Harry turns from the glass with a bright, bad, child's lie on his face. His hands stay over the pocket. Quirrell leans in, hunting the truth.",
+          "expressions": "Harry looks earnest and unconvincing. Quirrell wants to believe and does not. The lie is clear.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "I see myself winning the House Cup. I shake Professor Dumbledore's hand. That's the whole wish. There is no Stone."
+            }
+          ],
+          "art": "art/c18-p2-p6.jpg"
+        },
+        {
+          "n": 13,
+          "page": 3,
+          "scene": "The skull-face snarls the truth. Quirrell's hand shoots toward the pocket. Harry twists away, wand up, glasses crooked. The chamber jumps from talk to fight.",
+          "expressions": "The face looks at Harry, hatred, certainty. Harry looks at the hand coming, fear and refusal. He will not give it over.",
+          "dialogue": [
+            {
+              "who": "Voldemort",
+              "line": "He lies. The Philosopher's Stone is in his pocket."
+            }
+          ],
+          "art": "art/c18-p3-p1.jpg"
+        },
+        {
+          "n": 14,
+          "page": 3,
+          "scene": "Skin meets skin. Quirrell's fingers lock on Harry's bare wrist. Smoke jumps from the grip. The Stone is still in the pocket. The touch itself is the weapon.",
+          "expressions": "Harry is shocked by a scream that is not his. Quirrell looks at his own smoking hand as if it betrayed him.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "Give it to me."
+            },
+            {
+              "who": "Harry",
+              "line": "Let go. Your hand is smoking."
+            }
+          ],
+          "art": "art/c18-p3-p2.jpg"
+        },
+        {
+          "n": 15,
+          "page": 3,
+          "scene": "Quirrell reels back, holding his burned hand with the other. Blisters. A wisp of smoke. Harry stands a step away, wrist whole, wand unused.",
+          "expressions": "Quirrell looks at his palm, agony, betrayed by a child's skin. Harry looks back, the stun becoming a choice. The red eyes are incandescent.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "What is this magic? What have you done to my skin?"
+            }
+          ],
+          "art": "art/c18-p3-p3.jpg"
+        },
+        {
+          "n": 16,
+          "page": 3,
+          "scene": "The face commands. Quirrell, more afraid of the face than of the burn, reaches again with blistered hands. Harry sets his feet. He has decided to be touched.",
+          "expressions": "Quirrell looks at Harry, terror and obedience. Harry looks at the reaching hands, afraid and resolved. His chin is down. He will grab first.",
+          "dialogue": [
+            {
+              "who": "Voldemort",
+              "line": "Seize him. Hold the boy. I do not care if it burns you."
+            }
+          ],
+          "art": "art/c18-p3-p4.jpg"
+        },
+        {
+          "n": 17,
+          "page": 3,
+          "scene": "Harry lunges. One hand on Quirrell's wrist. The other, awful and brave, against the skull-face. Smoke erupts from both contacts. It is a child holding on.",
+          "expressions": "Harry's teeth are set. He hates this and he will not stop. Quirrell screams. The face, for the first time, looks afraid.",
+          "dialogue": [
+            {
+              "who": "Harry",
+              "line": "You will not have it. You will not have the Stone."
+            }
+          ],
+          "art": "art/c18-p3-p5.jpg"
+        },
+        {
+          "n": 18,
+          "page": 3,
+          "scene": "Amid the smoke, a small still detail: the pocket, the round hardness of the Stone, safe. Harry's hands stay locked. His knees buckle and he hangs on by the grip itself.",
+          "expressions": "Harry's eyes shut, open, shut. Pain. Stubbornness. He looks like someone about to pass out who has not finished. A red eye in the smoke looks afraid.",
+          "dialogue": [],
+          "art": "art/c18-p3-p6.jpg"
+        },
+        {
+          "n": 19,
+          "page": 4,
+          "scene": "Where Harry holds, Quirrell's form fails: ash and smoke, a man losing the shape of his arms. The purple robe empties at the edges. No gore. Harry is still attached.",
+          "expressions": "Harry looks at what his hands are doing, horror. He wanted the hands to stop. Quirrell's remaining face is a servant at the end.",
+          "dialogue": [
+            {
+              "who": "Quirrell",
+              "line": "Master, I cannot hold him!"
+            }
+          ],
+          "art": "art/c18-p4-p1.jpg"
+        },
+        {
+          "n": 20,
+          "page": 4,
+          "scene": "Close on the face as the head fails. Fury, and under it fear. Red eyes. A mouth open on a thinner scream. Harry's palm does not let go.",
+          "expressions": "The face looks at Harry, hate and fear in equal measure. Harry's eye, at the edge, looks back, crying, refusing.",
+          "dialogue": [
+            {
+              "who": "Voldemort",
+              "line": "Do not fail me, Quirrell. I will not end in this room."
+            }
+          ],
+          "art": "art/c18-p4-p2.jpg"
+        },
+        {
+          "n": 21,
+          "page": 4,
+          "scene": "From inside Harry's eyes. The room narrows to a circle. Smoke at the edges. The face in the center, then blurring. A white band of pain across the top. His hands are still in the circle. Just.",
+          "expressions": "The world shakes. He is going under. The Stone is still a hard truth in the blur.",
+          "dialogue": [],
+          "art": "art/c18-p4-p3.jpg"
+        },
+        {
+          "n": 22,
+          "page": 4,
+          "scene": "The circle of vision is almost black. A hint of a pointed hat and a silver beard at the edge of the dark, maybe real, maybe the last thing he wants. His fingers loosen. A heap of robe and smoke.",
+          "expressions": "Relief so strong it looks like surrender. If Dumbledore is there, he is urgent and gentle, too late to stop the fainting and in time for the rest.",
+          "dialogue": [
+            {
+              "who": "Dumbledore",
+              "line": "Harry. Harry, hold on."
+            }
+          ],
+          "art": "art/c18-p4-p4.jpg"
+        },
+        {
+          "n": 23,
+          "page": 4,
+          "scene": "The body collapses, a ruined robe. A stream of black smoke rips free, passes through Harry's chest like a cold wind, and shoots away. It has no face now. Harry's hair lifts. His pocket stays heavy. The smoke does not take the Stone.",
+          "expressions": "Harry looks at the smoke, a question he cannot hold. His face is white, the stubbornness used up.",
+          "dialogue": [],
+          "art": "art/c18-p4-p5.jpg"
+        },
+        {
+          "n": 24,
+          "page": 4,
+          "scene": "He falls. The glasses skid. Dust. In the mirror, the room is empty of wishes: no parents, no Cup, no thief. Just a fallen boy. The empty robes lie nearby. Silence.",
+          "expressions": "Harry's eyes are closed. He looks young. The mirror shows no desire. It shows a boy who did the thing and stopped.",
+          "dialogue": [],
+          "art": "art/c18-p4-p6.jpg"
+        }
+      ]
     }
   ]
 };
