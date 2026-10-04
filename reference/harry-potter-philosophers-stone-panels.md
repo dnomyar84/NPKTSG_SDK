@@ -2,6 +2,8 @@
 
 Reference storyboard for the first film, told in original wording. It is a reading layout for imagining the story, not a transcript. Speech is paraphrased in Hogwarts English: teachers are formal, pupils sound like a British boarding school, and Hagrid is broad and warm. Names, houses, spells, and magical objects keep their proper terms. Professor Snape addresses Harry as Mr Potter, never by his first name.
 
+How people address each other, and which funny, embarrassing, and disgusting beats must be kept, is in [address-and-famous-beats.md](address-and-famous-beats.md). Later dialogue should follow that note. This storyboard is not rewritten there.
+
 - **20 chapters**, the names kept from the chapter pass.
 - **4 pages** in every chapter.
 - **6 panels** on every page.
