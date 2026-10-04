@@ -529,11 +529,11 @@ dd { margin: 2px 0 0; line-height: 1.45; }
     will-change: transform;
   }
   .mobile-turn.turn-forward {
-    animation: mobile-peel-forward 0.48s cubic-bezier(.2, .65, .2, 1) forwards;
+    animation: mobile-peel-forward 0.58s linear forwards;
     box-shadow: 14px 10px 28px rgba(20, 12, 6, 0.34);
   }
   .mobile-turn.turn-back {
-    animation: mobile-peel-back 0.48s cubic-bezier(.2, .65, .2, 1) forwards;
+    animation: mobile-peel-back 0.58s linear forwards;
     box-shadow: -14px 10px 28px rgba(20, 12, 6, 0.34);
   }
   .mobile-turn.turn-forward::after,
@@ -553,8 +553,8 @@ dd { margin: 2px 0 0; line-height: 1.45; }
     left: 0;
     background: linear-gradient(90deg, rgba(40, 24, 10, 0.28), transparent);
   }
-  .page.settle-from-right { animation: mobile-enter-forward 0.48s cubic-bezier(.2, .65, .2, 1); }
-  .page.settle-from-left { animation: mobile-enter-back 0.48s cubic-bezier(.2, .65, .2, 1); }
+  .page.settle-from-right { animation: mobile-enter-forward 0.58s linear; }
+  .page.settle-from-left { animation: mobile-enter-back 0.58s linear; }
   @keyframes mobile-peel-forward {
     0% { transform: translate3d(0, 0, 0) rotate(0deg); }
     100% { transform: translate3d(-112%, 0, 0) rotate(-7deg); }
@@ -619,30 +619,20 @@ dd { margin: 2px 0 0; line-height: 1.45; }
 
 @media (max-width: 800px) and (prefers-reduced-motion: reduce) {
   .mobile-turn.turn-reduce.turn-forward {
-    animation: mobile-slide-forward-reduce 0.34s ease-out forwards;
-    box-shadow: 8px 0 18px rgba(20, 12, 6, 0.22);
+    animation: mobile-slide-forward-reduce 0.4s ease-out forwards;
+    box-shadow: 10px 0 22px rgba(20, 12, 6, 0.28);
   }
   .mobile-turn.turn-reduce.turn-back {
-    animation: mobile-slide-back-reduce 0.34s ease-out forwards;
-    box-shadow: -8px 0 18px rgba(20, 12, 6, 0.22);
+    animation: mobile-slide-back-reduce 0.4s ease-out forwards;
+    box-shadow: -10px 0 22px rgba(20, 12, 6, 0.28);
   }
   .mobile-turn.turn-reduce::after { display: none; }
-  .page.settle-from-right { animation: mobile-enter-forward-reduce 0.34s ease-out; }
-  .page.settle-from-left { animation: mobile-enter-back-reduce 0.34s ease-out; }
   @keyframes mobile-slide-forward-reduce {
-    from { transform: translate3d(0, 0, 0); opacity: 1; }
-    to { transform: translate3d(-48%, 0, 0); opacity: 0.2; }
+    from { transform: translate3d(0, 0, 0); }
+    to { transform: translate3d(-108%, 0, 0); }
   }
   @keyframes mobile-slide-back-reduce {
-    from { transform: translate3d(0, 0, 0); opacity: 1; }
-    to { transform: translate3d(48%, 0, 0); opacity: 0.2; }
-  }
-  @keyframes mobile-enter-forward-reduce {
-    from { transform: translate3d(12%, 0, 0); }
-    to { transform: translate3d(0, 0, 0); }
-  }
-  @keyframes mobile-enter-back-reduce {
-    from { transform: translate3d(-12%, 0, 0); }
-    to { transform: translate3d(0, 0, 0); }
+    from { transform: translate3d(0, 0, 0); }
+    to { transform: translate3d(108%, 0, 0); }
   }
 }

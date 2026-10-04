@@ -285,7 +285,7 @@
     void turnSheet.offsetWidth;
     if (reduceMotion()) turnSheet.classList.add("turn-reduce");
     turnSheet.classList.add(forward ? "turn-forward" : "turn-back");
-    incoming.classList.add(forward ? "settle-from-right" : "settle-from-left");
+    if (!reduceMotion()) incoming.classList.add(forward ? "settle-from-right" : "settle-from-left");
     const seconds = Number.parseFloat(getComputedStyle(turnSheet).animationDuration) || 0.5;
     window.setTimeout(finish, seconds * 1000 + 140);
   }
