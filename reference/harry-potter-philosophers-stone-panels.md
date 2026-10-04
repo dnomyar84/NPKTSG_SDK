@@ -4,7 +4,7 @@ Reference storyboard for the first film, told in original wording. It is a readi
 
 How people address each other, and which funny, embarrassing, and disgusting beats must be kept, is in [address-and-famous-beats.md](address-and-famous-beats.md). Later dialogue should follow that note. This storyboard is not rewritten there.
 
-Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, and a visible link when someone casts a spell. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
+Drawing rules for later pictures are in [rules.md](rules.md): one costume per scene, the same creature and prop every time, all four houses when the whole school is in the frame, a visible link when someone casts a spell, and a moving staircase as one rigid flight hinged at the bottom. The locks are in [wardrobes.md](wardrobes.md), [characters.md](characters.md), and [props.md](props.md). Those notes do not replace this storyboard.
 
 - **20 chapters**, the names kept from the chapter pass.
 - **4 pages** in every chapter.
@@ -1463,10 +1463,10 @@ Lost in the castle, small magics, the dungeon, and points taken.
 #### C7-P1-P1
 
 - **Beat:** A staircase moves. Harry and Ron miss their landing.
-- **Image:** They step and the staircase swings away from the landing they wanted. Their robes fly. A suit of armor watches.
-- **Setting:** A tall Hogwarts stairwell, morning. Moving staircases, high windows, stone, portraits. Other students ride different flights calmly.
-- **Who:** Harry, school robes, tie, gray V-neck, glasses, book bag slipping. Ron, red hair, secondhand robes, maroon sweater, a map he does not have, arms windmilling. A suit of armor, empty, spear in its gauntlet.
-- **Faces:** Harry looks at the departing landing, alarmed. Ron looks at Harry, a wild grin that is also panic. The armor looks, somehow, unimpressed.
+- **Image:** One entire flight turns as a single solid object. Every step stays fixed to the other steps. Both railings are part of that same flight and turn with it. The steps do not walk, shuffle, or detach. The lower end stays on its landing and is the hinge. The upper end has swung away from the landing Harry and Ron wanted, toward an empty gap, and a gap is opening between that upper end and the landing it is leaving. Harry and Ron are on the flight, almost losing balance: feet planted on the steps, bodies jerked sideways, each with a hand grabbing the railing that is turning with them, a book sliding, robes flying. They are not calmly walking. Students on the other landings have stopped and stare at the turning flight. A suit of armor watches. No other flight is moving.
+- **Setting:** A tall Hogwarts stairwell, morning, high windows, stone, portraits. Camera, and use this same angle whenever a panel shows the stairs turning: three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible mid-swing, with the gap opening between the moving upper end and the landing it is leaving. Not a flat head-on view. The bottom hinge is in frame, not cropped out. Only this one flight is turning. The other flights are still.
+- **Who:** Harry, on the moving flight, school robes, tie, gray V-neck, glasses, feet planted, body jerked sideways, one hand locked on the turning railing, book bag slipping. Ron, on the same flight, red hair, secondhand robes, maroon sweater, feet planted, body jerked sideways, one hand on that same railing, a book sliding. Students on the landings, stopped, faces turned toward the flight, nobody else riding it. A suit of armor, empty, spear in its gauntlet.
+- **Faces:** Harry looks at the departing landing, alarmed, almost falling. Ron looks at Harry, a wild grin that is also panic, off balance. The students on the landings stare at the turning flight. The armor looks, somehow, unimpressed.
 - **Dialogue:** **Ron:** "That was our landing!" **Harry:** "It moved. The whole staircase moved."
 
 #### C7-P1-P2
@@ -3210,10 +3210,10 @@ An illegal egg, a bite, a spy, a midnight handoff, and detention.
 #### C14-P3-P4
 
 - **Beat:** They lose him on a moving staircase.
-- **Image:** A staircase swings. Draco lunges and the steps carry him away, robes flaring, shout swallowed. The crate party stumbles onto the landing they needed. For a second the castle itself takes their side.
-- **Setting:** The moving stairwell, night, moonlight through tall windows, several staircases in motion like a machine.
-- **Who:** Draco borne away, platinum hair, fury, one hand still reaching. Harry, Hermione, Ron, and the smoking crate on the right landing, cloak askew. Norbert scrabbling inside.
-- **Faces:** Draco looks back, the victory cracking into rage. Harry looks at the swinging gap, a breath of thanks, not a smile. Hermione looks up the tower stairs, no time. Ron looks at his bandage, dizzy, still moving.
+- **Image:** One entire flight turns as a single solid object. Every step stays fixed to the other steps. Both railings are part of that same flight and turn with it. The steps do not walk, shuffle, or detach. The lower end stays on its landing and is the hinge. The upper end swings away from the landing it used to meet, and a gap opens between that moving upper end and the landing it is leaving. Draco is on the flight, almost losing balance: feet planted on the steps, body jerked sideways, one hand grabbing the railing that is turning with him, the other hand still reaching, robes flaring, shout swallowed. He is not calmly walking. Harry, Hermione, and Ron are on the landing they needed, stopped, staring at the turning flight, the smoking crate with them. Nobody else is on the flight. For a second the castle itself takes their side.
+- **Setting:** A Hogwarts stairwell, night, moonlight through tall windows, stone. Camera, the same angle as every panel where the stairs are actually turning: three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible mid-swing, with the gap opening between the moving upper end and the landing it is leaving. Not a flat head-on view. The bottom hinge is in frame, not cropped out. Only this one flight is turning. The other flights are still.
+- **Who:** Draco, on the moving flight, platinum hair, fury, feet planted, body jerked sideways, one hand locked on the turning railing, the other still reaching. Harry, Hermione, and Ron on the landing, not on the flight, cloak askew, faces turned toward the flight, the smoking crate beside them. Norbert scrabbling inside. No second flight in motion.
+- **Faces:** Draco looks back, the victory cracking into rage, almost falling. Harry looks at the swinging gap, a breath of thanks, not a smile, face turned toward the flight. Hermione stares at the turning flight, no time. Ron stares at the flight, dizzy, still on the landing.
 - **Dialogue:** **Draco:** "The staircase moved. You cheat, Potter!"
 
 #### C14-P3-P5
