@@ -27,8 +27,6 @@
   const leaf = document.getElementById("leaf");
   const leafFront = document.getElementById("leafFront");
   const leafBack = document.getElementById("leafBack");
-  const prevBtn = document.getElementById("prevBtn");
-  const nextBtn = document.getElementById("nextBtn");
   const status = document.getElementById("status");
   const notes = document.getElementById("notes");
   const notesBtn = document.getElementById("notesBtn");
@@ -83,10 +81,15 @@
     const picture = panel.art
       ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}">`
       : `<div class="missing">Art not drawn yet</div>`;
+    const caption = panel.caption
+      ? `<p class="caption">${escapeHtml(panel.caption)}</p>`
+      : "";
     const lines = panel.dialogue.map((d) =>
       `<p><span class="who">${escapeHtml(d.who)}</span>${escapeHtml(d.line)}</p>`
     ).join("");
-    return `<figure class="panel"><span class="num">${panel.n}</span>${picture}<figcaption class="lines">${lines}</figcaption></figure>`;
+    const text = `${caption}${lines}`;
+    const fig = text ? `<figcaption class="lines">${text}</figcaption>` : "";
+    return `<figure class="panel"><span class="num">${panel.n}</span>${picture}${fig}</figure>`;
   }
 
   function pageHtml(page) {
@@ -120,12 +123,10 @@
       const current = showingRight ? rightPage : leftPage;
       const info = catalog[current];
       status.textContent = info
-        ? `Chapter ${info.chapter.n}, page ${info.local} of ${info.chapterPages}. Tap the page to turn it.`
+        ? `Chapter ${info.chapter.n}, page ${info.local} of ${info.chapterPages}. Tap the left half to turn back, the right half to turn forward.`
         : "End of the book.";
-      leftEl.title = "Turn page";
-      rightEl.title = "Turn page";
-      prevBtn.disabled = current <= 1;
-      nextBtn.disabled = current >= pageCount;
+      leftEl.title = "Left half turns back. Right half turns forward.";
+      rightEl.title = "Left half turns back. Right half turns forward.";
     } else {
       const leftInfo = catalog[leftPage];
       const rightInfo = catalog[rightPage];
@@ -138,8 +139,6 @@
       status.textContent = `${label}. Click the right page to turn forward, the left page to turn back.`;
       leftEl.title = "Turn back";
       rightEl.title = "Turn page";
-      prevBtn.disabled = spread === 0;
-      nextBtn.disabled = spread >= spreadCount - 1;
     }
     renderNotes();
   }
@@ -261,8 +260,6 @@
     });
   }
 
-  prevBtn.addEventListener("click", turnBack);
-  nextBtn.addEventListener("click", turnForward);
   notesBtn.addEventListener("click", () => {
     document.body.classList.toggle("show-notes");
     notesBtn.textContent = document.body.classList.contains("show-notes") ? "Hide script notes" : "Show script notes";
@@ -272,13 +269,31 @@
     if (event.key === "ArrowRight") turnForward();
     if (event.key === "ArrowLeft") turnBack();
   });
-  leftEl.addEventListener("click", () => {
-    if (mobile()) turnForward();
-    else turnBack();
+  function onPageClick(event) {
+    const pageEl = event.currentTarget;
+    if (mobile()) {
+      const rect = pageEl.getBoundingClientRect();
+      const x = event.clientX - rect.left;
+      if (x < rect.width / 2) turnBack();
+      else turnForward();
+      return;
+    }
+    if (pageEl === leftEl) turnBack();
+    else turnForward();
+  }
+  leftEl.addEventListener("click", onPageClick);
+  rightEl.addEventListener("click", onPageClick);
+  let narrow = mobile();
+  window.addEventListener("resize", () => {
+    const now = mobile();
+    if (now !== narrow) {
+      narrow = now;
+      renderStatic();
+    }
+    fit();
   });
-  rightEl.addEventListener("click", () => turnForward());
-  window.addEventListener("resize", fit);
 
   renderStatic();
   fit();
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
 })();
