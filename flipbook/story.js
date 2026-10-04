@@ -430,7 +430,7 @@ window.BOOK = {
         {
           "n": 7,
           "page": 2,
-          "scene": "The reptile house. Dudley presses both hands to the snake's glass. Harry stands a step behind. Vernon and Petunia are soft shapes down the hall.",
+          "scene": "The reptile house. Dudley presses both hands to the glass. Behind it is one large green-brown boa with darker saddles, thick enough to fill the enclosure floor, longer than Dudley is tall, the same pale gold eye. Harry stands a step behind. Vernon, large and beefy, big black mustache, brown coat, is a soft shape down the hall with Petunia.",
           "expressions": "Dudley wants a trick. The snake looks past him. Harry looks at the snake, curious and gentle.",
           "caption": "Dudley bangs on the snake's glass.",
           "dialogue": [
@@ -444,7 +444,7 @@ window.BOOK = {
         {
           "n": 8,
           "page": 2,
-          "scene": "Through the glass, the snake's gold eye is aimed past Dudley toward Harry. Dudley is a blur at the edge.",
+          "scene": "Through the glass, the same boa's pale gold eye is aimed past Dudley toward Harry. Same broad head, same darker saddles, not a new snake in close-up. Dudley is a blur at the edge.",
           "expressions": "The snake looks only at Harry. Dudley does not understand he has been dismissed. Harry looks back, startled and pleased.",
           "caption": "The snake ignores Dudley and looks at Harry.",
           "dialogue": [],
@@ -453,7 +453,7 @@ window.BOOK = {
         {
           "n": 9,
           "page": 2,
-          "scene": "Harry is close to the glass, one hand spread on the pane. The snake has slid nearer, tongue almost touching the spot opposite his fingers.",
+          "scene": "Harry is close to the glass, one hand spread on the pane. The same green-brown boa, still longer than he is tall, has slid nearer, tongue almost touching the spot opposite his fingers.",
           "expressions": "Harry looks into the snake's eye, earnest. The snake looks back, steady. No fear on either side.",
           "caption": "The snake answers by moving.",
           "dialogue": [
@@ -467,7 +467,7 @@ window.BOOK = {
         {
           "n": 10,
           "page": 2,
-          "scene": "Dudley shoves Harry. The tank's glass is gone, a clean absence, and the snake pours over the rim into the hall.",
+          "scene": "Dudley shoves Harry. The tank's glass is gone, and the same thick green-brown boa pours over the rim. It is not a bigger snake and not a smaller one.",
           "expressions": "Dudley looks confused. Harry looks at the empty frame, shocked. The snake looks at the open hall.",
           "caption": "Dudley shoves Harry. The glass is gone.",
           "dialogue": [
@@ -481,7 +481,7 @@ window.BOOK = {
         {
           "n": 11,
           "page": 2,
-          "scene": "Dudley topples into the tank. The snake slides across the tile past Harry, unhurried, toward daylight. Petunia watches in horror.",
+          "scene": "Dudley topples into the tank. The same boa, darker saddles and the same pale gold eye, slides across the tile past Harry, unhurried, toward daylight. Petunia watches in horror.",
           "expressions": "Dudley looks up, furious and scared. Harry looks down at the snake, almost kind. The snake does not look back.",
           "caption": "Dudley falls in. The snake slides past.",
           "dialogue": [
@@ -1364,7 +1364,7 @@ window.BOOK = {
         {
           "n": 22,
           "page": 4,
-          "scene": "The narrow shop turns beautiful. Gold-white light pours from the wand in Harry's hand. Dust becomes sparks. The lamp is dull beside it.",
+          "scene": "The narrow shop turns beautiful. Gold-white light pours from the wand in Harry's hand, not from anyone's eyes. Ollivander, wispy silver hair, pale silvery eyes, dark old suit, watches the wand. Dust becomes sparks. The lamp is dull beside it.",
           "expressions": "Harry looks at the wand, wonder, a small smile. Ollivander looks at the pair of them, satisfied and troubled.",
           "caption": "One wand stays. Warm light fills the shop.",
           "dialogue": [
@@ -1378,7 +1378,7 @@ window.BOOK = {
         {
           "n": 23,
           "page": 4,
-          "scene": "Quiet shop. The glow has faded to a thread. The wand lies between their hands. Ollivander holds the box in his other hand.",
+          "scene": "Quiet shop. A thread of the same wand-light remains. The wand lies between their hands. Ollivander, same dark suit and wispy silver hair, looks at Harry or at the wand, and holds the box in his other hand.",
           "expressions": "Ollivander looks at Harry, curious and grave. Harry looks at the wand, the smile gone. He understands he is tied to the person who gave him the scar.",
           "caption": "",
           "dialogue": [
@@ -1452,7 +1452,7 @@ window.BOOK = {
         {
           "n": 2,
           "page": 1,
-          "scene": "Under the station roof, Harry stands between platforms nine and ten. A solid brick barrier fills the gap. Commuters flow around him. A pigeon sits on the bricks.",
+          "scene": "Under the station roof, before any red-haired family arrives, Harry stands between platforms nine and ten and asks a uniformed platform officer the way. A solid brick barrier fills the gap. A pigeon sits on the bricks.",
           "expressions": "Harry looks from sign to sign, lost, the hope from Diagon Alley thinning. The commuters do not look at him.",
           "caption": "Between platforms 9 and 10. There is no 9¾.",
           "dialogue": [
@@ -1466,9 +1466,9 @@ window.BOOK = {
         {
           "n": 3,
           "page": 1,
-          "scene": "Beside the barrier, a station guard laughs, one hand on his belt, the other waving Harry off. Hedwig's gold eye shows at the edge of the cloth.",
-          "expressions": "The guard is amused, not cruel, and useless. Harry's ears are red. He looks at the bricks, jaw tight. He will not ask again.",
-          "caption": "A guard laughs.",
+          "scene": "Beside the barrier, the same platform officer laughs, amused and dismissive, and points Harry away. He does not take him to a train. Hedwig's gold eye shows at the edge of the cloth. No Weasleys yet.",
+          "expressions": "The officer is amused, not cruel, and useless. Harry's ears are red. He is left looking at the bricks, jaw tight. He will not ask again.",
+          "caption": "The officer laughs and points him away.",
           "dialogue": [
             {
               "who": "Guard",
@@ -4511,9 +4511,9 @@ window.BOOK = {
         {
           "n": 8,
           "page": 2,
-          "scene": "Close on their knees and the fire. The cloak spills out, silver-gray, more water than wool. Harry's hand goes under it and ends at the wrist. A blank note lies on the rug. No one else is in the room.",
-          "expressions": "Harry looks at the missing hand, wonder and a lump in the throat. Ron looks at the emptiness, delighted and hushed, and does not cheer.",
-          "caption": "He lifts the cloth. His hand is gone.",
+          "scene": "Close on their knees and the fire. The cloak spills out, silver-gray, a sheer shimmer at the edge. Harry's hand goes under it. Ron thinks it has gone, but the hand is still there, 90% transparent, only about 10% opacity, faint but clearly his fingers. A blank note lies on the rug.",
+          "expressions": "Harry looks at the faint hand, wonder and a lump in the throat. Ron looks at the shimmer, delighted and hushed, and does not cheer.",
+          "caption": "He lifts the cloth. The hand goes faint.",
           "dialogue": [
             {
               "who": "Ron",
@@ -4525,17 +4525,17 @@ window.BOOK = {
         {
           "n": 9,
           "page": 2,
-          "scene": "A sleeping corridor at night. Suits of armor, low torches, a window of snow. Only a pair of sneakers walks, with a faint silver shimmer at the hem. A painted portrait's eyes follow the shoes she cannot attach to a person.",
-          "expressions": "No face. The freedom is in the unaccompanied shoes. The portrait looks puzzled, tracking a person she cannot see.",
-          "caption": "Night. Only his shoes show under the cloak.",
+          "scene": "A sleeping corridor at night. Suits of armor, low torches, a window of snow. Harry's sneakers are solid under the hem. The rest of him is 90% transparent, only about 10% opacity: a faint but clearly Harry figure, face, hair, scar side, glasses, and the green jumper still readable, with a sheer silver-gray cloak edge. A portrait's eyes follow him.",
+          "expressions": "His faint face is cautious and free. The portrait looks puzzled. She can almost see a boy.",
+          "caption": "Night. His shoes show. He is still faintly there.",
           "dialogue": [],
           "art": "art/c13-p2-p3.jpg"
         },
         {
           "n": 10,
           "page": 2,
-          "scene": "Filch's lantern pools on the stones. He sniffs the air, stringy hair and shabby coat, and Mrs Norris's eyes shine as her head turns. A single sneaker and a silver hem slip past at the edge of the frame.",
-          "expressions": "Filch looks at the dark, suspicious, then ready to dismiss it. Mrs Norris looks at the trail and knows. The panel is a held breath.",
+          "scene": "Filch's lantern pools on the stones. He sniffs the air, stringy hair and shabby coat, and Mrs Norris's eyes shine as her head turns. Harry slips past: solid shoes, and the rest of him a faint 10%-opacity figure, face and green jumper still readable under a sheer silver edge. Filch does not see the boy the reader can see.",
+          "expressions": "Filch looks at the dark, suspicious, then ready to dismiss it. Mrs Norris looks at the faint boy and knows. Harry's faint face is a held breath.",
           "caption": "He slips past Filch.",
           "dialogue": [
             {
@@ -4548,8 +4548,8 @@ window.BOOK = {
         {
           "n": 11,
           "page": 2,
-          "scene": "A forgotten stretch of castle. Dust, moonlight, a tapestry of a chess game with no writing. A tall unused door stands ajar. The handle is moving by itself. Only sneakers and a silver shimmer wait on the floor.",
-          "expressions": "No faces. Suspense. The door looks as if it has been waiting.",
+          "scene": "A forgotten stretch of castle. Dust, moonlight, a tapestry of a chess game with no writing. A tall unused door stands ajar. Harry's faint hand, 90% transparent and still clearly his, depresses the handle. The rest of him is the same faint figure beside the door, shoes solid, face readable. Not an empty frame.",
+          "expressions": "His faint face looks at the door, cautious. The door looks as if it has been waiting.",
           "caption": "A door he has never seen.",
           "dialogue": [],
           "art": "art/c13-p2-p5.jpg"
@@ -4580,8 +4580,8 @@ window.BOOK = {
         {
           "n": 14,
           "page": 3,
-          "scene": "The real room stays empty behind Harry. Only the mirror changes. Over the reflection's shoulders the glass clears into people who are not in the room: a woman with long dark-red hair, a man with messy black hair and round glasses, and softer faces behind them, smiling and waving.",
-          "expressions": "Real Harry looks at the glass, frozen. The woman looks at him with love. The man looks at him with pride and a gentle sadness. They look at Harry.",
+          "scene": "The real room stays empty behind Harry. He stands center, back mostly toward us. In the glass, Lily is on the viewer's left of his reflection: long straight dark-red hair, green eyes, a soft pale-green dress. James is on the viewer's right: messy black hair, round glasses, no beard, a simple dark jacket. They stand close behind him and do not swap sides.",
+          "expressions": "Real Harry looks at the glass, frozen. Lily, on the viewer's left, looks at him with love. James, on the viewer's right, looks at him with pride and a gentle sadness.",
           "caption": "Figures appear behind his reflection.",
           "dialogue": [
             {
@@ -4594,8 +4594,8 @@ window.BOOK = {
         {
           "n": 15,
           "page": 3,
-          "scene": "Close inside the glass, a warm light that does not match the moon. Lily, long dark-red hair and a pale green dress, lifts one hand. James, glasses and untidy black hair, rests a hand on mirror-Harry's shoulder. Harry in the green sweater stands between them.",
-          "expressions": "Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from one to the other, starving.",
+          "scene": "Close inside the glass, a warm light that does not match the moon. Same sides as every other frame. Lily, on the viewer's left, long straight dark-red hair, green eyes, the same pale-green dress, lifts one hand. James, on the viewer's right, glasses, untidy black hair, no beard, the same dark jacket, rests a hand on mirror-Harry's shoulder. Harry stands between them.",
+          "expressions": "Lily looks at Harry, tender, knowing him. James grins, proud, and a little broken by the glass. Harry looks from the woman on the viewer's left to the man on the viewer's right.",
           "caption": "A woman with kind eyes. A man with his glasses.",
           "dialogue": [],
           "art": "art/c13-p3-p3.jpg"
@@ -4617,8 +4617,8 @@ window.BOOK = {
         {
           "n": 17,
           "page": 3,
-          "scene": "He is pressed to the mirror, both palms flat, forehead nearly touching the glass. Inside, Lily and James meet his hands from the other side and do not quite pass through. A softer family crowd waits behind them. His breath fogs the lower corner, and the fog has no writing.",
-          "expressions": "Harry looks at his mother, then his father, crying without sound. They look only at him, loving, unable to come through.",
+          "scene": "He is pressed to the mirror, both palms flat, back mostly toward us. Inside, Lily is still on the viewer's left in the pale-green dress, and James is still on the viewer's right in the dark jacket. Their hands meet his and do not quite pass through. They have not swapped. His breath fogs the lower corner, and the fog has no writing.",
+          "expressions": "Harry looks at his mother on the viewer's left, then his father on the viewer's right, crying without sound. They look only at him.",
           "caption": "He turns back. They wave.",
           "dialogue": [
             {
@@ -4631,8 +4631,8 @@ window.BOOK = {
         {
           "n": 18,
           "page": 3,
-          "scene": "The moon has traveled in the window. Harry sits on the dusty floor, knees up, the silver cloak around the green sweater, still facing the glass. His parents are still there whenever he looks. No one has come to get him.",
-          "expressions": "Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily's eyes would worry, if he could see that. He sees only that she is there.",
+          "scene": "The moon has traveled in the window. Harry sits solid and visible, the cloak only around his shoulders, knees up, still facing the glass. Lily stays on the viewer's left in the pale-green dress. James stays on the viewer's right in the dark jacket. No one has come to get him.",
+          "expressions": "Harry looks at them, exhausted, happy, and lost. A smile that is not healthy. Lily, on the viewer's left, would worry. He sees only that she is there.",
           "caption": "He sits until the moon moves.",
           "dialogue": [],
           "art": "art/c13-p3-p6.jpg"
@@ -4640,7 +4640,7 @@ window.BOOK = {
         {
           "n": 19,
           "page": 4,
-          "scene": "Another night, the same room. Ron stands where Harry stood and laughs. In the glass he is holding a cup, taller, with a crowd that is only his. Harry stands beside the real Ron and cannot see any of it.",
+          "scene": "Another night, the same room. This glass is Ron's wish only. He stands where Harry stood and laughs. In the glass he is holding a cup, taller, with a crowd that is only his. Lily and James are not in this picture. Harry stands beside the real Ron and cannot see the cup.",
           "expressions": "Ron looks at his glorious self, a huge grin, wanting it. Harry looks at the glass, confused, then at Ron's real face. He is realizing the mirror is a wish.",
           "caption": "Another night. The mirror shows Ron a cup.",
           "dialogue": [
@@ -4658,7 +4658,7 @@ window.BOOK = {
         {
           "n": 20,
           "page": 4,
-          "scene": "The same frame, two truths. On one side Ron sees himself triumphant with a cup. On the other Harry sees his mother and father behind him. The boys look toward each other, and the joke thins.",
+          "scene": "The same frame, two truths that do not mix. Ron's half is only himself with a cup. Harry's half shows him center, back mostly toward us, Lily on the viewer's left in the pale-green dress and James on the viewer's right in the dark jacket. The boys look toward each other, and the joke thins.",
           "expressions": "Ron looks curious, a little guilty that his wish was a trophy. Harry looks at Ron, the privacy of his parents suddenly obvious. Neither mocks what the other wanted.",
           "caption": "The mirror is different for each of them.",
           "dialogue": [
@@ -4690,7 +4690,7 @@ window.BOOK = {
         {
           "n": 22,
           "page": 4,
-          "scene": "Moonlight, the three of them, and the mirror. Dumbledore indicates the glass with an open hand and does not touch it. In the glass, Harry's parents are still faintly there. Ron looks at the floor. The captain fantasy is not mocked.",
+          "scene": "Moonlight, the three of them, and the mirror. Dumbledore indicates the glass with an open hand and does not touch it. If the parents are still faintly there, Lily is on the viewer's left and James on the viewer's right, same clothes, fading. Ron looks at the floor. The captain fantasy is not mocked.",
           "expressions": "Dumbledore looks at Harry, tender and firm. Harry looks at him, taking it in, still wanting the glass. Ron understands his cup was a wish too.",
           "caption": "",
           "dialogue": [
@@ -4718,8 +4718,8 @@ window.BOOK = {
         {
           "n": 24,
           "page": 4,
-          "scene": "The doorway. Dumbledore remains by the mirror. Far in the glass, Lily and James wave one last time, small. Harry stands in the door with the green sweater and his father's cloak, looking back once. Ron waits in the corridor, which is the castle, which is living.",
-          "expressions": "Harry looks back, eyes wet, a goodbye, then toward Ron, choosing the friend who is actually here. Dumbledore looks proud and sad. Ron looks patient. The parents look at their son.",
+          "scene": "The doorway. Dumbledore remains by the mirror. Far in the glass, Lily waves from the viewer's left in the pale-green dress, and James from the viewer's right in the dark jacket, still not swapped. Harry stands in the door with the green sweater and his father's cloak, looking back once. Ron waits in the corridor.",
+          "expressions": "Harry looks back, eyes wet, a goodbye, then toward Ron, choosing the friend who is actually here. Dumbledore looks proud and sad. Ron looks patient. The parents, sides unchanged, look at their son.",
           "caption": "Harry looks back once.",
           "dialogue": [
             {
@@ -4953,7 +4953,7 @@ window.BOOK = {
         {
           "n": 14,
           "page": 3,
-          "scene": "A long moonlit corridor, armor and torches. A silver cloak covers the children and a wooden crate badly. A black-bronze dragon tail smokes out the back, and a gold eye shows at a gap. Ron is at the front, red hair and a bandaged hand, sweating. Harry’s glasses peek under the hem. Hermione’s hair escapes the other side.",
+          "scene": "A long moonlit corridor, armor and torches. A silver cloak covers the children and a wooden crate badly. Each child is 90% transparent, only about 10% opacity, faint but still clearly themselves. A black-bronze dragon tail smokes out the back, and a gold eye shows at a gap. Ron's red hair and bandage stay readable. Harry's glasses and scar stay readable. Hermione's hair stays readable.",
           "expressions": "Harry looks at the tail, grimacing. Hermione looks ahead. Ron looks stubborn through the pain. Norbert’s eye looks furious. They look like children moving a problem.",
           "caption": "A crate under the cloak. A tail sticks out.",
           "dialogue": [
@@ -4967,7 +4967,7 @@ window.BOOK = {
         {
           "n": 15,
           "page": 3,
-          "scene": "A moonlit corner near tower stairs, a statue. Draco steps out, arms folded, platinum hair, dark robes, looking at a smoking dragon tail in a crate. Harry is half covered by a slipping silver cloak. Hermione glares. Ron, pale, a bandaged hand, holds the crate.",
+          "scene": "A moonlit corner near tower stairs, a statue. Draco steps out, arms folded, platinum hair, dark robes, looking at a smoking dragon tail in a crate. Under the slipping silver cloak, Harry, Hermione, and Ron are faint but readable, 90% transparent, only about 10% opacity, not blank shapes. Hermione glares. Ron's bandaged hand holds the crate.",
           "expressions": "Draco looks victorious, the mockery upgraded to a real crime. Harry looks at him, cold, not begging. Hermione looks at Draco with contempt. Ron looks from the tail to Draco, still determined to finish.",
           "caption": "Draco steps from a corner.",
           "dialogue": [
@@ -6285,8 +6285,8 @@ window.BOOK = {
         {
           "n": 3,
           "page": 1,
-          "scene": "Professor Quirrell steps into the torchlight. The purple turban is perfectly wrapped. The stammer is gone. His shoulders are straight. Harry takes a step back toward the mirror.",
-          "expressions": "Quirrell looks at Harry, polite, almost friendly, a cold intelligence. Harry looks at the turban, the year's theory collapsing. Shock.",
+          "scene": "Professor Quirrell steps into the torchlight. Camera on his own face only. The purple turban is still perfectly wrapped. The stammer is gone. His shoulders are straight. No second face. Harry takes a step back toward the mirror.",
+          "expressions": "Quirrell's own face looks at Harry, polite and cold. Pale, smooth, the same man. Harry looks at the turban, the year's theory collapsing. Shock.",
           "caption": "Quirrell steps out. No stutter.",
           "dialogue": [
             {
@@ -6313,8 +6313,8 @@ window.BOOK = {
         {
           "n": 5,
           "page": 1,
-          "scene": "Harry's back is to the mirror. Quirrell does not hurry. One hand rests on his own turban, a hint. Harry's scar answers.",
-          "expressions": "Quirrell looks devout and calm, a servant near the end of a task. Harry looks at him, horror, mouth tight. He does not beg.",
+          "scene": "Harry's back is to the mirror. Quirrell still faces him. Camera on Quirrell's own face. One hand rests on the purple turban, which is still fully wrapped. He has not turned. Harry's scar answers.",
+          "expressions": "Quirrell's face looks devout and calm. No Voldemort features on the front. Harry looks at that face, horror, mouth tight. He does not beg.",
           "caption": "Harry backs up.",
           "dialogue": [
             {
@@ -6327,9 +6327,9 @@ window.BOOK = {
         {
           "n": 6,
           "page": 1,
-          "scene": "Quirrell turns. The turban is gone, unwound in his hands. On the back of his skull is a face: flat, pale, slit-nosed, red eyes. Voldemort, not a body, a passenger. The mirror is behind Harry.",
-          "expressions": "The face looks at Harry, hatred and a horrible fondness. Harry's hands come up. His scar goes white. He does not look away.",
-          "caption": "A face is on the back of his head.",
+          "scene": "Camera behind Harry, looking at Quirrell's back. Quirrell's own face is hidden on the far side of the skull. The purple turban is unwound in his hands, ordinary cloth. The back of the head is bald. Voldemort's face is embedded in that scalp, looking at Harry: flat white-gray, slit nostrils, red eyes, a lipless mouth, no hair, no body. Not two men. The mirror behind Harry does not show his parents.",
+          "expressions": "Voldemort's face looks at Harry, hatred and a horrible fondness. Harry's hands come up. His scar goes white. He does not look away. Quirrell's face is not in the picture.",
+          "caption": "On the back of the bald head, Voldemort's face.",
           "dialogue": [
             {
               "who": "Voldemort",
@@ -6341,8 +6341,8 @@ window.BOOK = {
         {
           "n": 7,
           "page": 2,
-          "scene": "The face speaks. A pale hand points at the mirror, where Harry stands small with a wand at last. Harry is the tool. The room feels smaller.",
-          "expressions": "The skull-face looks impatient and hungry. Harry's jaw is set. He looks at the wand in his own hand, then at the glass.",
+          "scene": "Side view of one head. Quirrell's profile looks away from Harry. On the opposite side of the same skull, Voldemort's face looks toward Harry. A pale hand points at the mirror. Harry stands small, with a wand at last. Not two men.",
+          "expressions": "Voldemort's face, on the scalp, looks impatient and hungry. Harry's jaw is set. He looks at the wand, then at the glass.",
           "caption": "",
           "dialogue": [
             {
@@ -6355,7 +6355,7 @@ window.BOOK = {
         {
           "n": 8,
           "page": 2,
-          "scene": "Quirrell stares into the mirror. In the glass, his reflection holds the red Stone and smiles a mad smile. He paws at the glass. His hands meet nothing.",
+          "scene": "Camera on Quirrell's own face as he stares into the mirror. Voldemort's face is on the far side of the skull, hidden, not in the glass. The reflection is Quirrell's face holding the red Stone. He paws at the glass. His hands meet nothing. No parents in this mirror.",
           "expressions": "Greed, then rage when he cannot reach. The reflection looks smug and useless. Desire without worth.",
           "caption": "In the glass he holds the Stone, and cannot take it.",
           "dialogue": [
@@ -6373,8 +6373,8 @@ window.BOOK = {
         {
           "n": 9,
           "page": 2,
-          "scene": "Quirrell grabs a fistful of Harry's shirt and plants him before the glass. Harry's dusty face fills the lower mirror. Quirrell looms behind, turban gone, both faces eager.",
-          "expressions": "Harry looks into the glass, afraid of what he wants. Quirrell looks at the back of Harry's head, hungry.",
+          "scene": "Side view. Quirrell stands behind Harry and plants him before the glass, a fistful of shirt. Quirrell's own face looks at the back of Harry's head. Voldemort's face is on the back of Quirrell's skull, looking away from the mirror, not peeking around the cheek. Harry's dusty face fills the lower glass. No parents.",
+          "expressions": "Harry looks into the glass, afraid of what he wants. Quirrell's face looks at the back of Harry's head, hungry. The face on the scalp looks the other way.",
           "caption": "He forces Harry in front of the mirror.",
           "dialogue": [
             {
@@ -6424,8 +6424,8 @@ window.BOOK = {
         {
           "n": 13,
           "page": 3,
-          "scene": "The skull-face snarls the truth. Quirrell's hand shoots toward the pocket. Harry twists away, wand up, glasses crooked. The chamber jumps from talk to fight.",
-          "expressions": "The face looks at Harry, hatred, certainty. Harry looks at the hand coming, fear and refusal. He will not give it over.",
+          "scene": "Side view of one head. Voldemort's face, on the back of the bald scalp, snarls. Quirrell's own face is the other side of that skull, and his hand shoots toward the pocket. Harry twists away, wand up, glasses crooked. Not two men.",
+          "expressions": "The face on the scalp looks toward Harry, hatred, certainty. Harry looks at the hand coming, fear and refusal. He will not give it over.",
           "caption": "",
           "dialogue": [
             {
@@ -6456,8 +6456,8 @@ window.BOOK = {
         {
           "n": 15,
           "page": 3,
-          "scene": "Quirrell reels back, holding his burned hand with the other. Blisters. A wisp of smoke. Harry stands a step away, wrist whole, wand unused.",
-          "expressions": "Quirrell looks at his palm, agony, betrayed by a child's skin. Harry looks back, the stun becoming a choice. The red eyes are incandescent.",
+          "scene": "Side view of one head. Quirrell reels back, holding his burned hand, his own pale face looking at the blistered palm. On the opposite side of the same skull, Voldemort's red eyes are on the scalp. Harry stands a step away, wrist whole. Not two men.",
+          "expressions": "Quirrell looks at his palm, agony. The face on the back of the head is hate. Harry looks back, the stun becoming a choice.",
           "caption": "He lets go. The skin is blistered.",
           "dialogue": [
             {
@@ -6484,8 +6484,8 @@ window.BOOK = {
         {
           "n": 17,
           "page": 3,
-          "scene": "Harry lunges. One hand on Quirrell's wrist. The other, awful and brave, against the skull-face. Smoke erupts from both contacts. It is a child holding on.",
-          "expressions": "Harry's teeth are set. He hates this and he will not stop. Quirrell screams. The face, for the first time, looks afraid.",
+          "scene": "Camera on the back of the bald head. Harry lunges. One hand on Quirrell's wrist. The other hand is on Voldemort's face, the flat white-gray face in the scalp, red eyes, no hair, no body. Quirrell's own face is on the far side and is not in frame. Smoke erupts from both contacts.",
+          "expressions": "Harry's teeth are set. He hates this and he will not stop. The face under his hand, for the first time, looks afraid.",
           "caption": "Harry holds on. Both of them burn.",
           "dialogue": [
             {
@@ -6521,8 +6521,8 @@ window.BOOK = {
         {
           "n": 20,
           "page": 4,
-          "scene": "Close on the face as the head fails. Fury, and under it fear. Red eyes. A mouth open on a thinner scream. Harry's palm does not let go.",
-          "expressions": "The face looks at Harry, hate and fear in equal measure. Harry's eye, at the edge, looks back, crying, refusing.",
+          "scene": "Close on the back of the bald head. The face is Voldemort's, flat white-gray, red eyes, slit nostrils, a lipless mouth, no hair, embedded in the scalp. Quirrell's face is not in this close-up. Harry's palm does not let go.",
+          "expressions": "That face looks at Harry, hate and fear in equal measure. Harry's eye, at the edge, looks back, crying, refusing.",
           "caption": "The face is furious and afraid.",
           "dialogue": [
             {
@@ -7290,8 +7290,8 @@ window.BOOK = {
         {
           "n": 23,
           "page": 4,
-          "scene": "Through the barrier, the ordinary station. Vernon waits, mustache, brown suit, arms folded. Petunia is thin beside him. Dudley is bored in a striped shirt. Harry walks toward them with a trunk and Hedwig's cage, no hurry.",
-          "expressions": "Vernon looks at Harry, a warning already. Harry looks back, unafraid, polite, chin up. He does not look at the floor. That is the change.",
+          "scene": "Through the barrier, the ordinary station. Vernon is the same man as the early chapters: large and beefy, very little neck, a big black mustache, small angry eyes, brown suit, arms folded. Not a new uncle. Petunia is thin, long-necked, blonde hair pinned. Dudley is blond, round, and heavier, bored in a striped shirt. Harry walks toward them with a trunk and Hedwig's cage, no hurry.",
+          "expressions": "Vernon looks at Harry, a warning already, the same small angry eyes. Harry looks back, unafraid, polite, chin up. He does not look at the floor. That is the change.",
           "caption": "Vernon waits. Harry does not hurry.",
           "dialogue": [
             {
@@ -7308,7 +7308,7 @@ window.BOOK = {
         {
           "n": 24,
           "page": 4,
-          "scene": "Harry at the edge of the Muggle station, one hand on the trunk, the owl's cage beside him. He looks back. Ron and Hermione are still waving. Vernon waits, stiff, by the car. Summer. A beginning disguised as an ending.",
+          "scene": "Harry at the edge of the Muggle station, one hand on the trunk, the owl's cage beside him. He looks back. Ron and Hermione are still waving. At the car, Vernon is the same large man, big black mustache, brown suit. Summer. A beginning disguised as an ending.",
           "expressions": "Harry looks back, a real smile, small and sure. Ron's wave is big and loyal. Hermione's wave says see you soon. Harry's face is still a child's face. He is coming back.",
           "caption": "He looks back, touches the scar, and goes.",
           "dialogue": [

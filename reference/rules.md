@@ -63,6 +63,18 @@ A still panel has to show who did the magic. The caption is not enough.
 
 **A mystery the story is still hiding.** At the Quidditch match, Snape’s stare and moving mouth read as the attack, and Quirrell is also mouthing but easy to miss. Do not add a bright line from Quirrell that solves the year early. The broom’s wildness is the effect. After the reveal, the rule above applies as usual.
 
+## Weird staging
+
+A strange magical picture has to name the camera, which way the body faces, and what sits on which side of the head. “Voldemort appears” is not a prompt. Do not draw two front-facing men, a face on a turban, or a second body.
+
+Paste the lock from the detail file instead of inventing one:
+
+- Quirrell’s turn and the face on the back of the bald head: [characters.md](characters.md)
+- The one zoo snake: [characters.md](characters.md)
+- Lily on the viewer’s left and James on the viewer’s right, same clothes: [characters.md](characters.md)
+- The cloak, 90% transparent and only about 10% opacity, so Harry stays faintly visible: [props.md](props.md)
+- Beats that are still missing, with a full prompt for a later insert: [address-and-famous-beats.md](address-and-famous-beats.md)
+
 ## Scene, face, and scale
 
 The first panel of a new place walks the reader in: from the street, the door, the tunnel, or the room they just left. Do not cut to a new room with no arrival.

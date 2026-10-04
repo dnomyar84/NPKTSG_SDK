@@ -32,7 +32,13 @@ One very old brown leather hat, patched, a wide slumped brim, a frayed point, a 
 
 ## Invisibility cloak
 
-Silvery gray cloth, fluid like water, folds small, shimmering. Worn, the body vanishes. Shoes, a tail, or a hem can stick out when the cloak is too small for the crate. The same cloth in the parcel, on Harry at Christmas, over the crate, and over Filch’s arm after Harry drops it. It is not a gray bedsheet.
+Silvery gray cloth, fluid like water, folds small. The edge is a sheer silver-gray shimmer. The same cloth in the parcel, on Harry at Christmas, over the crate, and over Filch’s arm after Harry drops it. It is not a gray bedsheet.
+
+Worn, it is not a blank empty space. Harry must remain readable at about 90% transparency, only about 10% opacity: a faint but clearly Harry figure. Face, messy black hair, the scar side, round glasses, and the clothes under the cloth stay distinguishable. Readers must see him. 90% transparent means 10% visible. Do not invert that into a solid boy, and do not invert it into a deleted boy.
+
+“Only his shoes” or “a vanished hand” may stay as the story beat. Those bits can stick out or be the gag someone names. The rest of him is still that faint 10%-opacity figure, not an empty gap and not a pair of shoes with nobody above them.
+
+The same faint figure applies when Hermione or Ron is under the cloth with the crate. A tail, a shoe, or a bandage may stick out because the cloak is too small. The people under it are still faint and readable.
 
 ## Golden Snitch
 
@@ -62,7 +68,7 @@ One egg. Larger than a pumpkin, black, leathery, scaled, sitting in the coals of
 
 ## Mirror of Erised
 
-One mirror. As tall as a classroom ceiling, an ornate gold carved frame, two clawed feet, the inscription along the top in mirror writing: Erised stra ehru oyt ube cafru oyt on wohsi. It shows desire, not the room behind the viewer. The same mirror under the dusty sheet at Christmas and uncovered in the last chamber. Do not give it a new frame underground. Harry’s parents in the glass are the James and Lily in [characters.md](characters.md).
+One mirror. As tall as a classroom ceiling, an ornate gold carved frame, two clawed feet, the inscription along the top in mirror writing: Erised stra ehru oyt ube cafru oyt on wohsi. It shows desire, not the room behind the viewer. The same mirror under the dusty sheet at Christmas and uncovered in the last chamber. Do not give it a new frame underground. When Harry’s parents are in the glass, they are the James and Lily in [characters.md](characters.md): Lily on the viewer’s left, James on the viewer’s right, same clothes, and they do not swap. Ron’s cup is a different picture and does not include them. The underground mirror does not show them.
 
 ## Flute
 

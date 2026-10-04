@@ -85,7 +85,7 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 ### Chapter 2 — Harry’s life with the Dursleys
 
 - **Present.** The cupboard, the pile of birthday presents, toast against a feast, the warning not to ask questions, and the family photo with no Harry in it. Humiliation, not a joke.
-- **Present.** Dudley bangs on the snake's glass. The snake ignores him and answers Harry. The glass is gone. Dudley falls into the enclosure. He comes out wet and filthy, and Vernon hauls Harry away as if the boy did it on purpose.
+- **Present.** Dudley bangs on the snake's glass. The snake ignores him and answers Harry. The glass is gone. Dudley falls into the enclosure. He comes out wet and filthy, and Vernon hauls Harry away as if the boy did it on purpose. It is one snake in every zoo panel, the lock in [characters.md](characters.md): a large green-brown boa with darker saddles, thick enough to fill the enclosure floor, longer than a child is tall, the same head, the same pale gold eye. Coiled or moving is the only change. When Dudley falls in, it is that snake, not a bigger or smaller one.
 - **Present.** An owl drops a letter onto the eggs. Letters multiply. Vernon nails the mail slot. Letters pour down the chimney and Dudley screams. Vernon boards the fireplace.
 - **Present.** The car in the storm, the hut on the rock, Vernon with the rifle as the door booms. The rifle is ruined in the next chapter.
 
@@ -104,12 +104,12 @@ Most of this night is grief, not comedy. Keep it solemn. The few human beats tha
 - **Present.** The cart plunges through the caves. His own small heap of coins. Hagrid lifts a grubby package from a deeper vault and will not say what it is.
 - **Present.** A measuring tape moves by itself. The snowy owl. He does not recognise himself in the shop window.
 - **Present.** Ollivander is suddenly too close and remembers the wand that made the scar.
-- **Present.** Wands misbehave before the right one. A vase shatters, smoke curls, boxes avalanche. Then one wand fills the shop with warm light, and it shares a phoenix feather with the wand that hurt him.
+- **Present.** Wands misbehave before the right one. A vase shatters, smoke curls, boxes avalanche. Then one wand fills the shop with warm light, and it shares a phoenix feather with the wand that hurt him. The choosing line is already spoken in C4-P4-P5, in the panel after the light of C4-P4-P4. It is not a missing speech. The picture was loose: his eyes were not locked, and the light was not named as the wand’s effect. The precise version, now written into those two panels: after the failed wands, the right wand reacts. The successful wand’s light is the effect, a warm gold-white glow from that wand, not from his eyes. Ollivander is the same man every time: pale silvery eyes, wispy silver hair, a dark old-fashioned suit, not wizard robes. His eyes are on Harry or on the wand. He says the wand chooses the wizard. Do not add a second shopkeeper and do not move the line onto a new panel.
 - **Present.** Draco sneers at Hagrid and offers Harry "better" company. Harry steps back.
 
 ### Chapter 5 — The train to Hogwarts
 
-- **Present.** The barrier between platforms 9 and 10. A guard laughs. Molly's children run at the wall and vanish. Harry shuts his eyes and follows.
+- **Present, and it was only a vague laugh.** C5-P1-P3 already shows a station guard laughing and waving Harry off, with the line that there is no platform nine and three-quarters. C5-P1-P2 had Harry ask the question with no officer in the frame. That pair is this beat, not a different joke, and it is already before the Weasleys in C5-P1-P4. It was not precise enough to draw. The version to keep, now written into those two panels: Harry asks a platform officer where platform 9¾ is. The officer is amused and dismissive. He laughs, points Harry away, and does not walk him to a train. Harry is left looking at the solid brick barrier between platforms 9 and 10. The officer’s mustache is thinner than Vernon’s. He is not Vernon. No new panel. Do not put the Weasleys in the ask or the brush-off.
 - **Present.** Ron arrives with dirt on his nose. Hermione tells him so while she is already correcting him. The storyboard does not show him wiping the wrong cheek. The smudge itself is enough to keep.
 - **Present.** Dry corned-beef sandwiches. Harry offers sweets, including a Bertie Bott's bean "if you're feeling brave." Scabbers sleeps on a wrapper.
 - **Missing.** The disgusting flavour actually landing. Nobody eats the bean. The famous gag is a flavour that should not be food: a bogey, or something equally foul. The hospital earwax joke is a separate beat, in chapter 19. Keep both. Do not spend the train bean and then skip the later one.
@@ -125,7 +125,18 @@ The pronunciation correction is already on this train, before anyone has failed 
 - **Present.** A ghost drifts up through the table. Neville yelps. The ghost's head is a bit wobbly, which only hints at the joke.
 - **Missing.** Nearly Headless Nick actually showing the neck, the head hanging by a strip. That is the gross laugh. A wobbly head is not that picture.
 - **Present.** The Hat twitches and sings. Hermione is Sorted almost at once. Draco asks for Slytherin and gets it. Neville trips, the hall laughs, then the Hat shouts Gryffindor. Ron is afraid of being last, or of Slytherin. The Hat hesitates over Harry, offers greatness in Slytherin, and he refuses.
-- **Missing.** Dumbledore's nonsense words before the feast, the four silly words that make the hall think he has lost the plot, and then the real warning. The storyboard goes straight to the third-floor corridor and the painful death. Keep that warning. The silly words are the funny beat in front of it, and they are not here.
+- **Missing. Required insert. Do not renumber.** Before any name is called, Dumbledore welcomes the first years and briefly indicates the four houses they will be sorted into. This speech is not drawn. McGonagall’s line in C6-P2-P3 names the four houses and the Hat. That is her speech, not this one. Dumbledore’s speech in C6-P4-P5 is later, after Harry has been Sorted, and it is the third-floor warning to the school. “Potter, Harry” in C6-P3-P6 is a name from a list, not this welcome. Staff stay formal. He does not say “Harry.”
+
+  Put the insert after the first years can see the hall (after C6-P2-P1) and before the first name (before C6-P2-P6). A full prompt, for a later picture, not a new code:
+
+  - **Beat:** Dumbledore welcomes the first years and indicates the four houses.
+  - **Image:** He stands at the staff table, tall, both hands open toward the hall, indicating four long tables. He is speaking to the children as a group. No one is walking to the stool yet. The Hat can already be on its stool, quiet.
+  - **Setting:** The Great Hall at night, candles, the enchanted ceiling. Four tables and four banners, all visible: Gryffindor red and gold, Hufflepuff yellow and black, Ravenclaw blue and bronze, Slytherin green and silver. The staff table is at the far end. September, not the leaving feast.
+  - **Who:** Dumbledore, very tall and thin, long silver hair and beard, half-moon spectacles, deep purple robes with silver stars, pointed hat. First years in a knot facing him, including Harry, Ron, Hermione, Neville, and Draco, muddy hems, listening as a group. McGonagall nearby with the scroll, formal, not the speaker. Snape in black at the staff table. Quirrell in the purple turban, face only, no second face. The four house tables are full of older students in those four colors.
+  - **Faces:** Dumbledore looks along the first years, kind and public, not chatting to one boy. Harry looks at the four colors, not knowing which is his. Ron looks at the red table, hopeful. Hermione looks at Dumbledore, attentive. Draco looks at the green table. McGonagall looks at her scroll, waiting. No one has been named yet.
+  - **Dialogue shape, paraphrase only:** a welcome to the first years, then the four house names in one breath, Gryffindor, Hufflepuff, Ravenclaw, Slytherin, as the tables he is indicating. Not “Harry Potter.” Not the painful-death warning. That warning stays in C6-P4-P5.
+
+- **Missing.** Dumbledore's nonsense words before the feast, the four silly words that make the hall think he has lost the plot, and then the real warning. The storyboard goes straight to the third-floor corridor and the painful death. Keep that warning. The silly words are the funny beat in front of it, and they are not here. The house welcome above is a different missing beat. Do not spend one insert on both.
 
 ### Chapter 7 — First classes, and Snape’s hostility
 
@@ -192,10 +203,10 @@ Nothing disgusting is missing here. Do not invent a gag to fill the chapter.
 ### Chapter 13 — Christmas and the Mirror of Erised
 
 - **Present.** Ron stays so Harry will not be alone. A homemade jumper with his initial on it. Fred and George set off crackers. Smoke, and a terrible smell.
-- **Present.** The unnamed parcel. The cloak. His hand is gone. At night only his shoes show. Filch sniffs and walks past.
-- **Present.** The mirror. His parents wave. The room behind him is empty. Ron sees a captain's badge and a cup, and cannot see the Potters. Dumbledore says the mirror shows the deepest desire of the heart, not the truth, and that people have wasted away in front of it.
+- **Present.** The unnamed parcel. The cloak. His hand is gone. At night the shoes show under the hem. Filch sniffs and walks past. Those gags stay. The picture must not delete him. The cloak lock in [props.md](props.md) is the one to paste: 90% transparent, only about 10% opacity, a faint but clearly Harry figure, face, hair, scar side, glasses, and the green jumper still readable, with a sheer silver-gray edge. “Only his shoes” and “a vanished hand” are the beats. They are not an empty corridor.
+- **Present.** The mirror. His parents wave. The room behind him is empty. Ron sees a captain's badge and a cup, and cannot see the Potters. Dumbledore says the mirror shows the deepest desire of the heart, not the truth, and that people have wasted away in front of it. The parents were free to swap sides and change clothes. The lock is now in every panel that shows them, and in [characters.md](characters.md). Harry stands center, back mostly toward us, looking into the glass. Lily is on the viewer’s left of his reflection: long straight dark-red hair, green eyes, the same soft pale-green dress. James is on the viewer’s right: late twenties, messy black hair, round glasses, no beard, the same simple dark jacket over a light shirt. Hands near his shoulders. They do not trade sides. Ron’s fantasy panel does not contain them.
 
-The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Filch sniffing are the comic beats. All three are present.
+The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Filch sniffing are the comic beats. All three are present. The hand and the shoes stay readable as gags because the rest of Harry is still a faint figure.
 
 ### Chapter 14 — The dragon
 
@@ -231,7 +242,15 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 
 - **Present.** Harry calls for Snape. A polite voice says Snape is not here. Quirrell steps out with the turban neat and the stammer gone.
 - **Present.** The muttering at the match was a counter-curse. Snape was trying to keep Harry on the broom. Quirrell was trying to throw him off.
-- **Present.** Quirrell turns. The turban comes off. A flat, snake-like face is on the back of his head. Keep it. It is the disturbing picture of the year.
+- **Present, but it was one collapsed picture.** C18-P1-P6 already turns him and takes the turban off in the same panel, and the old wording let the face look past his shoulder. That reads as two men, or as a face on the turban. The precise order is in [characters.md](characters.md). C18-P1-P3 through C18-P1-P5 stay on Quirrell’s own face, turban still on, no Voldemort features on the front. C18-P1-P6 is the finished reveal: his back is toward Harry, the purple cloth is in his hands, the back of the head is bald, and Voldemort’s face is embedded in that scalp, facing Harry. Flat white-gray, slit nostrils, red eyes, lipless mouth, no hair, no body.
+- **Missing. Required insert. Do not renumber.** The middle step has no panel of its own: he has turned, his back is toward Harry, and the purple turban is still wrapped on that back. Harry sees cloth, not a face yet. Quirrell’s own face is hidden on the far side of the skull. Put this insert between C18-P1-P5 and C18-P1-P6. A full prompt, for a later picture, not a new code:
+
+  - **Beat:** Quirrell turns his back. The turban is still on.
+  - **Image:** Camera behind Harry, looking at Quirrell’s back. Harry is small in the foreground, facing that back. Quirrell has turned away. The large purple turban is still wrapped. His hands have gone up to the cloth and have not pulled it free. No face is visible on the turban. No second man.
+  - **Setting:** The last underground chamber. Torches. The Mirror of Erised behind Harry. Stone. No Snape.
+  - **Who:** Quirrell, same purple robes, brown belt, shoulders straight, back to Harry, the purple turban still on the back of his head. His own face is on the far side of the skull and is not in frame. Harry, dusty school robes, glasses, scar, looking at the back of the turban. The mirror behind Harry does not show Lily and James.
+  - **Faces:** We do not see Quirrell’s face. We do not see Voldemort’s face yet. Harry looks at the turban, afraid, waiting. The cloth is ordinary purple cloth.
+  - **Dialogue:** No new line. The confession has already been said to Harry’s face in C18-P1-P5. The face speaks only after the cloth is off, in C18-P1-P6.
 - **Present.** The mirror will not give the Stone to someone who wants to use it. Harry's reflection pockets it. The real weight drops into his robe. He lies, badly, and says he only sees himself winning the House Cup.
 - **Present.** Quirrell grabs bare skin. The hands smoke. Harry grabs the face and the arm on purpose. Both contacts burn. Quirrell comes apart under his hands. A dark smoke tears loose and flees. Harry hits the floor with the Stone still in the pocket.
 - **Present.** He hears his own name in Dumbledore's voice, far off. That first name belongs to the crisis, the same private register as the bedside, not to a public address.
@@ -251,6 +270,6 @@ The mirror is wonder and grief, not a joke. The smell, the vanished hand, and Fi
 - **Present.** Points to Hermione for the logic, to Ron for the chess, to Harry for nerve. The hourglasses land even. The hall holds one breath.
 - **Present.** The last points go to Neville, for standing up to his friends. He drops his goblet. There is cream on his chin. The red jewels pass the green. He is lifted. Hermione is crying and laughing. Hagrid blows his nose into a handkerchief the size of a tablecloth.
 - **Present.** Draco is the only still thing at his table, goblet still raised from a toast that curdled.
-- **Present.** The train home. The same compartment. Ron's sandwich is thick, not dry. Scabbers. They promise to write. Molly hugs Harry as if he is one of hers. Vernon waits, stiff. Harry looks back, and he is coming back.
+- **Present.** The train home. The same compartment. Ron's sandwich is thick, not dry. Scabbers. They promise to write. Molly hugs Harry as if he is one of hers. Vernon waits, stiff. Harry looks back, and he is coming back. Vernon at that barrier has been drifting away from the man in chapters 2 and 3. C20-P4-P5 and C20-P4-P6 must use the lock: large and beefy, very little neck, a big black mustache, small angry eyes, the same brown business suit. Purple in the face if he is angry, not a purple suit. Petunia stays thin, long-necked, blonde hair pinned, belted coat. Dudley stays blond, round, and heavier. Do not invent a new uncle for the last page.
 
 The last-minute points are the famous ending. They are already drawn. Do not shorten them into a single caption about "Gryffindor wins."
