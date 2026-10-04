@@ -130,3 +130,13 @@ A costume change, a bandage, glasses going on, or a hat coming off happens in an
 ## Address
 
 Speech follows [address-and-famous-beats.md](address-and-famous-beats.md). In public, a student says Professor and the surname. Snape says Mr Potter, not Harry. Do not invent lines to demonstrate the rule.
+
+## Balloons and picture briefs
+
+A balloon may stay restricted, in the way the story keeps Harry in the dark. It can withhold a name, keep a metaphor, or leave the reader to work out what just happened. Do not turn that balloon into a lecture in the character's mouth. Do not use a heard line, or a line from the young-reader guide, as the instruction for the picture.
+
+The picture brief is the other kind of telling. It is plain and complete for the artist: where the panel is, what each body is doing, what the person feels, what the face and hands show, and what a spell, creature, or object is physically doing. The image model gets `picture` on the panel. It does not get the balloon.
+
+A caption may say the plain point for the reader. Easier wording and a spell-it-out note belong in the picture brief or the caption. They are not a new line to force into the mouth.
+
+When the page must stay mysterious, the picture shows only what the people in the panel can see and feel. The Quidditch broom fights Harry and he does not know why. No bright line names who cast it. Voldemort's face stays hidden until the turban is off the back of the head.

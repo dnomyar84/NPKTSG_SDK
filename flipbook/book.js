@@ -126,8 +126,9 @@
   }
 
   function panelHtml(panel) {
+    const brief = panel.picture || panel.scene;
     const picture = panel.art
-      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(panel.scene)}" onerror="var d=document.createElement('div');d.className='missing';d.textContent='Art not drawn yet';this.replaceWith(d)">`
+      ? `<img src="${panel.art}" alt="Panel ${panel.n}. ${escapeHtml(brief)}" onerror="var d=document.createElement('div');d.className='missing';d.textContent='Art not drawn yet';this.replaceWith(d)">`
       : `<div class="missing">Art not drawn yet</div>`;
     const caption = panel.caption
       ? `<p class="caption">${escapeHtml(panel.caption)}</p>`
@@ -193,9 +194,8 @@
   function noteCard(page) {
     const body = panelsFor(page).map((panel) => `
       <article>
-        <p><span class="k">Panel ${panel.n}.</span> ${escapeHtml(panel.scene)}</p>
-        <p><span class="k">Expressions.</span> ${escapeHtml(panel.expressions)}</p>
-        <p><span class="k">Dialogue.</span> ${panel.dialogue.length ? panel.dialogue.map((d) => `${escapeHtml(d.who)}: “${escapeHtml(d.line)}”`).join(" ") : "None."}</p>
+        <p><span class="k">Picture brief.</span> ${escapeHtml(panel.picture || panel.scene)}</p>
+        <p><span class="k">Balloon.</span> ${panel.dialogue.length ? panel.dialogue.map((d) => `${escapeHtml(d.who)}: “${escapeHtml(d.line)}”`).join(" ") : "None."} Spoken line only. Not the drawing.</p>
       </article>`).join("");
     const info = catalog[page];
     return `<section class="note-card"><h3>Chapter ${info.chapter.n} · Page ${info.local} · ${escapeHtml(info.title)}</h3>${body}</section>`;

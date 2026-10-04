@@ -8,9 +8,9 @@ How the comic should treat each line for a young reader:
 
 - **Keep.** The words are already clear.
 - **Easier wording.** The meaning stays the same, but the words are muddy, too fast, or too grown-up. A plainer line is suggested.
-- **Spell it out.** The heard line hides the point: a name, a threat, a joke, or what a spell just did. The balloon should say that point in plain words.
+- **Spell it out.** The heard line hides the point: a name, a threat, a joke, or what a spell just did. That plain sentence is for the picture brief or the caption: what is happening, what the person feels, and what the face and body show. The balloon may keep the restricted line.
 
-A suggested line is a short paraphrase for the balloon. It does not add a new story beat they did not hear, and it is not copied from the book. Confidence is High only when the speaker is sure. If Who is blank, confidence is Low, and any weak guess is in Notes.
+A suggested line is a short paraphrase for the picture brief or the caption. It is not a new line to force into the character's mouth, it does not add a story beat they did not hear, and it is not copied from the book. A heard line is not an image prompt. Confidence is High only when the speaker is sure. If Who is blank, confidence is Low, and any weak guess is in Notes.
 
 
 ## Scene 1. Privet Drive, night
