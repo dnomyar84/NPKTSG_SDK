@@ -14,6 +14,23 @@ Drawn sheets, when they exist, are in `flipbook/art/characters/`. A written lock
 
 Keep the soft painted storybook look already used in the flipbook. Not a film photograph, and not a new cartoon style.
 
+## Panel image size
+
+Phones are the sharpness target. A Galaxy S24 Ultra is 1440 device pixels wide, and a large iPhone is about 1320. When one A5 page fits that screen, generate the picture at the width of its cell. Use even numbers. That size already includes a little margin so a 2× layout stays sharp. Do not double it again.
+
+The longest side of any panel stays at or under 1440. Never ask an image model for a 2K or 4K panel.
+
+The page is three rows with a small gap, from `flipbook/styles.css`. Dialogue is a band under the picture, so the file is the picture only. The largest panels have no dialogue and use the full cell. Generate at:
+
+- Full row, no dialogue: 1440 × 660
+- 2/3 of a row: 960 × 660
+- 1/2 of a row: 720 × 660
+- 1/3 of a row: 480 × 660
+
+A taller row (`grow-tall`) may be about 780 pixels high, and not above 1024. Full-row width stays 1440.
+
+The files already in `flipbook/art` exceed these sizes. Most panels are 1152×864, and the wide shots are 1280×720. Do not copy those pixel sizes for the next picture.
+
 ## One costume per scene
 
 A person wears one costume for the whole scene. The default is whatever they wore in the previous scene. Change it only when a caption or an action still shows a reason: a time jump, a weather change, nightclothes, Quidditch, a feast, or a trip outside.
