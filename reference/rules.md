@@ -75,6 +75,18 @@ Paste the lock from the detail file instead of inventing one:
 - The cloak, 90% transparent and only about 10% opacity, so Harry stays faintly visible: [props.md](props.md)
 - Beats that are still missing, with a full prompt for a later insert: [address-and-famous-beats.md](address-and-famous-beats.md)
 
+## Moving stairs
+
+A moving Hogwarts staircase is one entire flight of stairs moving as a single solid object. Every step stays fixed relative to the other steps. Both railings are part of that same object and turn with it. The steps do not walk, shuffle, slide apart, blur, morph, or detach. It is not a staircase that changes shape.
+
+The flight always pivots at the bottom. The lower end stays on its landing, or nearly so, and acts as the hinge. The upper end swings away from the landing it used to meet and toward a different landing, arch, or empty gap. It is a rigid rotation around the bottom, like a door hinged at the floor.
+
+Whenever a panel shows the stairs actually turning, use this camera and state it in that panel: a three-quarter view from a landing, low enough that the bottom hinge and the top end are both visible mid-swing, with a gap opening between the moving upper end and the landing it is leaving. Do not use a flat head-on view that hides the pivot. Do not crop out the bottom hinge.
+
+Students on the landings stop and stare at the turning flight. If someone is on the moving flight, they are almost losing balance: feet planted on the steps, body jerked sideways, a hand grabbing the railing that is turning with them, maybe a book sliding. They are not calmly walking. If the panel is only people watching from a landing, nobody is on the flight and their faces are turned toward it.
+
+A staircase that is currently still may be walked on normally. The moment it turns, the rule above applies. Do not draw the whole castle’s stairs moving in one panel unless the storyboard already does. One flight is enough to read.
+
 ## Scene, face, and scale
 
 The first panel of a new place walks the reader in: from the street, the door, the tunnel, or the room they just left. Do not cut to a new room with no arrival.

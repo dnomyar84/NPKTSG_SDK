@@ -2200,9 +2200,9 @@ window.BOOK = {
         {
           "n": 1,
           "page": 1,
-          "scene": "A tall Hogwarts stairwell in the morning. Harry and Ron step, and the staircase swings away from the landing they wanted. Their robes fly. A suit of armor watches with a spear. Other students ride different flights calmly.",
-          "expressions": "Harry looks at the departing landing, alarmed. Ron looks at Harry, a wild grin that is also panic. The armor looks unimpressed.",
-          "caption": "A staircase moves. They miss their landing.",
+          "scene": "A tall Hogwarts stairwell in the morning. Three-quarter view from a landing, low enough to see the bottom hinge and the top end mid-swing. One entire flight turns as a single solid object, pivoting at the bottom like a door hinged at the floor. Every step stays fixed to the other steps. Both railings turn with the flight. The upper end has swung away from the landing Harry and Ron wanted, and a gap is opening. Harry and Ron are on that flight, almost losing balance: feet planted, bodies jerked sideways, hands grabbing the railing that turns with them, a book sliding, robes flying. Students on the landings have stopped and stare. A suit of armor watches with a spear. Other flights are still.",
+          "expressions": "Harry looks at the departing landing, alarmed, almost falling. Ron looks at Harry, a wild grin that is also panic, off balance. Students on the landings stare at the turning flight. The armor looks unimpressed.",
+          "caption": "One flight pivots at the bottom. They miss their landing.",
           "dialogue": [
             {
               "who": "Ron",
@@ -4981,9 +4981,9 @@ window.BOOK = {
         {
           "n": 16,
           "page": 3,
-          "scene": "The moving stairwell at night, tall windows, several staircases in motion. Draco is carried away on a swinging stair, robes flaring, one hand still reaching. On the landing, Harry, Hermione, and Ron stumble with the smoking crate. The silver cloak lies on the floor.",
-          "expressions": "Draco looks back, victory cracking into rage. Harry looks at the gap, a breath of thanks, not a smile. Hermione looks up the next stairs. Ron looks dizzy and still moving.",
-          "caption": "They lose him on a moving staircase.",
+          "scene": "A Hogwarts stairwell at night, moonlight through tall windows. Three-quarter view from a landing, low enough to see the bottom hinge and the top end mid-swing. One entire flight turns as a single solid object, pivoting at the bottom like a door hinged at the floor. Every step stays fixed. Both railings turn with it. A gap opens between the moving upper end and the landing it is leaving. Draco is on that flight, almost losing balance: feet planted, body jerked sideways, one hand grabbing the railing that turns with him, the other still reaching, robes flaring. On the landing, Harry, Hermione, and Ron have stopped with the smoking crate and stare at the flight. Nobody else is on it. The silver cloak lies on the floor. Other flights are still.",
+          "expressions": "Draco looks back, victory cracking into rage, almost falling. Harry looks at the gap, a breath of thanks, not a smile. Hermione and Ron stare at the turning flight. Ron looks dizzy, still on the landing.",
+          "caption": "One flight pivots and carries Draco away.",
           "dialogue": [
             {
               "who": "Draco",
