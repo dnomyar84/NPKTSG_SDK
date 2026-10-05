@@ -16,19 +16,57 @@ Keep the soft painted storybook look already used in the flipbook. Not a film ph
 
 ## Panel image size
 
-Inkjet A4 landscape holds two A5 pages. A5 is 148.5 mm × 210 mm. The full page at 300 DPI is 1754 × 2480. Generate each panel at 300 DPI of its printed cell, and no larger. 300 DPI is the inkjet photo standard. A Galaxy S24 Ultra is 1440 px wide and a large iPhone about 1320. These files are wider than both, so they stay sharp on those phones.
+Inkjet A4 landscape holds two A5 pages. A5 is 148.5 mm × 210 mm. The page margin is 5 px, the gap is 2 px, and the 1 px panel border is part of the cell. Sizes are even pixels. Dialogue is a band under the image, so these heights are the picture when there is no text. The largest panels have no dialogue.
 
-A full row is a wide short rectangle, 1722 × 792, about 1.4 megapixels. The longest side is 1722 px. A square 2048 canvas or a 4K canvas is the size that wastes the generation. Dialogue is a band under the image, so these heights are the picture when there is no text. The largest panels have no dialogue. The page margin is 5 px, the gap is 2 px, and the 1 px panel border is part of the cell. Sizes are even pixels.
+### First generation (phone screen)
 
-A scenery row is the tall row (`flex: 1.28`). An even row stays at `flex: 1`. On a page with one tall row:
+Generate the first pass at phone-screen resolution. A page fits the screen width on a large phone; a reader may also pinch one panel up to full width. The longest side of the largest panel is **1440 px** (covers a Galaxy S24 Ultra at 1440 px and an iPhone 16 Pro Max at about 1320 px when a panel is full-screen). Do not use 1722, 2K, or 4K for this pass. Scale from the print boxes below by 1440÷1722 and round to even pixels. Keep the same aspect ratios. After the pictures are approved, regenerate at the print sizes in the next section.
+
+On a standard even row (`flex: 1`):
+
+- Full row: 1440 × 662
+- Two-thirds row: 958 × 662
+- Half row: 718 × 662
+- One-third row: 478 × 662
+
+A scenery row is the tall row (`flex: 1.28`). On a page with one tall row:
+
+- Two-thirds row: 958 × 774
+- One-third row: 478 × 774
+- Half row: 718 × 606
+
+On a page with two tall rows, those pictures are shorter:
+
+- Two-thirds row: 958 × 714
+- One-third row: 478 × 714
+- Half row: 718 × 558
+
+Use the height of the row the panel sits in.
+
+### Print regeneration (300 DPI, later)
+
+After the phone pass is approved, regenerate each panel at 300 DPI of its printed cell, and no larger. 300 DPI is the inkjet photo standard.
+
+On a standard even row:
+
+- Full row: 1722 × 792
+- Two-thirds row: 1144 × 792
+- Half row: 858 × 792
+- One-third row: 572 × 792
+
+On a page with one tall row:
 
 - Two-thirds row: 1144 × 926
 - One-third row: 572 × 926
 - Half row: 858 × 724
 
-On a page with two tall rows, those pictures are shorter. The two-thirds row is 1144 × 854, the one-third row is 572 × 854, and the half row is 858 × 668. Use the height of the row the panel sits in.
+On a page with two tall rows:
 
-Art already in `flipbook/art/` may be larger than this. Do not copy an old file’s pixel size for the next picture.
+- Two-thirds row: 1144 × 854
+- One-third row: 572 × 854
+- Half row: 858 × 668
+
+Art already in `flipbook/art/` may be larger than either pass. Do not copy an old file’s pixel size for the next picture.
 
 ## One costume per scene
 
