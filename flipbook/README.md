@@ -29,7 +29,7 @@ Chapters in the book:
 - [Flip book](index.html) — click the right page to turn forward and the left page to turn back. Each row is two panels: half and half, or a 2:1 or 1:2 split. The long frame is kept for wide views of the street, the sky, and the house.
 - Storyboard: [Chapter 1 in the panel layout](../reference/harry-potter-philosophers-stone-panels.md).
 - Panel script: [every chapter, every panel](../reference/panel-script.md).
-- Drawing rules: [rules.md](../reference/rules.md), with wardrobe, character, and prop locks beside it. Draw a new panel at the printed size in that file. An old jpg may be larger, so do not copy its pixel size.
+- Drawing rules: [rules.md](../reference/rules.md), with wardrobe, character, and prop locks beside it. Generate the first pass at the phone-screen sizes in that file (longest side 1440 px); regenerate at the 300 DPI print sizes after approval. An old jpg may be larger, so do not copy its pixel size.
 
 Character reference sheets live in `art/characters/` so the same people keep the same faces and clothes from panel to panel. The written locks in `reference/` win when a sheet is vague.
 
